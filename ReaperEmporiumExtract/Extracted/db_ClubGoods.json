@@ -1,0 +1,3968 @@
+[
+  {
+    "key": "db_ClubGoods_11.txt.0.17",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.1.17",
+    "original": "市民の間で愛食されている主食。お腹がよく膨らむ上に安い、庶民の味方。味は悪いが、生きる為の重要なエネルギー。",
+    "translation": "市民の間で愛食されている主食。お腹がよく膨らむ上に安い、庶民の味方。味は悪いが、生きる為の重要なエネルギー。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.1.18",
+    "original": "間に合わせの大パン",
+    "translation": "間に合わせの大パン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.2.17",
+    "original": "麦の粉をミルクでまとめて焼き上げた、ぱさぱさした食感のスコーン。口に残るので、紅茶などと一緒に食される。",
+    "translation": "麦の粉をミルクでまとめて焼き上げた、ぱさぱさした食感のスコーン。口に残るので、紅茶などと一緒に食される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.2.18",
+    "original": "ぱさぱさスコーン",
+    "translation": "ぱさぱさスコーン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.3.17",
+    "original": "そのまま食べては味気ないパンに、甘さを加えて焼き上げた。味が大幅に改善した上に、エネルギー効率も高く、その上安い。",
+    "translation": "そのまま食べては味気ないパンに、甘さを加えて焼き上げた。味が大幅に改善した上に、エネルギー効率も高く、その上安い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.3.18",
+    "original": "甘味入り菓子パン",
+    "translation": "甘味入り菓子パン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.4.17",
+    "original": "小麦粉を細く伸ばして捏ねた物に、熱したチーズを加えた料理。ハーブや果実ソースで味を調えた高級料理だが、常食するにはやや高い上、冷えると固まってしまう。",
+    "translation": "小麦粉を細く伸ばして捏ねた物に、熱したチーズを加えた料理。ハーブや果実ソースで味を調えた高級料理だが、常食するにはやや高い上、冷えると固まってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.4.18",
+    "original": "パスタ盛りチーズ和え",
+    "translation": "パスタ盛りチーズ和え",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.5.17",
+    "original": "薄く伸ばしたパンに、香草を乗せて焼き上げた物。生地の厚さと乗せたハーブで、好みの味に仕上げて楽しめる。",
+    "translation": "薄く伸ばしたパンに、香草を乗せて焼き上げた物。生地の厚さと乗せたハーブで、好みの味に仕上げて楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.5.18",
+    "original": "薄切りハーブ乗せトースト",
+    "translation": "薄切りハーブ乗せトースト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.6.17",
+    "original": "ミルクを生地に練り込み、ふっくらと焼き上げたパン。自然の優しい味わいは、冒険者の心も癒す。胃袋に長く居座る腹持ちの良さも人気。",
+    "translation": "ミルクを生地に練り込み、ふっくらと焼き上げたパン。自然の優しい味わいは、冒険者の心も癒す。胃袋に長く居座る腹持ちの良さも人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.6.18",
+    "original": "練り込みミルクパン",
+    "translation": "練り込みミルクパン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.7.17",
+    "original": "薄く切ったパンにチーズを挟み、野菜やソースで味を調えた物。パスタに比べて調理が簡単なため、朝の忙しい時間でも食べやすい。",
+    "translation": "薄く切ったパンにチーズを挟み、野菜やソースで味を調えた物。パスタに比べて調理が簡単なため、朝の忙しい時間でも食べやすい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.7.18",
+    "original": "チーズサンド",
+    "translation": "チーズサンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.9.17",
+    "original": "ふっくらと焼き上げたトーストに、バターを落とした定番の朝食。準備が容易で、手軽に朝の活力を得られる。",
+    "translation": "ふっくらと焼き上げたトーストに、バターを落とした定番の朝食。準備が容易で、手軽に朝の活力を得られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.9.18",
+    "original": "バタートースト",
+    "translation": "バタートースト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.8.17",
+    "original": "小麦を練った生地にチーズやハーブを始め、様々な自然の恵みをふんだんに取り入れて焼き上げた、贅沢な料理。食べれば皆が笑顔になる、森の恵みのハーモニー。",
+    "translation": "小麦を練った生地にチーズやハーブを始め、様々な自然の恵みをふんだんに取り入れて焼き上げた、贅沢な料理。食べれば皆が笑顔になる、森の恵みのハーモニー。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.8.18",
+    "original": "森の恵みチーズパイ",
+    "translation": "森の恵みチーズパイ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.10.17",
+    "original": "『ウィルチ』監修の、栄養満点ポットパイ。滋味豊かなその味は毎日食べても飽きないどころか、気が付けば食べたくなってしまう程。",
+    "translation": "『ウィルチ』監修の、栄養満点ポットパイ。滋味豊かなその味は毎日食べても飽きないどころか、気が付けば食べたくなってしまう程。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.10.18",
+    "original": "魔女のポットパイ",
+    "translation": "魔女のポットパイ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.11.17",
+    "original": "干しただけの獣肉。一見すると腐敗しているようにも見えるが、無事に食べられる。",
+    "translation": "干しただけの獣肉。一見すると腐敗しているようにも見えるが、無事に食べられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.11.18",
+    "original": "乾燥ジャーキー",
+    "translation": "乾燥ジャーキー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.12.17",
+    "original": "野生の獣をその場で解体し、食べやすい大きさにカットしてハーブと共に焼き上げた野趣溢れる料理。筋肉質な野獣の肉は、噛み応え抜群。",
+    "translation": "野生の獣をその場で解体し、食べやすい大きさにカットしてハーブと共に焼き上げた野趣溢れる料理。筋肉質な野獣の肉は、噛み応え抜群。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.12.18",
+    "original": "ブツ切りワイルドソテー",
+    "translation": "ブツ切りワイルドソテー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.13.17",
+    "original": "ハーブで下味をつけて香ばしく焼き上げた厚切りステーキ。これを食べている冒険者は、その日の仕事が成功したことを伺わせる。",
+    "translation": "ハーブで下味をつけて香ばしく焼き上げた厚切りステーキ。これを食べている冒険者は、その日の仕事が成功したことを伺わせる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.13.18",
+    "original": "ガーリックステーキ",
+    "translation": "ガーリックステーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.14.17",
+    "original": "仕留めた大型魔獣を大雑把に細切れにし、串刺しにして焼き上げた物。強靭な魔獣の肉は、一口食べると活力が溢れてくるような感覚をもたらしてくれる。",
+    "translation": "仕留めた大型魔獣を大雑把に細切れにし、串刺しにして焼き上げた物。強靭な魔獣の肉は、一口食べると活力が溢れてくるような感覚をもたらしてくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.14.18",
+    "original": "串焼きモンスター",
+    "translation": "串焼きモンスター",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.15.17",
+    "original": "大きな骨付き塊肉をまるごと使った焼き肉。大雑把な味付けが逆に素材の味を引き立たせる。食の多い冒険者達が明日の活力を満たすためにかぶり付くだろう。",
+    "translation": "大きな骨付き塊肉をまるごと使った焼き肉。大雑把な味付けが逆に素材の味を引き立たせる。食の多い冒険者達が明日の活力を満たすためにかぶり付くだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.15.18",
+    "original": "ワイルド焼き肉",
+    "translation": "ワイルド焼き肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.16.17",
+    "original": "高品質の獣肉を選び、熟成させた上でジューシーに焼き上げた贅沢な一品。",
+    "translation": "高品質の獣肉を選び、熟成させた上でジューシーに焼き上げた贅沢な一品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.16.18",
+    "original": "獣肉ロースト",
+    "translation": "獣肉ロースト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.17.17",
+    "original": "巨大なウシの肉を大きくカットし、丁寧に焼き上げた肉料理。存在そのものが稀少な、巨大なウシノシシを使った料理は、食通の憧れ。",
+    "translation": "巨大なウシの肉を大きくカットし、丁寧に焼き上げた肉料理。存在そのものが稀少な、巨大なウシノシシを使った料理は、食通の憧れ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.17.18",
+    "original": "幻の巨獣ステーキ",
+    "translation": "幻の巨獣ステーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.19.17",
+    "original": "しっかりと熟成された上質な獣肉を挽肉にし、外はカリッと中はジューシーなハンバーグに仕上げた、贅沢な一品。",
+    "translation": "しっかりと熟成された上質な獣肉を挽肉にし、外はカリッと中はジューシーなハンバーグに仕上げた、贅沢な一品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.19.18",
+    "original": "熟成ハンバーグ",
+    "translation": "熟成ハンバーグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.20.17",
+    "original": "伝説のベヒんもスの肉と囁かれる肉を、贅沢に焼き上げた料理。本物かどうかはともかく、言われれば信じてしまいそうな程に旨い。",
+    "translation": "伝説のベヒんもスの肉と囁かれる肉を、贅沢に焼き上げた料理。本物かどうかはともかく、言われれば信じてしまいそうな程に旨い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.20.18",
+    "original": "疑惑ベヒんもステーキ",
+    "translation": "疑惑ベヒんもステーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.18.17",
+    "original": "僅かしか取れない稀少な肉の部位を、豪快に切って炙った物。噛めば噛むほど味わいが増す、食通が憧れる究極の肉料理。",
+    "translation": "僅かしか取れない稀少な肉の部位を、豪快に切って炙った物。噛めば噛むほど味わいが増す、食通が憧れる究極の肉料理。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.18.18",
+    "original": "究極シャトーブリアン",
+    "translation": "究極シャトーブリアン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.21.17",
+    "original": "豚の腸に肉を詰めたオーソドックスな庶民料理。簡単に作れて保存もできる、便利な料理。",
+    "translation": "豚の腸に肉を詰めたオーソドックスな庶民料理。簡単に作れて保存もできる、便利な料理。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.21.18",
+    "original": "ブタの腸詰め",
+    "translation": "ブタの腸詰め",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.22.17",
+    "original": "豚肉をじっくりと煮込み、甘辛いタレで味付けした煮込み焼き豚。主菜にもツマミにも最適な一品。",
+    "translation": "豚肉をじっくりと煮込み、甘辛いタレで味付けした煮込み焼き豚。主菜にもツマミにも最適な一品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.22.18",
+    "original": "甘辛煮込みチャーシュー",
+    "translation": "甘辛煮込みチャーシュー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.23.17",
+    "original": "しっかりと味をつけた豚肉と、新鮮な野菜と合わせた炒め物。軽めの食事に最適。",
+    "translation": "しっかりと味をつけた豚肉と、新鮮な野菜と合わせた炒め物。軽めの食事に最適。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.23.18",
+    "original": "肉野菜炒め",
+    "translation": "肉野菜炒め",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.24.17",
+    "original": "ブタの肉を野菜と一緒にトロトロになるまで煮込んだシチュー。トロリとした舌触りとアツアツの食感は、全ての冒険者に安らぎをもたらす。",
+    "translation": "ブタの肉を野菜と一緒にトロトロになるまで煮込んだシチュー。トロリとした舌触りとアツアツの食感は、全ての冒険者に安らぎをもたらす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.24.18",
+    "original": "贅沢ブタ肉シチュー",
+    "translation": "贅沢ブタ肉シチュー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.25.17",
+    "original": "豚の足を煮込んでから焼いたもの。ぷりぷりとした脂が美容にもよいと、女性冒険者にも人気なメニュー。",
+    "translation": "豚の足を煮込んでから焼いたもの。ぷりぷりとした脂が美容にもよいと、女性冒険者にも人気なメニュー。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.25.18",
+    "original": "豚足の丸焼き",
+    "translation": "豚足の丸焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.26.17",
+    "original": "脂のった柔らかい豚肉を、タレに漬け込んでから、表面を焼き上げた一品。お酒のツマミにすると、無限に飲めると評判。",
+    "translation": "脂のった柔らかい豚肉を、タレに漬け込んでから、表面を焼き上げた一品。お酒のツマミにすると、無限に飲めると評判。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.26.18",
+    "original": "豚バラ肉甘辛焼き",
+    "translation": "豚バラ肉甘辛焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.27.17",
+    "original": "豚肉のいい所を厚切りにし、じっくりと熱を通した料理。溢れる肉汁は旨味が凝縮されており、一口食べると思わず顔が綻ぶ。",
+    "translation": "豚肉のいい所を厚切りにし、じっくりと熱を通した料理。溢れる肉汁は旨味が凝縮されており、一口食べると思わず顔が綻ぶ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.27.18",
+    "original": "鉄板焼き黒毛ブタロース",
+    "translation": "鉄板焼き黒毛ブタロース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.29.17",
+    "original": "塩蔵した豚肉を低温でローストし、柔らかくジューシーに仕上げた料理。これを食べる為に訪れる常連もいるとか。",
+    "translation": "塩蔵した豚肉を低温でローストし、柔らかくジューシーに仕上げた料理。これを食べる為に訪れる常連もいるとか。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.29.18",
+    "original": "熟成ローストポーク",
+    "translation": "熟成ローストポーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.30.17",
+    "original": "骨付きの豚肉を、バーベキューソースで味付けし、じっくりと焼き上げた一品。食べ応えがあり、腹ペコの冒険者も大満足。",
+    "translation": "骨付きの豚肉を、バーベキューソースで味付けし、じっくりと焼き上げた一品。食べ応えがあり、腹ペコの冒険者も大満足。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.30.18",
+    "original": "バーベキューポークリブ",
+    "translation": "バーベキューポークリブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.28.17",
+    "original": "豚を一頭を贅沢にまるごと焼き上げた、シンプルかつ至高の料理。見た目のインパクトが物凄くある。パーティーで集まって食べるようだ。",
+    "translation": "豚を一頭を贅沢にまるごと焼き上げた、シンプルかつ至高の料理。見た目のインパクトが物凄くある。パーティーで集まって食べるようだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.28.18",
+    "original": "豚の丸焼き",
+    "translation": "豚の丸焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.31.17",
+    "original": "トリニクに味を付けて焼き上げた料理。のはずなのだが、見た目が何だか胡散臭い。あっさりとした味わいと弾力性は鳥っぽいのだが……。",
+    "translation": "トリニクに味を付けて焼き上げた料理。のはずなのだが、見た目が何だか胡散臭い。あっさりとした味わいと弾力性は鳥っぽいのだが……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.31.18",
+    "original": "疑惑のヤキトリ盛り",
+    "translation": "疑惑のヤキトリ盛り",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.32.17",
+    "original": "毛をむしり取った鳥の肉を丸ごと焼き上げ、豪快に盛りつけた料理。見た目にも豪華で、冒険を終えた冒険者が噛り付く姿は、生還した喜びに溢れている。",
+    "translation": "毛をむしり取った鳥の肉を丸ごと焼き上げ、豪快に盛りつけた料理。見た目にも豪華で、冒険を終えた冒険者が噛り付く姿は、生還した喜びに溢れている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.32.18",
+    "original": "ガッツリ丸ごとヤキトリ",
+    "translation": "ガッツリ丸ごとヤキトリ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.33.17",
+    "original": "小ぶりながらも、しっかりと味付けした鳥肉と野菜を串に刺して焼いた料理。軽く食べたい時や、酒のツマミに最適。",
+    "translation": "小ぶりながらも、しっかりと味付けした鳥肉と野菜を串に刺して焼いた料理。軽く食べたい時や、酒のツマミに最適。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.33.18",
+    "original": "小ぶりの串焼きチキン",
+    "translation": "小ぶりの串焼きチキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.34.17",
+    "original": "鶏肉を獣の腸に詰めて作った料理。アレンジ次第でさらなる高級料理にも化ける。それなりの工程が必要でもある。",
+    "translation": "鶏肉を獣の腸に詰めて作った料理。アレンジ次第でさらなる高級料理にも化ける。それなりの工程が必要でもある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.34.18",
+    "original": "チキンソーセージ",
+    "translation": "チキンソーセージ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.35.17",
+    "original": "鳥のアラ肉と骨を何時間も煮込み、旨味を凝縮させたスープ。一口飲めば、心も体も温まる。",
+    "translation": "鳥のアラ肉と骨を何時間も煮込み、旨味を凝縮させたスープ。一口飲めば、心も体も温まる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.35.18",
+    "original": "鶏ガラ煮込みスープ",
+    "translation": "鶏ガラ煮込みスープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.36.17",
+    "original": "肉質を管理し、育て上げたチキンを使用した贅沢な一品。脂がのったジューシーな肉質は、高級な獣肉にも引けを取らない。",
+    "translation": "肉質を管理し、育て上げたチキンを使用した贅沢な一品。脂がのったジューシーな肉質は、高級な獣肉にも引けを取らない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.36.18",
+    "original": "まるまるローストチキン",
+    "translation": "まるまるローストチキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.37.17",
+    "original": "穀物を砕いた粉を均等にまぶし、熱した油の海で旨味を閉じ込め、玉子をベースにしたソースを振り掛けた料理。サクリとした歯触りと濃厚な旨味が楽しめる。",
+    "translation": "穀物を砕いた粉を均等にまぶし、熱した油の海で旨味を閉じ込め、玉子をベースにしたソースを振り掛けた料理。サクリとした歯触りと濃厚な旨味が楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.37.18",
+    "original": "ソース掛けオイル焼き",
+    "translation": "ソース掛けオイル焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.38.17",
+    "original": "鳥肉と野菜を交互に挟むことによって、脂っこさを中和し、さっぱりとした食感に仕上げた人気の焼き肉。シンプルながら引き立つ匂いが食欲をかき立てる。",
+    "translation": "鳥肉と野菜を交互に挟むことによって、脂っこさを中和し、さっぱりとした食感に仕上げた人気の焼き肉。シンプルながら引き立つ匂いが食欲をかき立てる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.38.18",
+    "original": "異国風の焼き鳥",
+    "translation": "異国風の焼き鳥",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.39.17",
+    "original": "霊峰の近辺で採取された、神秘的な香辛料で味付けされた焼き鳥。独特の風味が楽しめる上に、不思議な活力が漲る。",
+    "translation": "霊峰の近辺で採取された、神秘的な香辛料で味付けされた焼き鳥。独特の風味が楽しめる上に、不思議な活力が漲る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.39.18",
+    "original": "霊峰の神秘焼き鳥",
+    "translation": "霊峰の神秘焼き鳥",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.40.17",
+    "original": "巨大な鳥から取れたもも肉。大きくジューシーで、一度食べると忘れられない味わいを持つが、仕留めるのは命がけ。",
+    "translation": "巨大な鳥から取れたもも肉。大きくジューシーで、一度食べると忘れられない味わいを持つが、仕留めるのは命がけ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.40.18",
+    "original": "巨鳥のドラムスティック",
+    "translation": "巨鳥のドラムスティック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.41.17",
+    "original": "内臓をとった小魚を容器に移し、腐敗しないように塩蔵したもの。時間が経つほど旨味が凝縮され、魚本来の味わいを引き出す。",
+    "translation": "内臓をとった小魚を容器に移し、腐敗しないように塩蔵したもの。時間が経つほど旨味が凝縮され、魚本来の味わいを引き出す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.41.18",
+    "original": "保存用密閉小魚",
+    "translation": "保存用密閉小魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.42.17",
+    "original": "採れたばかりの新鮮な魚を丸ごと煮込んだスープ。魚介の旨味が溶けだしたスープは、食通をも唸らせるのだが、魚の骨が喉に突き刺さる弱点がある。",
+    "translation": "採れたばかりの新鮮な魚を丸ごと煮込んだスープ。魚介の旨味が溶けだしたスープは、食通をも唸らせるのだが、魚の骨が喉に突き刺さる弱点がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.42.18",
+    "original": "丸ごとフィッシュスープ",
+    "translation": "丸ごとフィッシュスープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.43.17",
+    "original": "柑橘類とハーブで生臭さを消して焼き上げたフィッシュ。圧倒的な存在感は宴会の席でも歓声が上がるほど。ホカホカの身を口に含むと、一日の苦労も報われる。",
+    "translation": "柑橘類とハーブで生臭さを消して焼き上げたフィッシュ。圧倒的な存在感は宴会の席でも歓声が上がるほど。ホカホカの身を口に含むと、一日の苦労も報われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.43.18",
+    "original": "香草焼きフィッシュ",
+    "translation": "香草焼きフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.44.17",
+    "original": "麦を砕いた粉を魚介に振り掛け、熱いオイルで旨味ごと閉じ込めた料理。臭みを取り除き、魚介の美味さだけを贅沢に味わえる。",
+    "translation": "麦を砕いた粉を魚介に振り掛け、熱いオイルで旨味ごと閉じ込めた料理。臭みを取り除き、魚介の美味さだけを贅沢に味わえる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.44.18",
+    "original": "熱々フィッシュフライ",
+    "translation": "熱々フィッシュフライ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.45.17",
+    "original": "ゼカリウス近海で採れた魚を生きたまま捌き、元の形状を損ねずに盛り付けた料理。肉がピクピク動いているのは新鮮さの証拠。調味料を使わずとも、非常に美味。",
+    "translation": "ゼカリウス近海で採れた魚を生きたまま捌き、元の形状を損ねずに盛り付けた料理。肉がピクピク動いているのは新鮮さの証拠。調味料を使わずとも、非常に美味。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.45.18",
+    "original": "究極魚介活作り",
+    "translation": "究極魚介活作り",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.46.17",
+    "original": "パスタを作る為のスープに魚介をふんだんに取り入れたスープパスタ。濃厚なスープともちもちしたパスタのハーモニーはまさに病み付き。",
+    "translation": "パスタを作る為のスープに魚介をふんだんに取り入れたスープパスタ。濃厚なスープともちもちしたパスタのハーモニーはまさに病み付き。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.46.18",
+    "original": "やみつき海鮮パスタ",
+    "translation": "やみつき海鮮パスタ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.47.17",
+    "original": "新鮮な魚介類をたっぷりと使ったスープの中に、野菜や香草などを加えたブイヤベース。これ一つで満腹になる程に食べ応えがある。",
+    "translation": "新鮮な魚介類をたっぷりと使ったスープの中に、野菜や香草などを加えたブイヤベース。これ一つで満腹になる程に食べ応えがある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.47.18",
+    "original": "具沢山ブイヤベース",
+    "translation": "具沢山ブイヤベース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.48.17",
+    "original": "薄く切ったフィッシュの切り身にトロリとしたソースを加えた物。ハーブと魚介の旨味を同時に味わえる、自然のアンサンブル。",
+    "translation": "薄く切ったフィッシュの切り身にトロリとしたソースを加えた物。ハーブと魚介の旨味を同時に味わえる、自然のアンサンブル。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.48.18",
+    "original": "スライスソースフィッシュ",
+    "translation": "スライスソースフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.49.17",
+    "original": "稀少な甲殻類を煮込み、重厚かつ繊細な味わいを実現したスープ。濃縮された味わいは、食通すら歓喜の涙を溢れさせる。",
+    "translation": "稀少な甲殻類を煮込み、重厚かつ繊細な味わいを実現したスープ。濃縮された味わいは、食通すら歓喜の涙を溢れさせる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.49.18",
+    "original": "魚介濃縮ロブスタースープ",
+    "translation": "魚介濃縮ロブスタースープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.50.17",
+    "original": "異国から伝わったスシという料理をアレンジし、ゼカリウスで馴染みのある味に仕上げた料理。物珍しさと提供の容易さから、高価な割に注文が絶えない。",
+    "translation": "異国から伝わったスシという料理をアレンジし、ゼカリウスで馴染みのある味に仕上げた料理。物珍しさと提供の容易さから、高価な割に注文が絶えない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.50.18",
+    "original": "異邦から伝わるスシ",
+    "translation": "異邦から伝わるスシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.51.17",
+    "original": "浜辺で拾った貝を焼いただけの、シンプルな料理。熱によって旨味を引き出された一品は、塩やレモンをかけて食べると、より一層美味しい。なお、調味料は別売り。",
+    "translation": "浜辺で拾った貝を焼いただけの、シンプルな料理。熱によって旨味を引き出された一品は、塩やレモンをかけて食べると、より一層美味しい。なお、調味料は別売り。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.51.18",
+    "original": "焼いた貝",
+    "translation": "焼いた貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.52.17",
+    "original": "採れたての貝をそのまま焼いた料理。天然の塩分に味付けされた貝は、そのまま食べても十分な旨味とプリプリした食感を持つ。",
+    "translation": "採れたての貝をそのまま焼いた料理。天然の塩分に味付けされた貝は、そのまま食べても十分な旨味とプリプリした食感を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.52.18",
+    "original": "ぱっくりシェルフィッシュ",
+    "translation": "ぱっくりシェルフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.53.17",
+    "original": "巨大貝をソテーにしたもの。水上都市と名高いゼカリウスでは、獣肉よりむしろ魚介類の方が多く食されるとも言われている。",
+    "translation": "巨大貝をソテーにしたもの。水上都市と名高いゼカリウスでは、獣肉よりむしろ魚介類の方が多く食されるとも言われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.53.18",
+    "original": "巨大貝のソテー",
+    "translation": "巨大貝のソテー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.54.17",
+    "original": "生オイスターを新鮮なまま開けてそのまま食べるクレイジー料理。とろけるような舌触りにマニアはうなる。ときどきポイズン状態になって地獄。",
+    "translation": "生オイスターを新鮮なまま開けてそのまま食べるクレイジー料理。とろけるような舌触りにマニアはうなる。ときどきポイズン状態になって地獄。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.54.18",
+    "original": "生オイスターおどり喰い",
+    "translation": "生オイスターおどり喰い",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.55.17",
+    "original": "海で採れる巨大巻き貝にタレを入れて焼いたもの。料理としてはシンプルなのだが、素材の味がすべてを決めるというほどに、鮮度が要求される。",
+    "translation": "海で採れる巨大巻き貝にタレを入れて焼いたもの。料理としてはシンプルなのだが、素材の味がすべてを決めるというほどに、鮮度が要求される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.55.18",
+    "original": "エスカルゴ焼き",
+    "translation": "エスカルゴ焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.56.17",
+    "original": "海底から稀に引き上げられるレアな巨大貝にタレを載せて焼いた珍味。美食家のあこがれであり、港でもめったに味わえない高級料理。",
+    "translation": "海底から稀に引き上げられるレアな巨大貝にタレを載せて焼いた珍味。美食家のあこがれであり、港でもめったに味わえない高級料理。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.56.18",
+    "original": "古代大貝の地獄焼き",
+    "translation": "古代大貝の地獄焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.57.17",
+    "original": "貝類をふんだんに使い、パスタと絡めた漁師風料理。厚みと旨味の強い貝類の味わいが、濃厚な海の旨味を引き立たせる。",
+    "translation": "貝類をふんだんに使い、パスタと絡めた漁師風料理。厚みと旨味の強い貝類の味わいが、濃厚な海の旨味を引き立たせる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.57.18",
+    "original": "甲殻類ペスカトーレ",
+    "translation": "甲殻類ペスカトーレ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.58.17",
+    "original": "新鮮なテンタクルを特殊な加工で調理したどんぶり。形容しがたい美味で、虜になったリピーターは正気を失いながらも料理を求める。",
+    "translation": "新鮮なテンタクルを特殊な加工で調理したどんぶり。形容しがたい美味で、虜になったリピーターは正気を失いながらも料理を求める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.58.18",
+    "original": "テンタクルどんぶり",
+    "translation": "テンタクルどんぶり",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.59.17",
+    "original": "新鮮な魚介類と異国のコメを合わせて作った高級リゾット。海の幸と異国の食材を合わせた新たな味わいに、ゼカリウス近郊から食通がこぞって求めている。",
+    "translation": "新鮮な魚介類と異国のコメを合わせて作った高級リゾット。海の幸と異国の食材を合わせた新たな味わいに、ゼカリウス近郊から食通がこぞって求めている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.59.18",
+    "original": "魚介リゾット",
+    "translation": "魚介リゾット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.60.17",
+    "original": "新鮮な海の幸を食べやすく細かく刻み、煮込む事で魚介の旨味を凝縮させたスープ料理。貝や魚と言った海の幸と、野菜の味わいを大海原のように内包させた高級品。",
+    "translation": "新鮮な海の幸を食べやすく細かく刻み、煮込む事で魚介の旨味を凝縮させたスープ料理。貝や魚と言った海の幸と、野菜の味わいを大海原のように内包させた高級品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.60.18",
+    "original": "大海原スープ",
+    "translation": "大海原スープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.61.17",
+    "original": "たまごを割落として加熱した料理。新鮮ではない上に、加熱しすぎて全体的に味わいは固い。だが、たまご自身の栄養価は損なわれておらず、貴重なたんぱく源。",
+    "translation": "たまごを割落として加熱した料理。新鮮ではない上に、加熱しすぎて全体的に味わいは固い。だが、たまご自身の栄養価は損なわれておらず、貴重なたんぱく源。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.61.18",
+    "original": "加熱エッグ",
+    "translation": "加熱エッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.62.17",
+    "original": "カラが付いたままの卵を温水で加熱したたまご。器が無くても食べられるので、携帯食にもできる。加熱したため身が硬くなり、若干飲み込み辛い。",
+    "translation": "カラが付いたままの卵を温水で加熱したたまご。器が無くても食べられるので、携帯食にもできる。加熱したため身が硬くなり、若干飲み込み辛い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.62.18",
+    "original": "温水加熱たまご",
+    "translation": "温水加熱たまご",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.63.17",
+    "original": "新鮮なたまごを鉄板に割り落とし、中央の黄身を目玉に見立てて熱を通した卵料理。子供から大人まで大好きな、お手軽料理。",
+    "translation": "新鮮なたまごを鉄板に割り落とし、中央の黄身を目玉に見立てて熱を通した卵料理。子供から大人まで大好きな、お手軽料理。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.63.18",
+    "original": "ローストアイボール",
+    "translation": "ローストアイボール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.64.17",
+    "original": "出荷されてきたばかりのたまご。そのまま飲み込む事ができるよう、長い品種改良が行われた。もちろん、たまごの持つ栄養を丸ごと取り入れる事ができる。",
+    "translation": "出荷されてきたばかりのたまご。そのまま飲み込む事ができるよう、長い品種改良が行われた。もちろん、たまごの持つ栄養を丸ごと取り入れる事ができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.64.18",
+    "original": "新鮮生たまご",
+    "translation": "新鮮生たまご",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.65.17",
+    "original": "割入れたたまごをスープでほぐして煮立たせた。素朴で優しい味わいは、緊張をほぐし、体を温める効果がある。",
+    "translation": "割入れたたまごをスープでほぐして煮立たせた。素朴で優しい味わいは、緊張をほぐし、体を温める効果がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.65.18",
+    "original": "たまごのほぐしスープ",
+    "translation": "たまごのほぐしスープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.66.17",
+    "original": "贅沢にたまごを溶きほぐし、何層にも重ねて焼き上げた一品。ふわふわで熱々なこの料理を食べると、大人も子供も笑みがこぼれる。",
+    "translation": "贅沢にたまごを溶きほぐし、何層にも重ねて焼き上げた一品。ふわふわで熱々なこの料理を食べると、大人も子供も笑みがこぼれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.66.18",
+    "original": "あつあつ厚焼きエッグ",
+    "translation": "あつあつ厚焼きエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.67.17",
+    "original": "大量のたまごと磨り潰した野菜、滋養に効く薬草を用いて、トロみが付くまでじっくりと煮立たせた料理。食べれば活力が漲る。",
+    "translation": "大量のたまごと磨り潰した野菜、滋養に効く薬草を用いて、トロみが付くまでじっくりと煮立たせた料理。食べれば活力が漲る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.67.18",
+    "original": "旨味溢れるエッグスープ",
+    "translation": "旨味溢れるエッグスープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.68.17",
+    "original": "ミツボシと呼ばれる最高ランクを与えられた高級店でしか味わえないという、拘りのオムレツ。半熟に焼き上げたたまごは、とろけるような食感をもたらす。",
+    "translation": "ミツボシと呼ばれる最高ランクを与えられた高級店でしか味わえないという、拘りのオムレツ。半熟に焼き上げたたまごは、とろけるような食感をもたらす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.68.18",
+    "original": "スリースターオムレット",
+    "translation": "スリースターオムレット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.69.17",
+    "original": "厚焼きのたまごにチーズを挟み込んで焼き上げた、大地の恵み。トロトロに溶けたチーズとふわふわのたまごを口に入れれば、表情も幸福に蕩け出す。",
+    "translation": "厚焼きのたまごにチーズを挟み込んで焼き上げた、大地の恵み。トロトロに溶けたチーズとふわふわのたまごを口に入れれば、表情も幸福に蕩け出す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.69.18",
+    "original": "チーズイン厚焼きエッグ",
+    "translation": "チーズイン厚焼きエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.70.17",
+    "original": "アルダルク農業組合が特別に厳選し生産した至高の素材で作られた料理。パスタはもちろん、チーズや牛乳、香辛料に至るまで、厳しい審査を経た最高級品。",
+    "translation": "アルダルク農業組合が特別に厳選し生産した至高の素材で作られた料理。パスタはもちろん、チーズや牛乳、香辛料に至るまで、厳しい審査を経た最高級品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.70.18",
+    "original": "幸せカルボナーラ",
+    "translation": "幸せカルボナーラ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.71.17",
+    "original": "色々なハーブや野菜を洗って盛り合わせた、自然の素材を生かした料理。手軽に食べられるうえ、好みのソースをかけるだけで、毎日違った味わいが楽しめる。",
+    "translation": "色々なハーブや野菜を洗って盛り合わせた、自然の素材を生かした料理。手軽に食べられるうえ、好みのソースをかけるだけで、毎日違った味わいが楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.71.18",
+    "original": "新鮮ハーブ盛り合わせ",
+    "translation": "新鮮ハーブ盛り合わせ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.72.17",
+    "original": "色々な草や葉や根っこを刻んで煮込んで肉で味付けしたスープ。香りは悪くないが、味はかなり苦い。一部にはこの苦味が支持される。",
+    "translation": "色々な草や葉や根っこを刻んで煮込んで肉で味付けしたスープ。香りは悪くないが、味はかなり苦い。一部にはこの苦味が支持される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.72.18",
+    "original": "豪快煮込みワイルドスープ",
+    "translation": "豪快煮込みワイルドスープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.73.17",
+    "original": "大量にとれた莢豆を茹で上げ、器に移したもの。天然の塩を振り掛ければ、酒のツマミにもってこい。野菜にしては高タンパクで、冒険者にも嬉しい。",
+    "translation": "大量にとれた莢豆を茹で上げ、器に移したもの。天然の塩を振り掛ければ、酒のツマミにもってこい。野菜にしては高タンパクで、冒険者にも嬉しい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.73.18",
+    "original": "採れたて山盛りビーンズ",
+    "translation": "採れたて山盛りビーンズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.74.17",
+    "original": "野菜やハーブを千切り、味を調えたソースに付け込んだ料理。味を染み込ませた野菜は、千切っただけの料理とは一線を画す味わいを届けてくれる。",
+    "translation": "野菜やハーブを千切り、味を調えたソースに付け込んだ料理。味を染み込ませた野菜は、千切っただけの料理とは一線を画す味わいを届けてくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.74.18",
+    "original": "味付けサラダ盛り合わせ",
+    "translation": "味付けサラダ盛り合わせ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.75.17",
+    "original": "ソースに付け込んだ野菜や肉を薄いパン生地で包み込んだ総合食品。歩きながらでも手軽に食べられるうえ、味も見た目も悪くない。旅をしながらの食事に最適。",
+    "translation": "ソースに付け込んだ野菜や肉を薄いパン生地で包み込んだ総合食品。歩きながらでも手軽に食べられるうえ、味も見た目も悪くない。旅をしながらの食事に最適。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.75.18",
+    "original": "野菜スティックロール",
+    "translation": "野菜スティックロール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.76.17",
+    "original": "薬草の煮浸しを魚介スープで味を調え、冷やし固めた食べやすい料理。薬草の苦味を感じさせない、清涼感と滋養に優れた食品。",
+    "translation": "薬草の煮浸しを魚介スープで味を調え、冷やし固めた食べやすい料理。薬草の苦味を感じさせない、清涼感と滋養に優れた食品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.76.18",
+    "original": "リーフスープのゼリー寄せ",
+    "translation": "リーフスープのゼリー寄せ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.77.17",
+    "original": "色とりどりの野菜と肉類を煮込んで作ったスープ。野生の様々な栄養素を取り入れ、食べればいつまでも体がぽかぽか温まる。",
+    "translation": "色とりどりの野菜と肉類を煮込んで作ったスープ。野生の様々な栄養素を取り入れ、食べればいつまでも体がぽかぽか温まる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.77.18",
+    "original": "色とりどり野菜スープ",
+    "translation": "色とりどり野菜スープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.78.17",
+    "original": "様々な肉、野菜を集め、魚介スープでぐつぐつと煮込んだ料理。海と山の全てを結集させて生まれる味わいは、まさに大自然のオーケストラ。",
+    "translation": "様々な肉、野菜を集め、魚介スープでぐつぐつと煮込んだ料理。海と山の全てを結集させて生まれる味わいは、まさに大自然のオーケストラ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.78.18",
+    "original": "豪華な野菜煮込み鍋",
+    "translation": "豪華な野菜煮込み鍋",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.79.17",
+    "original": "旬の野菜を大きくカットし、香辛料で味を調えて煮込んだ料理。大自然の栄養を凝縮したスープは、心身の疲労を癒してくれる。",
+    "translation": "旬の野菜を大きくカットし、香辛料で味を調えて煮込んだ料理。大自然の栄養を凝縮したスープは、心身の疲労を癒してくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.79.18",
+    "original": "ごろごろ野菜煮込み",
+    "translation": "ごろごろ野菜煮込み",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.80.17",
+    "original": "魔術の触媒としても貴重な根菜を、丸ごと煮込んだ神秘料理。劇的な回復効果と栄養素を備え、時の権力者も大金を出して食べたがる。",
+    "translation": "魔術の触媒としても貴重な根菜を、丸ごと煮込んだ神秘料理。劇的な回復効果と栄養素を備え、時の権力者も大金を出して食べたがる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.80.18",
+    "original": "マンドレイクソテー",
+    "translation": "マンドレイクソテー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.81.17",
+    "original": "新鮮なキノコを盛り合わせにしたもの。食べても多分大丈夫。ポイズンになった場合は、別売りの解毒薬を買うべき。",
+    "translation": "新鮮なキノコを盛り合わせにしたもの。食べても多分大丈夫。ポイズンになった場合は、別売りの解毒薬を買うべき。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.81.18",
+    "original": "雑多キノコ盛り合わせ",
+    "translation": "雑多キノコ盛り合わせ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.82.17",
+    "original": "森の奥で群生する新鮮なきのこ達。様々な調理法で味わうことができる。",
+    "translation": "森の奥で群生する新鮮なきのこ達。様々な調理法で味わうことができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.82.18",
+    "original": "森のきのこ沢山セット",
+    "translation": "森のきのこ沢山セット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.83.17",
+    "original": "キノコを焼いたもの。森の恵みである。",
+    "translation": "キノコを焼いたもの。森の恵みである。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.83.18",
+    "original": "ローストキノコ傘",
+    "translation": "ローストキノコ傘",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.84.17",
+    "original": "妖精の住処と言われる大きなキノコ。そのまま焼くだけで、ジューシーなキノコステーキが味わえる。キノコ特有の風味が広がる一品。",
+    "translation": "妖精の住処と言われる大きなキノコ。そのまま焼くだけで、ジューシーなキノコステーキが味わえる。キノコ特有の風味が広がる一品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.84.18",
+    "original": "妖精のキノコ",
+    "translation": "妖精のキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.85.17",
+    "original": "カラフルな色のキノコを使ったファンシーな見た目のスープ。子供にも人気が出ると思って考案されたが、子供は怖がって食べようとしない。",
+    "translation": "カラフルな色のキノコを使ったファンシーな見た目のスープ。子供にも人気が出ると思って考案されたが、子供は怖がって食べようとしない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.85.18",
+    "original": "ファンタジック茸汁",
+    "translation": "ファンタジック茸汁",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.86.17",
+    "original": "貴重なキノコを調味料を使って丁寧に味付けをして焼き上げた。",
+    "translation": "貴重なキノコを調味料を使って丁寧に味付けをして焼き上げた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.86.18",
+    "original": "黄金キノコオイル焼き",
+    "translation": "黄金キノコオイル焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.87.17",
+    "original": "魔女達が密かに伝える調理法を使用したキノコ料理。サバトを盛り上げる精力を得られるとの事だが、見た目がかなり毒々しい。安全には配慮しているそうだ。",
+    "translation": "魔女達が密かに伝える調理法を使用したキノコ料理。サバトを盛り上げる精力を得られるとの事だが、見た目がかなり毒々しい。安全には配慮しているそうだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.87.18",
+    "original": "魔女のキノコ料理",
+    "translation": "魔女のキノコ料理",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.88.17",
+    "original": "美味しい獣肉をキノコと一緒に、ふんだんなスパイスを利かせて炒めたもの。精が付いて一晩眠れなくなるようなエネルギッシュなスタミナ料理。",
+    "translation": "美味しい獣肉をキノコと一緒に、ふんだんなスパイスを利かせて炒めたもの。精が付いて一晩眠れなくなるようなエネルギッシュなスタミナ料理。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.88.18",
+    "original": "獣肉とキノコのソース炒め",
+    "translation": "獣肉とキノコのソース炒め",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.89.17",
+    "original": "霊験あらたかな大地が育んだ高級キノコ。滅多に見つからない香り高いキノコは、食通が高額で買い求める。",
+    "translation": "霊験あらたかな大地が育んだ高級キノコ。滅多に見つからない香り高いキノコは、食通が高額で買い求める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.89.18",
+    "original": "大地の恵み高級茸",
+    "translation": "大地の恵み高級茸",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.90.17",
+    "original": "地中に隠れるように存在する、虹色のキノコ。一度これを食べた人間は、血眼になってこのキノコを探してしまう、危ない珍味。",
+    "translation": "地中に隠れるように存在する、虹色のキノコ。一度これを食べた人間は、血眼になってこのキノコを探してしまう、危ない珍味。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.90.18",
+    "original": "レインボーキノコ",
+    "translation": "レインボーキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.91.17",
+    "original": "チョコレートを練り込んだ生地を焼き上げたマフィン。シュガーチップやナッツも練り入れて、飽きの来ないスイーツに仕上げてある。",
+    "translation": "チョコレートを練り込んだ生地を焼き上げたマフィン。シュガーチップやナッツも練り入れて、飽きの来ないスイーツに仕上げてある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.91.18",
+    "original": "チョコレートマフィン",
+    "translation": "チョコレートマフィン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.92.17",
+    "original": "チョコレートと苺を使ったピンクのティラミス。果実と砂糖のコンビネーションにより、ゴージャスな味わいを完成させた。",
+    "translation": "チョコレートと苺を使ったピンクのティラミス。果実と砂糖のコンビネーションにより、ゴージャスな味わいを完成させた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.92.18",
+    "original": "わくわくティラミス",
+    "translation": "わくわくティラミス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.93.17",
+    "original": "目玉のようなあめ玉が載ったアイスクリーム。可愛らしくてグロテスクな外見に、ファンはやみつきになる……かもしれない。ちょっとダークな変わり種スイーツ。",
+    "translation": "目玉のようなあめ玉が載ったアイスクリーム。可愛らしくてグロテスクな外見に、ファンはやみつきになる……かもしれない。ちょっとダークな変わり種スイーツ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.93.18",
+    "original": "テリブルアイズクリーム",
+    "translation": "テリブルアイズクリーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.94.17",
+    "original": "シロップ漬けにした甘いフルーツ。季節のフルーツを使っており、毎回違ったフルーツが出されている。常連客が好み、話のネタにするらしい。",
+    "translation": "シロップ漬けにした甘いフルーツ。季節のフルーツを使っており、毎回違ったフルーツが出されている。常連客が好み、話のネタにするらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.94.18",
+    "original": "シロップ漬けフルーツ",
+    "translation": "シロップ漬けフルーツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.95.17",
+    "original": "練り込んだハチミツとミルクで焼き上げた甘いケーキ。シンプルながら、ボリュームのある甘さは、女冒険者のハートを釘付けにして、何度も店に足を運ばせる。",
+    "translation": "練り込んだハチミツとミルクで焼き上げた甘いケーキ。シンプルながら、ボリュームのある甘さは、女冒険者のハートを釘付けにして、何度も店に足を運ばせる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.95.18",
+    "original": "甘々ハニーミルクケーキ",
+    "translation": "甘々ハニーミルクケーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.96.17",
+    "original": "ベリーをふんだんに使用した甘いケーキ。ケーキのクリームの甘さと、ベリーのさわやかなすっぱさがギャップになり、客を虜にする。",
+    "translation": "ベリーをふんだんに使用した甘いケーキ。ケーキのクリームの甘さと、ベリーのさわやかなすっぱさがギャップになり、客を虜にする。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.96.18",
+    "original": "幸せのベリーケーキ",
+    "translation": "幸せのベリーケーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.97.17",
+    "original": "最高級の素材をふんだんに使用した、パティシエの全力を注いだ最強のミルクケーキ。貴族階級でもめったに味わえないスペシャルランクのスイーツ。",
+    "translation": "最高級の素材をふんだんに使用した、パティシエの全力を注いだ最強のミルクケーキ。貴族階級でもめったに味わえないスペシャルランクのスイーツ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.97.18",
+    "original": "ドリームミルクケーキ",
+    "translation": "ドリームミルクケーキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.98.17",
+    "original": "甘味で作ったお菓子の芸術。器の中で雪に見立てた砂糖が降り注ぎ、その全てが果実と甘味で作られている。見てよし、食べて幸せな究極のお菓子。",
+    "translation": "甘味で作ったお菓子の芸術。器の中で雪に見立てた砂糖が降り注ぎ、その全てが果実と甘味で作られている。見てよし、食べて幸せな究極のお菓子。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.98.18",
+    "original": "食べられる銀世界",
+    "translation": "食べられる銀世界",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.99.17",
+    "original": "夢見る少女の理想が詰まったような、家の形をした芸術的スイーツ。見た目も味も最高峰だが、芸術的過ぎて食べるのが勿体ない。",
+    "translation": "夢見る少女の理想が詰まったような、家の形をした芸術的スイーツ。見た目も味も最高峰だが、芸術的過ぎて食べるのが勿体ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.99.18",
+    "original": "お菓子の家",
+    "translation": "お菓子の家",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.100.17",
+    "original": "神を名乗るカネの権化も太鼓判を押す、濃厚な味わいのプリン。一口食べると、その美味しさの虜になってしまうデス。",
+    "translation": "神を名乗るカネの権化も太鼓判を押す、濃厚な味わいのプリン。一口食べると、その美味しさの虜になってしまうデス。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.100.18",
+    "original": "ゴッデスプリン",
+    "translation": "ゴッデスプリン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.101.17",
+    "original": "ゼカリウスに伝来した米を水で炊き、四角く成型したもの。本来は別な食べ方があるようだが、貧困層はこれでも満足してしまう。",
+    "translation": "ゼカリウスに伝来した米を水で炊き、四角く成型したもの。本来は別な食べ方があるようだが、貧困層はこれでも満足してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.101.18",
+    "original": "ライスバー",
+    "translation": "ライスバー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.102.17",
+    "original": "炊いた米を、てのひらサイズにまとめた携帯にも便利な料理。ゼカリウス地方ではあまり知られていない。",
+    "translation": "炊いた米を、てのひらサイズにまとめた携帯にも便利な料理。ゼカリウス地方ではあまり知られていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.102.18",
+    "original": "おにぎり",
+    "translation": "おにぎり",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.103.17",
+    "original": "炊いた米に肉や野菜を混ぜて油脂で炒めたもの。ゼカリウス地方ではあまり知られていない料理。シンプルそうに見えて、極めるには鍛錬が必要。",
+    "translation": "炊いた米に肉や野菜を混ぜて油脂で炒めたもの。ゼカリウス地方ではあまり知られていない料理。シンプルそうに見えて、極めるには鍛錬が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.103.18",
+    "original": "ゼカリウスチャーハン",
+    "translation": "ゼカリウスチャーハン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.104.17",
+    "original": "異邦から伝わる、米を柔らかく握り、魚介の切り身を乗せた料理。新鮮な海の幸が採れるゼカリウスならではの料理として、冒険者が珍しがって食べていく。",
+    "translation": "異邦から伝わる、米を柔らかく握り、魚介の切り身を乗せた料理。新鮮な海の幸が採れるゼカリウスならではの料理として、冒険者が珍しがって食べていく。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.104.18",
+    "original": "なんちゃってスシ",
+    "translation": "なんちゃってスシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.105.17",
+    "original": "炊き上げた米の中心に塩蔵した果実を握り込み、乾燥させた海藻でぐるりと巻いた料理。手軽に食べやすいうえ、腐敗し辛い。",
+    "translation": "炊き上げた米の中心に塩蔵した果実を握り込み、乾燥させた海藻でぐるりと巻いた料理。手軽に食べやすいうえ、腐敗し辛い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.105.18",
+    "original": "梅肉海苔巻き",
+    "translation": "梅肉海苔巻き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.106.17",
+    "original": "様々な香辛料や野菜、獣肉を煮込んだソースと米を合わせた料理。ピリリとした辛さに、思わず食が進む。",
+    "translation": "様々な香辛料や野菜、獣肉を煮込んだソースと米を合わせた料理。ピリリとした辛さに、思わず食が進む。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.106.18",
+    "original": "スパイシーソースライス",
+    "translation": "スパイシーソースライス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.107.17",
+    "original": "おにぎりに濃厚な味わいのソースを塗り、焼いたもの。ゼカリウス地方の人間でも好まれるような、濃い味付けがされている。",
+    "translation": "おにぎりに濃厚な味わいのソースを塗り、焼いたもの。ゼカリウス地方の人間でも好まれるような、濃い味付けがされている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.107.18",
+    "original": "焼いたおにぎり",
+    "translation": "焼いたおにぎり",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.108.17",
+    "original": "オーブンで焼き上げた、とろけるチーズと米のグラタン。食欲がわく美味しさ。",
+    "translation": "オーブンで焼き上げた、とろけるチーズと米のグラタン。食欲がわく美味しさ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.108.18",
+    "original": "ライスグラタン",
+    "translation": "ライスグラタン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.109.17",
+    "original": "異邦から伝わる珍しい料理『スシ』の一種。ネタとして、ゼカリウスの海で採れた名状しがたき海産物を使用した。なにか深淵から覗かれている気がする。",
+    "translation": "異邦から伝わる珍しい料理『スシ』の一種。ネタとして、ゼカリウスの海で採れた名状しがたき海産物を使用した。なにか深淵から覗かれている気がする。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.109.18",
+    "original": "コズミックスシ",
+    "translation": "コズミックスシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.110.17",
+    "original": "ご飯とおかずが一体となった、抱き合わせ料理。柔らかく焼き上げた獣肉は最高級の物を使用し、米の握りも職人の手による最高級品。",
+    "translation": "ご飯とおかずが一体となった、抱き合わせ料理。柔らかく焼き上げた獣肉は最高級の物を使用し、米の握りも職人の手による最高級品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.110.18",
+    "original": "おにぎりバーガー",
+    "translation": "おにぎりバーガー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.111.17",
+    "original": "動物の皮を加工して作った冒険者向けの水筒。耐久力もそれなりだが、皮でできているため、たまに漏れる。",
+    "translation": "動物の皮を加工して作った冒険者向けの水筒。耐久力もそれなりだが、皮でできているため、たまに漏れる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.111.18",
+    "original": "冒険者向け水筒",
+    "translation": "冒険者向け水筒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.112.17",
+    "original": "動物の皮を加工して作った冒険者向けのカバン。小さい金具を加工するなど、加工もそれなりに手間が掛かっている。",
+    "translation": "動物の皮を加工して作った冒険者向けのカバン。小さい金具を加工するなど、加工もそれなりに手間が掛かっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.112.18",
+    "original": "冒険者向けバッグ",
+    "translation": "冒険者向けバッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.113.17",
+    "original": "遺跡発掘者や鉱山で働くものに必須なツルハシ。壊れにくいことを重視している。",
+    "translation": "遺跡発掘者や鉱山で働くものに必須なツルハシ。壊れにくいことを重視している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.113.18",
+    "original": "発掘用ツルハシ",
+    "translation": "発掘用ツルハシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.114.17",
+    "original": "動物の皮を加工して作った冒険者向けのカバン。整理しやすいように仕切りを用意されており、薬品が割れないように注意を払われた作り。耐久力も高い。",
+    "translation": "動物の皮を加工して作った冒険者向けのカバン。整理しやすいように仕切りを用意されており、薬品が割れないように注意を払われた作り。耐久力も高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.114.18",
+    "original": "上質の冒険者向けバッグ",
+    "translation": "上質の冒険者向けバッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.115.17",
+    "original": "冒険者向けの水筒。耐久力が高く、壊れにくい。さらには鮮度を保つ工夫もしており、中の飲み物が痛みにくくなっている。",
+    "translation": "冒険者向けの水筒。耐久力が高く、壊れにくい。さらには鮮度を保つ工夫もしており、中の飲み物が痛みにくくなっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.115.18",
+    "original": "上質の冒険者向け水筒",
+    "translation": "上質の冒険者向け水筒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.116.17",
+    "original": "職人達が利用するための道具。非常に丈夫に作られているため、壊れにくい。ずっと仕事の相棒として使っていけるデザイン。",
+    "translation": "職人達が利用するための道具。非常に丈夫に作られているため、壊れにくい。ずっと仕事の相棒として使っていけるデザイン。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.116.18",
+    "original": "丈夫な大工道具",
+    "translation": "丈夫な大工道具",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.117.17",
+    "original": "遺跡発掘者や鉱山で働くものに必須なツルハシ。壊れにくいことを重視し、破壊力も向上してある。ずっしりと重く、信頼できる品質である。",
+    "translation": "遺跡発掘者や鉱山で働くものに必須なツルハシ。壊れにくいことを重視し、破壊力も向上してある。ずっしりと重く、信頼できる品質である。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.117.18",
+    "original": "上質の発掘用ツルハシ",
+    "translation": "上質の発掘用ツルハシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.118.17",
+    "original": "丈夫な素材でできた、持ち運びに便利な水筒。熱い飲み物も冷たい飲み物も入れられる。",
+    "translation": "丈夫な素材でできた、持ち運びに便利な水筒。熱い飲み物も冷たい飲み物も入れられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.118.18",
+    "original": "極上の冒険者向け水筒",
+    "translation": "極上の冒険者向け水筒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.119.17",
+    "original": "遺跡発掘者や鉱山で働くものに必須なツルハシ。黄金のボディは頑強な岩盤も難なく破壊する、ツルハシマーが求める最高のツルハシである。",
+    "translation": "遺跡発掘者や鉱山で働くものに必須なツルハシ。黄金のボディは頑強な岩盤も難なく破壊する、ツルハシマーが求める最高のツルハシである。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.119.18",
+    "original": "最高級ゴッドツルハシ",
+    "translation": "最高級ゴッドツルハシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.120.17",
+    "original": "金属性の剣先を付けた、野外活動用多機能ツール。掘る、突く、叩く、運ぶ以外にも、非常時には皿や調理鍋の代わりにもなる他、鉄板を取り外せば盾にもなる。",
+    "translation": "金属性の剣先を付けた、野外活動用多機能ツール。掘る、突く、叩く、運ぶ以外にも、非常時には皿や調理鍋の代わりにもなる他、鉄板を取り外せば盾にもなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.120.18",
+    "original": "野外活動万能ツール",
+    "translation": "野外活動万能ツール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.121.17",
+    "original": "一般家庭で使用されるつぼ。真水や調味料などを保存する。",
+    "translation": "一般家庭で使用されるつぼ。真水や調味料などを保存する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.121.18",
+    "original": "家庭向けのつぼ",
+    "translation": "家庭向けのつぼ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.122.17",
+    "original": "一般家庭で使用できる手鏡。細かい加工などが必要なので、相応の技術力は要求される。",
+    "translation": "一般家庭で使用できる手鏡。細かい加工などが必要なので、相応の技術力は要求される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.122.18",
+    "original": "家庭向け手鏡",
+    "translation": "家庭向け手鏡",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.123.17",
+    "original": "一般家庭で使用される包丁。切れ味が鋭く、どんな肉も野菜もすぱすぱ切れてしまう。あまり買い換えるものでもないので、大量に売れないのが難点。",
+    "translation": "一般家庭で使用される包丁。切れ味が鋭く、どんな肉も野菜もすぱすぱ切れてしまう。あまり買い換えるものでもないので、大量に売れないのが難点。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.123.18",
+    "original": "家庭向け万能包丁",
+    "translation": "家庭向け万能包丁",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.124.17",
+    "original": "店先に飾ることで、店の存在感をアピールすることができる。お店の看板としても使えるうえ、風通しも良い。",
+    "translation": "店先に飾ることで、店の存在感をアピールすることができる。お店の看板としても使えるうえ、風通しも良い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.124.18",
+    "original": "暖簾",
+    "translation": "暖簾",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.125.17",
+    "original": "高級感が溢れるプレゼントボックス。大切なあの人に送るべきアイテムを可愛らしいラッピングで包んでいる。中には様々な素敵なアイテムが(中身不明)。",
+    "translation": "高級感が溢れるプレゼントボックス。大切なあの人に送るべきアイテムを可愛らしいラッピングで包んでいる。中には様々な素敵なアイテムが(中身不明)。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.125.18",
+    "original": "高級プレゼントボックス",
+    "translation": "高級プレゼントボックス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.126.17",
+    "original": "人間の存在を感知し、勝手に火が付く燭台。時折、勝手に火が付き、住民を恐怖に陥れる。",
+    "translation": "人間の存在を感知し、勝手に火が付く燭台。時折、勝手に火が付き、住民を恐怖に陥れる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.126.18",
+    "original": "人感燭台",
+    "translation": "人感燭台",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.127.17",
+    "original": "富裕層向けに設計された高級な家具セット。皿や壺などの、上質な食器のつめあわせ。一点物を好む富裕層がそういうものを好んで買うかは謎である……。",
+    "translation": "富裕層向けに設計された高級な家具セット。皿や壺などの、上質な食器のつめあわせ。一点物を好む富裕層がそういうものを好んで買うかは謎である……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.127.18",
+    "original": "高級家具セット",
+    "translation": "高級家具セット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.128.17",
+    "original": "黄金のコーティングを施した、見た目に豪華な水差し。適当に置いておくだけで、リッチな気分が味わえる。",
+    "translation": "黄金のコーティングを施した、見た目に豪華な水差し。適当に置いておくだけで、リッチな気分が味わえる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.128.18",
+    "original": "ゴールデン水差し",
+    "translation": "ゴールデン水差し",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.129.17",
+    "original": "魔女達が使う魔法の道具が揃う、魔法陣のあるキッチン。並の錬金術工房を上回る研究が可能である。",
+    "translation": "魔女達が使う魔法の道具が揃う、魔法陣のあるキッチン。並の錬金術工房を上回る研究が可能である。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.129.18",
+    "original": "魔女のキッチン",
+    "translation": "魔女のキッチン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.130.17",
+    "original": "死神の加護が与えられたお金入れ。よくわからない執念じみた力が勝手に掛けられており、他人がスろうとすると頭がおかしくなって倒れる。",
+    "translation": "死神の加護が与えられたお金入れ。よくわからない執念じみた力が勝手に掛けられており、他人がスろうとすると頭がおかしくなって倒れる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.130.18",
+    "original": "死神の財布",
+    "translation": "死神の財布",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.131.17",
+    "original": "初心者冒険者に使用されることを想定された量産用のロングソード。素材の価値を高めれば、品質は高まっていくだろう。",
+    "translation": "初心者冒険者に使用されることを想定された量産用のロングソード。素材の価値を高めれば、品質は高まっていくだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.131.18",
+    "original": "冒険者のロングソード",
+    "translation": "冒険者のロングソード",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.132.17",
+    "original": "軍用で使用されることを想定された量産用のクロスボウ。正確な射撃を行えるよう、部品は一点一点丁寧に仕上げている。",
+    "translation": "軍用で使用されることを想定された量産用のクロスボウ。正確な射撃を行えるよう、部品は一点一点丁寧に仕上げている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.132.18",
+    "original": "射撃手のクロスボウ",
+    "translation": "射撃手のクロスボウ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.133.17",
+    "original": "素速い身のこなしを主体とする盗賊向けに開発したナイフ。鋭い切れ味は、相手の急所を的確に刺し刻む。",
+    "translation": "素速い身のこなしを主体とする盗賊向けに開発したナイフ。鋭い切れ味は、相手の急所を的確に刺し刻む。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.133.18",
+    "original": "盗賊のナイフ",
+    "translation": "盗賊のナイフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.134.17",
+    "original": "近接格闘戦士向けにデザインしたナックル。格闘家の動きを阻害しないように作られ、さらに彼らの腕を守るように頑丈に作られている。",
+    "translation": "近接格闘戦士向けにデザインしたナックル。格闘家の動きを阻害しないように作られ、さらに彼らの腕を守るように頑丈に作られている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.134.18",
+    "original": "格闘家のナックル",
+    "translation": "格闘家のナックル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.135.17",
+    "original": "戦闘向けに作った大きな斧。命中すれば巨大な魔獣にも致命的なダメージを与えることが出来るだろう。木を伐採することも出来る。",
+    "translation": "戦闘向けに作った大きな斧。命中すれば巨大な魔獣にも致命的なダメージを与えることが出来るだろう。木を伐採することも出来る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.135.18",
+    "original": "戦士のバトルアックス",
+    "translation": "戦士のバトルアックス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.136.17",
+    "original": "冒険者だけでなく、拠点防衛にも使用されることを想定したロングスピア。折れないように、柄の強度には非常に気を付けられている。",
+    "translation": "冒険者だけでなく、拠点防衛にも使用されることを想定したロングスピア。折れないように、柄の強度には非常に気を付けられている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.136.18",
+    "original": "砦兵士のロングスピア",
+    "translation": "砦兵士のロングスピア",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.137.17",
+    "original": "鍛冶姫アンジュが気分で作った創作武器。持ち主のことを殆ど考えていないが、上手く性格が合えばすばらしい性能を発揮する……らしい。",
+    "translation": "鍛冶姫アンジュが気分で作った創作武器。持ち主のことを殆ど考えていないが、上手く性格が合えばすばらしい性能を発揮する……らしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.137.18",
+    "original": "アンジュお任せ制作武器",
+    "translation": "アンジュお任せ制作武器",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.138.17",
+    "original": "量産品の概念を塗り替える魔力付与ロングソード。生半可な武器鍛冶が作る一点物の武器とは品質が比べものにならないほど高くなる。",
+    "translation": "量産品の概念を塗り替える魔力付与ロングソード。生半可な武器鍛冶が作る一点物の武器とは品質が比べものにならないほど高くなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.138.18",
+    "original": "魔戦士のマジックソード",
+    "translation": "魔戦士のマジックソード",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.139.17",
+    "original": "重戦士用に作った鈍重なロングソード。並の人間には持ち上げることもできない。非常に頑丈なデザインで、簡単には砕けないようになっている。",
+    "translation": "重戦士用に作った鈍重なロングソード。並の人間には持ち上げることもできない。非常に頑丈なデザインで、簡単には砕けないようになっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.139.18",
+    "original": "重戦士のヘビーソード",
+    "translation": "重戦士のヘビーソード",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.140.17",
+    "original": "鍛冶姫アンジュが持ち主に合わせて武器をデザインしてくれる権利を販売することにした。購入後、アンジュがカスタムしてくれるらしい。",
+    "translation": "鍛冶姫アンジュが持ち主に合わせて武器をデザインしてくれる権利を販売することにした。購入後、アンジュがカスタムしてくれるらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.140.18",
+    "original": "鍛冶姫オーダーメイド武器",
+    "translation": "鍛冶姫オーダーメイド武器",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.141.17",
+    "original": "軽量かつ丈夫な革の鎧。旅人や駆け出しの冒険者たちに人気の防具。",
+    "translation": "軽量かつ丈夫な革の鎧。旅人や駆け出しの冒険者たちに人気の防具。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.141.18",
+    "original": "旅人のレザーアーマー",
+    "translation": "旅人のレザーアーマー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.142.17",
+    "original": "軽戦士の装備を想定されたブレストアーマー。動きやすいように、最低限の面積で最大限の効果を発揮できるように工夫された。",
+    "translation": "軽戦士の装備を想定されたブレストアーマー。動きやすいように、最低限の面積で最大限の効果を発揮できるように工夫された。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.142.18",
+    "original": "軽戦士のブレストアーマー",
+    "translation": "軽戦士のブレストアーマー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.143.17",
+    "original": "鱗状の金属を貼り合わせて作られた、頑丈な鎧。軽さと防御力を両立しており、傭兵たちが好んで身につける。",
+    "translation": "鱗状の金属を貼り合わせて作られた、頑丈な鎧。軽さと防御力を両立しており、傭兵たちが好んで身につける。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.143.18",
+    "original": "傭兵のスケイルメイル",
+    "translation": "傭兵のスケイルメイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.144.17",
+    "original": "主に騎士や兵士に装備されることを想定された金属鎧。多少動きにくいが、さまざまな攻撃を強力にシャットアウトし、装備者の安全を第一に守る。",
+    "translation": "主に騎士や兵士に装備されることを想定された金属鎧。多少動きにくいが、さまざまな攻撃を強力にシャットアウトし、装備者の安全を第一に守る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.144.18",
+    "original": "兵士のプレートアーマー",
+    "translation": "兵士のプレートアーマー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.145.17",
+    "original": "厚手で頑丈な革の鎧。狩人たちが獣から身を守るために使用する。軽量な革鎧でありながら、金属に匹敵する防御力を持つ。",
+    "translation": "厚手で頑丈な革の鎧。狩人たちが獣から身を守るために使用する。軽量な革鎧でありながら、金属に匹敵する防御力を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.145.18",
+    "original": "狩人のハードレザー",
+    "translation": "狩人のハードレザー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.146.17",
+    "original": "主に騎士に装備されることを想定した全身鎧。ふんだんに使った金属プレートが全身をくまなく防御し、さらに魔術触媒による魔術防御も施されている。",
+    "translation": "主に騎士に装備されることを想定した全身鎧。ふんだんに使った金属プレートが全身をくまなく防御し、さらに魔術触媒による魔術防御も施されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.146.18",
+    "original": "重騎士のフルプレート",
+    "translation": "重騎士のフルプレート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.147.17",
+    "original": "金属で作られた四角い盾。大きな面積を持っており、敵の投擲物を強力にガードする。頼りになる防御力を備えている。",
+    "translation": "金属で作られた四角い盾。大きな面積を持っており、敵の投擲物を強力にガードする。頼りになる防御力を備えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.147.18",
+    "original": "騎士のタワーシールド",
+    "translation": "騎士のタワーシールド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.148.17",
+    "original": "華美な装飾を施された全身鎧。全身鎧なりの防御力はあるが、どちらかというと儀礼用で、富豪向けの商品。",
+    "translation": "華美な装飾を施された全身鎧。全身鎧なりの防御力はあるが、どちらかというと儀礼用で、富豪向けの商品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.148.18",
+    "original": "装飾用の全身鎧",
+    "translation": "装飾用の全身鎧",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.149.17",
+    "original": "アンジュの手による、冒険者に合わせてカスタムされる上級防具。持ち主に合わせたカスタマイズが施される権利付き。",
+    "translation": "アンジュの手による、冒険者に合わせてカスタムされる上級防具。持ち主に合わせたカスタマイズが施される権利付き。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.149.18",
+    "original": "鍛冶姫オーダー防具",
+    "translation": "鍛冶姫オーダー防具",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.150.17",
+    "original": "装飾鎧をさらに豪華にした、実用性のない装備。徹底的に華美な装飾を施されている。盗難が恐ろしいが、生半可な人間には持ち上げることはできない。",
+    "translation": "装飾鎧をさらに豪華にした、実用性のない装備。徹底的に華美な装飾を施されている。盗難が恐ろしいが、生半可な人間には持ち上げることはできない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.150.18",
+    "original": "伝説の英雄鎧レプリカ",
+    "translation": "伝説の英雄鎧レプリカ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.151.17",
+    "original": "安い布で作成された量産服。安価で見た目もそれなり。",
+    "translation": "安い布で作成された量産服。安価で見た目もそれなり。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.151.18",
+    "original": "質の良い量産服",
+    "translation": "質の良い量産服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.152.17",
+    "original": "長旅に耐える、肩口からゆったりと体を覆うマント。丈夫さを保ちながら、水を弾くように加工されており、一般人も愛用する。",
+    "translation": "長旅に耐える、肩口からゆったりと体を覆うマント。丈夫さを保ちながら、水を弾くように加工されており、一般人も愛用する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.152.18",
+    "original": "旅人のマント",
+    "translation": "旅人のマント",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.153.17",
+    "original": "ゼカリウスの住人としてのステイタスとなる、オシャレな服。戦闘や冒険には向いていない。",
+    "translation": "ゼカリウスの住人としてのステイタスとなる、オシャレな服。戦闘や冒険には向いていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.153.18",
+    "original": "一般市民服",
+    "translation": "一般市民服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.154.17",
+    "original": "身につけていると一目置かれる感じのおしゃれな量産服。派手ではなく、それでいて地味ではないシックで質の良い質感の服。",
+    "translation": "身につけていると一目置かれる感じのおしゃれな量産服。派手ではなく、それでいて地味ではないシックで質の良い質感の服。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.154.18",
+    "original": "上質なおしゃれ服",
+    "translation": "上質なおしゃれ服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.155.17",
+    "original": "あまり一般販売できない高品質の服。身につけていると一般市民とは見られない、明らかに浮いているデザイン。悪く言えば華美な服。",
+    "translation": "あまり一般販売できない高品質の服。身につけていると一般市民とは見られない、明らかに浮いているデザイン。悪く言えば華美な服。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.155.18",
+    "original": "貴族に人気の服",
+    "translation": "貴族に人気の服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.156.17",
+    "original": "パーティーで互いにマウント合戦するのに使われるゴージャスな貴族服。貴金属ををふんだんに使用しておりリッチなデザイン。",
+    "translation": "パーティーで互いにマウント合戦するのに使われるゴージャスな貴族服。貴金属ををふんだんに使用しておりリッチなデザイン。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.156.18",
+    "original": "最新のファッション服",
+    "translation": "最新のファッション服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.157.17",
+    "original": "魔法の糸で編まれたおしゃれな衣服。魔力を込められた糸で編まれており、防御力もある。しかしおしゃれ用なので誰も気にしない。",
+    "translation": "魔法の糸で編まれたおしゃれな衣服。魔力を込められた糸で編まれており、防御力もある。しかしおしゃれ用なので誰も気にしない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.157.18",
+    "original": "魔法糸で編まれた衣服",
+    "translation": "魔法糸で編まれた衣服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.158.17",
+    "original": "闇系の住人が好んで着用する、黒い外套。怪しまれそうだが、認識阻害の魔術によって、誰も気にしない。",
+    "translation": "闇系の住人が好んで着用する、黒い外套。怪しまれそうだが、認識阻害の魔術によって、誰も気にしない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.158.18",
+    "original": "闇のマント",
+    "translation": "闇のマント",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.159.17",
+    "original": "妖精が織り上げたという触れ込みの、きらびやかなドレス。キラキラした布地は、言われれば信じてしまいそうだが、異邦の旅人は見覚えのあるデザインだと語る。",
+    "translation": "妖精が織り上げたという触れ込みの、きらびやかなドレス。キラキラした布地は、言われれば信じてしまいそうだが、異邦の旅人は見覚えのあるデザインだと語る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.159.18",
+    "original": "妖精糸のドレス",
+    "translation": "妖精糸のドレス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.160.17",
+    "original": "この上ない贅をつくしたゴージャスなファッション服。最新のデザイナーによって指定された型で、リッチに仕上げられている。派手すぎて、着る者を選びまくる。",
+    "translation": "この上ない贅をつくしたゴージャスなファッション服。最新のデザイナーによって指定された型で、リッチに仕上げられている。派手すぎて、着る者を選びまくる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.160.18",
+    "original": "ゴージャスファッション服",
+    "translation": "ゴージャスファッション服",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.161.17",
+    "original": "投擲の練習に最適な、威力の小さい爆弾。これでも一か所に集めて着火すれば、大変な事になる。",
+    "translation": "投擲の練習に最適な、威力の小さい爆弾。これでも一か所に集めて着火すれば、大変な事になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.161.18",
+    "original": "初心者用練習爆弾",
+    "translation": "初心者用練習爆弾",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.162.17",
+    "original": "鉱山の発破で使用されることを想定された爆発物。質が悪いので起爆まで時間が掛かり、破壊力もそれなり。",
+    "translation": "鉱山の発破で使用されることを想定された爆発物。質が悪いので起爆まで時間が掛かり、破壊力もそれなり。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.162.18",
+    "original": "発破用ボム",
+    "translation": "発破用ボム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.163.17",
+    "original": "燃えやすいオイルを詰めた瓶に、着火用の布を詰めた簡素な品。衝撃こそ無いが、手軽に広範囲に火炎をまき散らす事が可能な迷惑兵器。",
+    "translation": "燃えやすいオイルを詰めた瓶に、着火用の布を詰めた簡素な品。衝撃こそ無いが、手軽に広範囲に火炎をまき散らす事が可能な迷惑兵器。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.163.18",
+    "original": "火炎瓶",
+    "translation": "火炎瓶",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.164.17",
+    "original": "鉱山の発破で使用されることを想定されていた爆発物。起爆速度や破壊力が向上している。あまりにも性能が上がっているため、軍隊による需要が高まっている。",
+    "translation": "鉱山の発破で使用されることを想定されていた爆発物。起爆速度や破壊力が向上している。あまりにも性能が上がっているため、軍隊による需要が高まっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.164.18",
+    "original": "発破用ボム改",
+    "translation": "発破用ボム改",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.165.17",
+    "original": "硬い岩盤を破壊することができる、特別に調合された火薬爆弾。威力がありすぎる為、鉱山内での使用は禁止された。",
+    "translation": "硬い岩盤を破壊することができる、特別に調合された火薬爆弾。威力がありすぎる為、鉱山内での使用は禁止された。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.165.18",
+    "original": "高硬度岩盤用発破弾",
+    "translation": "高硬度岩盤用発破弾",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.166.17",
+    "original": "戦場の概念を塗り替える強力爆薬。魔力を持たない者でも、少量の粉末で上位攻撃魔術級の破壊力を放てる。コストも相応に高いのだが、喜んで欲しがる勢力は後を絶たない。",
+    "translation": "戦場の概念を塗り替える強力爆薬。魔力を持たない者でも、少量の粉末で上位攻撃魔術級の破壊力を放てる。コストも相応に高いのだが、喜んで欲しがる勢力は後を絶たない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.166.18",
+    "original": "軍用マジックボム",
+    "translation": "軍用マジックボム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.167.17",
+    "original": "衝撃を放たず、煙のみを一気に放つ煙幕弾。相手を混乱させることが狙いだが、ある時から煙に毒薬を配合する者が現れたため、対策が急がれている。",
+    "translation": "衝撃を放たず、煙のみを一気に放つ煙幕弾。相手を混乱させることが狙いだが、ある時から煙に毒薬を配合する者が現れたため、対策が急がれている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.167.18",
+    "original": "冒険者向け量産煙幕",
+    "translation": "冒険者向け量産煙幕",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.168.17",
+    "original": "新世代爆薬。上位魔術師数人による戦略魔術級の破壊力を誇り、なおかつ遠距離まで飛行する。あまりの能力に、各組織もざわめいている。",
+    "translation": "新世代爆薬。上位魔術師数人による戦略魔術級の破壊力を誇り、なおかつ遠距離まで飛行する。あまりの能力に、各組織もざわめいている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.168.18",
+    "original": "軍用マジックミサイル",
+    "translation": "軍用マジックミサイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.169.17",
+    "original": "水中で爆発させることを可能にした、高度な魔法爆弾。漁場の影響を危惧した漁師達が、廃絶を訴えている。",
+    "translation": "水中で爆発させることを可能にした、高度な魔法爆弾。漁場の影響を危惧した漁師達が、廃絶を訴えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.169.18",
+    "original": "軍用魚雷",
+    "translation": "軍用魚雷",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.170.17",
+    "original": "魔力が込められた巨大な矢を放ち、体内で炸裂させる二段構えの爆弾。大型魔獣も一撃で仕留めることができる威力を誇る。人間相手に使わないように。",
+    "translation": "魔力が込められた巨大な矢を放ち、体内で炸裂させる二段構えの爆弾。大型魔獣も一撃で仕留めることができる威力を誇る。人間相手に使わないように。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.170.18",
+    "original": "大型魔獣用マジックアロー",
+    "translation": "大型魔獣用マジックアロー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.171.17",
+    "original": "使用人を呼び出す為の、音を鳴らすベル。使用人を雇っていなくても、あれば鳴らしたくなる。",
+    "translation": "使用人を呼び出す為の、音を鳴らすベル。使用人を雇っていなくても、あれば鳴らしたくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.171.18",
+    "original": "呼び出しベル",
+    "translation": "呼び出しベル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.172.17",
+    "original": "砂時計。単なる砂時計ではなく、ゼカリウス近辺の貴重な宝石砂を使った、美しい砂時計である。実用価値は低いが、贅沢品という物はそんなもの。",
+    "translation": "砂時計。単なる砂時計ではなく、ゼカリウス近辺の貴重な宝石砂を使った、美しい砂時計である。実用価値は低いが、贅沢品という物はそんなもの。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.172.18",
+    "original": "アンティークの砂時計",
+    "translation": "アンティークの砂時計",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.173.17",
+    "original": "有名な大航海士が使っていたものと同じコンパス。本人が航海士だったかは別である。かっこいいから持っていると言うだけの、ムダに豪華な代物。",
+    "translation": "有名な大航海士が使っていたものと同じコンパス。本人が航海士だったかは別である。かっこいいから持っていると言うだけの、ムダに豪華な代物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.173.18",
+    "original": "アンティークのコンパス",
+    "translation": "アンティークのコンパス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.174.17",
+    "original": "貴重な宝石と貴金属をあしらった美しい指輪。魔力を秘めているような印象を受ける。高貴な女性に贈るためのプレゼント。",
+    "translation": "貴重な宝石と貴金属をあしらった美しい指輪。魔力を秘めているような印象を受ける。高貴な女性に贈るためのプレゼント。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.174.18",
+    "original": "秘石の指輪",
+    "translation": "秘石の指輪",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.175.17",
+    "original": "貴重な宝石と貴金属をあしらったサークレット。魔力を秘めているような印象を受けるが、防具効果は無い。高貴な女性に贈るためのプレゼント。",
+    "translation": "貴重な宝石と貴金属をあしらったサークレット。魔力を秘めているような印象を受けるが、防具効果は無い。高貴な女性に贈るためのプレゼント。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.175.18",
+    "original": "貴人のためのサークレット",
+    "translation": "貴人のためのサークレット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.176.17",
+    "original": "魔力が封じ込められた、煌めく宝玉。高級ではあるが、特に実用性があるわけではない。",
+    "translation": "魔力が封じ込められた、煌めく宝玉。高級ではあるが、特に実用性があるわけではない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.176.18",
+    "original": "魔術師の宝玉",
+    "translation": "魔術師の宝玉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.177.17",
+    "original": "貴重な宝石と貴金属をあしらった腕輪。権力者が富を示すためのツール。高貴な女性に贈るためのプレゼントでもあり、男性がその身を飾るためにも使われる。",
+    "translation": "貴重な宝石と貴金属をあしらった腕輪。権力者が富を示すためのツール。高貴な女性に贈るためのプレゼントでもあり、男性がその身を飾るためにも使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.177.18",
+    "original": "黄金の腕輪",
+    "translation": "黄金の腕輪",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.178.17",
+    "original": "美しい銀の杯。これに入れたワインは、その味を引き立ててくれる。至高の贅沢と美食には必須のアイテム。",
+    "translation": "美しい銀の杯。これに入れたワインは、その味を引き立ててくれる。至高の贅沢と美食には必須のアイテム。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.178.18",
+    "original": "至高の美食の杯",
+    "translation": "至高の美食の杯",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.179.17",
+    "original": "貴重な宝石と貴金属をあしらった最高品質の首飾り。当然、それぞれが一点物で、素晴らしい腕前の工芸職人による手作り。莫大な富を示すものである。",
+    "translation": "貴重な宝石と貴金属をあしらった最高品質の首飾り。当然、それぞれが一点物で、素晴らしい腕前の工芸職人による手作り。莫大な富を示すものである。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.179.18",
+    "original": "至高の首飾り",
+    "translation": "至高の首飾り",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.180.17",
+    "original": "豪華な龍を模った像。家庭の守護神や戦勝を祈願して崇められる。効果があるかどうかはともかく、細部にまで拘った造形は見る者の所有欲を刺激する。",
+    "translation": "豪華な龍を模った像。家庭の守護神や戦勝を祈願して崇められる。効果があるかどうかはともかく、細部にまで拘った造形は見る者の所有欲を刺激する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.180.18",
+    "original": "ゴールデンドラゴン",
+    "translation": "ゴールデンドラゴン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.181.17",
+    "original": "穀物と糖分を混ぜ合わせ、発酵させたアルコール飲料。熟成期間が足りず、その味わいは未熟だが、飲み干した後のほろりとした感覚は、冒険者には代えがたい幸福。",
+    "translation": "穀物と糖分を混ぜ合わせ、発酵させたアルコール飲料。熟成期間が足りず、その味わいは未熟だが、飲み干した後のほろりとした感覚は、冒険者には代えがたい幸福。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.181.18",
+    "original": "早熟の詰め酒",
+    "translation": "早熟の詰め酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.182.17",
+    "original": "穀物を発酵させ、綺麗な水と共に熟成させた泡立つアルコール飲料。爽快な苦味と喉越しで、冒険者が仕事の終わりに好んで飲む。",
+    "translation": "穀物を発酵させ、綺麗な水と共に熟成させた泡立つアルコール飲料。爽快な苦味と喉越しで、冒険者が仕事の終わりに好んで飲む。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.182.18",
+    "original": "穀物の熟成酒",
+    "translation": "穀物の熟成酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.183.17",
+    "original": "天然の果汁を発酵させて詰めた酒。程よい甘みと酸味を備えた飲料は、女性でも飲みやすい。半面、その甘い口当たりに騙されて、飲み過ぎてしまう冒険者も多い。",
+    "translation": "天然の果汁を発酵させて詰めた酒。程よい甘みと酸味を備えた飲料は、女性でも飲みやすい。半面、その甘い口当たりに騙されて、飲み過ぎてしまう冒険者も多い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.183.18",
+    "original": "果実の発酵酒",
+    "translation": "果実の発酵酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.184.17",
+    "original": "密閉した樽の中で長時間熟成させた酒。完全に熟成しきったこの酒は、スッキリした飲み口とキレを実現した。その分、アルコールの強さもかなりのもの。",
+    "translation": "密閉した樽の中で長時間熟成させた酒。完全に熟成しきったこの酒は、スッキリした飲み口とキレを実現した。その分、アルコールの強さもかなりのもの。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.184.18",
+    "original": "樽詰めの熟成酒",
+    "translation": "樽詰めの熟成酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.185.17",
+    "original": "薬草と糖類をバランスよく加え、精製したアルコール飲料でエキスを抽出した酒。中身の見えない容器は、飲めば体調が良くなる不思議な酒の魅力を引き立てる。",
+    "translation": "薬草と糖類をバランスよく加え、精製したアルコール飲料でエキスを抽出した酒。中身の見えない容器は、飲めば体調が良くなる不思議な酒の魅力を引き立てる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.185.18",
+    "original": "ミステリアスリキュール",
+    "translation": "ミステリアスリキュール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.186.17",
+    "original": "『魔女達のお茶会』上層部が勝手に醸造していた、薬草酒。届け出をしていなかった為に密造酒とされたが、追徴課税を支払わされた後、世間で人気を博した。",
+    "translation": "『魔女達のお茶会』上層部が勝手に醸造していた、薬草酒。届け出をしていなかった為に密造酒とされたが、追徴課税を支払わされた後、世間で人気を博した。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.186.18",
+    "original": "魔女の密造酒",
+    "translation": "魔女の密造酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.187.17",
+    "original": "世界を席巻できるとまで言われる、熟成酒を何度も蒸留して作った酒。強烈なアルコールと重厚な熟成の賜物である風味は、まさに人の歴史の到達点。",
+    "translation": "世界を席巻できるとまで言われる、熟成酒を何度も蒸留して作った酒。強烈なアルコールと重厚な熟成の賜物である風味は、まさに人の歴史の到達点。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.187.18",
+    "original": "ワールドウィスキー",
+    "translation": "ワールドウィスキー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.188.17",
+    "original": "液体そのものが輝いてるかの如き酒。伝承に謳われる酒を参考に精製されたこの酒は、人が飲めばたちまち陽気に踊り出すほどの幸福感をもたらす。",
+    "translation": "液体そのものが輝いてるかの如き酒。伝承に謳われる酒を参考に精製されたこの酒は、人が飲めばたちまち陽気に踊り出すほどの幸福感をもたらす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.188.18",
+    "original": "七色の蒸留酒",
+    "translation": "七色の蒸留酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.189.17",
+    "original": "神々が愛したと言われる伝説の酒を、今に蘇らせた至福のワイン。深紅の雫を飲み干せば、今際の際にいる老人も、たちまち活力を取り戻すという。",
+    "translation": "神々が愛したと言われる伝説の酒を、今に蘇らせた至福のワイン。深紅の雫を飲み干せば、今際の際にいる老人も、たちまち活力を取り戻すという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.189.18",
+    "original": "深紅のロイヤルワイン",
+    "translation": "深紅のロイヤルワイン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.190.17",
+    "original": "稀少種族エルフィードが、酒豪のドワーム族に対抗心を燃やして作り出した秘密の酒。熟成には長い年月が必要な為、今を生きる人間が飲めるのは極少量。",
+    "translation": "稀少種族エルフィードが、酒豪のドワーム族に対抗心を燃やして作り出した秘密の酒。熟成には長い年月が必要な為、今を生きる人間が飲めるのは極少量。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.190.18",
+    "original": "エルフィードの秘蔵酒",
+    "translation": "エルフィードの秘蔵酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.191.17",
+    "original": "特殊な薬草を砕いて干したもの。火を付けると常習性の高い煙が出る。身分の低い者が愛用しており、束の間の多幸感を得られるが、フィードバックは重い。",
+    "translation": "特殊な薬草を砕いて干したもの。火を付けると常習性の高い煙が出る。身分の低い者が愛用しており、束の間の多幸感を得られるが、フィードバックは重い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.191.18",
+    "original": "煙のでる草",
+    "translation": "煙のでる草",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.192.17",
+    "original": "乾燥させ、燃えやすくした葉っぱ。煙を吸えば、一時、贅沢な気分を味わえる。",
+    "translation": "乾燥させ、燃えやすくした葉っぱ。煙を吸えば、一時、贅沢な気分を味わえる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.192.18",
+    "original": "上質な葉っぱ",
+    "translation": "上質な葉っぱ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.193.17",
+    "original": "煙の出る草を選別し、良い部分のみを煎じたもの。より高濃度の煙を作ることができる。愛好者が言うには美味いらしいが、常習性もより高くなる。",
+    "translation": "煙の出る草を選別し、良い部分のみを煎じたもの。より高濃度の煙を作ることができる。愛好者が言うには美味いらしいが、常習性もより高くなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.193.18",
+    "original": "上質な煙の出る草",
+    "translation": "上質な煙の出る草",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.194.17",
+    "original": "煙の出る草から、さらに一部の効果の強いものを選別。草ではなく乳液を抽出して粉末状に加工した。常習性が高く、幸福感も味わうことができる。",
+    "translation": "煙の出る草から、さらに一部の効果の強いものを選別。草ではなく乳液を抽出して粉末状に加工した。常習性が高く、幸福感も味わうことができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.194.18",
+    "original": "フォーチュンスモーク",
+    "translation": "フォーチュンスモーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.195.17",
+    "original": "倫理の反転した邪教徒達が、それまでの価値観を捨て去る為の洗脳薬物。所持する事を禁止されているが、形を変え、ひっそりと闇の中を流通している。",
+    "translation": "倫理の反転した邪教徒達が、それまでの価値観を捨て去る為の洗脳薬物。所持する事を禁止されているが、形を変え、ひっそりと闇の中を流通している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.195.18",
+    "original": "邪教の秘薬草",
+    "translation": "邪教の秘薬草",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.196.17",
+    "original": "吸引することで多幸感を得られる粉末。常習性が高く、少量だが高値で取引される。南方のサージ地方から密かに原料を輸入され、加工したものが取引されている。",
+    "translation": "吸引することで多幸感を得られる粉末。常習性が高く、少量だが高値で取引される。南方のサージ地方から密かに原料を輸入され、加工したものが取引されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.196.18",
+    "original": "ハッピーパウダー",
+    "translation": "ハッピーパウダー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.197.17",
+    "original": "より高い濃度を持ち、成分を調整した粉末。高い酩酊感と多幸感を得られ、やんごとなき身分の間でひそかに出回っている。非常な高値で取引される。",
+    "translation": "より高い濃度を持ち、成分を調整した粉末。高い酩酊感と多幸感を得られ、やんごとなき身分の間でひそかに出回っている。非常な高値で取引される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.197.18",
+    "original": "エンジェルパウダー",
+    "translation": "エンジェルパウダー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.198.17",
+    "original": "緻密に成分調整した次世代粉末。極めて強い多幸感と幻惑を見ることが出来る、しあわせの薬。供給が稀少で、高値で取引されるにもかかわらず、奪い合う。",
+    "translation": "緻密に成分調整した次世代粉末。極めて強い多幸感と幻惑を見ることが出来る、しあわせの薬。供給が稀少で、高値で取引されるにもかかわらず、奪い合う。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.198.18",
+    "original": "ヘヴンズダスト",
+    "translation": "ヘヴンズダスト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.199.17",
+    "original": "南方で発見された、強力な幻覚作用を持つキノコ。合法の素材に混ざり、秘密裏に取引され、サージの貿易管理局が目を光らせている。",
+    "translation": "南方で発見された、強力な幻覚作用を持つキノコ。合法の素材に混ざり、秘密裏に取引され、サージの貿易管理局が目を光らせている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.199.18",
+    "original": "幸福キノコ",
+    "translation": "幸福キノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.200.17",
+    "original": "内部に強力な幻覚物質を含む、綺麗な花。一見するとありふれているが、とある村で秘密裏に品種を改良され続けており、王都でも密かに求められている。",
+    "translation": "内部に強力な幻覚物質を含む、綺麗な花。一見するとありふれているが、とある村で秘密裏に品種を改良され続けており、王都でも密かに求められている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.200.18",
+    "original": "ハッピーフラワー",
+    "translation": "ハッピーフラワー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.201.17",
+    "original": "清浄な力を持つという触れ込みの塩。悪霊や魔物を祓う際に用いられるが、使用後はしかるべき手順で廃棄しなくてはならない。",
+    "translation": "清浄な力を持つという触れ込みの塩。悪霊や魔物を祓う際に用いられるが、使用後はしかるべき手順で廃棄しなくてはならない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.201.18",
+    "original": "お清めソルト",
+    "translation": "お清めソルト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.202.17",
+    "original": "一般家庭向けに用意された廉価な魔術結界。悪しき霊体の侵入を防ぐ結界……だが、実用に耐えられるかはわからない。廉価なので、効果も気休め程度。",
+    "translation": "一般家庭向けに用意された廉価な魔術結界。悪しき霊体の侵入を防ぐ結界……だが、実用に耐えられるかはわからない。廉価なので、効果も気休め程度。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.202.18",
+    "original": "家庭向けアミュレット",
+    "translation": "家庭向けアミュレット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.203.17",
+    "original": "世界が危機に陥ったとき、選ばれた聖女に神が授ける地上最強の剣をかたどったありがたい聖剣。持っていると家内安全、商売繁盛になると言われてる。",
+    "translation": "世界が危機に陥ったとき、選ばれた聖女に神が授ける地上最強の剣をかたどったありがたい聖剣。持っていると家内安全、商売繁盛になると言われてる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.203.18",
+    "original": "一家に一本の聖剣",
+    "translation": "一家に一本の聖剣",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.204.17",
+    "original": "ヒエペリオ教会が信仰する『聖女』をかたどった、ありがたい像。聖女というのだから美しく心も清らかな女性に決まっている。",
+    "translation": "ヒエペリオ教会が信仰する『聖女』をかたどった、ありがたい像。聖女というのだから美しく心も清らかな女性に決まっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.204.18",
+    "original": "聖女の像",
+    "translation": "聖女の像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.205.17",
+    "original": "教会が聖なる力をこめたありがたいシンボル。見ていると心が洗われていく……。",
+    "translation": "教会が聖なる力をこめたありがたいシンボル。見ていると心が洗われていく……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.205.18",
+    "original": "ホーリーシンボル",
+    "translation": "ホーリーシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.206.17",
+    "original": "世界が危機に陥ったとき、選ばれた聖女に神が授ける地上最強の剣。地上を救い魔王を倒すのに使われたという伝説の武器。ヒエペリオの至宝である。自家製の。",
+    "translation": "世界が危機に陥ったとき、選ばれた聖女に神が授ける地上最強の剣。地上を救い魔王を倒すのに使われたという伝説の武器。ヒエペリオの至宝である。自家製の。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.206.18",
+    "original": "聖女の加護の剣",
+    "translation": "聖女の加護の剣",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.207.17",
+    "original": "古代の教団が書き残した、秘密の知識が書かれた書物の写本。魔法や神秘に関する知識が得られるかもしれないが、昔の品である為、大概は時代遅れ。",
+    "translation": "古代の教団が書き残した、秘密の知識が書かれた書物の写本。魔法や神秘に関する知識が得られるかもしれないが、昔の品である為、大概は時代遅れ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.207.18",
+    "original": "古代の聖書",
+    "translation": "古代の聖書",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.208.17",
+    "original": "邪教徒の拠点から押収された本のレプリカ。邪教の教えと企みを警告する為の物だが、一方で邪教に染まる者も生み出している。",
+    "translation": "邪教徒の拠点から押収された本のレプリカ。邪教の教えと企みを警告する為の物だが、一方で邪教に染まる者も生み出している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.208.18",
+    "original": "邪教の指導書",
+    "translation": "邪教の指導書",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.209.17",
+    "original": "神を崇拝する信仰心を高めるための書物。神々の教えを学び、自身の力を高めることができる。と、宗教関係者は訴えている。",
+    "translation": "神を崇拝する信仰心を高めるための書物。神々の教えを学び、自身の力を高めることができる。と、宗教関係者は訴えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.209.18",
+    "original": "神々の信仰書",
+    "translation": "神々の信仰書",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.210.17",
+    "original": "聖都セグルメットで崇められている女神像。一家に一台建てれば家内安全、商売繁盛。ゴールドざっくざくである。どこかで見たことがある？　気のせいデス。",
+    "translation": "聖都セグルメットで崇められている女神像。一家に一台建てれば家内安全、商売繁盛。ゴールドざっくざくである。どこかで見たことがある？　気のせいデス。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.210.18",
+    "original": "商売の女神像",
+    "translation": "商売の女神像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.211.17",
+    "original": "貧乏人が学問を学ぶために使う最低限の筆記用具。文字や絵を書くことはできるが、太い線を書く事しかできない為、後から文字を読むことが困難になりやすい。",
+    "translation": "貧乏人が学問を学ぶために使う最低限の筆記用具。文字や絵を書くことはできるが、太い線を書く事しかできない為、後から文字を読むことが困難になりやすい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.211.18",
+    "original": "使い捨てチョーク",
+    "translation": "使い捨てチョーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.212.17",
+    "original": "先端が摩擦で少しずつ削れるようにした、カラフルな筆記用具。文字を記載することができるうえ、用途によって色を変える事も可能。",
+    "translation": "先端が摩擦で少しずつ削れるようにした、カラフルな筆記用具。文字を記載することができるうえ、用途によって色を変える事も可能。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.212.18",
+    "original": "カラフル鉛筆",
+    "translation": "カラフル鉛筆",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.213.17",
+    "original": "魔法の力を持つインク。書物に書くことで、魔法の力を宿すことができる。",
+    "translation": "魔法の力を持つインク。書物に書くことで、魔法の力を宿すことができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.213.18",
+    "original": "マジックインク",
+    "translation": "マジックインク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.214.17",
+    "original": "冒険者がマッピングに使う道具をまとめたもの。マッパーが地形を記録しやすいように工夫を施されていて、とても使いやすく、地形調査にも有用。",
+    "translation": "冒険者がマッピングに使う道具をまとめたもの。マッパーが地形を記録しやすいように工夫を施されていて、とても使いやすく、地形調査にも有用。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.214.18",
+    "original": "冒険者のマップ",
+    "translation": "冒険者のマップ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.215.17",
+    "original": "芸術家達が考案した、芸術の為の塗料。材質を選ばず、カラフルな作品を仕上げることができる。代わりに、衣服に付着すると中々落ちない。",
+    "translation": "芸術家達が考案した、芸術の為の塗料。材質を選ばず、カラフルな作品を仕上げることができる。代わりに、衣服に付着すると中々落ちない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.215.18",
+    "original": "芸術用カラー塗料",
+    "translation": "芸術用カラー塗料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.216.17",
+    "original": "冒険者たちが持つ冒険日誌のようなもの。冒険の記録や、出会った人物や魔物の情報を書き留めることができ、所属ギルドの査定にも影響する。",
+    "translation": "冒険者たちが持つ冒険日誌のようなもの。冒険の記録や、出会った人物や魔物の情報を書き留めることができ、所属ギルドの査定にも影響する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.216.18",
+    "original": "冒険者の手帳",
+    "translation": "冒険者の手帳",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.217.17",
+    "original": "硬いペン先から少しずつインクが滲み出るように調整された筆記用具。書き心地が良く、インクの滲みも少ない高級品。",
+    "translation": "硬いペン先から少しずつインクが滲み出るように調整された筆記用具。書き心地が良く、インクの滲みも少ない高級品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.217.18",
+    "original": "万年インクペン",
+    "translation": "万年インクペン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.218.17",
+    "original": "黒炭を細く固めた芯を筒に入れ、尾部から少しずつ出せるようにした物。耐久性、持続性に優れた高級筆記用具。",
+    "translation": "黒炭を細く固めた芯を筒に入れ、尾部から少しずつ出せるようにした物。耐久性、持続性に優れた高級筆記用具。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.218.18",
+    "original": "飛び出し筆記黒炭",
+    "translation": "飛び出し筆記黒炭",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.219.17",
+    "original": "インクがじわじわと滲みだす機構を備えた筆記用具。学びたい事を念じながら記載すると、学んだことを忘れずに済むらしい。",
+    "translation": "インクがじわじわと滲みだす機構を備えた筆記用具。学びたい事を念じながら記載すると、学んだことを忘れずに済むらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.219.18",
+    "original": "忘れずの万年筆",
+    "translation": "忘れずの万年筆",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.220.17",
+    "original": "念じた物が書き込まれる、夢の本。他人の思考を盗み出す目的で悪用され、要人は魔術的な防御対策を迫られた。",
+    "translation": "念じた物が書き込まれる、夢の本。他人の思考を盗み出す目的で悪用され、要人は魔術的な防御対策を迫られた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.220.18",
+    "original": "記憶投射ブック",
+    "translation": "記憶投射ブック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.221.17",
+    "original": "食肉を乾燥させた保存食。冒険中でも手軽に肉を食べられる為、冒険者に人気。腹持ちするものの、塩味がキツい。",
+    "translation": "食肉を乾燥させた保存食。冒険中でも手軽に肉を食べられる為、冒険者に人気。腹持ちするものの、塩味がキツい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.221.18",
+    "original": "干した肉",
+    "translation": "干した肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.222.17",
+    "original": "大量に使用されることを想定された携帯食。栄養満点になるように調整したが、地獄を思わせる見た目と味に評判は悪い。非常に長持ちする。",
+    "translation": "大量に使用されることを想定された携帯食。栄養満点になるように調整したが、地獄を思わせる見た目と味に評判は悪い。非常に長持ちする。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.222.18",
+    "original": "軍用携帯スープ",
+    "translation": "軍用携帯スープ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.223.17",
+    "original": "とても日持ちする固いパン。保存のために徹底的に水分を抜いた為、武器にもなりそうな堅さになった。",
+    "translation": "とても日持ちする固いパン。保存のために徹底的に水分を抜いた為、武器にもなりそうな堅さになった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.223.18",
+    "original": "堅いパン",
+    "translation": "堅いパン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.224.17",
+    "original": "大量に使用されることを想定された携帯食。肉を食べたいという要望に応えて、保存の利く肉を作り出した。なぜか評判は悪い。",
+    "translation": "大量に使用されることを想定された携帯食。肉を食べたいという要望に応えて、保存の利く肉を作り出した。なぜか評判は悪い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.224.18",
+    "original": "軍用携帯ビーフジャーキー",
+    "translation": "軍用携帯ビーフジャーキー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.225.17",
+    "original": "異国から伝わった、味が良く、そこそこ長持ちし、栄養バランスも整った携帯用の食糧。軍用食しか食べた事のない兵士が、これを食べて咽び泣いた。",
+    "translation": "異国から伝わった、味が良く、そこそこ長持ちし、栄養バランスも整った携帯用の食糧。軍用食しか食べた事のない兵士が、これを食べて咽び泣いた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.225.18",
+    "original": "理想の携帯兵糧",
+    "translation": "理想の携帯兵糧",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.226.17",
+    "original": "素早い爬虫類を捕まえて、火を通したワイルド携帯食。生きる為に仕方なく食べる物だが、意外と美味しいらしく、携帯食を研究する軍関係者が憤慨した。",
+    "translation": "素早い爬虫類を捕まえて、火を通したワイルド携帯食。生きる為に仕方なく食べる物だが、意外と美味しいらしく、携帯食を研究する軍関係者が憤慨した。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.226.18",
+    "original": "現地調達携帯食",
+    "translation": "現地調達携帯食",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.227.17",
+    "original": "大量に使用されることを想定された携帯食。味と見た目が悪い不評を克服した、シンプルな見た目と味。栄養は満点だが食べた気がしないという不満が出ている。",
+    "translation": "大量に使用されることを想定された携帯食。味と見た目が悪い不評を克服した、シンプルな見た目と味。栄養は満点だが食べた気がしないという不満が出ている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.227.18",
+    "original": "軍用携帯シチュー",
+    "translation": "軍用携帯シチュー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.228.17",
+    "original": "不味い携帯食に辟易する冒険者のために新たに開発した美味しい携帯食。栄養満点で美味。欠点は、あまりにも美味しすぎて、すぐに食べきってしまう点である。",
+    "translation": "不味い携帯食に辟易する冒険者のために新たに開発した美味しい携帯食。栄養満点で美味。欠点は、あまりにも美味しすぎて、すぐに食べきってしまう点である。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.228.18",
+    "original": "おいしい携帯ビーフ",
+    "translation": "おいしい携帯ビーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.229.17",
+    "original": "動物の栄養を手軽に摂取でき、クリーミーで濃厚な味のある軍用食。軽いうえに味にも拘り、その見た目からすぐに消費されることもないのだが、現場からは不評。",
+    "translation": "動物の栄養を手軽に摂取でき、クリーミーで濃厚な味のある軍用食。軽いうえに味にも拘り、その見た目からすぐに消費されることもないのだが、現場からは不評。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.229.18",
+    "original": "濃縮動物性栄養食",
+    "translation": "濃縮動物性栄養食",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.230.17",
+    "original": "ゼカリウスの海の幸をふんだんに使った究極の軍用携帯食。口にした者は鬼神のごとき強さを発揮して大活躍するが、なぜか二度と食べたがらない。",
+    "translation": "ゼカリウスの海の幸をふんだんに使った究極の軍用携帯食。口にした者は鬼神のごとき強さを発揮して大活躍するが、なぜか二度と食べたがらない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.230.18",
+    "original": "軍用食ゼカリウスグレート",
+    "translation": "軍用食ゼカリウスグレート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.231.17",
+    "original": "とある植物の地下茎を凝固剤で固めたもの。原料はそのままだと毒性を持つ為、この調理法が必須。どうしてここまでして食べるのか。",
+    "translation": "とある植物の地下茎を凝固剤で固めたもの。原料はそのままだと毒性を持つ為、この調理法が必須。どうしてここまでして食べるのか。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.231.18",
+    "original": "凝塊地下茎",
+    "translation": "凝塊地下茎",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.232.17",
+    "original": "辛みのある森のハーブで味をつけたテンタクル。採れたばかりの新鮮な魚介類の為、安心して食べられる。断じて這い寄る変な触手ではない。",
+    "translation": "辛みのある森のハーブで味をつけたテンタクル。採れたばかりの新鮮な魚介類の為、安心して食べられる。断じて這い寄る変な触手ではない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.232.18",
+    "original": "灯台守のたこわさ盛り",
+    "translation": "灯台守のたこわさ盛り",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.233.17",
+    "original": "テンタクルの触手を串に刺し、焼き上げた料理。恐怖を与える見た目とは裏腹に、弾力と濃厚な味が楽しめる。",
+    "translation": "テンタクルの触手を串に刺し、焼き上げた料理。恐怖を与える見た目とは裏腹に、弾力と濃厚な味が楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.233.18",
+    "original": "テンタクル触手串焼き",
+    "translation": "テンタクル触手串焼き",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.234.17",
+    "original": "謎の肉を干したもの。見た目さえ気にしなければ栄養満点。",
+    "translation": "謎の肉を干したもの。見た目さえ気にしなければ栄養満点。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.234.18",
+    "original": "干した珍味",
+    "translation": "干した珍味",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.235.17",
+    "original": "奥が透けて見える程に薄く切った穀物を、ナイフで切れないほどパリパリに、高温のオイルで揚げた料理。食用のオイルは貴重なため、中々の贅沢品。",
+    "translation": "奥が透けて見える程に薄く切った穀物を、ナイフで切れないほどパリパリに、高温のオイルで揚げた料理。食用のオイルは貴重なため、中々の贅沢品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.235.18",
+    "original": "極薄穀物フライ",
+    "translation": "極薄穀物フライ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.236.17",
+    "original": "調味料で漬け込んだカラフルなナッツ類。しかしメインの入手先は冒険者が森で採取する為、どのような植物から取れるのかは不明。",
+    "translation": "調味料で漬け込んだカラフルなナッツ類。しかしメインの入手先は冒険者が森で採取する為、どのような植物から取れるのかは不明。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.236.18",
+    "original": "カラフルナッツ",
+    "translation": "カラフルナッツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.237.17",
+    "original": "味を付けた油に漬け込んだ魔獣の目玉。見た目はグロテスクだが、酒の肴には意外に合うと評判。",
+    "translation": "味を付けた油に漬け込んだ魔獣の目玉。見た目はグロテスクだが、酒の肴には意外に合うと評判。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.237.18",
+    "original": "オイル着け魔獣の目玉",
+    "translation": "オイル着け魔獣の目玉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.238.17",
+    "original": "何とも言葉にし難いテンタクルの様な触腕。これをスライスしてそのままなり、焼くなりしてから口に入れる。それだけで言い表せない表情になるとかならないとか。",
+    "translation": "何とも言葉にし難いテンタクルの様な触腕。これをスライスしてそのままなり、焼くなりしてから口に入れる。それだけで言い表せない表情になるとかならないとか。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.238.18",
+    "original": "新鮮な這い寄る触手",
+    "translation": "新鮮な這い寄る触手",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.239.17",
+    "original": "魔獣の強靭な内臓にひき肉を詰めた料理。硬い皮のような外側と、肉汁の溢れる内側の食感が人気だが、元は錬金術師が魔獣のいらない部位で作った家畜の餌。",
+    "translation": "魔獣の強靭な内臓にひき肉を詰めた料理。硬い皮のような外側と、肉汁の溢れる内側の食感が人気だが、元は錬金術師が魔獣のいらない部位で作った家畜の餌。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.239.18",
+    "original": "魔獣の腸詰",
+    "translation": "魔獣の腸詰",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.240.17",
+    "original": "水揚げされた怪魚を煮込んだ料理。新鮮な魚を煮込んで取れた味わいは、他の地方では味わえない、唯一の無二。",
+    "translation": "水揚げされた怪魚を煮込んだ料理。新鮮な魚を煮込んで取れた味わいは、他の地方では味わえない、唯一の無二。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.240.18",
+    "original": "怪魚の煮込み",
+    "translation": "怪魚の煮込み",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.241.17",
+    "original": "地下水をそのまま組み上げた井戸水。海水と違い、塩分を含まないので環境の清潔さを保つのにも欠かせない。しかし、飲料水にするには、熱を通した方が無難。",
+    "translation": "地下水をそのまま組み上げた井戸水。海水と違い、塩分を含まないので環境の清潔さを保つのにも欠かせない。しかし、飲料水にするには、熱を通した方が無難。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.241.18",
+    "original": "汲んだだけの井戸水",
+    "translation": "汲んだだけの井戸水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.242.17",
+    "original": "飲料水としても使える、調整された清潔な水。海水から精製するには手間がかかる為、そのまま飲めるほどの清水は高値で取引されている。",
+    "translation": "飲料水としても使える、調整された清潔な水。海水から精製するには手間がかかる為、そのまま飲めるほどの清水は高値で取引されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.242.18",
+    "original": "清潔な美味しい清水",
+    "translation": "清潔な美味しい清水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.243.17",
+    "original": "精神を落ち着かせる効果がある、清涼な香りを放つお茶。古代の英雄も愛飲したといわれ、鎮静効果が高い。",
+    "translation": "精神を落ち着かせる効果がある、清涼な香りを放つお茶。古代の英雄も愛飲したといわれ、鎮静効果が高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.243.18",
+    "original": "ミントティー",
+    "translation": "ミントティー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.244.17",
+    "original": "新鮮な果実から絞り出した果汁をミックスし、飲みやすい配合で作り上げた果汁飲料。甘酸っぱい爽やかな味は、女性や子供に大人気。",
+    "translation": "新鮮な果実から絞り出した果汁をミックスし、飲みやすい配合で作り上げた果汁飲料。甘酸っぱい爽やかな味は、女性や子供に大人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.244.18",
+    "original": "フレッシュジュース",
+    "translation": "フレッシュジュース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.245.17",
+    "original": "ゼカリウスで考案された茶葉を独自にブレンドして普及させた飲料。都市部の人間にも馴染みのある味を、手軽に持ち運べるとして人気。",
+    "translation": "ゼカリウスで考案された茶葉を独自にブレンドして普及させた飲料。都市部の人間にも馴染みのある味を、手軽に持ち運べるとして人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.245.18",
+    "original": "ゼカリウスブレンド",
+    "translation": "ゼカリウスブレンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.246.17",
+    "original": "香りの良い茶葉を厳選し、温めたミルクで煮出したお茶。暖かくホッとする味わいは、寒い地域では特に好まれる。",
+    "translation": "香りの良い茶葉を厳選し、温めたミルクで煮出したお茶。暖かくホッとする味わいは、寒い地域では特に好まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.246.18",
+    "original": "ハピネスミルクティー",
+    "translation": "ハピネスミルクティー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.247.17",
+    "original": "飲めば幸福になると言われる、多大な多幸感をもたらす薬湯。七色に輝く飴色の液体は、多くの権力者を魅了してきた魔性の雫。",
+    "translation": "飲めば幸福になると言われる、多大な多幸感をもたらす薬湯。七色に輝く飴色の液体は、多くの権力者を魅了してきた魔性の雫。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.247.18",
+    "original": "至福のプリズムカフェ",
+    "translation": "至福のプリズムカフェ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.248.17",
+    "original": "飲むと生命力がみなぎり、涸れた精力も戻るほどの効果を秘めた、生命力を漲らせる飲料。噂を聞いた貴族や王族が大金を積んで欲しがるという。",
+    "translation": "飲むと生命力がみなぎり、涸れた精力も戻るほどの効果を秘めた、生命力を漲らせる飲料。噂を聞いた貴族や王族が大金を積んで欲しがるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.248.18",
+    "original": "ロイヤルリーフ",
+    "translation": "ロイヤルリーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.249.17",
+    "original": "珍しい果実を使ったフレッシュなジュース。稀少な果実や野菜の果汁を詰め込み、美味しいだけでなく、大地の栄養を一息に取り入れる事ができる。",
+    "translation": "珍しい果実を使ったフレッシュなジュース。稀少な果実や野菜の果汁を詰め込み、美味しいだけでなく、大地の栄養を一息に取り入れる事ができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.249.18",
+    "original": "エキゾチックジュース",
+    "translation": "エキゾチックジュース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.250.17",
+    "original": "神秘的な力を秘めた聖杯。中には絶えず、聖なる液体が満たされており、奇跡の液体として宗教家や富裕層が求める。ひっくりかえしたら一面が水浸しになりそうだ。",
+    "translation": "神秘的な力を秘めた聖杯。中には絶えず、聖なる液体が満たされており、奇跡の液体として宗教家や富裕層が求める。ひっくりかえしたら一面が水浸しになりそうだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.250.18",
+    "original": "神秘の聖杯",
+    "translation": "神秘の聖杯",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.251.17",
+    "original": "疲れた体を元気にする効果がある飲み物。",
+    "translation": "疲れた体を元気にする効果がある飲み物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.251.18",
+    "original": "エナジードリンク",
+    "translation": "エナジードリンク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.252.17",
+    "original": "一時のスタミナを得る為のドリンク。気休めではあるが、明日の自分から体力を前借りできる。",
+    "translation": "一時のスタミナを得る為のドリンク。気休めではあるが、明日の自分から体力を前借りできる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.252.18",
+    "original": "チャージドリンク",
+    "translation": "チャージドリンク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.253.17",
+    "original": "スタミナが回復した気になれる強壮剤。一本飲み干せば、たちまち好調時の体力が戻って来る。",
+    "translation": "スタミナが回復した気になれる強壮剤。一本飲み干せば、たちまち好調時の体力が戻って来る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.253.18",
+    "original": "滋養強壮ドリンク",
+    "translation": "滋養強壮ドリンク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.254.17",
+    "original": "女性が衰えた男性に送る、可愛らしい瓶に入ったドリンク剤。これを飲み干した男性と夜を共にすると、足腰が立たなくなるほど、激しく求められてしまうと言う。",
+    "translation": "女性が衰えた男性に送る、可愛らしい瓶に入ったドリンク剤。これを飲み干した男性と夜を共にすると、足腰が立たなくなるほど、激しく求められてしまうと言う。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.254.18",
+    "original": "精力スネーク酒",
+    "translation": "精力スネーク酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.255.17",
+    "original": "呪術師が作った、体力や精神力を増強する薬品。",
+    "translation": "呪術師が作った、体力や精神力を増強する薬品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.255.18",
+    "original": "呪術師の精力剤",
+    "translation": "呪術師の精力剤",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.256.17",
+    "original": "性欲溢れる男性が、気に入ったパートナーとの情事に及ぶ際に飲む、特注の酒。飲み干すと体が熱くなり、溢れる程の性欲と体力を得られる。",
+    "translation": "性欲溢れる男性が、気に入ったパートナーとの情事に及ぶ際に飲む、特注の酒。飲み干すと体が熱くなり、溢れる程の性欲と体力を得られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.256.18",
+    "original": "性剛の強壮トニック",
+    "translation": "性剛の強壮トニック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.257.17",
+    "original": "野獣の力を引き出す効果がある丸薬。これを飲まされた男性は、どんなに大人しい性格でも、ケダモノになってしまうとか。",
+    "translation": "野獣の力を引き出す効果がある丸薬。これを飲まされた男性は、どんなに大人しい性格でも、ケダモノになってしまうとか。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.257.18",
+    "original": "野獣の秘薬",
+    "translation": "野獣の秘薬",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.258.17",
+    "original": "淫魔が気に入った人間の男に飲ませる精力剤。飲めば無尽蔵の精力を手に入れることができる。薬師がその製法を研究しているが、薬効を実現できたものは少ない。",
+    "translation": "淫魔が気に入った人間の男に飲ませる精力剤。飲めば無尽蔵の精力を手に入れることができる。薬師がその製法を研究しているが、薬効を実現できたものは少ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.258.18",
+    "original": "淫魔ギンギンＥＸ",
+    "translation": "淫魔ギンギンＥＸ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.259.17",
+    "original": "不死鳥の如く陰茎を奮い立たせると言われている精力剤。何度射精しても、たちまちペニスが勃ち上がり、精を吐き出し続けると言われる。",
+    "translation": "不死鳥の如く陰茎を奮い立たせると言われている精力剤。何度射精しても、たちまちペニスが勃ち上がり、精を吐き出し続けると言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.259.18",
+    "original": "不死鳥の精力剤",
+    "translation": "不死鳥の精力剤",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.260.17",
+    "original": "恋の女神がもたらすとされる、甘く美味しい蜜酒。男女が一口飲むだけで、丸一日交わり続けてしまうほどの効果がある。一緒に飲むという合意が無いと提供されない。",
+    "translation": "恋の女神がもたらすとされる、甘く美味しい蜜酒。男女が一口飲むだけで、丸一日交わり続けてしまうほどの効果がある。一緒に飲むという合意が無いと提供されない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.260.18",
+    "original": "恋するカクテル",
+    "translation": "恋するカクテル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.261.17",
+    "original": "何か不思議な効果があるかもしれない、模様の付いた石。特に不思議な効果はない。と思われている。",
+    "translation": "何か不思議な効果があるかもしれない、模様の付いた石。特に不思議な効果はない。と思われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.261.18",
+    "original": "謎めいたアイテム",
+    "translation": "謎めいたアイテム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.262.17",
+    "original": "『オフダ』と言われる小型の魔術保護具。補助的アイテムではあるが、品物自体にも僅かに呪いの痕跡を感じられる。",
+    "translation": "『オフダ』と言われる小型の魔術保護具。補助的アイテムではあるが、品物自体にも僅かに呪いの痕跡を感じられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.262.18",
+    "original": "模様のついた紙片",
+    "translation": "模様のついた紙片",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.263.17",
+    "original": "骨で作られた、船の舳先のような家庭用の飾り。一見すると普通のインテリアと変わらないが、どこかの宗教団体のシンボルでもある",
+    "translation": "骨で作られた、船の舳先のような家庭用の飾り。一見すると普通のインテリアと変わらないが、どこかの宗教団体のシンボルでもある",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.263.18",
+    "original": "隠れインテリア",
+    "translation": "隠れインテリア",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.264.17",
+    "original": "不思議なエネルギーを発する石が取り付けられたメダル。何の変哲もない品のはずだが、人から人の手に渡るうちに、負の力を蓄積している。",
+    "translation": "不思議なエネルギーを発する石が取り付けられたメダル。何の変哲もない品のはずだが、人から人の手に渡るうちに、負の力を蓄積している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.264.18",
+    "original": "不思議なメダル",
+    "translation": "不思議なメダル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.265.17",
+    "original": "屋敷の入口に設置する大きな像。動き出したりはしないが、こんなものを設置すれば明らかに危険視されそうである。",
+    "translation": "屋敷の入口に設置する大きな像。動き出したりはしないが、こんなものを設置すれば明らかに危険視されそうである。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.265.18",
+    "original": "ガーゴイルの像",
+    "translation": "ガーゴイルの像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.266.17",
+    "original": "ドクロをかたどったシンボル。見ていると心が闇に飲まれていく……。",
+    "translation": "ドクロをかたどったシンボル。見ていると心が闇に飲まれていく……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.266.18",
+    "original": "怨念ドクロのシンボル",
+    "translation": "怨念ドクロのシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.267.17",
+    "original": "禍々しい赤い輝きを放つ大ナタ。巨大な武器ではあるが、巨大なだけで刃はついていない。巨大さと禍々しさで、目にしたものを威圧する呪物。",
+    "translation": "禍々しい赤い輝きを放つ大ナタ。巨大な武器ではあるが、巨大なだけで刃はついていない。巨大さと禍々しさで、目にしたものを威圧する呪物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.267.18",
+    "original": "邪神の大ナタ",
+    "translation": "邪神の大ナタ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.268.17",
+    "original": "邪教が崇拝するデーモンの形をした神像。魔術触媒と呪物をふんだんに使用しており、強いパワーを秘めている。邪教崇拝者の拠点に必須。",
+    "translation": "邪教が崇拝するデーモンの形をした神像。魔術触媒と呪物をふんだんに使用しており、強いパワーを秘めている。邪教崇拝者の拠点に必須。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.268.18",
+    "original": "邪教の神像",
+    "translation": "邪教の神像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.269.17",
+    "original": "古代の呪詛儀式で使われていた装飾品と見られる遺物。不吉な魔力を放っており、何の力もない一般人は、本能的に近付かなくなる。",
+    "translation": "古代の呪詛儀式で使われていた装飾品と見られる遺物。不吉な魔力を放っており、何の力もない一般人は、本能的に近付かなくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.269.18",
+    "original": "古代の呪詛儀式装飾",
+    "translation": "古代の呪詛儀式装飾",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.270.17",
+    "original": "古代の魔術師が奈落の魔力を解放する為に用いたとされている鍵。力のない物は触れただけで蝕まれる為、装着は厳禁。",
+    "translation": "古代の魔術師が奈落の魔力を解放する為に用いたとされている鍵。力のない物は触れただけで蝕まれる為、装着は厳禁。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.270.18",
+    "original": "神秘の鍵",
+    "translation": "神秘の鍵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.271.17",
+    "original": "口に嵌めるタイプの拘束具。プレイのアイテムとして使われ、気分を盛り上げる効果がある。",
+    "translation": "口に嵌めるタイプの拘束具。プレイのアイテムとして使われ、気分を盛り上げる効果がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.271.18",
+    "original": "噛ませ拘束具",
+    "translation": "噛ませ拘束具",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.272.17",
+    "original": "手軽に使えるローション。リラックスや快感を得るために使われる。床にぶちまけると滑って歩けなくなる。",
+    "translation": "手軽に使えるローション。リラックスや快感を得るために使われる。床にぶちまけると滑って歩けなくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.272.18",
+    "original": "お手軽ローション",
+    "translation": "お手軽ローション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.273.17",
+    "original": "目に取り付ける目隠し用のグッズ。視覚を封じられると、僅かに全身の感覚が過敏になり、より大人の時間を楽しめる。",
+    "translation": "目に取り付ける目隠し用のグッズ。視覚を封じられると、僅かに全身の感覚が過敏になり、より大人の時間を楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.273.18",
+    "original": "ドキドキアイマスク",
+    "translation": "ドキドキアイマスク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.274.17",
+    "original": "手の自由を封じる金属製の枷。パートナーに自らの自由を委ねる為、信頼した相手とのプレイにしか使えない。軽いSMプレイに重宝される。",
+    "translation": "手の自由を封じる金属製の枷。パートナーに自らの自由を委ねる為、信頼した相手とのプレイにしか使えない。軽いSMプレイに重宝される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.274.18",
+    "original": "アブノーマルな手枷",
+    "translation": "アブノーマルな手枷",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.275.17",
+    "original": "魔力で震える性グッズ。敏感な部分に張り付けると、自動で震えて快楽を引き上げていく。機械的に動くため、無理矢理性感を上げていくことも可能。",
+    "translation": "魔力で震える性グッズ。敏感な部分に張り付けると、自動で震えて快楽を引き上げていく。機械的に動くため、無理矢理性感を上げていくことも可能。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.275.18",
+    "original": "ブルブル振動ローター",
+    "translation": "ブルブル振動ローター",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.276.17",
+    "original": "アナル開発用のアイテム。一段階ずつ大きくなる球状のパーツは、ゆっくりと体を開発していく。",
+    "translation": "アナル開発用のアイテム。一段階ずつ大きくなる球状のパーツは、ゆっくりと体を開発していく。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.276.18",
+    "original": "膨張するアナルビーズ",
+    "translation": "膨張するアナルビーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.277.17",
+    "original": "ペニスを持たない女性が腰に装着し、疑似的な男根を得る道具。女性同士で使う他、男性の肛門を抉り、性感を開発する用途にも使用可能。",
+    "translation": "ペニスを持たない女性が腰に装着し、疑似的な男根を得る道具。女性同士で使う他、男性の肛門を抉り、性感を開発する用途にも使用可能。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.277.18",
+    "original": "性開発ペニスバンド",
+    "translation": "性開発ペニスバンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.278.17",
+    "original": "うねうねと動く男根型の機械。主に自慰行為に使用するが、この刺激に慣れると貧弱な一般男性のペニスでは満足できなくなってしまう。娼婦の訓練にも使用される。",
+    "translation": "うねうねと動く男根型の機械。主に自慰行為に使用するが、この刺激に慣れると貧弱な一般男性のペニスでは満足できなくなってしまう。娼婦の訓練にも使用される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.278.18",
+    "original": "極太ペニスバイブ",
+    "translation": "極太ペニスバイブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.279.17",
+    "original": "魔力によって自在に動く、リアルなデザインの触手。先端からは精液を模した液体を噴射する機能を持たせてある。",
+    "translation": "魔力によって自在に動く、リアルなデザインの触手。先端からは精液を模した液体を噴射する機能を持たせてある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.279.18",
+    "original": "自在に動く触手",
+    "translation": "自在に動く触手",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.280.17",
+    "original": "サキュバスの力を得ると言われるローション。快楽やエネルギーを得るために使われるが、使うと感度が上がるが、人によっては縫った途端に絶頂してしまう。",
+    "translation": "サキュバスの力を得ると言われるローション。快楽やエネルギーを得るために使われるが、使うと感度が上がるが、人によっては縫った途端に絶頂してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.280.18",
+    "original": "サキュバスローション",
+    "translation": "サキュバスローション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.281.17",
+    "original": "そのあたりの薬草の詰め合わせ。質の悪い薬草ではないのだが濃縮されておらず、回復量は高くもない。安いため、貧乏な初心者パーティーからも買われる。",
+    "translation": "そのあたりの薬草の詰め合わせ。質の悪い薬草ではないのだが濃縮されておらず、回復量は高くもない。安いため、貧乏な初心者パーティーからも買われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.281.18",
+    "original": "薬草の詰め合わせ",
+    "translation": "薬草の詰め合わせ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.282.17",
+    "original": "低級の毒消し。毒ぐらいにしか効果が無いが、致命的に危険な状態異常の毒を消せる需要は非常に高い。初心者からベテランまで愛用されている。",
+    "translation": "低級の毒消し。毒ぐらいにしか効果が無いが、致命的に危険な状態異常の毒を消せる需要は非常に高い。初心者からベテランまで愛用されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.282.18",
+    "original": "アンチドート",
+    "translation": "アンチドート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.283.17",
+    "original": "成分を濃縮して回復力を高めたポーション。低品質の薬草を使用しているが、技術力の高さで回復力を高めており、値段に対して驚く程の回復能力を有している。",
+    "translation": "成分を濃縮して回復力を高めたポーション。低品質の薬草を使用しているが、技術力の高さで回復力を高めており、値段に対して驚く程の回復能力を有している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.283.18",
+    "original": "ポーション",
+    "translation": "ポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.284.17",
+    "original": "高品質の薬草をふんだんに使った回復ポーション。やや高価だがコストパフォーマンスの高さを買われてベテラン冒険者に愛用されている。",
+    "translation": "高品質の薬草をふんだんに使った回復ポーション。やや高価だがコストパフォーマンスの高さを買われてベテラン冒険者に愛用されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.284.18",
+    "original": "ハイポーション",
+    "translation": "ハイポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.285.17",
+    "original": "一時的に能力を高めるポーション。強敵と対決するベテラン冒険者の切り札として愛用されている。効果はかなり高く、背伸びをして危険に足を踏み入れる者も……。",
+    "translation": "一時的に能力を高めるポーション。強敵と対決するベテラン冒険者の切り札として愛用されている。効果はかなり高く、背伸びをして危険に足を踏み入れる者も……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.285.18",
+    "original": "ブレイブポーション",
+    "translation": "ブレイブポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.286.17",
+    "original": "最高品質の薬草をふんだんに使った回復ポーション。瀕死の重傷もたちどころに治療する回復力はベテラン冒険者の切り札として人気が高い。",
+    "translation": "最高品質の薬草をふんだんに使った回復ポーション。瀕死の重傷もたちどころに治療する回復力はベテラン冒険者の切り札として人気が高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.286.18",
+    "original": "メガポーション",
+    "translation": "メガポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.287.17",
+    "original": "毒を治しながら傷を癒すことができるポーション。猛毒を持った相手と戦う際に、重要な役目を果たす。",
+    "translation": "毒を治しながら傷を癒すことができるポーション。猛毒を持った相手と戦う際に、重要な役目を果たす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.287.18",
+    "original": "キュアポーション",
+    "translation": "キュアポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.288.17",
+    "original": "あらゆる状態異常を回復するポーション。毒も麻痺も石化も回復する、最強の治療薬。危険な魔獣と戦うベテラン冒険者のみならず、富裕層にも好んで購入される。",
+    "translation": "あらゆる状態異常を回復するポーション。毒も麻痺も石化も回復する、最強の治療薬。危険な魔獣と戦うベテラン冒険者のみならず、富裕層にも好んで購入される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.288.18",
+    "original": "スーパー万能薬",
+    "translation": "スーパー万能薬",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.289.17",
+    "original": "傷を治し、体力を全回復することができるポーション。後日、回復の反動が訪れるが、命の危機に使わない手はない。",
+    "translation": "傷を治し、体力を全回復することができるポーション。後日、回復の反動が訪れるが、命の危機に使わない手はない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.289.18",
+    "original": "フルポーション",
+    "translation": "フルポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.290.17",
+    "original": "天才薬師ウィルチの名前を冠する最上級の回復ポーション。魔女達からからも成分を認められるライセンス品で、飲むと若返る……と言われるほどの回復力がある。",
+    "translation": "天才薬師ウィルチの名前を冠する最上級の回復ポーション。魔女達からからも成分を認められるライセンス品で、飲むと若返る……と言われるほどの回復力がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.290.18",
+    "original": "ウィルチのエリクサー",
+    "translation": "ウィルチのエリクサー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.291.17",
+    "original": "木の実を使った大人のクッキー。甘すぎず、大人達も愛食する。飲み物が欲しくなる人気のスイーツ。子供と女冒険者が大好き。",
+    "translation": "木の実を使った大人のクッキー。甘すぎず、大人達も愛食する。飲み物が欲しくなる人気のスイーツ。子供と女冒険者が大好き。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.291.18",
+    "original": "ビタークッキー",
+    "translation": "ビタークッキー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.292.17",
+    "original": "小麦粉を練って焼き上げた、シンプルなドーナツ。シンプルな中に感じられる、仄かな甘さが人気の秘訣。",
+    "translation": "小麦粉を練って焼き上げた、シンプルなドーナツ。シンプルな中に感じられる、仄かな甘さが人気の秘訣。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.292.18",
+    "original": "シンプルドーナツ",
+    "translation": "シンプルドーナツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.293.17",
+    "original": "砂糖を練り込んで作った、シンプルなキャンディー。安価なので子供に好まれているが、携帯できるので旅に持っていく女冒険者もいるらしい。",
+    "translation": "砂糖を練り込んで作った、シンプルなキャンディー。安価なので子供に好まれているが、携帯できるので旅に持っていく女冒険者もいるらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.293.18",
+    "original": "ぐるぐるキャンディ",
+    "translation": "ぐるぐるキャンディ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.294.17",
+    "original": "とろけるように甘いクリームを練り込まれたパン。かなりの贅沢品で、庶民はなかなか口にできない。女の子に大人気。",
+    "translation": "とろけるように甘いクリームを練り込まれたパン。かなりの贅沢品で、庶民はなかなか口にできない。女の子に大人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.294.18",
+    "original": "エンジェルクリーム",
+    "translation": "エンジェルクリーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.295.17",
+    "original": "プルプルした可愛らしいスイーツ。皿の先に、何者かの視線を感じる……。",
+    "translation": "プルプルした可愛らしいスイーツ。皿の先に、何者かの視線を感じる……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.295.18",
+    "original": "スライムプリン",
+    "translation": "スライムプリン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.296.17",
+    "original": "薬草を利用した高級菓子。女子が好きな甘味物でありながら、体力も回復する。なかなかの高級品。健康に良く、保存も利くので女冒険者にも好まれている。",
+    "translation": "薬草を利用した高級菓子。女子が好きな甘味物でありながら、体力も回復する。なかなかの高級品。健康に良く、保存も利くので女冒険者にも好まれている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.296.18",
+    "original": "フォーチュンクッキー",
+    "translation": "フォーチュンクッキー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.297.17",
+    "original": "熱を扱う魔術によって作られた凍ったお菓子。お腹いっぱいに食べた後でも別腹で一杯入ってしまう。案外、お腹に貯まる甘いスイーツ。",
+    "translation": "熱を扱う魔術によって作られた凍ったお菓子。お腹いっぱいに食べた後でも別腹で一杯入ってしまう。案外、お腹に貯まる甘いスイーツ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.297.18",
+    "original": "とろけるアイスクリン",
+    "translation": "とろけるアイスクリン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.298.17",
+    "original": "やんごとなき姫君の間で愛食される、超高級菓子。優れた菓子職人によって作られるらしく、貴族に愛好されている。",
+    "translation": "やんごとなき姫君の間で愛食される、超高級菓子。優れた菓子職人によって作られるらしく、貴族に愛好されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.298.18",
+    "original": "スターチョコレート",
+    "translation": "スターチョコレート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.299.17",
+    "original": "キラキラと輝く、スッキリした甘さのゼリー。魔法力を回復する効果もあるため、女性魔術師が求めるが、これを買えるのは、しっかりと稼いでいる凄腕だけ。",
+    "translation": "キラキラと輝く、スッキリした甘さのゼリー。魔法力を回復する効果もあるため、女性魔術師が求めるが、これを買えるのは、しっかりと稼いでいる凄腕だけ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.299.18",
+    "original": "レインボーゼリー",
+    "translation": "レインボーゼリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.300.17",
+    "original": "濃厚な味わいの虹色に輝くパフェ。食べるとエネルギーや魔法力を回復する効果がある最高級品。虹色に輝く豪華なスイーツは、全ての女の子が憧れる。",
+    "translation": "濃厚な味わいの虹色に輝くパフェ。食べるとエネルギーや魔法力を回復する効果がある最高級品。虹色に輝く豪華なスイーツは、全ての女の子が憧れる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.300.18",
+    "original": "究極プリズムパフェ",
+    "translation": "究極プリズムパフェ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.301.17",
+    "original": "持ち主を災厄から守る魔術のお守り。契約者が危機に陥ると自動的に砕けて衝撃を受け止める。冒険者だけでなく、貴族の子息にも持たせる者も。",
+    "translation": "持ち主を災厄から守る魔術のお守り。契約者が危機に陥ると自動的に砕けて衝撃を受け止める。冒険者だけでなく、貴族の子息にも持たせる者も。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.301.18",
+    "original": "マジックシンボル",
+    "translation": "マジックシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.302.17",
+    "original": "特殊な魔術結界により保護された貯金箱。魔獣の一撃にも耐えることができるといわれている……なお、貯金箱ごと盗まれることに対しては防御できない。",
+    "translation": "特殊な魔術結界により保護された貯金箱。魔獣の一撃にも耐えることができるといわれている……なお、貯金箱ごと盗まれることに対しては防御できない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.302.18",
+    "original": "魔法の貯金箱",
+    "translation": "魔法の貯金箱",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.303.17",
+    "original": "一見ただのロウソクだが、ロウではなく魔術触媒によるロウソク。魔術が掛かっており数時間持続する。かなりの持続力を持っているため、学者にも愛用される。",
+    "translation": "一見ただのロウソクだが、ロウではなく魔術触媒によるロウソク。魔術が掛かっており数時間持続する。かなりの持続力を持っているため、学者にも愛用される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.303.18",
+    "original": "消えないロウソク",
+    "translation": "消えないロウソク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.304.17",
+    "original": "魔術師が休憩の際に使う嗜好品用のパイプ。魔術師本人の魔力と反応し、力が増幅すると言われている。",
+    "translation": "魔術師が休憩の際に使う嗜好品用のパイプ。魔術師本人の魔力と反応し、力が増幅すると言われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.304.18",
+    "original": "魔術師のキセル",
+    "translation": "魔術師のキセル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.305.17",
+    "original": "魔法のような反射率を誇る不思議な鏡。人間の目には見えない霊的な魔物を見たり、呪いを反射させることができる。鏡を見ながら戦うのは大変ではある。",
+    "translation": "魔法のような反射率を誇る不思議な鏡。人間の目には見えない霊的な魔物を見たり、呪いを反射させることができる。鏡を見ながら戦うのは大変ではある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.305.18",
+    "original": "マジックミラー",
+    "translation": "マジックミラー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.306.17",
+    "original": "魔術が組み込まれた置物。魔力の結界が張られており、邪悪な霊や呪いから持ち主を守ってくれる。なにかと呪われやすい富裕層に好まれる。",
+    "translation": "魔術が組み込まれた置物。魔力の結界が張られており、邪悪な霊や呪いから持ち主を守ってくれる。なにかと呪われやすい富裕層に好まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.306.18",
+    "original": "プロテクトシンボル",
+    "translation": "プロテクトシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.307.17",
+    "original": "内部に魔力を蓄えたオーブ。魔力の行使を補う為のものだが、迂闊に扱うと、内部の魔力が暴走し、破裂してしまう。",
+    "translation": "内部に魔力を蓄えたオーブ。魔力の行使を補う為のものだが、迂闊に扱うと、内部の魔力が暴走し、破裂してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.307.18",
+    "original": "魔力のオーブ",
+    "translation": "魔力のオーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.308.17",
+    "original": "魔術が組み込まれた置物。契約者を癒す魔術が掛けられており、自室に置いているだけで健康促進、金運上昇、家内安全のすぐれもの。本当に効果があるのか？",
+    "translation": "魔術が組み込まれた置物。契約者を癒す魔術が掛けられており、自室に置いているだけで健康促進、金運上昇、家内安全のすぐれもの。本当に効果があるのか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.308.18",
+    "original": "ゴールデンシンボル",
+    "translation": "ゴールデンシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.309.17",
+    "original": "持ち主に権力をもたらすとされる魔力を持った冠。これを求める者は多いが、実際に権力を握ることができたという話はあまりない。",
+    "translation": "持ち主に権力をもたらすとされる魔力を持った冠。これを求める者は多いが、実際に権力を握ることができたという話はあまりない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.309.18",
+    "original": "権力者の宝冠",
+    "translation": "権力者の宝冠",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.310.17",
+    "original": "祝福を受けた操舵輪。これをとりつけた船は天候による悪影響を受けにくくなる。強力な魔術品だが、航海はこのようなものすらも、たやすく飲み込んでしまう。",
+    "translation": "祝福を受けた操舵輪。これをとりつけた船は天候による悪影響を受けにくくなる。強力な魔術品だが、航海はこのようなものすらも、たやすく飲み込んでしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.310.18",
+    "original": "不壊の操舵輪",
+    "translation": "不壊の操舵輪",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.311.17",
+    "original": "髪をつやつやにするためのヘアオイル。",
+    "translation": "髪をつやつやにするためのヘアオイル。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.311.18",
+    "original": "つやつやヘアオイル",
+    "translation": "つやつやヘアオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.312.17",
+    "original": "髪の毛を整える為のヘアブラシ。これで髪を撫でるだけで、髪の流れを纏める事が出来る。",
+    "translation": "髪の毛を整える為のヘアブラシ。これで髪を撫でるだけで、髪の流れを纏める事が出来る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.312.18",
+    "original": "お手軽ヘアブラシ",
+    "translation": "お手軽ヘアブラシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.313.17",
+    "original": "女性の肌を輝く白に彩る化粧品。魅力を引き立てる反面、人によっては肌荒れの原因にもなる為、プライベートではしっかり落とす事が求められる。",
+    "translation": "女性の肌を輝く白に彩る化粧品。魅力を引き立てる反面、人によっては肌荒れの原因にもなる為、プライベートではしっかり落とす事が求められる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.313.18",
+    "original": "さらさら美白パウダー",
+    "translation": "さらさら美白パウダー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.314.17",
+    "original": "張りのある肌の状態を保つ為の、天然由来の乳液。乾燥しやすい寒い地方では、特に女性に珍重されている。",
+    "translation": "張りのある肌の状態を保つ為の、天然由来の乳液。乾燥しやすい寒い地方では、特に女性に珍重されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.314.18",
+    "original": "しっとり保湿乳液",
+    "translation": "しっとり保湿乳液",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.315.17",
+    "original": "口元を彩る、スティック状の化粧品。これを唇に塗った女性と対面すると、鈍感な男性でもドキドキしてしまう。",
+    "translation": "口元を彩る、スティック状の化粧品。これを唇に塗った女性と対面すると、鈍感な男性でもドキドキしてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.315.18",
+    "original": "ピンクのルージュ",
+    "translation": "ピンクのルージュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.316.17",
+    "original": "男性を魅了する香りを放つ香水。首元や手首にさりげなく振り掛けておくと、すれ違う男性が皆振り返ると評判。",
+    "translation": "男性を魅了する香りを放つ香水。首元や手首にさりげなく振り掛けておくと、すれ違う男性が皆振り返ると評判。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.316.18",
+    "original": "誘惑のコロン",
+    "translation": "誘惑のコロン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.317.17",
+    "original": "美白に有効な成分を贅沢に配合された美容液。肌を整え、ハリと弾力を取り戻す。",
+    "translation": "美白に有効な成分を贅沢に配合された美容液。肌を整え、ハリと弾力を取り戻す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.317.18",
+    "original": "贅沢美容液",
+    "translation": "贅沢美容液",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.318.17",
+    "original": "少量を塗るだけで、肌を保湿し、若返らせる美容保水液。女性権力者が大金を積んで欲しがる。",
+    "translation": "少量を塗るだけで、肌を保湿し、若返らせる美容保水液。女性権力者が大金を積んで欲しがる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.318.18",
+    "original": "強力しっとり保水液",
+    "translation": "強力しっとり保水液",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.319.17",
+    "original": "男性を虜にする、魅惑の香りを放つ香水。誘惑効果だけでなく、女の子をちょっぴり積極的にさせちゃうらしい。",
+    "translation": "男性を虜にする、魅惑の香りを放つ香水。誘惑効果だけでなく、女の子をちょっぴり積極的にさせちゃうらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.319.18",
+    "original": "夢魔のコロン",
+    "translation": "夢魔のコロン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.320.17",
+    "original": "外出先でも取り出しやすい化粧セット。この道具で顔全体を彩ると、相対する男性の本能が刺激され、瞬時に虜にしてしまうと言われる。",
+    "translation": "外出先でも取り出しやすい化粧セット。この道具で顔全体を彩ると、相対する男性の本能が刺激され、瞬時に虜にしてしまうと言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.320.18",
+    "original": "魅惑の化粧セット",
+    "translation": "魅惑の化粧セット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.321.17",
+    "original": "落ち着かせる効果のある特殊なハーブティー。心身をリフレッシュするが、人によってはこれが無いと眠れなくなってしまう。",
+    "translation": "落ち着かせる効果のある特殊なハーブティー。心身をリフレッシュするが、人によってはこれが無いと眠れなくなってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.321.18",
+    "original": "癒しのハーブティー",
+    "translation": "癒しのハーブティー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.322.17",
+    "original": "痛みを和らげるための鎮痛剤。これを大量に飲む事で、快楽を得られる。もちろん体に悪く、依存性もある。",
+    "translation": "痛みを和らげるための鎮痛剤。これを大量に飲む事で、快楽を得られる。もちろん体に悪く、依存性もある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.322.18",
+    "original": "鎮痛剤",
+    "translation": "鎮痛剤",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.323.17",
+    "original": "睡眠を促す効果のある薬を、溶かして、生成し直した薬品。精神を落ち着かせる効果は格段に強くなった半面、多量に摂取すれば永遠の眠りとなってしまう。",
+    "translation": "睡眠を促す効果のある薬を、溶かして、生成し直した薬品。精神を落ち着かせる効果は格段に強くなった半面、多量に摂取すれば永遠の眠りとなってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.323.18",
+    "original": "濃縮睡眠薬",
+    "translation": "濃縮睡眠薬",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.324.17",
+    "original": "盃に数滴垂らすだけで酩酊感を得られる合成薬品。手っ取り早く酔いたい酒豪に好まれるが、依存性が強く、酒なしでは生きていけない体になってしまう。",
+    "translation": "盃に数滴垂らすだけで酩酊感を得られる合成薬品。手っ取り早く酔いたい酒豪に好まれるが、依存性が強く、酒なしでは生きていけない体になってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.324.18",
+    "original": "酩酊の合成酒",
+    "translation": "酩酊の合成酒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.325.17",
+    "original": "飲むと気が強くなり、全身の筋力を一時的に強化する魔法のジュース。しかし反動と依存性が強く、効果が切れると著しい倦怠感と飢餓感に襲われる。",
+    "translation": "飲むと気が強くなり、全身の筋力を一時的に強化する魔法のジュース。しかし反動と依存性が強く、効果が切れると著しい倦怠感と飢餓感に襲われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.325.18",
+    "original": "ビリビリアップジュース",
+    "translation": "ビリビリアップジュース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.326.17",
+    "original": "天にも昇る気持ちを味わえると言われるポーション。使うことで心地よい気分が味わえるが、効果が切れると、激しい苦痛に襲われる。",
+    "translation": "天にも昇る気持ちを味わえると言われるポーション。使うことで心地よい気分が味わえるが、効果が切れると、激しい苦痛に襲われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.326.18",
+    "original": "エンジェルポーション",
+    "translation": "エンジェルポーション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.327.17",
+    "original": "依存性の高い植物の蜜。黒の森で採れるこの蜜をそのまま食すと、幸福と引き換えに依存性に陥り、魔物の蜜を求めて森を彷徨う事になる。",
+    "translation": "依存性の高い植物の蜜。黒の森で採れるこの蜜をそのまま食すと、幸福と引き換えに依存性に陥り、魔物の蜜を求めて森を彷徨う事になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.327.18",
+    "original": "黄金色の糖蜜",
+    "translation": "黄金色の糖蜜",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.328.17",
+    "original": "瀕死の重傷を負っていても、一時的に、元気な状態に回復する禁忌の薬品。しかしこれを服用したが最後、効果が切れると、服用者には確実な死が訪れる。",
+    "translation": "瀕死の重傷を負っていても、一時的に、元気な状態に回復する禁忌の薬品。しかしこれを服用したが最後、効果が切れると、服用者には確実な死が訪れる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.328.18",
+    "original": "延命のリザレクトボトル",
+    "translation": "延命のリザレクトボトル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.329.17",
+    "original": "絶大なパワーと快楽を得られる注射薬品。服用と同時に狂気に捕らわれ、元の人格は永久に戻る事はない。罪人を戦場で兵士とする為、秘密裏に使われた。",
+    "translation": "絶大なパワーと快楽を得られる注射薬品。服用と同時に狂気に捕らわれ、元の人格は永久に戻る事はない。罪人を戦場で兵士とする為、秘密裏に使われた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.329.18",
+    "original": "狂気のインジェクション",
+    "translation": "狂気のインジェクション",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.330.17",
+    "original": "ドラゴンの血液から作られたと噂の、赤い液体。しかしその正体は、一時的な幸福を得る代わりに、残りの人生を台無しにする禁忌の魔薬。",
+    "translation": "ドラゴンの血液から作られたと噂の、赤い液体。しかしその正体は、一時的な幸福を得る代わりに、残りの人生を台無しにする禁忌の魔薬。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoods_11.txt.330.18",
+    "original": "禁薬ドラゴンブラッド",
+    "translation": "禁薬ドラゴンブラッド",
+    "context": null
+  }
+]

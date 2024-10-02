@@ -1,0 +1,632 @@
+[
+  {
+    "key": "db_UnitSkillPassive_11.txt.39.12",
+    "original": "クリティカル時の攻撃力が【+{0}%】アップ！",
+    "translation": "クリティカル時の攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.43.12",
+    "original": "【動物タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【動物タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.44.12",
+    "original": "敵のクリティカル率を【{0}%】ダウンさせる",
+    "translation": "敵のクリティカル率を【{0}%】ダウンさせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.49.12",
+    "original": "【{0}%】の確率で先制攻撃し、一方的に攻撃できる",
+    "translation": "【{0}%】の確率で先制攻撃し、一方的に攻撃できる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.50.12",
+    "original": "【回避】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【回避】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.52.12",
+    "original": "【樹木タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【樹木タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.54.12",
+    "original": "【人間+亜人タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【人間+亜人タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.57.12",
+    "original": "【{0}%】の確率で、相手の攻撃を妨害する",
+    "translation": "【{0}%】の確率で、相手の攻撃を妨害する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.59.12",
+    "original": "【死霊タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【死霊タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.60.12",
+    "original": "【魔攻】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【魔攻】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.61.12",
+    "original": "【{0}%】の確率で、致命ダメージをHP１で生き残る",
+    "translation": "【{0}%】の確率で、致命ダメージをHP１で生き残る",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.62.12",
+    "original": "【硬質タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【硬質タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.63.12",
+    "original": "物理攻撃によるダメージが【{0}%】に軽減ダウン！",
+    "translation": "物理攻撃によるダメージが【{0}%】に軽減ダウン！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.64.12",
+    "original": "【飛行タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【飛行タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.66.12",
+    "original": "【亜人タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【亜人タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.67.12",
+    "original": "【樹木+硬質タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【樹木+硬質タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.71.12",
+    "original": "性的な攻撃以外に無敵になる",
+    "translation": "性的な攻撃以外に無敵になる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.74.12",
+    "original": "【攻撃】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【攻撃】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.75.12",
+    "original": "パーティー全員の回避率が【+{0}%】アップ！",
+    "translation": "パーティー全員の回避率が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.76.12",
+    "original": "【防御】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【防御】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.77.12",
+    "original": "【必殺】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【必殺】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.78.12",
+    "original": "ボスやレア敵に対し、攻撃力が【+{0}%】アップ！",
+    "translation": "ボスやレア敵に対し、攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.79.12",
+    "original": "戦闘後、パーティー全員のMPが【+{0}】回復！",
+    "translation": "戦闘後、パーティー全員のMPが【+{0}】回復！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.81.12",
+    "original": "【速度】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【速度】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.82.12",
+    "original": "１ターン目の攻撃力が【+{0}%】アップ！",
+    "translation": "１ターン目の攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.83.12",
+    "original": "『トラップ系』のダンジョンハプニングをクリアする際に有効",
+    "translation": "『トラップ系』のダンジョンハプニングをクリアする際に有効",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.85.12",
+    "original": "セックスバトル時の攻撃力が【+{0}%】アップ！",
+    "translation": "セックスバトル時の攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.86.12",
+    "original": "【追撃力】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【追撃力】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.89.12",
+    "original": "【杖装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【杖装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.90.12",
+    "original": "【射撃技スキル】の効果が【+{0}%】",
+    "translation": "【射撃技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.92.12",
+    "original": "【WT】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【WT】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.96.12",
+    "original": "【刀装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【刀装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.97.12",
+    "original": "【魔爪装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【魔爪装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.99.12",
+    "original": "【HP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【HP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.100.12",
+    "original": "【死神技スキル】の効果が【+{0}%】",
+    "translation": "【死神技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.101.12",
+    "original": "【魔技スキル】の効果が【+{0}%】",
+    "translation": "【魔技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.102.12",
+    "original": "逃走確率が【+{0}%】アップ！",
+    "translation": "逃走確率が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.103.12",
+    "original": "【支援技スキル】の効果が【+{0}%】",
+    "translation": "【支援技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.105.12",
+    "original": "【猛将技スキル】の効果が【+{0}%】",
+    "translation": "【猛将技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.118.12",
+    "original": "【禁呪スキル】の効果が【+{0}%】",
+    "translation": "【禁呪スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.119.12",
+    "original": "【奇跡スキル】の効果が【+{0}%】",
+    "translation": "【奇跡スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.120.12",
+    "original": "【魔砲技スキル】の効果が【+{0}%】",
+    "translation": "【魔砲技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.121.12",
+    "original": "すべての属性攻撃力が【+{0}%】アップ！",
+    "translation": "すべての属性攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.122.12",
+    "original": "自分が攻撃を優先的に受ける率が【+{0}%】アップする",
+    "translation": "自分が攻撃を優先的に受ける率が【+{0}%】アップする",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.123.12",
+    "original": "ダメージを負った相手を優先する確率が【+{0}%】アップ！",
+    "translation": "ダメージを負った相手を優先する確率が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.124.12",
+    "original": "戦闘後、パーティー全員のCTが【{0}】ターン早まる",
+    "translation": "戦闘後、パーティー全員のCTが【{0}】ターン早まる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.125.12",
+    "original": "先制攻撃時、開始直後に矢による攻撃を実行する",
+    "translation": "先制攻撃時、開始直後に矢による攻撃を実行する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.126.12",
+    "original": "回復系スキルの効果が【+{0}%】アップ！",
+    "translation": "回復系スキルの効果が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.127.12",
+    "original": "マップのトレジャーオブジェクトの個数が【{0}%】の確率でアップ！",
+    "translation": "マップのトレジャーオブジェクトの個数が【{0}%】の確率でアップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.128.12",
+    "original": "技能レベルアップ時の必要ポイントが【{0}%】ダウン！",
+    "translation": "技能レベルアップ時の必要ポイントが【{0}%】ダウン！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.129.12",
+    "original": "男性エネミーに対するダメージが【+{0}%】アップ！",
+    "translation": "男性エネミーに対するダメージが【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.131.12",
+    "original": "売春時の獲得マッカが【+{0}%】アップ！",
+    "translation": "売春時の獲得マッカが【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.133.12",
+    "original": "追撃発生後、【{0}%】の確率で追加で行動可能になる",
+    "translation": "追撃発生後、【{0}%】の確率で追加で行動可能になる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.134.12",
+    "original": "すべての武器攻撃力が【+{0}】アップ！ + 最大強化でさらにアップ",
+    "translation": "すべての武器攻撃力が【+{0}】アップ！ + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.135.12",
+    "original": "【不形タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【不形タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.136.12",
+    "original": "デバフが【+{0}】ターン延長される(例外あり)",
+    "translation": "デバフが【+{0}】ターン延長される(例外あり)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.137.12",
+    "original": "サポート効果が強化され、バフが【+{0}】ターン延長される(例外あり)",
+    "translation": "サポート効果が強化され、バフが【+{0}】ターン延長される(例外あり)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.139.12",
+    "original": "敵の魔術攻撃を【{0}%】の確率で無効化する",
+    "translation": "敵の魔術攻撃を【{0}%】の確率で無効化する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.140.12",
+    "original": "敵の死属性攻撃を【{0}%】の確率で無効化する",
+    "translation": "敵の死属性攻撃を【{0}%】の確率で無効化する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.141.12",
+    "original": "敵の物理攻撃を【{0}%】の確率で無効化する",
+    "translation": "敵の物理攻撃を【{0}%】の確率で無効化する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.182.12",
+    "original": "【××タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【××タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.183.12",
+    "original": "【水棲タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【水棲タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.184.12",
+    "original": "パーティー全員の命中率が【+{0}%】アップ！",
+    "translation": "パーティー全員の命中率が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.185.12",
+    "original": "仕入れる際のアイテム入手量が【{0}%】アップ！",
+    "translation": "仕入れる際のアイテム入手量が【{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.186.12",
+    "original": "戦闘不能時に常に復活",
+    "translation": "戦闘不能時に常に復活",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.187.12",
+    "original": "先制攻撃時、開始直後に××に攻撃を実行する",
+    "translation": "先制攻撃時、開始直後に××に攻撃を実行する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.188.12",
+    "original": "30ターン経過で強制敗北",
+    "translation": "30ターン経過で強制敗北",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.189.12",
+    "original": "敵専用。マップオブジェクトが見えなくなり、接触すると先制。",
+    "translation": "敵専用。マップオブジェクトが見えなくなり、接触すると先制。",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.190.12",
+    "original": "【{0}%】の確率でスキルが暴走する。",
+    "translation": "【{0}%】の確率でスキルが暴走する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.191.12",
+    "original": "戦闘開始直後、【死霊タイプ】の敵のHPを【{0}%】ダウンさせる",
+    "translation": "戦闘開始直後、【死霊タイプ】の敵のHPを【{0}%】ダウンさせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.192.12",
+    "original": "【魔鞭装備時】の攻撃力【+{0}】",
+    "translation": "【魔鞭装備時】の攻撃力【+{0}】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.193.12",
+    "original": "【魔書装備時】の攻撃力【+{0}】",
+    "translation": "【魔書装備時】の攻撃力【+{0}】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.194.12",
+    "original": "【魔扇装備時】の攻撃力【+{0}】",
+    "translation": "【魔扇装備時】の攻撃力【+{0}】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.0.12",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.1.12",
+    "original": "【短剣装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【短剣装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.2.12",
+    "original": "物理攻撃によるダメージが大きくダウン！",
+    "translation": "物理攻撃によるダメージが大きくダウン！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.3.12",
+    "original": "マップのレアトレジャーオブジェクトを視認できるようになる",
+    "translation": "マップのレアトレジャーオブジェクトを視認できるようになる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.4.12",
+    "original": "格下に対し、攻撃力が【+{0}%】アップ！",
+    "translation": "格下に対し、攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.5.12",
+    "original": "接客してアイテムを売った際、客への売価が【{0}%】アップ！",
+    "translation": "接客してアイテムを売った際、客への売価が【{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.6.12",
+    "original": "【MP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【MP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.7.12",
+    "original": "【LP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【LP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.8.12",
+    "original": "【EP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【EP】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.9.12",
+    "original": "戦闘後、パーティー全員のHPが【+{0}%】回復！",
+    "translation": "戦闘後、パーティー全員のHPが【+{0}%】回復！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.10.12",
+    "original": "【戦技スキル】の効果が【+{0}%】",
+    "translation": "【戦技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.11.12",
+    "original": "【魔術スキル】の効果が【+{0}%】",
+    "translation": "【魔術スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.13.12",
+    "original": "マップオブジェクトが増加し、全ての階に出現する",
+    "translation": "マップオブジェクトが増加し、全ての階に出現する",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.14.12",
+    "original": "弱点を突いた際の攻撃力が【+{0}%】アップ！",
+    "translation": "弱点を突いた際の攻撃力が【+{0}%】アップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.15.12",
+    "original": "【魔防】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【魔防】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.16.12",
+    "original": "【騎士技スキル】の効果が【+{0}%】",
+    "translation": "【騎士技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.17.12",
+    "original": "【行動力】の最大値が【+{0}】アップする",
+    "translation": "【行動力】の最大値が【+{0}】アップする",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.18.12",
+    "original": "【魔闘技スキル】の効果が【+{0}%】",
+    "translation": "【魔闘技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.19.12",
+    "original": "【命中】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【命中】のパラメータが【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.20.12",
+    "original": "【神術スキル】の効果が【+{0}%】",
+    "translation": "【神術スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.21.12",
+    "original": "経験値がアップ（敵用スキル）",
+    "translation": "経験値がアップ（敵用スキル）",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.22.12",
+    "original": "【獣王技スキル】の効果が【+{0}%】",
+    "translation": "【獣王技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.23.12",
+    "original": "【聖闘技スキル】の効果が【+{0}%】",
+    "translation": "【聖闘技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.24.12",
+    "original": "【勇者技スキル】の効果が【+{0}%】",
+    "translation": "【勇者技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.25.12",
+    "original": "【英雄技スキル】の効果が【+{0}%】",
+    "translation": "【英雄技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.26.12",
+    "original": "【盗技スキル】の効果が【+{0}%】",
+    "translation": "【盗技スキル】の効果が【+{0}%】",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.28.12",
+    "original": "【人間タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "translation": "【人間タイプ】の敵への攻撃力【+{0}%】 + タイプ一致で防御を一部貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.30.12",
+    "original": "【剣装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【剣装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.31.12",
+    "original": "【弓装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【弓装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.32.12",
+    "original": "【斧装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【斧装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.33.12",
+    "original": "【槍装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "translation": "【槍装備時】の攻撃力【+{0}】 + 最大強化でさらにアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillPassive_11.txt.37.12",
+    "original": "パーティー全員の戦闘後の経験値が【+{0}%】アップ！",
+    "translation": "パーティー全員の戦闘後の経験値が【+{0}%】アップ！",
+    "context": null
+  }
+]

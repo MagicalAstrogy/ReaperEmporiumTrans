@@ -1,0 +1,1598 @@
+[
+  {
+    "key": "db_DefineValue_11.txt.0.5",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.1.5",
+    "original": "HP",
+    "translation": "HP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.2.5",
+    "original": "MP",
+    "translation": "MP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.3.5",
+    "original": "攻撃",
+    "translation": "攻撃",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.4.5",
+    "original": "魔攻",
+    "translation": "魔攻",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.5.5",
+    "original": "速度",
+    "translation": "速度",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.6.5",
+    "original": "命中値",
+    "translation": "命中値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.7.5",
+    "original": "回避値",
+    "translation": "回避値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.8.5",
+    "original": "クリティカル率",
+    "translation": "クリティカル率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.9.5",
+    "original": "デスクリティカル率",
+    "translation": "デスクリティカル率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.10.5",
+    "original": "クリティカルを受ける値",
+    "translation": "クリティカルを受ける値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.11.5",
+    "original": "ダブルアタック値",
+    "translation": "ダブルアタック値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.12.5",
+    "original": "すべてのダメージ",
+    "translation": "すべてのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.13.5",
+    "original": "すべてのダメージ(味方のみ)",
+    "translation": "すべてのダメージ(味方のみ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.14.5",
+    "original": "すべてのダメージ(味方のみ・淫魔領域)",
+    "translation": "すべてのダメージ(味方のみ・淫魔領域)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.15.5",
+    "original": "すべてのダメージ(敵のみ)",
+    "translation": "すべてのダメージ(敵のみ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.16.5",
+    "original": "すべてのダメージ(敵のみ・淫魔領域)",
+    "translation": "すべてのダメージ(敵のみ・淫魔領域)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.17.5",
+    "original": "ラスボスへのダメージ",
+    "translation": "ラスボスへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.18.5",
+    "original": "祝福時のダメージ",
+    "translation": "祝福時のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.19.5",
+    "original": "スキルのダメージ",
+    "translation": "スキルのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.20.5",
+    "original": "スキルのダメージ(物理)",
+    "translation": "スキルのダメージ(物理)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.21.5",
+    "original": "スキルのダメージ(魔術)",
+    "translation": "スキルのダメージ(魔術)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.22.5",
+    "original": "スキルのダメージ(死神)",
+    "translation": "スキルのダメージ(死神)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.23.5",
+    "original": "火属性のダメージ",
+    "translation": "火属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.24.5",
+    "original": "氷属性のダメージ",
+    "translation": "氷属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.25.5",
+    "original": "風属性のダメージ",
+    "translation": "風属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.26.5",
+    "original": "雷属性のダメージ",
+    "translation": "雷属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.27.5",
+    "original": "聖属性のダメージ",
+    "translation": "聖属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.28.5",
+    "original": "闇属性のダメージ",
+    "translation": "闇属性のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.29.5",
+    "original": "ダブルアタックのダメージ",
+    "translation": "ダブルアタックのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.30.5",
+    "original": "クリティカルのダメージ",
+    "translation": "クリティカルのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.31.5",
+    "original": "弱点ヘのダメージ",
+    "translation": "弱点ヘのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.32.5",
+    "original": "格下のダメージ",
+    "translation": "格下のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.33.5",
+    "original": "初回攻撃のダメージ",
+    "translation": "初回攻撃のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.34.5",
+    "original": "格上とボスへのダメージ",
+    "translation": "格上とボスへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.35.5",
+    "original": "男性へのダメージ",
+    "translation": "男性へのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.36.5",
+    "original": "女性へのダメージ",
+    "translation": "女性へのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.37.5",
+    "original": "チェイススキルのダメージ",
+    "translation": "チェイススキルのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.38.5",
+    "original": "ゴッドハンドのダメージ",
+    "translation": "ゴッドハンドのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.39.5",
+    "original": "被ダメージ回数に応じて最大攻撃力",
+    "translation": "被ダメージ回数に応じて最大攻撃力",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.40.5",
+    "original": "単体攻撃以外のダメージ",
+    "translation": "単体攻撃以外のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.41.5",
+    "original": "樹木タイプへのダメージ",
+    "translation": "樹木タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.42.5",
+    "original": "人間タイプへのダメージ",
+    "translation": "人間タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.43.5",
+    "original": "亜人タイプへのダメージ",
+    "translation": "亜人タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.44.5",
+    "original": "動物タイプへのダメージ",
+    "translation": "動物タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.45.5",
+    "original": "飛行タイプへのダメージ",
+    "translation": "飛行タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.46.5",
+    "original": "不形タイプへのダメージ",
+    "translation": "不形タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.47.5",
+    "original": "硬質タイプへのダメージ",
+    "translation": "硬質タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.48.5",
+    "original": "死霊タイプへのダメージ",
+    "translation": "死霊タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.49.5",
+    "original": "xxxxタイプへのダメージ",
+    "translation": "xxxxタイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.50.5",
+    "original": "竜タイプへのダメージ",
+    "translation": "竜タイプへのダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.51.5",
+    "original": "物理ダメージ軽減",
+    "translation": "物理ダメージ軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.52.5",
+    "original": "魔術ダメージ軽減",
+    "translation": "魔術ダメージ軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.53.5",
+    "original": "すべてのダメージ軽減",
+    "translation": "すべてのダメージ軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.55.5",
+    "original": "大きなダメージを軽減",
+    "translation": "大きなダメージを軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.56.5",
+    "original": "物理耐性や物理軽減スキルを貫通",
+    "translation": "物理耐性や物理軽減スキルを貫通",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.57.5",
+    "original": "魔術耐性や魔術軽減スキルを貫通",
+    "translation": "魔術耐性や魔術軽減スキルを貫通",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.58.5",
+    "original": "聖+闇属性のダメージ無効",
+    "translation": "聖+闇属性のダメージ無効",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.59.5",
+    "original": "物理ダメージ無効",
+    "translation": "物理ダメージ無効",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.60.5",
+    "original": "魔術ダメージ無効",
+    "translation": "魔術ダメージ無効",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.61.5",
+    "original": "即死効果を無効",
+    "translation": "即死効果を無効",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.62.5",
+    "original": "トラップで敵の攻撃を妨害",
+    "translation": "トラップで敵の攻撃を妨害",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.63.5",
+    "original": "武器で敵の攻撃を妨害",
+    "translation": "武器で敵の攻撃を妨害",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.64.5",
+    "original": "HP回復量",
+    "translation": "HP回復量",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.65.5",
+    "original": "MP回復量",
+    "translation": "MP回復量",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.66.5",
+    "original": "CT回復量",
+    "translation": "CT回復量",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.67.5",
+    "original": "ターンごとにHP回復",
+    "translation": "ターンごとにHP回復",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.68.5",
+    "original": "ターンごとにMP回復",
+    "translation": "ターンごとにMP回復",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.69.5",
+    "original": "ターンごとにHP回復(味方のみ)",
+    "translation": "ターンごとにHP回復(味方のみ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.70.5",
+    "original": "ターンごとにHP回復(敵のみ・淫魔領域)",
+    "translation": "ターンごとにHP回復(敵のみ・淫魔領域)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.71.5",
+    "original": "ターンごとにMP回復(味方のみ)",
+    "translation": "ターンごとにMP回復(味方のみ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.72.5",
+    "original": "戦闘不能時に自動復活",
+    "translation": "戦闘不能時に自動復活",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.73.5",
+    "original": "戦闘不能時に自動復活(権能)",
+    "translation": "戦闘不能時に自動復活(権能)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.74.5",
+    "original": "戦闘後にCT回復",
+    "translation": "戦闘後にCT回復",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.75.5",
+    "original": "戦闘後にMP回復",
+    "translation": "戦闘後にMP回復",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.76.5",
+    "original": "戦闘後にHP回復",
+    "translation": "戦闘後にHP回復",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.77.5",
+    "original": "レイズデッド時のHP回復を妨害",
+    "translation": "レイズデッド時のHP回復を妨害",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.78.5",
+    "original": "炎により持続ダメージ",
+    "translation": "炎により持続ダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.79.5",
+    "original": "毒により持続ダメージ",
+    "translation": "毒により持続ダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.80.5",
+    "original": "MP消費軽減",
+    "translation": "MP消費軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.81.5",
+    "original": "パーティー全員のダメージ",
+    "translation": "パーティー全員のダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.82.5",
+    "original": "パーティー全員のクリティカル率",
+    "translation": "パーティー全員のクリティカル率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.83.5",
+    "original": "パーティー全員の経験値",
+    "translation": "パーティー全員の経験値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.84.5",
+    "original": "パーティー全員の四属性ダメージ",
+    "translation": "パーティー全員の四属性ダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.85.5",
+    "original": "火属性付与",
+    "translation": "火属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.86.5",
+    "original": "氷属性付与",
+    "translation": "氷属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.87.5",
+    "original": "風属性付与",
+    "translation": "風属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.88.5",
+    "original": "雷属性付与",
+    "translation": "雷属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.89.5",
+    "original": "聖属性付与",
+    "translation": "聖属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.90.5",
+    "original": "闇属性付与",
+    "translation": "闇属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.91.5",
+    "original": "死属性付与",
+    "translation": "死属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.92.5",
+    "original": "霊体属性付与",
+    "translation": "霊体属性付与",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.93.5",
+    "original": "矢雨による先制ダメージ",
+    "translation": "矢雨による先制ダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.94.5",
+    "original": "ターンアンデッドダメージ",
+    "translation": "ターンアンデッドダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.95.5",
+    "original": "XXXXへの先制ダメージ",
+    "translation": "XXXXへの先制ダメージ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.96.5",
+    "original": "味方への強化効果ターン延長",
+    "translation": "味方への強化効果ターン延長",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.97.5",
+    "original": "相手への弱体効果ターン延長",
+    "translation": "相手への弱体効果ターン延長",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.98.5",
+    "original": "不利な状態異常の回避率",
+    "translation": "不利な状態異常の回避率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.99.5",
+    "original": "攻撃範囲が拡大",
+    "translation": "攻撃範囲が拡大",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.100.5",
+    "original": "通常攻撃のダブルアタック率",
+    "translation": "通常攻撃のダブルアタック率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.101.5",
+    "original": "スキル封印",
+    "translation": "スキル封印",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.102.5",
+    "original": "近接攻撃ヒットで阻害罠",
+    "translation": "近接攻撃ヒットで阻害罠",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.103.5",
+    "original": "スキル使用による速度低下軽減",
+    "translation": "スキル使用による速度低下軽減",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.104.5",
+    "original": "逃走率",
+    "translation": "逃走率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.105.5",
+    "original": "味方が行動不能",
+    "translation": "味方が行動不能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.106.5",
+    "original": "敵が行動不能",
+    "translation": "敵が行動不能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.107.5",
+    "original": "各個撃破",
+    "translation": "各個撃破",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.108.5",
+    "original": "先制攻撃発生率",
+    "translation": "先制攻撃発生率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.109.5",
+    "original": "魔術暴走率",
+    "translation": "魔術暴走率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.110.5",
+    "original": "スキル画面使用時のＭＰ増加抑制",
+    "translation": "スキル画面使用時のＭＰ増加抑制",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.111.5",
+    "original": "チェイススキルを連続使用",
+    "translation": "チェイススキルを連続使用",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.112.5",
+    "original": "チェイススキル発生率",
+    "translation": "チェイススキル発生率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.113.5",
+    "original": "チェイスされる確率",
+    "translation": "チェイスされる確率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.114.5",
+    "original": "チェイスされる確率(女性から)",
+    "translation": "チェイスされる確率(女性から)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.115.5",
+    "original": "被ターゲット率",
+    "translation": "被ターゲット率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.116.5",
+    "original": "沈黙フィールド生成",
+    "translation": "沈黙フィールド生成",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.117.5",
+    "original": "フィールド効果除去",
+    "translation": "フィールド効果除去",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.118.5",
+    "original": "ダメージを攻撃+魔攻で計算",
+    "translation": "ダメージを攻撃+魔攻で計算",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.119.5",
+    "original": "シズハ・クレハがいると追撃強化",
+    "translation": "シズハ・クレハがいると追撃強化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.120.5",
+    "original": "淫魔領域を無効化",
+    "translation": "淫魔領域を無効化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.121.5",
+    "original": "敵の弱点が表示される",
+    "translation": "敵の弱点が表示される",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.122.5",
+    "original": "ハヅキがときどき乱入して追撃",
+    "translation": "ハヅキがときどき乱入して追撃",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.123.5",
+    "original": "ハヅキの乱入率",
+    "translation": "ハヅキの乱入率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.124.5",
+    "original": "双翼のメイド殺法の範囲に主人公を含める",
+    "translation": "双翼のメイド殺法の範囲に主人公を含める",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.125.5",
+    "original": "経験値",
+    "translation": "経験値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.126.5",
+    "original": "経験値(低レベル時)",
+    "translation": "経験値(低レベル時)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.127.5",
+    "original": "潜在能力を解放(第一段階)",
+    "translation": "潜在能力を解放(第一段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.128.5",
+    "original": "潜在能力を解放(第二段階)",
+    "translation": "潜在能力を解放(第二段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.129.5",
+    "original": "潜在能力を解放(第三段階)",
+    "translation": "潜在能力を解放(第三段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.130.5",
+    "original": "プレイヤー潜在能力解放",
+    "translation": "プレイヤー潜在能力解放",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.131.5",
+    "original": "パートナー潜在能力解放",
+    "translation": "パートナー潜在能力解放",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.132.5",
+    "original": "レベル同期・アーマニー/ネルディーネと同じに",
+    "translation": "レベル同期・アーマニー/ネルディーネと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.133.5",
+    "original": "レベル同期・アンジュと同じに(+3)",
+    "translation": "レベル同期・アンジュと同じに(+3)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.134.5",
+    "original": "レベル同期・ウルフィナと同じに",
+    "translation": "レベル同期・ウルフィナと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.135.5",
+    "original": "レベル同期・エリオルダ/ツバキと同じに",
+    "translation": "レベル同期・エリオルダ/ツバキと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.136.5",
+    "original": "レベル同期・カリスト/オーレリアと同じに",
+    "translation": "レベル同期・カリスト/オーレリアと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.137.5",
+    "original": "レベル同期・キャトリナと同じに(+5)",
+    "translation": "レベル同期・キャトリナと同じに(+5)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.138.5",
+    "original": "レベル同期・シズハ/クレハと同じに",
+    "translation": "レベル同期・シズハ/クレハと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.139.5",
+    "original": "レベル同期・マリーゼルと同じに(+5)",
+    "translation": "レベル同期・マリーゼルと同じに(+5)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.140.5",
+    "original": "レベル同期・ミルテ/レミルと同じに",
+    "translation": "レベル同期・ミルテ/レミルと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.141.5",
+    "original": "レベル同期・ルーシェ/シェルフィと同じに",
+    "translation": "レベル同期・ルーシェ/シェルフィと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.142.5",
+    "original": "レベル同期・主人公と同じに",
+    "translation": "レベル同期・主人公と同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.143.5",
+    "original": "レベル同期・主人公と同じに(+5)",
+    "translation": "レベル同期・主人公と同じに(+5)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.144.5",
+    "original": "ダンジョン投資解放Lv1",
+    "translation": "ダンジョン投資解放Lv1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.145.5",
+    "original": "ダンジョン投資解放Lv2",
+    "translation": "ダンジョン投資解放Lv2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.146.5",
+    "original": "エネミー専用・淫魔領域Lv1",
+    "translation": "エネミー専用・淫魔領域Lv1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.147.5",
+    "original": "エネミー専用・淫魔領域Lv2",
+    "translation": "エネミー専用・淫魔領域Lv2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.148.5",
+    "original": "アナザー衣装に切り替え(マリーゼル)",
+    "translation": "アナザー衣装に切り替え(マリーゼル)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.149.5",
+    "original": "アナザー衣装に切り替え(ネルディーネ)",
+    "translation": "アナザー衣装に切り替え(ネルディーネ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.150.5",
+    "original": "アナザー衣装に切り替え(シェルフィ)",
+    "translation": "アナザー衣装に切り替え(シェルフィ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.151.5",
+    "original": "アナザー衣装に切り替え(アンジュ)",
+    "translation": "アナザー衣装に切り替え(アンジュ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.152.5",
+    "original": "アナザー衣装に切り替え(ファシィ)",
+    "translation": "アナザー衣装に切り替え(ファシィ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.153.5",
+    "original": "アナザー衣装に切り替え(ハーヴェスタ)",
+    "translation": "アナザー衣装に切り替え(ハーヴェスタ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.154.5",
+    "original": "アナザー衣装に切り替え(キャトリナ)",
+    "translation": "アナザー衣装に切り替え(キャトリナ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.155.5",
+    "original": "男性への売上",
+    "translation": "男性への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.156.5",
+    "original": "女性への売上",
+    "translation": "女性への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.157.5",
+    "original": "一般人への売上",
+    "translation": "一般人への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.158.5",
+    "original": "冒険者への売上",
+    "translation": "冒険者への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.159.5",
+    "original": "戦士や兵士への売上",
+    "translation": "戦士や兵士への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.160.5",
+    "original": "生産者への売上",
+    "translation": "生産者への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.161.5",
+    "original": "芸人・芸術家への売上",
+    "translation": "芸人・芸術家への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.162.5",
+    "original": "学者・魔術師への売上",
+    "translation": "学者・魔術師への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.163.5",
+    "original": "聖職者への売上",
+    "translation": "聖職者への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.164.5",
+    "original": "富裕層への売上",
+    "translation": "富裕層への売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.165.5",
+    "original": "接客での売上",
+    "translation": "接客での売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.166.5",
+    "original": "搾精での売上",
+    "translation": "搾精での売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.167.5",
+    "original": "搾精施設の売上",
+    "translation": "搾精施設の売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.168.5",
+    "original": "娯楽施設の売上",
+    "translation": "娯楽施設の売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.169.5",
+    "original": "宿泊施設の売上",
+    "translation": "宿泊施設の売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.170.5",
+    "original": "水産資源を使用した商品価格",
+    "translation": "水産資源を使用した商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.171.5",
+    "original": "林業資源を使用した商品価格",
+    "translation": "林業資源を使用した商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.172.5",
+    "original": "農業資源を使用した商品価格",
+    "translation": "農業資源を使用した商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.173.5",
+    "original": "鉱業資源を使用した商品価格",
+    "translation": "鉱業資源を使用した商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.174.5",
+    "original": "魔術資源を使用した商品価格",
+    "translation": "魔術資源を使用した商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.175.5",
+    "original": "軍需品タイプの商品価格",
+    "translation": "軍需品タイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.176.5",
+    "original": "娼館向けタイプの商品価格",
+    "translation": "娼館向けタイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.177.5",
+    "original": "肉料理タイプの商品価格",
+    "translation": "肉料理タイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.178.5",
+    "original": "魚料理タイプの商品価格",
+    "translation": "魚料理タイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.179.5",
+    "original": "一般向けタイプの商品価格",
+    "translation": "一般向けタイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.180.5",
+    "original": "贅沢品タイプの商品価格",
+    "translation": "贅沢品タイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.181.5",
+    "original": "筆記用具タイプの商品価格",
+    "translation": "筆記用具タイプの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.182.5",
+    "original": "錬金系メニューの商品価格",
+    "translation": "錬金系メニューの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.183.5",
+    "original": "鍛冶系メニューの商品価格",
+    "translation": "鍛冶系メニューの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.184.5",
+    "original": "料理系メニューの商品価格",
+    "translation": "料理系メニューの商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.185.5",
+    "original": "すべての商品価格",
+    "translation": "すべての商品価格",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.186.5",
+    "original": "エネミー専用・高速移動",
+    "translation": "エネミー専用・高速移動",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.187.5",
+    "original": "エネミー専用・獲得量アップ・EXP",
+    "translation": "エネミー専用・獲得量アップ・EXP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.188.5",
+    "original": "開発ポイント獲得",
+    "translation": "開発ポイント獲得",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.189.5",
+    "original": "レアトレジャー発生率",
+    "translation": "レアトレジャー発生率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.190.5",
+    "original": "トラップ発見率",
+    "translation": "トラップ発見率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.191.5",
+    "original": "エネミー発見率",
+    "translation": "エネミー発見率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.192.5",
+    "original": "機械系トラップの解除率",
+    "translation": "機械系トラップの解除率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.193.5",
+    "original": "自然系トラップの解除率",
+    "translation": "自然系トラップの解除率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.194.5",
+    "original": "魔術系トラップの解除率",
+    "translation": "魔術系トラップの解除率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.195.5",
+    "original": "客の流入数",
+    "translation": "客の流入数",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.196.5",
+    "original": "客の滞在時間",
+    "translation": "客の滞在時間",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.197.5",
+    "original": "店員の最大人数",
+    "translation": "店員の最大人数",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.198.5",
+    "original": "店員休憩時の回復率",
+    "translation": "店員休憩時の回復率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.199.5",
+    "original": "料理レシピランク",
+    "translation": "料理レシピランク",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.200.5",
+    "original": "鍛冶レシピランク",
+    "translation": "鍛冶レシピランク",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.201.5",
+    "original": "錬金レシピランク",
+    "translation": "錬金レシピランク",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.202.5",
+    "original": "犯罪値の変化率",
+    "translation": "犯罪値の変化率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.203.5",
+    "original": "汚染値の変化率",
+    "translation": "汚染値の変化率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.204.5",
+    "original": "死神パワーの入手量",
+    "translation": "死神パワーの入手量",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.205.5",
+    "original": "自動入手できる開発ポイント",
+    "translation": "自動入手できる開発ポイント",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.206.5",
+    "original": "ダンジョン探索中のショップ売上",
+    "translation": "ダンジョン探索中のショップ売上",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.207.5",
+    "original": "1日のショップ売上ボーナス",
+    "translation": "1日のショップ売上ボーナス",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.208.5",
+    "original": "組織献金の必要資金",
+    "translation": "組織献金の必要資金",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.209.5",
+    "original": "設備投資の必要資金",
+    "translation": "設備投資の必要資金",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.210.5",
+    "original": "品質改良の必要資金",
+    "translation": "品質改良の必要資金",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.211.5",
+    "original": "能力開発の消費SP",
+    "translation": "能力開発の消費SP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.212.5",
+    "original": "料理CP",
+    "translation": "料理CP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.213.5",
+    "original": "鍛冶CP",
+    "translation": "鍛冶CP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.214.5",
+    "original": "錬金CP",
+    "translation": "錬金CP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.215.5",
+    "original": "すべてのCP",
+    "translation": "すべてのCP",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.216.5",
+    "original": "敷地のサイズ",
+    "translation": "敷地のサイズ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.217.5",
+    "original": "開発ポイント貯蔵上限",
+    "translation": "開発ポイント貯蔵上限",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.218.5",
+    "original": "戦士・兵士の出現率",
+    "translation": "戦士・兵士の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.219.5",
+    "original": "騎士・貴族の出現率",
+    "translation": "騎士・貴族の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.220.5",
+    "original": "盗賊・スパイの出現率",
+    "translation": "盗賊・スパイの出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.221.5",
+    "original": "魔術師の出現率",
+    "translation": "魔術師の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.222.5",
+    "original": "武闘家・ダンサーの出現率",
+    "translation": "武闘家・ダンサーの出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.223.5",
+    "original": "剣士・レンジャーの出現率",
+    "translation": "剣士・レンジャーの出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.224.5",
+    "original": "治療師・医者の出現率",
+    "translation": "治療師・医者の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.225.5",
+    "original": "神官の出現率",
+    "translation": "神官の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.226.5",
+    "original": "農民の出現率",
+    "translation": "農民の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.227.5",
+    "original": "呪術師の出現率",
+    "translation": "呪術師の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.228.5",
+    "original": "木こり・狩人の出現率",
+    "translation": "木こり・狩人の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.229.5",
+    "original": "吟遊詩人・芸術家の出現率",
+    "translation": "吟遊詩人・芸術家の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.230.5",
+    "original": "船乗りの出現率",
+    "translation": "船乗りの出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.231.5",
+    "original": "作業員・職人の出現率",
+    "translation": "作業員・職人の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.232.5",
+    "original": "学生・学者の出現率",
+    "translation": "学生・学者の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.233.5",
+    "original": "執事・秘書・メイドの出現率",
+    "translation": "執事・秘書・メイドの出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.234.5",
+    "original": "商人の出現率",
+    "translation": "商人の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.235.5",
+    "original": "娼婦・遊び人の出現率",
+    "translation": "娼婦・遊び人の出現率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.236.5",
+    "original": "ランクアップに必要な経験",
+    "translation": "ランクアップに必要な経験",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.237.5",
+    "original": "体力(店員)の才能",
+    "translation": "体力(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.238.5",
+    "original": "接客(店員)の才能",
+    "translation": "接客(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.239.5",
+    "original": "清掃(店員)の才能",
+    "translation": "清掃(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.240.5",
+    "original": "防犯(店員)の才能",
+    "translation": "防犯(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.241.5",
+    "original": "料理(店員)の才能",
+    "translation": "料理(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.242.5",
+    "original": "鍛冶(店員)の才能",
+    "translation": "鍛冶(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.243.5",
+    "original": "錬金(店員)の才能",
+    "translation": "錬金(店員)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.244.5",
+    "original": "士気(派遣)の才能",
+    "translation": "士気(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.245.5",
+    "original": "盾役(派遣)の才能",
+    "translation": "盾役(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.246.5",
+    "original": "戦力(派遣)の才能",
+    "translation": "戦力(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.247.5",
+    "original": "探索(派遣)の才能",
+    "translation": "探索(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.248.5",
+    "original": "回復(派遣)の才能",
+    "translation": "回復(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.249.5",
+    "original": "魔術(派遣)の才能",
+    "translation": "魔術(派遣)の才能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.250.5",
+    "original": "密着モード時の成功率がアップ",
+    "translation": "密着モード時の成功率がアップ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.251.5",
+    "original": "エッチ経験値",
+    "translation": "エッチ経験値",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.252.5",
+    "original": "感度開発サポート",
+    "translation": "感度開発サポート",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.253.5",
+    "original": "アバター人数",
+    "translation": "アバター人数",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.254.5",
+    "original": "お気に入りボーナス",
+    "translation": "お気に入りボーナス",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.255.5",
+    "original": "戦力変換・キス＞魔攻",
+    "translation": "戦力変換・キス＞魔攻",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.256.5",
+    "original": "戦力変換・胸＞防御",
+    "translation": "戦力変換・胸＞防御",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.257.5",
+    "original": "戦力変換・見る＞魔防",
+    "translation": "戦力変換・見る＞魔防",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.258.5",
+    "original": "戦力変換・言葉＞魔攻",
+    "translation": "戦力変換・言葉＞魔攻",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.259.5",
+    "original": "戦力変換・尻＞速度",
+    "translation": "戦力変換・尻＞速度",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.260.5",
+    "original": "戦力変換・性器＞攻撃",
+    "translation": "戦力変換・性器＞攻撃",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.261.5",
+    "original": "戦力変換・手＞必殺",
+    "translation": "戦力変換・手＞必殺",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.262.5",
+    "original": "戦力変換・全体＞ＨＰ",
+    "translation": "戦力変換・全体＞ＨＰ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.263.5",
+    "original": "戦力変換・頭＞ＭＰ",
+    "translation": "戦力変換・頭＞ＭＰ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.264.5",
+    "original": "戦力変換・変態＞連撃力",
+    "translation": "戦力変換・変態＞連撃力",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.265.5",
+    "original": "好感度上昇率",
+    "translation": "好感度上昇率",
+    "context": null
+  },
+  {
+    "key": "db_DefineValue_11.txt.266.5",
+    "original": "エッチ適性",
+    "translation": "エッチ適性",
+    "context": null
+  }
+]

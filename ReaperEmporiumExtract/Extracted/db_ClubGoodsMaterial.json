@@ -1,0 +1,5330 @@
+[
+  {
+    "key": "db_ClubGoodsMaterial.txt.50.7",
+    "original": "スラリとした流れるフォルムを持つ食用植物。加熱すると柔らかくなり、食べやすい。",
+    "translation": "スラリとした流れるフォルムを持つ食用植物。加熱すると柔らかくなり、食べやすい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.50.8",
+    "original": "スラリナス",
+    "translation": "スラリナス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.62.7",
+    "original": "アルダルク農業組合の牧場で生産される人気のフルーツ。たっぷりと果汁を溜め込んだ甘い果実は、老若男女を問わず人気。",
+    "translation": "アルダルク農業組合の牧場で生産される人気のフルーツ。たっぷりと果汁を溜め込んだ甘い果実は、老若男女を問わず人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.62.8",
+    "original": "牧場生産フルーツ",
+    "translation": "牧場生産フルーツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.74.7",
+    "original": "噛むと苦みのある野趣溢れるハーブ。多くは打ち捨てられていたが、近年栄養価が見直されるとともに、愛好家が大量に生食しだした。",
+    "translation": "噛むと苦みのある野趣溢れるハーブ。多くは打ち捨てられていたが、近年栄養価が見直されるとともに、愛好家が大量に生食しだした。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.74.8",
+    "original": "苦みのある群生ハーブ",
+    "translation": "苦みのある群生ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.99.7",
+    "original": "沼で捕まえることが出来る太った魚。クセが強く、料理には工夫が求められる。",
+    "translation": "沼で捕まえることが出来る太った魚。クセが強く、料理には工夫が求められる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.99.8",
+    "original": "大きく太った魚",
+    "translation": "大きく太った魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.158.7",
+    "original": "植物を圧搾して取り出した、ドロドロした液体。高温になりやすく燃えやすいが、食品の風味付けや燃料等、使用用途は多岐に渡る。",
+    "translation": "植物を圧搾して取り出した、ドロドロした液体。高温になりやすく燃えやすいが、食品の風味付けや燃料等、使用用途は多岐に渡る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.158.8",
+    "original": "植物の搾り油",
+    "translation": "植物の搾り油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.170.7",
+    "original": "野生の鳥が産み落とした小さなたまご。",
+    "translation": "野生の鳥が産み落とした小さなたまご。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.170.8",
+    "original": "小さな生卵",
+    "translation": "小さな生卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.182.7",
+    "original": "家畜として飼いならされた牛から搾り取ったミルク。分泌量は牛の体調に左右される。",
+    "translation": "家畜として飼いならされた牛から搾り取ったミルク。分泌量は牛の体調に左右される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.182.8",
+    "original": "搾りたてミルク",
+    "translation": "搾りたてミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.230.7",
+    "original": "スネーク系の魔獣の抜け殻。直接剥いだものよりも大きく価値は下がってしまうが、元が大きいので、それなりの価値はある。",
+    "translation": "スネーク系の魔獣の抜け殻。直接剥いだものよりも大きく価値は下がってしまうが、元が大きいので、それなりの価値はある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.230.8",
+    "original": "スネークの抜け殻",
+    "translation": "スネークの抜け殻",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.302.7",
+    "original": "銅の鉱石から不純物を取り除き、銅だけを取り出して固めた金属原料。金属成分を抽出する際は、液体になるほどの高温にするため、この形状を経由する。",
+    "translation": "銅の鉱石から不純物を取り除き、銅だけを取り出して固めた金属原料。金属成分を抽出する際は、液体になるほどの高温にするため、この形状を経由する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.302.8",
+    "original": "精錬した銅のインゴット",
+    "translation": "精錬した銅のインゴット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.326.7",
+    "original": "オオカミの排泄物。乾燥させると薬の材料にできるらしい。また、燃やせばよく煙を出しながら燃えてくれる。",
+    "translation": "オオカミの排泄物。乾燥させると薬の材料にできるらしい。また、燃やせばよく煙を出しながら燃えてくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.326.8",
+    "original": "狼獣の排泄物",
+    "translation": "狼獣の排泄物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.338.7",
+    "original": "所狭しと繁殖するありふれたハーブ。その生命力の高さから、手軽な触媒に使われる。",
+    "translation": "所狭しと繁殖するありふれたハーブ。その生命力の高さから、手軽な触媒に使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.338.8",
+    "original": "群生するハーブ",
+    "translation": "群生するハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.362.7",
+    "original": "動植物の素材を液体に溶かし込むための特殊な液体。優れた触媒だが、人間の体も溶かすため、扱いには注意が必要。",
+    "translation": "動植物の素材を液体に溶かし込むための特殊な液体。優れた触媒だが、人間の体も溶かすため、扱いには注意が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.362.8",
+    "original": "溶解オイル",
+    "translation": "溶解オイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.399.7",
+    "original": "紅い宝石。持ち主の精神力を高める力があるといわれる。",
+    "translation": "紅い宝石。持ち主の精神力を高める力があるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.399.8",
+    "original": "愛のルビー",
+    "translation": "愛のルビー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.414.7",
+    "original": "何だか重要な事が書いてある気がする石板の破片。この石板を完成させ、解読しようと学者たちが買い漁っているが、それゆえ偽物も多く出回る結果となった。",
+    "translation": "何だか重要な事が書いてある気がする石板の破片。この石板を完成させ、解読しようと学者たちが買い漁っているが、それゆえ偽物も多く出回る結果となった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial.txt.414.8",
+    "original": "ヒエログリフの破片",
+    "translation": "ヒエログリフの破片",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.1.7",
+    "original": "鳥肉",
+    "translation": "鳥肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.2.7",
+    "original": "豚肉",
+    "translation": "豚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.3.7",
+    "original": "牛肉",
+    "translation": "牛肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.4.7",
+    "original": "穀物",
+    "translation": "穀物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.5.7",
+    "original": "野菜",
+    "translation": "野菜",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.6.7",
+    "original": "果物",
+    "translation": "果物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.7.7",
+    "original": "香辛料",
+    "translation": "香辛料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.8.7",
+    "original": "キノコ",
+    "translation": "キノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.9.7",
+    "original": "魚肉",
+    "translation": "魚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.10.7",
+    "original": "貝",
+    "translation": "貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.11.7",
+    "original": "珍味",
+    "translation": "珍味",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.12.7",
+    "original": "甘味料",
+    "translation": "甘味料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.13.7",
+    "original": "食塩",
+    "translation": "食塩",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.14.7",
+    "original": "油脂",
+    "translation": "油脂",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.15.7",
+    "original": "卵",
+    "translation": "卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.16.7",
+    "original": "乳製品",
+    "translation": "乳製品",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.17.7",
+    "original": "チーズ",
+    "translation": "チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.18.7",
+    "original": "水素材",
+    "translation": "水素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.19.7",
+    "original": "酒素材",
+    "translation": "酒素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.20.7",
+    "original": "皮革",
+    "translation": "皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.21.7",
+    "original": "毛皮",
+    "translation": "毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.22.7",
+    "original": "繊維素材",
+    "translation": "繊維素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.23.7",
+    "original": "木材",
+    "translation": "木材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.24.7",
+    "original": "土材",
+    "translation": "土材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.25.7",
+    "original": "石材",
+    "translation": "石材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.26.7",
+    "original": "金属",
+    "translation": "金属",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.27.7",
+    "original": "原石",
+    "translation": "原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.28.7",
+    "original": "燃料",
+    "translation": "燃料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.29.7",
+    "original": "ハーブ",
+    "translation": "ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.30.7",
+    "original": "薬物",
+    "translation": "薬物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.31.7",
+    "original": "魔術触媒",
+    "translation": "魔術触媒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.32.7",
+    "original": "聖遺物",
+    "translation": "聖遺物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.33.7",
+    "original": "呪物",
+    "translation": "呪物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.34.7",
+    "original": "宝石",
+    "translation": "宝石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.35.7",
+    "original": "アーティファクト",
+    "translation": "アーティファクト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.3.7",
+    "original": "野生の黒羽をもつ鳥を捌き、適当な大きさに切り分けた肉。野生種独特の堅さはあるが、しっかりとした鳥の味わいがある。",
+    "translation": "野生の黒羽をもつ鳥を捌き、適当な大きさに切り分けた肉。野生種独特の堅さはあるが、しっかりとした鳥の味わいがある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.3.8",
+    "original": "野生のクロウ肉",
+    "translation": "野生のクロウ肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.4.7",
+    "original": "鳥肉っぽい大きな骨付き肉。ジューシーでボリューム一杯、しっかり焼いたら焼き目も付いて元の肉など気にする者はいなくなる。",
+    "translation": "鳥肉っぽい大きな骨付き肉。ジューシーでボリューム一杯、しっかり焼いたら焼き目も付いて元の肉など気にする者はいなくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.4.8",
+    "original": "おそらく太ったチキン",
+    "translation": "おそらく太ったチキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.5.7",
+    "original": "どこかで狩猟された、大きな鳥肉の塊。焼いたら数人の腹を満たせそうだ。元の鳥は珍しいらしく、なかなか狩猟されない。",
+    "translation": "どこかで狩猟された、大きな鳥肉の塊。焼いたら数人の腹を満たせそうだ。元の鳥は珍しいらしく、なかなか狩猟されない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.5.8",
+    "original": "大ぶりのドラムスティック",
+    "translation": "大ぶりのドラムスティック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.6.7",
+    "original": "牧場で育てられた鳥の毛を毟り、しっかりと血抜きをした肉。ややあっさりした肉質は、様々な料理に使われる。",
+    "translation": "牧場で育てられた鳥の毛を毟り、しっかりと血抜きをした肉。ややあっさりした肉質は、様々な料理に使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.6.8",
+    "original": "養殖新鮮チキン",
+    "translation": "養殖新鮮チキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.7.7",
+    "original": "内臓を取り去り、血抜きをした鳥肉を燻し、しっかりと味を付けた物。保存に耐え、骨までスープに利用できる、無駄のない鳥肉素材。",
+    "translation": "内臓を取り去り、血抜きをした鳥肉を燻し、しっかりと味を付けた物。保存に耐え、骨までスープに利用できる、無駄のない鳥肉素材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.7.8",
+    "original": "下処理済みスモークチキン",
+    "translation": "下処理済みスモークチキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.8.7",
+    "original": "冒険者集団によって仕留められた、巨大な魔獣鳥の肉。魔力が籠もっているせいか、鮮度が長持ちしてなかなか傷まない。食べるとなぜか皆走り出す。",
+    "translation": "冒険者集団によって仕留められた、巨大な魔獣鳥の肉。魔力が籠もっているせいか、鮮度が長持ちしてなかなか傷まない。食べるとなぜか皆走り出す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.8.8",
+    "original": "巨大鳥のチキン肉",
+    "translation": "巨大鳥のチキン肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.9.7",
+    "original": "神秘的な翼を持つ、珍しい鳥の肉。サッパリした味わいと栄養価で知られる。体力回復に優れ、魔力を高める効果もあるとされる。",
+    "translation": "神秘的な翼を持つ、珍しい鳥の肉。サッパリした味わいと栄養価で知られる。体力回復に優れ、魔力を高める効果もあるとされる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.9.8",
+    "original": "神秘鳥の肉",
+    "translation": "神秘鳥の肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.10.7",
+    "original": "稀少なフロッグから取れた、トリニクより高価なトリニクモドキ。その味わいに比べれば、何の肉かなど些細な事。",
+    "translation": "稀少なフロッグから取れた、トリニクより高価なトリニクモドキ。その味わいに比べれば、何の肉かなど些細な事。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.10.8",
+    "original": "高級トリニクモドキ",
+    "translation": "高級トリニクモドキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.11.7",
+    "original": "霊峰に住まう怪鳥の肉。魔力を行使する鳥の肉は、体力だけでなく、魔力の回復にも適している。",
+    "translation": "霊峰に住まう怪鳥の肉。魔力を行使する鳥の肉は、体力だけでなく、魔力の回復にも適している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.11.8",
+    "original": "霊峰の怪鳥肉",
+    "translation": "霊峰の怪鳥肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.12.7",
+    "original": "贅を尽くした飼育環境で育った高級鳥の肉。豊かな風味と柔らかな口当たりで、黄金色に輝いているように錯覚してしまいそうだ。",
+    "translation": "贅を尽くした飼育環境で育った高級鳥の肉。豊かな風味と柔らかな口当たりで、黄金色に輝いているように錯覚してしまいそうだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.12.8",
+    "original": "豪華黄金鳥肉",
+    "translation": "豪華黄金鳥肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.14.7",
+    "original": "食用になる豚の内臓。しっかりとした手順で調理すれば、立派な料理となる。",
+    "translation": "食用になる豚の内臓。しっかりとした手順で調理すれば、立派な料理となる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.14.8",
+    "original": "野生豚の内臓",
+    "translation": "野生豚の内臓",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.15.7",
+    "original": "フレスミス森林道で狩猟された何かの獣の肉。味は豚に似ているので、豚肉ということで売ることにする。毒は無いとのこと。",
+    "translation": "フレスミス森林道で狩猟された何かの獣の肉。味は豚に似ているので、豚肉ということで売ることにする。毒は無いとのこと。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.15.8",
+    "original": "森林道のポーク",
+    "translation": "森林道のポーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.16.7",
+    "original": "ブタの肉を叩いて刻んだものを、そのまま腸に詰めた物。生で食べるのは危険だが、加熱すれば閉じ込めた肉汁が旨味と共に引き立つ。",
+    "translation": "ブタの肉を叩いて刻んだものを、そのまま腸に詰めた物。生で食べるのは危険だが、加熱すれば閉じ込めた肉汁が旨味と共に引き立つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.16.8",
+    "original": "腸詰豚肉ミンチ",
+    "translation": "腸詰豚肉ミンチ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.17.7",
+    "original": "アルダルクの酪農家が丹精込めて作った豚肉のソーセージ。安定・安心の品質であり、めったなことでは食中毒にならない。上級市民達が好んで食す。",
+    "translation": "アルダルクの酪農家が丹精込めて作った豚肉のソーセージ。安定・安心の品質であり、めったなことでは食中毒にならない。上級市民達が好んで食す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.17.8",
+    "original": "酪農家のソーセージ",
+    "translation": "酪農家のソーセージ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.18.7",
+    "original": "獰猛な黒いブタの肉を、塊のまま取り出した物。食べやすい大きさに切って煮込めば、たちまち頬が蕩ける料理となる。",
+    "translation": "獰猛な黒いブタの肉を、塊のまま取り出した物。食べやすい大きさに切って煮込めば、たちまち頬が蕩ける料理となる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.18.8",
+    "original": "煮込み料理用黒ブタ肉",
+    "translation": "煮込み料理用黒ブタ肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.19.7",
+    "original": "ファングという、巨大な野生豚を仕留めて得た肉。上級の魔獣の肉はとても美味しく、富裕層が好んで求める。入手の危険度もあり、価値は非常に高い。",
+    "translation": "ファングという、巨大な野生豚を仕留めて得た肉。上級の魔獣の肉はとても美味しく、富裕層が好んで求める。入手の危険度もあり、価値は非常に高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.19.8",
+    "original": "特大ファングの塊肉",
+    "translation": "特大ファングの塊肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.20.7",
+    "original": "脂がのったブタの高級な部分を厚切りにした物。そのまま焼くのはもちろん、煮込み料理にも極上の味わいをもたらしてくれる。",
+    "translation": "脂がのったブタの高級な部分を厚切りにした物。そのまま焼くのはもちろん、煮込み料理にも極上の味わいをもたらしてくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.20.8",
+    "original": "高級シモフリポーク",
+    "translation": "高級シモフリポーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.21.7",
+    "original": "脂肪の多いブタの肉。脂の甘みと肉の旨味が絶妙なバランスで調和している。舌の上で脂が溶ける繊細な味わいで、料理の幅を広げる高級食材だ。",
+    "translation": "脂肪の多いブタの肉。脂の甘みと肉の旨味が絶妙なバランスで調和している。舌の上で脂が溶ける繊細な味わいで、料理の幅を広げる高級食材だ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.21.8",
+    "original": "とろける豚肉",
+    "translation": "とろける豚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.22.7",
+    "original": "アルダルクの指定業者が、特別に厳選された飼料で育てたブタ肉。ジューシーで柔らかな肉質で、美食家達も絶賛する。",
+    "translation": "アルダルクの指定業者が、特別に厳選された飼料で育てたブタ肉。ジューシーで柔らかな肉質で、美食家達も絶賛する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.22.8",
+    "original": "美食家御用達ポーク",
+    "translation": "美食家御用達ポーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.23.7",
+    "original": "北方の寒冷な地で育てられた豚の肉。旨味と脂肪分が非常に高く、食べる者を満足させる。寒さから身を守る為か、脂肪を大量に蓄えている。",
+    "translation": "北方の寒冷な地で育てられた豚の肉。旨味と脂肪分が非常に高く、食べる者を満足させる。寒さから身を守る為か、脂肪を大量に蓄えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.23.8",
+    "original": "ノーザリア謹製豚肉",
+    "translation": "ノーザリア謹製豚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.24.7",
+    "original": "言わずと知れた伝説の魔獣肉と言われている。実在すら疑われた魔獣を人が討伐できるはずもないが、旨さと話題性は抜群。",
+    "translation": "言わずと知れた伝説の魔獣肉と言われている。実在すら疑われた魔獣を人が討伐できるはずもないが、旨さと話題性は抜群。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.24.8",
+    "original": "べヒんもス？肉",
+    "translation": "べヒんもス？肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.27.7",
+    "original": "仕留めた牛をスライスしただけの基本的な食肉。筋張っているので、ただ焼いただけでは硬く、美味しく食べるには一工夫必要。",
+    "translation": "仕留めた牛をスライスしただけの基本的な食肉。筋張っているので、ただ焼いただけでは硬く、美味しく食べるには一工夫必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.27.8",
+    "original": "スジ張ったワイルド肉",
+    "translation": "スジ張ったワイルド肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.28.7",
+    "original": "アルダルク農業組合の酪農家が育てた牛の肉。しっかりと熟成されており、旨みも強い。",
+    "translation": "アルダルク農業組合の酪農家が育てた牛の肉。しっかりと熟成されており、旨みも強い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.28.8",
+    "original": "酪農家が育てた牛肉",
+    "translation": "酪農家が育てた牛肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.33.7",
+    "original": "柔らかな肉質で知られるウシ肉。その味わいは絶品で、どんな料理のクオリティも引き上げる。",
+    "translation": "柔らかな肉質で知られるウシ肉。その味わいは絶品で、どんな料理のクオリティも引き上げる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.33.8",
+    "original": "旨みたっぷりビーフ",
+    "translation": "旨みたっぷりビーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.29.7",
+    "original": "邪教の神殿で発見したちょっと黒い邪悪な牛肉。ピリっとするが命に別状はない。人を誘惑する魅力を秘めており、グルメな者たちが求めるらしい。",
+    "translation": "邪教の神殿で発見したちょっと黒い邪悪な牛肉。ピリっとするが命に別状はない。人を誘惑する魅力を秘めており、グルメな者たちが求めるらしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.29.8",
+    "original": "デンジャラス墓場ビーフ",
+    "translation": "デンジャラス墓場ビーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.30.7",
+    "original": "丁寧に血を抜いて切り取った牛の肉。焼いても煮ても美味い、高級品。",
+    "translation": "丁寧に血を抜いて切り取った牛の肉。焼いても煮ても美味い、高級品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.30.8",
+    "original": "野良ビーフ赤身ロース",
+    "translation": "野良ビーフ赤身ロース",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.34.7",
+    "original": "王都の食味審査機関が指定する酪農家が育てたウシ肉。美味しい肉を作る為だけに、莫大なコストがかけられており、その分値の張る高級肉。",
+    "translation": "王都の食味審査機関が指定する酪農家が育てたウシ肉。美味しい肉を作る為だけに、莫大なコストがかけられており、その分値の張る高級肉。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.34.8",
+    "original": "指定農家特別肉",
+    "translation": "指定農家特別肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.35.7",
+    "original": "古代から血統を厳選した神聖な牛の肉。特別に育てられた牛の肉は、濃厚な旨味が凝縮されている。宿した聖なるエネルギーは、食べる者を癒すといわれる。",
+    "translation": "古代から血統を厳選した神聖な牛の肉。特別に育てられた牛の肉は、濃厚な旨味が凝縮されている。宿した聖なるエネルギーは、食べる者を癒すといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.35.8",
+    "original": "聖なる牛肉",
+    "translation": "聖なる牛肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.36.7",
+    "original": "討伐された荒くれウシノシシのいい部分。熟成させることで、まろやかな旨味が引き立つ。この肉を手に入れる為に、何人もの腕利きが駆り出された。",
+    "translation": "討伐された荒くれウシノシシのいい部分。熟成させることで、まろやかな旨味が引き立つ。この肉を手に入れる為に、何人もの腕利きが駆り出された。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.36.8",
+    "original": "熟成ウシノシシ肉",
+    "translation": "熟成ウシノシシ肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.31.7",
+    "original": "牛型魔獣の食肉の中からとれる、貴重な肉。脂と赤身のバランスが良い高級部位。",
+    "translation": "牛型魔獣の食肉の中からとれる、貴重な肉。脂と赤身のバランスが良い高級部位。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.31.8",
+    "original": "魔獣のテンダーロイン",
+    "translation": "魔獣のテンダーロイン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.32.7",
+    "original": "牛の中でも、一頭から少ししか取れないいい所。一流の冒険者でもそう何度は食べられない、最高級部位。",
+    "translation": "牛の中でも、一頭から少ししか取れないいい所。一流の冒険者でもそう何度は食べられない、最高級部位。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.32.8",
+    "original": "最高級シャトーブリアン",
+    "translation": "最高級シャトーブリアン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.38.7",
+    "original": "山岳地帯でも取れる丈夫な麦。焦げ付き辛いので、高温でパンを焼き上げるのに向く。",
+    "translation": "山岳地帯でも取れる丈夫な麦。焦げ付き辛いので、高温でパンを焼き上げるのに向く。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.38.8",
+    "original": "丈夫な山岳小麦",
+    "translation": "丈夫な山岳小麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.40.7",
+    "original": "麦を砕いて篩いにかけた、きめの細かい粒子。オイルでカラッと揚げるには必需品。",
+    "translation": "麦を砕いて篩いにかけた、きめの細かい粒子。オイルでカラッと揚げるには必需品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.40.8",
+    "original": "ドルワミール麦粉",
+    "translation": "ドルワミール麦粉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.41.7",
+    "original": "森林地帯で常食されている野生の穀物。植物の生存競争を勝ち抜いた、生命力に溢れた麦粒。",
+    "translation": "森林地帯で常食されている野生の穀物。植物の生存競争を勝ち抜いた、生命力に溢れた麦粒。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.41.8",
+    "original": "森林の穀粒",
+    "translation": "森林の穀粒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.43.7",
+    "original": "黄金色に輝く麦粒。これで作られたパンはふんわりと焼きあがり、練り上げれば万人に好まれる味わいをもたらす。",
+    "translation": "黄金色に輝く麦粒。これで作られたパンはふんわりと焼きあがり、練り上げれば万人に好まれる味わいをもたらす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.43.8",
+    "original": "黄金色の穀粒",
+    "translation": "黄金色の穀粒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.44.7",
+    "original": "実った黄金色の麦。大地の生命力を凝縮した麦粒は、あらゆる人を飢餓から救うと言われている。",
+    "translation": "実った黄金色の麦。大地の生命力を凝縮した麦粒は、あらゆる人を飢餓から救うと言われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.44.8",
+    "original": "輝く大地の麦",
+    "translation": "輝く大地の麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.42.7",
+    "original": "繁殖力に優れた麦粒。不毛の地と化した砂漠でも繁茂する、希望の種。今を我慢すれば、未来には黄金の麦畑が広がるだろう。",
+    "translation": "繁殖力に優れた麦粒。不毛の地と化した砂漠でも繁茂する、希望の種。今を我慢すれば、未来には黄金の麦畑が広がるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.42.8",
+    "original": "未来への種麦",
+    "translation": "未来への種麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.45.7",
+    "original": "豊穣の女神から恵みを受けた聖なる麦。栄養価が高く、パンやビールなどに使われる。食べると満足感が得られ、体力回復効果もある。",
+    "translation": "豊穣の女神から恵みを受けた聖なる麦。栄養価が高く、パンやビールなどに使われる。食べると満足感が得られ、体力回復効果もある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.45.8",
+    "original": "豊穣の聖麦",
+    "translation": "豊穣の聖麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.46.7",
+    "original": "異邦から伝わった米。透き通った美しい白さは、麦とは別の味わい。ゼカリウスでの繁殖は不可能と思われたが、研究によって栽培法が確立された。",
+    "translation": "異邦から伝わった米。透き通った美しい白さは、麦とは別の味わい。ゼカリウスでの繁殖は不可能と思われたが、研究によって栽培法が確立された。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.46.8",
+    "original": "異邦のライス",
+    "translation": "異邦のライス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.47.7",
+    "original": "聖地セグルメットで指定する、聖なる祈りが捧げられた麦。ロゼトニック商会が流通を管理している為、一般にはほとんど流通しない。",
+    "translation": "聖地セグルメットで指定する、聖なる祈りが捧げられた麦。ロゼトニック商会が流通を管理している為、一般にはほとんど流通しない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.47.8",
+    "original": "聖なる麦",
+    "translation": "聖なる麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.48.7",
+    "original": "一粒の種からでも、大量の麦を実らせる穀粒。土地の栄養を吸い尽くす為、管理は厳重にしなくてはならないが、食料危機には救世主となる。",
+    "translation": "一粒の種からでも、大量の麦を実らせる穀粒。土地の栄養を吸い尽くす為、管理は厳重にしなくてはならないが、食料危機には救世主となる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.48.8",
+    "original": "侵略性指定穀物",
+    "translation": "侵略性指定穀物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.51.7",
+    "original": "精力が増すエネルギッシュな薬草。野性的な味がする……。",
+    "translation": "精力が増すエネルギッシュな薬草。野性的な味がする……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.51.8",
+    "original": "エネルネギ",
+    "translation": "エネルネギ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.52.7",
+    "original": "自然の養分を地下に蓄えた野菜。栄養価に優れた地下茎を食べれば、肉体を作るのに重要な栄養素を満たす事ができる。",
+    "translation": "自然の養分を地下に蓄えた野菜。栄養価に優れた地下茎を食べれば、肉体を作るのに重要な栄養素を満たす事ができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.52.8",
+    "original": "マッスルキャロット",
+    "translation": "マッスルキャロット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.53.7",
+    "original": "大地の栄養を集めた地下茎を乾燥させたもの。食べれば体が熱くなり、たちまち活力が湧き上がる。",
+    "translation": "大地の栄養を集めた地下茎を乾燥させたもの。食べれば体が熱くなり、たちまち活力が湧き上がる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.53.8",
+    "original": "ホットガーリック",
+    "translation": "ホットガーリック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.54.7",
+    "original": "見ているだけで力が湧いてくる、不思議なかぼちゃ。甘くほっこりした実はスープに最適で、食べれば身も心も強靭になる。",
+    "translation": "見ているだけで力が湧いてくる、不思議なかぼちゃ。甘くほっこりした実はスープに最適で、食べれば身も心も強靭になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.54.8",
+    "original": "フォースパンプキン",
+    "translation": "フォースパンプキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.55.7",
+    "original": "一粒で冒険の活力が得られるという大地の恵み。類似した野菜類は数多く出回るが、薬効と栄養価を兼ね備えたモノは極めて稀。",
+    "translation": "一粒で冒険の活力が得られるという大地の恵み。類似した野菜類は数多く出回るが、薬効と栄養価を兼ね備えたモノは極めて稀。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.55.8",
+    "original": "ボルカニックトマト",
+    "translation": "ボルカニックトマト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.56.7",
+    "original": "知啓を授かると言われる、地下に実を作る薬草の一種。そのまま噛り付くと、強靭な冒険者でも泣いてしまう辛味を持ち、食べるには工夫が必要。",
+    "translation": "知啓を授かると言われる、地下に実を作る薬草の一種。そのまま噛り付くと、強靭な冒険者でも泣いてしまう辛味を持ち、食べるには工夫が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.56.8",
+    "original": "叡智のオニオン",
+    "translation": "叡智のオニオン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.57.7",
+    "original": "食べれば火を噴くような辛さを感じる唐辛子。焼き野菜や煮込み料理に、少量を加えて味を楽しめる。",
+    "translation": "食べれば火を噴くような辛さを感じる唐辛子。焼き野菜や煮込み料理に、少量を加えて味を楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.57.8",
+    "original": "フレイムペッパー",
+    "translation": "フレイムペッパー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.58.7",
+    "original": "邪教徒が儀式用に育てたかぼちゃ。呪われた土地で栽培され、独特の苦味と甘さに中毒性がある。闇の住人が好む、ダーク食材。",
+    "translation": "邪教徒が儀式用に育てたかぼちゃ。呪われた土地で栽培され、独特の苦味と甘さに中毒性がある。闇の住人が好む、ダーク食材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.58.8",
+    "original": "邪教徒パンプキン",
+    "translation": "邪教徒パンプキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.59.7",
+    "original": "サルバック砂漠に沈んだ黄金都市ゴルドヴァーナの遺跡から見つかったマメ。独特な風味と食感は、ナッツの常識を塗り替える。現在量産の研究中。",
+    "translation": "サルバック砂漠に沈んだ黄金都市ゴルドヴァーナの遺跡から見つかったマメ。独特な風味と食感は、ナッツの常識を塗り替える。現在量産の研究中。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.59.8",
+    "original": "ゴールデンナッツ",
+    "translation": "ゴールデンナッツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.60.7",
+    "original": "フリュジットの氷獄迷宮近辺で氷漬けになっていた野菜。シャキシャキとした歯ごたえと甘さがあるが、野生種の採取が危険なため、量産が熱望されている。",
+    "translation": "フリュジットの氷獄迷宮近辺で氷漬けになっていた野菜。シャキシャキとした歯ごたえと甘さがあるが、野生種の採取が危険なため、量産が熱望されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.60.8",
+    "original": "氷晶パプリカ",
+    "translation": "氷晶パプリカ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.63.7",
+    "original": "活力が増す不思議な木の実。森で多く採れ、スイーツにも利用される。",
+    "translation": "活力が増す不思議な木の実。森で多く採れ、スイーツにも利用される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.63.8",
+    "original": "ライフアップル",
+    "translation": "ライフアップル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.64.7",
+    "original": "天然の糖分とミネラルをたっぷり含んだ森の恵み。適度な甘さとスッキリした酸味は、疲労を溶かすように体に染みわたる。",
+    "translation": "天然の糖分とミネラルをたっぷり含んだ森の恵み。適度な甘さとスッキリした酸味は、疲労を溶かすように体に染みわたる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.64.8",
+    "original": "森の恵みフルーツ",
+    "translation": "森の恵みフルーツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.65.7",
+    "original": "赤い皮に包まれた果実。小粒な見た目とは裏腹に、大量の水分を含んでいる。",
+    "translation": "赤い皮に包まれた果実。小粒な見た目とは裏腹に、大量の水分を含んでいる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.65.8",
+    "original": "みずみずしい赤身果実",
+    "translation": "みずみずしい赤身果実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.67.7",
+    "original": "紫色に変色したベリー果実。闇の魔力を蓄えた果肉は極上の味わいを持つが、依存性を持つ為、調理方法には一工夫必要。",
+    "translation": "紫色に変色したベリー果実。闇の魔力を蓄えた果肉は極上の味わいを持つが、依存性を持つ為、調理方法には一工夫必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.67.8",
+    "original": "邪教のブラッドベリ―",
+    "translation": "邪教のブラッドベリ―",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.68.7",
+    "original": "溢れる生命力と神聖な魔力が漲る果実。人工的な栽培が成功しておらず、一流の冒険者が死線をくぐらねば入手できないと言われている。",
+    "translation": "溢れる生命力と神聖な魔力が漲る果実。人工的な栽培が成功しておらず、一流の冒険者が死線をくぐらねば入手できないと言われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.68.8",
+    "original": "命漲る天上の果実",
+    "translation": "命漲る天上の果実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.69.7",
+    "original": "魔術によって成長を促進させた、爽やかな芳香を放つレモン。フレッシュな酸味と、スッキリとした後味を感じられる。",
+    "translation": "魔術によって成長を促進させた、爽やかな芳香を放つレモン。フレッシュな酸味と、スッキリとした後味を感じられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.69.8",
+    "original": "爽快フレッシュレモン",
+    "translation": "爽快フレッシュレモン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.66.7",
+    "original": "海辺の土壌と潮風に適したフルーツ。海辺の生育に適した果実は、爽やかな酸味と多量の水分を蓄え、周辺地域に珍重されている。",
+    "translation": "海辺の土壌と潮風に適したフルーツ。海辺の生育に適した果実は、爽やかな酸味と多量の水分を蓄え、周辺地域に珍重されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.66.8",
+    "original": "海辺のジューシーフルーツ",
+    "translation": "海辺のジューシーフルーツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.70.7",
+    "original": "黒の森ダムブナックで採取できるイチゴ。土地の濃密な魔力を蓄えており、その味わいは絶品。ただし、生食すると精神を蝕まれる。",
+    "translation": "黒の森ダムブナックで採取できるイチゴ。土地の濃密な魔力を蓄えており、その味わいは絶品。ただし、生食すると精神を蝕まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.70.8",
+    "original": "邪教のストロベリー",
+    "translation": "邪教のストロベリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.71.7",
+    "original": "黄金の都ゴルドヴァーナに生えていた、大量のミルクを蓄えた神秘的な果物。サルバック砂漠の過酷な環境でも水分を補給できる奇跡の果実。",
+    "translation": "黄金の都ゴルドヴァーナに生えていた、大量のミルクを蓄えた神秘的な果物。サルバック砂漠の過酷な環境でも水分を補給できる奇跡の果実。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.71.8",
+    "original": "神秘のココナッツ",
+    "translation": "神秘のココナッツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.72.7",
+    "original": "天から降ってきたと言われる不思議な木の実。食べた人間に知恵を授けると言われるが、どこから生まれ、なぜ現れたのかは誰も知らない。",
+    "translation": "天から降ってきたと言われる不思議な木の実。食べた人間に知恵を授けると言われるが、どこから生まれ、なぜ現れたのかは誰も知らない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.72.8",
+    "original": "異界の果実",
+    "translation": "異界の果実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.75.7",
+    "original": "突き抜けるような爽快感を持つ強烈な辛さが特徴的なハーブ。この味を出せるハーブは人工的な栽培が難しい。",
+    "translation": "突き抜けるような爽快感を持つ強烈な辛さが特徴的なハーブ。この味を出せるハーブは人工的な栽培が難しい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.75.8",
+    "original": "ピリ辛森林ハーブ",
+    "translation": "ピリ辛森林ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.76.7",
+    "original": "強力な辛味を持つ真っ赤な植物。あまりに強力なその辛さは、一気に食べようものならば悶絶してしまう。",
+    "translation": "強力な辛味を持つ真っ赤な植物。あまりに強力なその辛さは、一気に食べようものならば悶絶してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.76.8",
+    "original": "激辛赤ペッパー",
+    "translation": "激辛赤ペッパー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.77.7",
+    "original": "爽やかな酸味を持つベリー植物。生育には気候条件が大切なため、北方では珍重されている。主な用途は乾燥させての香辛料。",
+    "translation": "爽やかな酸味を持つベリー植物。生育には気候条件が大切なため、北方では珍重されている。主な用途は乾燥させての香辛料。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.77.8",
+    "original": "野生の清涼ベリー",
+    "translation": "野生の清涼ベリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.81.7",
+    "original": "さわやかな香りが特徴のハーブ。干して砕くと消化や喉の調子を整える効果があり、爽やかな香辛料として求められる。",
+    "translation": "さわやかな香りが特徴のハーブ。干して砕くと消化や喉の調子を整える効果があり、爽やかな香辛料として求められる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.81.8",
+    "original": "爽快な清涼ハーブ",
+    "translation": "爽快な清涼ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.79.7",
+    "original": "様々な香辛料をブレンドして、至福の味わいを実現した香辛料。一度味わったら忘れられない、魅力に溢れた香辛料",
+    "translation": "様々な香辛料をブレンドして、至福の味わいを実現した香辛料。一度味わったら忘れられない、魅力に溢れた香辛料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.79.8",
+    "original": "魅惑のブレンドハーブ",
+    "translation": "魅惑のブレンドハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.80.7",
+    "original": "肉や魚介類に振り掛ければそれだけでごちそうになる香辛料。栽培が不可能で、一粒で並の宝石と同等の価値があるとされた。",
+    "translation": "肉や魚介類に振り掛ければそれだけでごちそうになる香辛料。栽培が不可能で、一粒で並の宝石と同等の価値があるとされた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.80.8",
+    "original": "至福の香辛料",
+    "translation": "至福の香辛料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.82.7",
+    "original": "灼熱の国サージの大商会が秘密裏に栽培している香辛料。料理に使うと、深い味わいが出る。その製法は門外不出とされ、大金を出しても知ることはできない。",
+    "translation": "灼熱の国サージの大商会が秘密裏に栽培している香辛料。料理に使うと、深い味わいが出る。その製法は門外不出とされ、大金を出しても知ることはできない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.82.8",
+    "original": "サージの秘蔵香辛料",
+    "translation": "サージの秘蔵香辛料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.84.7",
+    "original": "異邦より伝わった、豆を熟成させて作る黒い液体。塩味と仄かな甘みは、ゼカリウスの食通も唸るが、うっかりすると腐敗して台無しになる。",
+    "translation": "異邦より伝わった、豆を熟成させて作る黒い液体。塩味と仄かな甘みは、ゼカリウスの食通も唸るが、うっかりすると腐敗して台無しになる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.84.8",
+    "original": "異邦の発酵液",
+    "translation": "異邦の発酵液",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.78.7",
+    "original": "地中に栄養と水分を蓄えた独特な味わいを持つ稀少なハーブ。細かく刻んですりおろすと、素材の味わいを最大限に引き立てる。",
+    "translation": "地中に栄養と水分を蓄えた独特な味わいを持つ稀少なハーブ。細かく刻んですりおろすと、素材の味わいを最大限に引き立てる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.78.8",
+    "original": "大地の根",
+    "translation": "大地の根",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.83.7",
+    "original": "角を持つ一角獣の角。魔力を秘めた角を粉末にして料理に使うと、素晴らしい味わいを引き立たせる。そのうえ衰えた精力も蘇る。",
+    "translation": "角を持つ一角獣の角。魔力を秘めた角を粉末にして料理に使うと、素晴らしい味わいを引き立たせる。そのうえ衰えた精力も蘇る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.83.8",
+    "original": "魔獣のイッカク",
+    "translation": "魔獣のイッカク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.87.7",
+    "original": "白くて肉厚なキノコ。小さいながらも肉厚でプリプリしており、そのまま噛み切るのは大変。",
+    "translation": "白くて肉厚なキノコ。小さいながらも肉厚でプリプリしており、そのまま噛み切るのは大変。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.87.8",
+    "original": "小粒なホワイトキノコ",
+    "translation": "小粒なホワイトキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.88.7",
+    "original": "肉厚の傘を形成した大きなキノコ。煮ても焼いてもプリプリの味わいを楽しめる上に、栄養豊富で滋養強壮にも活躍する。",
+    "translation": "肉厚の傘を形成した大きなキノコ。煮ても焼いてもプリプリの味わいを楽しめる上に、栄養豊富で滋養強壮にも活躍する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.88.8",
+    "original": "肉厚プリプリキノコ",
+    "translation": "肉厚プリプリキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.89.7",
+    "original": "毒々しい見た目で実際に毒のある茸。少量ならば人体に有益な効果を発する。",
+    "translation": "毒々しい見た目で実際に毒のある茸。少量ならば人体に有益な効果を発する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.89.8",
+    "original": "ポイズンマッシュルーム",
+    "translation": "ポイズンマッシュルーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.91.7",
+    "original": "強い芳香成分を持つキノコ。香りに魅せられた食通が血眼になって探している。食通達の間では高く取引されている。",
+    "translation": "強い芳香成分を持つキノコ。香りに魅せられた食通が血眼になって探している。食通達の間では高く取引されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.91.8",
+    "original": "最高級香りキノコ",
+    "translation": "最高級香りキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.93.7",
+    "original": "鮮やかな色彩のキノコ。特殊な成分を含んでおり、食べると視力が回復するらしい。幻覚だと疑われているが。",
+    "translation": "鮮やかな色彩のキノコ。特殊な成分を含んでおり、食べると視力が回復するらしい。幻覚だと疑われているが。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.93.8",
+    "original": "ネオンカラーのキノコ",
+    "translation": "ネオンカラーのキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.94.7",
+    "original": "森の地面に隠れるように存在する茶色のキノコ。発見の困難さと香り高さから、高額で取引される。",
+    "translation": "森の地面に隠れるように存在する茶色のキノコ。発見の困難さと香り高さから、高額で取引される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.94.8",
+    "original": "隠者のマッシュルーム",
+    "translation": "隠者のマッシュルーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.90.7",
+    "original": "見た目は何の変哲もないキノコだが、食べたり粉末を吸い込むと強い幻覚に襲われ、狂乱状態を引き起こす。効果が切れるとストレスを与える、危険なキノコ。",
+    "translation": "見た目は何の変哲もないキノコだが、食べたり粉末を吸い込むと強い幻覚に襲われ、狂乱状態を引き起こす。効果が切れるとストレスを与える、危険なキノコ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.90.8",
+    "original": "マジカルキノコ",
+    "translation": "マジカルキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.95.7",
+    "original": "火山地帯に生息するキノコ。独特の歯ごたえと辛みがあり、食べると体力が漲る。",
+    "translation": "火山地帯に生息するキノコ。独特の歯ごたえと辛みがあり、食べると体力が漲る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.95.8",
+    "original": "ボルカニカエンタケ",
+    "translation": "ボルカニカエンタケ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.92.7",
+    "original": "人間世界に自生しない異世界の茸。魔力をありえないほどに吸収しており、そのまま摂取してしまえば致死になりかねない。危険と隣り合わせの良薬。",
+    "translation": "人間世界に自生しない異世界の茸。魔力をありえないほどに吸収しており、そのまま摂取してしまえば致死になりかねない。危険と隣り合わせの良薬。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.92.8",
+    "original": "魔界マッシュルーム",
+    "translation": "魔界マッシュルーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.96.7",
+    "original": "ドラゴンが森で食べているのを目撃されたという、胡散臭い噂のマッシュルーム。富豪が大金を出して捜索しているが、どういう訳かほとんど見つからない。",
+    "translation": "ドラゴンが森で食べているのを目撃されたという、胡散臭い噂のマッシュルーム。富豪が大金を出して捜索しているが、どういう訳かほとんど見つからない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.96.8",
+    "original": "ドラゴンマッシュルーム",
+    "translation": "ドラゴンマッシュルーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.97.7",
+    "original": "海のいたるところで採れる魚。脂の乗った身を持ち、海岸の村では基本的な食材。",
+    "translation": "海のいたるところで採れる魚。脂の乗った身を持ち、海岸の村では基本的な食材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.97.8",
+    "original": "港の海水魚",
+    "translation": "港の海水魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.100.7",
+    "original": "海底に潜む平たい魚。脂がよく乗っており、高級料理の素材に使われている。",
+    "translation": "海底に潜む平たい魚。脂がよく乗っており、高級料理の素材に使われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.100.8",
+    "original": "平たくて美味しい魚",
+    "translation": "平たくて美味しい魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.101.7",
+    "original": "大きな川や湖沼に住む大きな魚。小魚や昆虫だけでなく、小動物も一飲みにしてしまう。",
+    "translation": "大きな川や湖沼に住む大きな魚。小魚や昆虫だけでなく、小動物も一飲みにしてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.101.8",
+    "original": "淡水の怪魚",
+    "translation": "淡水の怪魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.102.7",
+    "original": "鋭い牙を持つ獰猛な魚。獲物の肉を抉り取るように、その鋭い歯で齧り取ってしまう。",
+    "translation": "鋭い牙を持つ獰猛な魚。獲物の肉を抉り取るように、その鋭い歯で齧り取ってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.102.8",
+    "original": "黄金のハンターフィッシュ",
+    "translation": "黄金のハンターフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.103.7",
+    "original": "滅多にお目にかかれない、輝くような美しい模様を持った魚。生命力に溢れたこの魚は、多くの食通が探し求めている。",
+    "translation": "滅多にお目にかかれない、輝くような美しい模様を持った魚。生命力に溢れたこの魚は、多くの食通が探し求めている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.103.8",
+    "original": "絢爛豪華な煌めき魚",
+    "translation": "絢爛豪華な煌めき魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.104.7",
+    "original": "丸々と太って見える、毒を持った魚。素晴らしい味をしており、富裕層が好んで求めているが、熟練の職人が調理しないと命に関わる。",
+    "translation": "丸々と太って見える、毒を持った魚。素晴らしい味をしており、富裕層が好んで求めているが、熟練の職人が調理しないと命に関わる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.104.8",
+    "original": "魅惑のポイズンフィッシュ",
+    "translation": "魅惑のポイズンフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.105.7",
+    "original": "深海に生息する、細長い姿をした恐ろしい怪魚。身体に毒を持っており、取り扱いには注意が必要。",
+    "translation": "深海に生息する、細長い姿をした恐ろしい怪魚。身体に毒を持っており、取り扱いには注意が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.105.8",
+    "original": "深海の怪魚",
+    "translation": "深海の怪魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.106.7",
+    "original": "角のように飛び出た感覚器官を間違われ、二つの頭を持つとされた巨大エイ。珍重される高級食材の一つで、蕩けるような柔らかい肉質を持つ。",
+    "translation": "角のように飛び出た感覚器官を間違われ、二つの頭を持つとされた巨大エイ。珍重される高級食材の一つで、蕩けるような柔らかい肉質を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.106.8",
+    "original": "双頭エイ",
+    "translation": "双頭エイ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.107.7",
+    "original": "古くからアーマニア海で目撃されていた、巨大な魚。漁師達が一度は夢見る大物だが、どういう訳か何度も水揚げされている。",
+    "translation": "古くからアーマニア海で目撃されていた、巨大な魚。漁師達が一度は夢見る大物だが、どういう訳か何度も水揚げされている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.107.8",
+    "original": "アーマニア海のヌシ",
+    "translation": "アーマニア海のヌシ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.108.7",
+    "original": "星空のような美しい鱗を持つ、光り輝く魚。魔力を帯びたその肉は最高級の珍味として珍重されている。",
+    "translation": "星空のような美しい鱗を持つ、光り輝く魚。魔力を帯びたその肉は最高級の珍味として珍重されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.108.8",
+    "original": "星空フィッシュ",
+    "translation": "星空フィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.110.7",
+    "original": "岩に張り付いた濃厚な珍味。海でこの貝と岩肌を見分けるのは難しく、素潜り漁を行う漁師は判別できて一人前と言われていた。",
+    "translation": "岩に張り付いた濃厚な珍味。海でこの貝と岩肌を見分けるのは難しく、素潜り漁を行う漁師は判別できて一人前と言われていた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.110.8",
+    "original": "鮮やかな岩貝",
+    "translation": "鮮やかな岩貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.112.7",
+    "original": "二枚の殻に挟まれた貝。殻の内側には肉厚の身が隠れている。",
+    "translation": "二枚の殻に挟まれた貝。殻の内側には肉厚の身が隠れている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.112.8",
+    "original": "大きな二枚貝",
+    "translation": "大きな二枚貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.113.7",
+    "original": "細く渦巻き状の貝殻を形成する貝類。尖った先端は数多の漁師を傷つけてきたが、中身は美味の為、漁師は怪我をも喜んだ。",
+    "translation": "細く渦巻き状の貝殻を形成する貝類。尖った先端は数多の漁師を傷つけてきたが、中身は美味の為、漁師は怪我をも喜んだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.113.8",
+    "original": "鋭利な角貝",
+    "translation": "鋭利な角貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.114.7",
+    "original": "海底の栄養を蓄えた旨味溢れる岩貝。大量に集まれば肥沃な浜辺の生物を食い散らかす事から、かつては駆除対象にされていた。",
+    "translation": "海底の栄養を蓄えた旨味溢れる岩貝。大量に集まれば肥沃な浜辺の生物を食い散らかす事から、かつては駆除対象にされていた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.114.8",
+    "original": "悪食シェルフィッシュ",
+    "translation": "悪食シェルフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.115.7",
+    "original": "海底に潜む大きな巻貝。この貝が生きたまま引き上げられることは稀なため、好事家が高値で欲しがる。",
+    "translation": "海底に潜む大きな巻貝。この貝が生きたまま引き上げられることは稀なため、好事家が高値で欲しがる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.115.8",
+    "original": "隠れ潜む巻貝",
+    "translation": "隠れ潜む巻貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.116.7",
+    "original": "豪華な模様を持つ二枚貝。通常の貝とは数段違う、ミルキーで濃厚な味わいが楽しめるが、中身が無傷である事は少ない。",
+    "translation": "豪華な模様を持つ二枚貝。通常の貝とは数段違う、ミルキーで濃厚な味わいが楽しめるが、中身が無傷である事は少ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.116.8",
+    "original": "煌びやかな稀少貝",
+    "translation": "煌びやかな稀少貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.117.7",
+    "original": "深い海の岩にくっついている貝。浅瀬で取れる貝類とは一線を画す、濃厚な肉質を持っている。欲を出して潜った漁師が、そのまま溺れてしまう事も少なくない。",
+    "translation": "深い海の岩にくっついている貝。浅瀬で取れる貝類とは一線を画す、濃厚な肉質を持っている。欲を出して潜った漁師が、そのまま溺れてしまう事も少なくない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.117.8",
+    "original": "深海の岩貝",
+    "translation": "深海の岩貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.118.7",
+    "original": "海底に棲む大型の貝。海底での採取が困難な事から、『人魚くらいしか食えない』と漁師の間で囁かれてきた。当然、高級な幻の品として扱われている。",
+    "translation": "海底に棲む大型の貝。海底での採取が困難な事から、『人魚くらいしか食えない』と漁師の間で囁かれてきた。当然、高級な幻の品として扱われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.118.8",
+    "original": "巨大な人魚貝",
+    "translation": "巨大な人魚貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.119.7",
+    "original": "海底にひっそりと存在する幻の貝。一見化石のように見えるが、内側ではぷりぷりの身が詰まっている。稀少性が高いため、その値段も高額。",
+    "translation": "海底にひっそりと存在する幻の貝。一見化石のように見えるが、内側ではぷりぷりの身が詰まっている。稀少性が高いため、その値段も高額。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.119.8",
+    "original": "化石貝",
+    "translation": "化石貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.120.7",
+    "original": "金色に輝く、濃厚な食味を持つ貝。あまりに見つからない為、一度は絶滅したとまで囁かれていた。もしかしたらこれが最後の一つかもしれない……。",
+    "translation": "金色に輝く、濃厚な食味を持つ貝。あまりに見つからない為、一度は絶滅したとまで囁かれていた。もしかしたらこれが最後の一つかもしれない……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.120.8",
+    "original": "黄金アワビ",
+    "translation": "黄金アワビ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.123.7",
+    "original": "水底を這い回る、弾力性のあるテンタクル。薄く切ってもコリコリとした歯ごたえが楽しめる。触手モンスターとは種類が違う。",
+    "translation": "水底を這い回る、弾力性のあるテンタクル。薄く切ってもコリコリとした歯ごたえが楽しめる。触手モンスターとは種類が違う。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.123.8",
+    "original": "ぴちぴちテンタクル",
+    "translation": "ぴちぴちテンタクル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.124.7",
+    "original": "出汁を閉じ込めたスライム状の塊。のはずなのだが、どうも自立して動いているような気がする。旨味の塊であることは間違いないのだが……。",
+    "translation": "出汁を閉じ込めたスライム状の塊。のはずなのだが、どうも自立して動いているような気がする。旨味の塊であることは間違いないのだが……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.124.8",
+    "original": "煮凝りゼリー",
+    "translation": "煮凝りゼリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.130.7",
+    "original": "柔らかい甲羅を持つ蟹。甲羅が簡単に取れる為、調理が容易で、漁師達が船の上でオヤツにしてしまう。",
+    "translation": "柔らかい甲羅を持つ蟹。甲羅が簡単に取れる為、調理が容易で、漁師達が船の上でオヤツにしてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.130.8",
+    "original": "ソフトシェル巨大蟹",
+    "translation": "ソフトシェル巨大蟹",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.125.7",
+    "original": "海の中を滑るように泳ぎ回る奇怪な触手生物。伝承に謳われる海の悪魔に似た触手を持つが、この生物には不幸な事に、人にとって美味かった。",
+    "translation": "海の中を滑るように泳ぎ回る奇怪な触手生物。伝承に謳われる海の悪魔に似た触手を持つが、この生物には不幸な事に、人にとって美味かった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.125.8",
+    "original": "ミニチュアクラーケン",
+    "translation": "ミニチュアクラーケン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.126.7",
+    "original": "テンタクルの触手を穀物に乗せた、異国伝来の珍味。賛否の別れるテンタクルの食味も、この食べ方にすることで受け入れられた。",
+    "translation": "テンタクルの触手を穀物に乗せた、異国伝来の珍味。賛否の別れるテンタクルの食味も、この食べ方にすることで受け入れられた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.126.8",
+    "original": "触手乗せ穀物",
+    "translation": "触手乗せ穀物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.127.7",
+    "original": "巨大な魚の心臓を取り出した生命力溢れる海産物。ハツは鮮度が落ちやすい為、これを肴に酒を飲める冒険者は、リッチな凄腕と見られている。",
+    "translation": "巨大な魚の心臓を取り出した生命力溢れる海産物。ハツは鮮度が落ちやすい為、これを肴に酒を飲める冒険者は、リッチな凄腕と見られている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.127.8",
+    "original": "巨大魚の心臓",
+    "translation": "巨大魚の心臓",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.129.7",
+    "original": "魔法が宿った深海の魔魚の目玉を、秘伝の調味料で漬け込んだ逸品。見た目はグロテスクだが、命を無駄にしない為にも、漁師の間では普通の食材。",
+    "translation": "魔法が宿った深海の魔魚の目玉を、秘伝の調味料で漬け込んだ逸品。見た目はグロテスクだが、命を無駄にしない為にも、漁師の間では普通の食材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.129.8",
+    "original": "魔魚のアイボール",
+    "translation": "魔魚のアイボール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.128.7",
+    "original": "海底に隠れ住む甲殻類。再生力に溢れ、巨大なハサミを落としても、時間があれば再生する。その生命力を求めて、権力者大金を積んでも欲しがる。",
+    "translation": "海底に隠れ住む甲殻類。再生力に溢れ、巨大なハサミを落としても、時間があれば再生する。その生命力を求めて、権力者大金を積んでも欲しがる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.128.8",
+    "original": "深紅のロブスター",
+    "translation": "深紅のロブスター",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.131.7",
+    "original": "切り身のままビクンビクンと跳ね回る、生命力に溢れた魚。そういう見た目の魚なのだが、切り身にしか見えない為、漁師達が驚きの声を上げた。",
+    "translation": "切り身のままビクンビクンと跳ね回る、生命力に溢れた魚。そういう見た目の魚なのだが、切り身にしか見えない為、漁師達が驚きの声を上げた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.131.8",
+    "original": "切り身で泳ぐ魚",
+    "translation": "切り身で泳ぐ魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.132.7",
+    "original": "恐怖を与える見た目の海産物。ゼカリウスでは食べる事など信じられなかったが、異邦の料理人が訪れると、姿を変えて提供されるようになった。",
+    "translation": "恐怖を与える見た目の海産物。ゼカリウスでは食べる事など信じられなかったが、異邦の料理人が訪れると、姿を変えて提供されるようになった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.132.8",
+    "original": "名状し難いテンタクル",
+    "translation": "名状し難いテンタクル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.133.7",
+    "original": "糖分を精製し、結晶化させた砂状の甘味。",
+    "translation": "糖分を精製し、結晶化させた砂状の甘味。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.133.8",
+    "original": "穀物の甘味料",
+    "translation": "穀物の甘味料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.135.7",
+    "original": "甘い果実や穀物から精製した砂糖。菓子作りには欠かせない材料。",
+    "translation": "甘い果実や穀物から精製した砂糖。菓子作りには欠かせない材料。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.135.8",
+    "original": "スイートシュガー",
+    "translation": "スイートシュガー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.136.7",
+    "original": "菓子の材料になる黒い甘味料。現在は異国からの輸入に頼っており、庶民の手が届くものではない。",
+    "translation": "菓子の材料になる黒い甘味料。現在は異国からの輸入に頼っており、庶民の手が届くものではない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.136.8",
+    "original": "上質のチョコレート",
+    "translation": "上質のチョコレート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.137.7",
+    "original": "甘いものを何でも突っ込んで抽出した、とにかく甘い精製糖。僅かに青みがかかった甘い輝きは、原材料への疑惑を掻き消してしまう。",
+    "translation": "甘いものを何でも突っ込んで抽出した、とにかく甘い精製糖。僅かに青みがかかった甘い輝きは、原材料への疑惑を掻き消してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.137.8",
+    "original": "きらめきの白糖",
+    "translation": "きらめきの白糖",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.138.7",
+    "original": "自然界を飛び回る虫が集めた蜜。濃厚な甘味は、精製した糖分とは一線を画す。高級菓子には欠かせないが、常に入手できるわけではない。",
+    "translation": "自然界を飛び回る虫が集めた蜜。濃厚な甘味は、精製した糖分とは一線を画す。高級菓子には欠かせないが、常に入手できるわけではない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.138.8",
+    "original": "天然の味わい糖蜜",
+    "translation": "天然の味わい糖蜜",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.139.7",
+    "original": "黄金色に輝く製糖結晶。あまりの甘さと幸福感は、魔薬と疑われたことがある程。",
+    "translation": "黄金色に輝く製糖結晶。あまりの甘さと幸福感は、魔薬と疑われたことがある程。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.139.8",
+    "original": "病みつきシュガー",
+    "translation": "病みつきシュガー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.140.7",
+    "original": "ひと舐めすれば気持ちが幸せでいっぱいになるという甘味料。人工的に作ることができない、稀少な甘味料である。",
+    "translation": "ひと舐めすれば気持ちが幸せでいっぱいになるという甘味料。人工的に作ることができない、稀少な甘味料である。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.140.8",
+    "original": "幸運のロイヤルシュガー",
+    "translation": "幸運のロイヤルシュガー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.141.7",
+    "original": "森の妖精達が集めたベリーの蜜を、自然の魔力を込めて作り上げた甘味料。人が盗もうとすると、妖精達は激怒し、恐ろしい幻を見せるという。",
+    "translation": "森の妖精達が集めたベリーの蜜を、自然の魔力を込めて作り上げた甘味料。人が盗もうとすると、妖精達は激怒し、恐ろしい幻を見せるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.141.8",
+    "original": "妖精シロップ",
+    "translation": "妖精シロップ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.142.7",
+    "original": "ルーラ・ブロッサ娼会で販売中の蜂蜜。なのだが、食べるとエッチな気分になる。『女の子は甘い物が大好きД』とは、娼会幹部と目される少女の談。",
+    "translation": "ルーラ・ブロッサ娼会で販売中の蜂蜜。なのだが、食べるとエッチな気分になる。『女の子は甘い物が大好きД』とは、娼会幹部と目される少女の談。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.142.8",
+    "original": "淫魔の蜂蜜",
+    "translation": "淫魔の蜂蜜",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.143.7",
+    "original": "霊峰のふもとに、あろうことか大量のハチを配置し、稀少な蜜を一網打尽に乱獲した蜂蜜。きっとどこかにあるという、世界樹の蜜も含まれる。",
+    "translation": "霊峰のふもとに、あろうことか大量のハチを配置し、稀少な蜜を一網打尽に乱獲した蜂蜜。きっとどこかにあるという、世界樹の蜜も含まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.143.8",
+    "original": "世界樹ハニー",
+    "translation": "世界樹ハニー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.144.7",
+    "original": "特別な植物の実を煮立たせ、甘さを凝縮したシロップ。その高級な香りと上品な甘さは、王室の貴人が求める程。",
+    "translation": "特別な植物の実を煮立たせ、甘さを凝縮したシロップ。その高級な香りと上品な甘さは、王室の貴人が求める程。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.144.8",
+    "original": "濃縮ロイヤルシロップ",
+    "translation": "濃縮ロイヤルシロップ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.147.7",
+    "original": "自然に水晶のような柱上の結晶を生成した塩の塊。舐めればしょっぱいが、そのままかじるにはあまりにも固すぎる。砕いて料理に用いられる",
+    "translation": "自然に水晶のような柱上の結晶を生成した塩の塊。舐めればしょっぱいが、そのままかじるにはあまりにも固すぎる。砕いて料理に用いられる",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.147.8",
+    "original": "煌めきの岩塩結晶",
+    "translation": "煌めきの岩塩結晶",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.148.7",
+    "original": "海藻から抽出した塩。手間をかけて取り出したぶん、海藻の旨味や栄養価が加えられ、ただの塩とは一味違った成分を持つ。",
+    "translation": "海藻から抽出した塩。手間をかけて取り出したぶん、海藻の旨味や栄養価が加えられ、ただの塩とは一味違った成分を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.148.8",
+    "original": "海藻から取った藻塩",
+    "translation": "海藻から取った藻塩",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.149.7",
+    "original": "光輝く塩の柱。滋味深く、稀少な塩であるこの柱が存在する土地は、古くから人々が所有権を巡り、争いの元になってきた。",
+    "translation": "光輝く塩の柱。滋味深く、稀少な塩であるこの柱が存在する土地は、古くから人々が所有権を巡り、争いの元になってきた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.149.8",
+    "original": "輝きの塩柱",
+    "translation": "輝きの塩柱",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.150.7",
+    "original": "海底から汲み上げた水を使用し、丁寧に塩の結晶を成長させた高級塩。これを砕いて振り掛ければ、どんな料理も美味しくなるだろう。",
+    "translation": "海底から汲み上げた水を使用し、丁寧に塩の結晶を成長させた高級塩。これを砕いて振り掛ければ、どんな料理も美味しくなるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.150.8",
+    "original": "深層海水抽出ソルト",
+    "translation": "深層海水抽出ソルト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.151.7",
+    "original": "火山地帯の岩から精製した赤みのある岩塩。海辺の塩とは違った風味を感じるが、採取・精製共に難易度が高い。",
+    "translation": "火山地帯の岩から精製した赤みのある岩塩。海辺の塩とは違った風味を感じるが、採取・精製共に難易度が高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.151.8",
+    "original": "ヴォルカニックソルト",
+    "translation": "ヴォルカニックソルト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.153.7",
+    "original": "金属を思わせる、カタマリ状の神秘的な岩塩。少量削って加えるだけで、料理の味を激変させる。",
+    "translation": "金属を思わせる、カタマリ状の神秘的な岩塩。少量削って加えるだけで、料理の味を激変させる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.153.8",
+    "original": "インゴットソルト",
+    "translation": "インゴットソルト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.156.7",
+    "original": "魔力を反応させて生成した塩の塊。魔力を帯びた物でしか取り出せず、近年までは一切傷つかない、謎のオブジェと見られていた。",
+    "translation": "魔力を反応させて生成した塩の塊。魔力を帯びた物でしか取り出せず、近年までは一切傷つかない、謎のオブジェと見られていた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.156.8",
+    "original": "魔力生成塩タワー",
+    "translation": "魔力生成塩タワー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.155.7",
+    "original": "岩の中に封じ込められた、魔力を持った塩の結晶。岩石の中で発生し、削り出さねば発見できない為、生成プロセスも謎のまま。",
+    "translation": "岩の中に封じ込められた、魔力を持った塩の結晶。岩石の中で発生し、削り出さねば発見できない為、生成プロセスも謎のまま。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.155.8",
+    "original": "宝玉ソルト",
+    "translation": "宝玉ソルト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.154.7",
+    "original": "アーマニア海の水底から引き揚げられた、特徴的な形の結晶。その形と味から竜の涙のようだと名付けられたが、もちろん海竜は無関係。",
+    "translation": "アーマニア海の水底から引き揚げられた、特徴的な形の結晶。その形と味から竜の涙のようだと名付けられたが、もちろん海竜は無関係。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.154.8",
+    "original": "海竜の涙",
+    "translation": "海竜の涙",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.152.7",
+    "original": "虹色に輝く、不可思議な魔力を持つ塩。異界の魔力に満ちており、一粒で国が動くほどの価値がある。その存在はこれまで確認されていなかった。",
+    "translation": "虹色に輝く、不可思議な魔力を持つ塩。異界の魔力に満ちており、一粒で国が動くほどの価値がある。その存在はこれまで確認されていなかった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.152.8",
+    "original": "虹色の塩粒",
+    "translation": "虹色の塩粒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.159.7",
+    "original": "とある実験に使われた廃液を食用に調整した物。口の中でとろける上に、舌の上で味が踊ると評判だが、調理者は決して食べたがらない。",
+    "translation": "とある実験に使われた廃液を食用に調整した物。口の中でとろける上に、舌の上で味が踊ると評判だが、調理者は決して食べたがらない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.159.8",
+    "original": "オイルモドキ",
+    "translation": "オイルモドキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.160.7",
+    "original": "激辛の野菜を漬け込んだ、料理用の油。一滴舐めれば、全身から汗が噴き出す。",
+    "translation": "激辛の野菜を漬け込んだ、料理用の油。一滴舐めれば、全身から汗が噴き出す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.160.8",
+    "original": "ペッパーオイル",
+    "translation": "ペッパーオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.161.7",
+    "original": "魚介類から脂肪を抽出して不純物を取り除いた油。植物油に比べて魚介由来の栄養が豊富。",
+    "translation": "魚介類から脂肪を抽出して不純物を取り除いた油。植物油に比べて魚介由来の栄養が豊富。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.161.8",
+    "original": "魚介抽出油",
+    "translation": "魚介抽出油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.162.7",
+    "original": "黄金色の、僅かに甘みを含んだ油。果実の樹液から精製したこの油は、菓子作りに珍重される。",
+    "translation": "黄金色の、僅かに甘みを含んだ油。果実の樹液から精製したこの油は、菓子作りに珍重される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.162.8",
+    "original": "果実の漬け油",
+    "translation": "果実の漬け油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.163.7",
+    "original": "圧搾した油に思い思いの香辛料を浸し、継ぎ足し続けた秘伝の油。年月をかけて生まれた深い味わいは、この壺だけにしか生み出せない。",
+    "translation": "圧搾した油に思い思いの香辛料を浸し、継ぎ足し続けた秘伝の油。年月をかけて生まれた深い味わいは、この壺だけにしか生み出せない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.163.8",
+    "original": "味わい溜まり油",
+    "translation": "味わい溜まり油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.164.7",
+    "original": "魔獣の脂を抽出したオイル。植物由来の油に比べて栄養価が高く、ハーブを漬け込めば好みの味付けを得られる。",
+    "translation": "魔獣の脂を抽出したオイル。植物由来の油に比べて栄養価が高く、ハーブを漬け込めば好みの味付けを得られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.164.8",
+    "original": "魔獣の動物油脂",
+    "translation": "魔獣の動物油脂",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.165.7",
+    "original": "黒の森から算出された、特殊な素材を用いて開発されたオイル。素材の悪い成分を反転させ、浄化する作用があるという。",
+    "translation": "黒の森から算出された、特殊な素材を用いて開発されたオイル。素材の悪い成分を反転させ、浄化する作用があるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.165.8",
+    "original": "ブラックオイル",
+    "translation": "ブラックオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.166.7",
+    "original": "異邦から持ち込まれた、香ばしい香りの油。ゼカリウスでは料理に深みを与えると人気だが、異邦の土地では、贅沢にも灯火用に使っていたようだ。",
+    "translation": "異邦から持ち込まれた、香ばしい香りの油。ゼカリウスでは料理に深みを与えると人気だが、異邦の土地では、贅沢にも灯火用に使っていたようだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.166.8",
+    "original": "異邦のセサミ油",
+    "translation": "異邦のセサミ油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.167.7",
+    "original": "黄金の都ゴルドヴァーナで発見された、黄金の調味料。香り高く、料理に贅沢な味わいを与えるが、生産法が不明で、量産法の確立が求められている。",
+    "translation": "黄金の都ゴルドヴァーナで発見された、黄金の調味料。香り高く、料理に贅沢な味わいを与えるが、生産法が不明で、量産法の確立が求められている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.167.8",
+    "original": "ゴルドヴァオイル",
+    "translation": "ゴルドヴァオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.168.7",
+    "original": "次元の違う別世界から召喚されたオイル。材料は一切不明だが、これでしか作れない料理もあるとか。月からもたらされたとの仮説があるが、推測の域を出ない。",
+    "translation": "次元の違う別世界から召喚されたオイル。材料は一切不明だが、これでしか作れない料理もあるとか。月からもたらされたとの仮説があるが、推測の域を出ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.168.8",
+    "original": "異界のオイル",
+    "translation": "異界のオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.171.7",
+    "original": "卵を得る為に飼育された鳥から得た、大量の鳥卵。品質は一定に保たれているが、生食は推奨されていない。",
+    "translation": "卵を得る為に飼育された鳥から得た、大量の鳥卵。品質は一定に保たれているが、生食は推奨されていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.171.8",
+    "original": "飼育された鳥卵",
+    "translation": "飼育された鳥卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.172.7",
+    "original": "カラフルな模様が浮かんだ卵。毒々しい模様とは裏腹に、中身は水分豊富で濃厚な旨味を閉じ込めている。",
+    "translation": "カラフルな模様が浮かんだ卵。毒々しい模様とは裏腹に、中身は水分豊富で濃厚な旨味を閉じ込めている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.172.8",
+    "original": "マーブルエッグ",
+    "translation": "マーブルエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.173.7",
+    "original": "冒険者が持ち帰った、魔獣の卵と言われている、深い味わいを持つ卵。バジリスクから得たとの報告はされたものの、真偽は確認されていない。",
+    "translation": "冒険者が持ち帰った、魔獣の卵と言われている、深い味わいを持つ卵。バジリスクから得たとの報告はされたものの、真偽は確認されていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.173.8",
+    "original": "バジリスクエッグ",
+    "translation": "バジリスクエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.174.7",
+    "original": "夜空の輝きの如き模様が浮かぶ、暗い色の卵。濃厚な味わいは非常に珍重されているが、何の卵なのかは分かっていない。",
+    "translation": "夜空の輝きの如き模様が浮かぶ、暗い色の卵。濃厚な味わいは非常に珍重されているが、何の卵なのかは分かっていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.174.8",
+    "original": "夜空のスペースエッグ",
+    "translation": "夜空のスペースエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.178.7",
+    "original": "火山地帯に生息する大型鳥の特大たまご。栄養価が高く、濃厚な味わいをもたらすとして、多くのハンターに狙われてきたが、その採取は困難を極めた。",
+    "translation": "火山地帯に生息する大型鳥の特大たまご。栄養価が高く、濃厚な味わいをもたらすとして、多くのハンターに狙われてきたが、その採取は困難を極めた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.178.8",
+    "original": "火山鳥の特大卵",
+    "translation": "火山鳥の特大卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.175.7",
+    "original": "星のような模様が浮かび上がったたまご。不思議な魔力が満ちており、食べるとたちまち活力が漲る。",
+    "translation": "星のような模様が浮かび上がったたまご。不思議な魔力が満ちており、食べるとたちまち活力が漲る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.175.8",
+    "original": "星々のスターエッグ",
+    "translation": "星々のスターエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.179.7",
+    "original": "金色に輝く稀少なたまご。神聖な力を帯びており、食べる前には感謝の祈りを捧げるよう、ヒエペリオが訴えている。",
+    "translation": "金色に輝く稀少なたまご。神聖な力を帯びており、食べる前には感謝の祈りを捧げるよう、ヒエペリオが訴えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.179.8",
+    "original": "聖なるゴールドエッグ",
+    "translation": "聖なるゴールドエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.180.7",
+    "original": "海辺の怪鳥が産み付ける、青い模様の付いたたまご。近海で漁をする漁師にとっては恐怖と怨恨の対象だが、陸のハンターには宝物。",
+    "translation": "海辺の怪鳥が産み付ける、青い模様の付いたたまご。近海で漁をする漁師にとっては恐怖と怨恨の対象だが、陸のハンターには宝物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.180.8",
+    "original": "マリンブルーエッグ",
+    "translation": "マリンブルーエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.176.7",
+    "original": "凄まじい生命力を秘めた怪鳥のたまご。虹色に輝くこのたまごは、一切腐敗せず、その場に在り続けるという。",
+    "translation": "凄まじい生命力を秘めた怪鳥のたまご。虹色に輝くこのたまごは、一切腐敗せず、その場に在り続けるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.176.8",
+    "original": "輪廻のレインボーエッグ",
+    "translation": "輪廻のレインボーエッグ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.177.7",
+    "original": "海竜が産んだとても大きな卵。その味は濃厚で、食べると寿命が延びると言われている。海竜本人に聞いたら、卵ではなく、竜の魔力で育てられた魚卵とのこと。",
+    "translation": "海竜が産んだとても大きな卵。その味は濃厚で、食べると寿命が延びると言われている。海竜本人に聞いたら、卵ではなく、竜の魔力で育てられた魚卵とのこと。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.177.8",
+    "original": "海竜の卵",
+    "translation": "海竜の卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.183.7",
+    "original": "丈夫な紙のパックに殺菌したミルクを詰めた物。都市部への長距離出荷する際にも耐えられるよう、衝撃を吸収しやすい作りになっている。",
+    "translation": "丈夫な紙のパックに殺菌したミルクを詰めた物。都市部への長距離出荷する際にも耐えられるよう、衝撃を吸収しやすい作りになっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.183.8",
+    "original": "パック詰めミルク",
+    "translation": "パック詰めミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.184.7",
+    "original": "野生の猛獣から得られた野趣溢れるミルク。非常に優れた味わいを持つが、殺菌・精製を経ずに接種するのは危険。",
+    "translation": "野生の猛獣から得られた野趣溢れるミルク。非常に優れた味わいを持つが、殺菌・精製を経ずに接種するのは危険。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.184.8",
+    "original": "ワイルドミルク",
+    "translation": "ワイルドミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.185.7",
+    "original": "ミルクの成分を調整して作ったクリーム。ただのミルクよりもコク深く、特に菓子作りに重宝される。",
+    "translation": "ミルクの成分を調整して作ったクリーム。ただのミルクよりもコク深く、特に菓子作りに重宝される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.185.8",
+    "original": "調整ミルククリーム",
+    "translation": "調整ミルククリーム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.186.7",
+    "original": "異国から伝来した、植物から搾り取ったミルク。動物のミルクよりスッキリした味わいが楽しめる為、通常のミルクとは異なった用途に使われる。",
+    "translation": "異国から伝来した、植物から搾り取ったミルク。動物のミルクよりスッキリした味わいが楽しめる為、通常のミルクとは異なった用途に使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.186.8",
+    "original": "異邦のプラントミルク",
+    "translation": "異邦のプラントミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.187.7",
+    "original": "魔獣から搾り取られた濃厚なミルク。家畜からとる物よりも、クリーミーでコクがあるが、魔獣相手の採取には特殊な才能が要求される。",
+    "translation": "魔獣から搾り取られた濃厚なミルク。家畜からとる物よりも、クリーミーでコクがあるが、魔獣相手の採取には特殊な才能が要求される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.187.8",
+    "original": "魔獣のミルク",
+    "translation": "魔獣のミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.188.7",
+    "original": "ミルクを調整して作ったまろやかな味わいのミルククリーム。一口で心が躍り出す、究極のミルク。",
+    "translation": "ミルクを調整して作ったまろやかな味わいのミルククリーム。一口で心が躍り出す、究極のミルク。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.188.8",
+    "original": "最高級クリームミルク",
+    "translation": "最高級クリームミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.189.7",
+    "original": "アルダルク農業組合が特別に育てた家畜の中でも、数年に一度しか採取できない、貴重なミルク。あまりに厳しい規格から、幻の乳とされた。",
+    "translation": "アルダルク農業組合が特別に育てた家畜の中でも、数年に一度しか採取できない、貴重なミルク。あまりに厳しい規格から、幻の乳とされた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.189.8",
+    "original": "幻の濃厚ミルク",
+    "translation": "幻の濃厚ミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.190.7",
+    "original": "絶大な魔力を蓄えるという、一角獣から採取したと吹聴されている、神秘的なミルク。存在自体が幻とされる獣のミルクをどうやって採取したのかは不明。",
+    "translation": "絶大な魔力を蓄えるという、一角獣から採取したと吹聴されている、神秘的なミルク。存在自体が幻とされる獣のミルクをどうやって採取したのかは不明。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.190.8",
+    "original": "一角獣のミルク",
+    "translation": "一角獣のミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.191.7",
+    "original": "天使が与えたとされる、神聖な力を持つミルク。飲むと神聖な力が漲る他、精神が安定し、信心深くなるようだ。",
+    "translation": "天使が与えたとされる、神聖な力を持つミルク。飲むと神聖な力が漲る他、精神が安定し、信心深くなるようだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.191.8",
+    "original": "エンジェルミルク",
+    "translation": "エンジェルミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.192.7",
+    "original": "特別に育てた家畜や、稀少な魔獣のミルクをブレンドし、調整した最高級ミルク。同じものは二度と作り出せないと言われる程、生産が安定しない。",
+    "translation": "特別に育てた家畜や、稀少な魔獣のミルクをブレンドし、調整した最高級ミルク。同じものは二度と作り出せないと言われる程、生産が安定しない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.192.8",
+    "original": "特別調整ブレンドミルク",
+    "translation": "特別調整ブレンドミルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.195.7",
+    "original": "水分を圧搾して取り出したチーズ。濃厚な味わいを持ち、熱を加えればトロリと溶ける。",
+    "translation": "水分を圧搾して取り出したチーズ。濃厚な味わいを持ち、熱を加えればトロリと溶ける。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.195.8",
+    "original": "固めのしっかりチーズ",
+    "translation": "固めのしっかりチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.196.7",
+    "original": "通常よりも濃厚に仕上げられた硬いチーズ。保存に適しているが、ちゃんと料理しないと硬くて食べられない",
+    "translation": "通常よりも濃厚に仕上げられた硬いチーズ。保存に適しているが、ちゃんと料理しないと硬くて食べられない",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.196.8",
+    "original": "赤く硬い濃厚チーズ",
+    "translation": "赤く硬い濃厚チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.197.7",
+    "original": "乳製品ならではの味わいと優しい歯触りが嬉しいチーズ。きめ細かく柔らかい、ミルク由来の脂肪が味わえる。",
+    "translation": "乳製品ならではの味わいと優しい歯触りが嬉しいチーズ。きめ細かく柔らかい、ミルク由来の脂肪が味わえる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.197.8",
+    "original": "ふんわりクリームチーズ",
+    "translation": "ふんわりクリームチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.198.7",
+    "original": "ダムブナックの邪教の神殿から発見された、赤黒いチーズ。邪教徒たちが作ったのだろうか……あやしげな物が練り込まれている気がする。",
+    "translation": "ダムブナックの邪教の神殿から発見された、赤黒いチーズ。邪教徒たちが作ったのだろうか……あやしげな物が練り込まれている気がする。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.198.8",
+    "original": "邪教徒の赤黒きチーズ",
+    "translation": "邪教徒の赤黒きチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.201.7",
+    "original": "特殊なカビの繁殖する洞窟で熟成させたチーズ。芳醇な香りと濃厚な味わいを持ち、虜になった愛好家も存在する。",
+    "translation": "特殊なカビの繁殖する洞窟で熟成させたチーズ。芳醇な香りと濃厚な味わいを持ち、虜になった愛好家も存在する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.201.8",
+    "original": "濃厚洞窟チーズ",
+    "translation": "濃厚洞窟チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.202.7",
+    "original": "氷の世界で熟成させたチーズ。極限の世界で低温熟成されており、素晴らしく濃厚な味わいが楽しめる。",
+    "translation": "氷の世界で熟成させたチーズ。極限の世界で低温熟成されており、素晴らしく濃厚な味わいが楽しめる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.202.8",
+    "original": "ガチガチ凍結チーズ",
+    "translation": "ガチガチ凍結チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.200.7",
+    "original": "長い時間をかけて熟成された、濃厚な硬質チーズ。多くの工程によって仕上げられているため、富裕層たちによって好んで食されている。",
+    "translation": "長い時間をかけて熟成された、濃厚な硬質チーズ。多くの工程によって仕上げられているため、富裕層たちによって好んで食されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.200.8",
+    "original": "王様のハードチーズ",
+    "translation": "王様のハードチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.199.7",
+    "original": "熱を与えるとトロトロに溶ける高級チーズ。危険な野宿でも焚火で炙れば、まさに甘露の味わい。",
+    "translation": "熱を与えるとトロトロに溶ける高級チーズ。危険な野宿でも焚火で炙れば、まさに甘露の味わい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.199.8",
+    "original": "甘露のとろけるチーズ",
+    "translation": "甘露のとろけるチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.203.7",
+    "original": "神秘の力が宿った、城砦の如き存在感を持つチーズ。これを食べられるのはやんごとなき身分の人間のみ。",
+    "translation": "神秘の力が宿った、城砦の如き存在感を持つチーズ。これを食べられるのはやんごとなき身分の人間のみ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.203.8",
+    "original": "神秘のキングダムチーズ",
+    "translation": "神秘のキングダムチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.204.7",
+    "original": "黄金色に輝く、熟成されたチーズ。アルダルク農業組合秘蔵の特殊製法により作られたチーズで、存在をひた隠しにされていた。",
+    "translation": "黄金色に輝く、熟成されたチーズ。アルダルク農業組合秘蔵の特殊製法により作られたチーズで、存在をひた隠しにされていた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.204.8",
+    "original": "黄金熟成チーズ",
+    "translation": "黄金熟成チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.207.7",
+    "original": "山の中に点在する地下水が沸き上がる泉の水。自然の物でありながら、その水は澄み切っており、そのまま飲むことが可能。",
+    "translation": "山の中に点在する地下水が沸き上がる泉の水。自然の物でありながら、その水は澄み切っており、そのまま飲むことが可能。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.207.8",
+    "original": "鉱山の天然水",
+    "translation": "鉱山の天然水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.208.7",
+    "original": "魔力を持った妖樹の葉っぱに蓄積したしずく。妖樹の生命力に満ちているが、そのまま人間が飲むと発狂する。飲むためには特殊な処理が必要。",
+    "translation": "魔力を持った妖樹の葉っぱに蓄積したしずく。妖樹の生命力に満ちているが、そのまま人間が飲むと発狂する。飲むためには特殊な処理が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.208.8",
+    "original": "妖樹の葉露",
+    "translation": "妖樹の葉露",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.209.7",
+    "original": "森林地帯で湧き出す水。森の魔力に満ちた液体は、飲んだものに不思議な力を与えると信じられている。",
+    "translation": "森林地帯で湧き出す水。森の魔力に満ちた液体は、飲んだものに不思議な力を与えると信じられている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.209.8",
+    "original": "不思議な森の清水",
+    "translation": "不思議な森の清水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.210.7",
+    "original": "高山から流れる天然水を、さらに濾過して精製した水。",
+    "translation": "高山から流れる天然水を、さらに濾過して精製した水。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.210.8",
+    "original": "磨き抜かれた天然水",
+    "translation": "磨き抜かれた天然水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.211.7",
+    "original": "聖地とされた霊峰から持ち出した聖なる水。聖なる魔力は邪悪を寄せ付けない、破邪の力に満ちている。",
+    "translation": "聖地とされた霊峰から持ち出した聖なる水。聖なる魔力は邪悪を寄せ付けない、破邪の力に満ちている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.211.8",
+    "original": "天上の聖水",
+    "translation": "天上の聖水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.212.7",
+    "original": "祝福を受けた聖なる水を、聖なる器に満たした最高級品。料理はもちろん、薬や酒の精製にも重宝する。",
+    "translation": "祝福を受けた聖なる水を、聖なる器に満たした最高級品。料理はもちろん、薬や酒の精製にも重宝する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.212.8",
+    "original": "祝福の神聖水",
+    "translation": "祝福の神聖水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.213.7",
+    "original": "サルバック砂漠のごく小さな区域に湧く、乳白色の天然水。砂漠に染み出た天然の水分は、魔力を帯び、神聖な力が宿っている。",
+    "translation": "サルバック砂漠のごく小さな区域に湧く、乳白色の天然水。砂漠に染み出た天然の水分は、魔力を帯び、神聖な力が宿っている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.213.8",
+    "original": "砂漠の湧き水",
+    "translation": "砂漠の湧き水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.214.7",
+    "original": "液体のまま存在するという水。すべてが凍てつく迷宮において、清潔なまま存在する奇跡の水。",
+    "translation": "液体のまま存在するという水。すべてが凍てつく迷宮において、清潔なまま存在する奇跡の水。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.214.8",
+    "original": "氷海の雪解け水",
+    "translation": "氷海の雪解け水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.215.7",
+    "original": "早朝のみ、巨大樹の葉に付着する水分を集めた貴重な水。生命力に満ちたこの水を飲むと、肉体まで若返るようだと伝えられている。",
+    "translation": "早朝のみ、巨大樹の葉に付着する水分を集めた貴重な水。生命力に満ちたこの水を飲むと、肉体まで若返るようだと伝えられている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.215.8",
+    "original": "巨大樹の朝露",
+    "translation": "巨大樹の朝露",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.216.7",
+    "original": "海底に沈んだ、伝説的な聖域から採取された神聖な水。不純物のない天然の浄水は、肉体内の穢れをも浄化する。",
+    "translation": "海底に沈んだ、伝説的な聖域から採取された神聖な水。不純物のない天然の浄水は、肉体内の穢れをも浄化する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.216.8",
+    "original": "アーマニア深層水",
+    "translation": "アーマニア深層水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.219.7",
+    "original": "果実にアルコールを作り出す微生物が共生する果実。果実ならではの甘さが独特の酒を作り上げる。",
+    "translation": "果実にアルコールを作り出す微生物が共生する果実。果実ならではの甘さが独特の酒を作り上げる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.219.8",
+    "original": "森の天然発酵果実",
+    "translation": "森の天然発酵果実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.220.7",
+    "original": "酒好きのドワームが作り出した、大型のアルコール抽出機。酒を入れると熱によってアルコールを気化させ、自動で高濃度のアルコールを生成する。",
+    "translation": "酒好きのドワームが作り出した、大型のアルコール抽出機。酒を入れると熱によってアルコールを気化させ、自動で高濃度のアルコールを生成する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.220.8",
+    "original": "スミスのアルコール抽出器",
+    "translation": "スミスのアルコール抽出器",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.221.7",
+    "original": "酒に漬け込み、香りや味わいに深みを与える為の薬草。秘められた森の魔力が、そのまま醸造能力を助ける。",
+    "translation": "酒に漬け込み、香りや味わいに深みを与える為の薬草。秘められた森の魔力が、そのまま醸造能力を助ける。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.221.8",
+    "original": "酒精醸造ハーブ",
+    "translation": "酒精醸造ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.222.7",
+    "original": "燃えるような火酒を造るのに欠かせない、自然界でも最強の醸造微生物。",
+    "translation": "燃えるような火酒を造るのに欠かせない、自然界でも最強の醸造微生物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.222.8",
+    "original": "火酒酵母",
+    "translation": "火酒酵母",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.223.7",
+    "original": "温度や圧力を自在に調整してアルコールを抽出する、酒豪の為のアルコール精製機。",
+    "translation": "温度や圧力を自在に調整してアルコールを抽出する、酒豪の為のアルコール精製機。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.223.8",
+    "original": "ミラクルアルコール精製機",
+    "translation": "ミラクルアルコール精製機",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.224.7",
+    "original": "酒精の力を閉じ込めた深紅のワイン樽。作る目的の酒によって、入れる素材が決まっており、同じ材質で樽を作っても、同じ酒を造る事はかなわない。",
+    "translation": "酒精の力を閉じ込めた深紅のワイン樽。作る目的の酒によって、入れる素材が決まっており、同じ材質で樽を作っても、同じ酒を造る事はかなわない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.224.8",
+    "original": "永劫の酒樽",
+    "translation": "永劫の酒樽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.225.7",
+    "original": "水分をあっという間にアルコールに変えてしまう、新種のベリー果実。しかし、内側に秘めた菌が醸造を行うには、厳密な温度管理が必要。",
+    "translation": "水分をあっという間にアルコールに変えてしまう、新種のベリー果実。しかし、内側に秘めた菌が醸造を行うには、厳密な温度管理が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.225.8",
+    "original": "マッハ醸造ベリー",
+    "translation": "マッハ醸造ベリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.226.7",
+    "original": "火山の深部から湧き出る、赤茶色の鉱物が混ざった温水。これで酒を造ると、醸造が促進され、燃え上がるような味わいの強い酒を作る事が出来る。",
+    "translation": "火山の深部から湧き出る、赤茶色の鉱物が混ざった温水。これで酒を造ると、醸造が促進され、燃え上がるような味わいの強い酒を作る事が出来る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.226.8",
+    "original": "火山の燃え上がる水",
+    "translation": "火山の燃え上がる水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.227.7",
+    "original": "極寒北国で研究されてきた酵母。最高級のアルコールを作り出す原料として使われる。",
+    "translation": "極寒北国で研究されてきた酵母。最高級のアルコールを作り出す原料として使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.227.8",
+    "original": "ノーザリア熟成酵母",
+    "translation": "ノーザリア熟成酵母",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.228.7",
+    "original": "古代から様々な薬草を漬け込んだ醸造樽。樽に染みついた薬草の香りが、唯一無二の酒を作り出す。伝説の海賊のお宝との言い伝えがある。",
+    "translation": "古代から様々な薬草を漬け込んだ醸造樽。樽に染みついた薬草の香りが、唯一無二の酒を作り出す。伝説の海賊のお宝との言い伝えがある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.228.8",
+    "original": "古代の薬草樽",
+    "translation": "古代の薬草樽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.231.7",
+    "original": "海で捕れた、鋼鉄のような堅さを持つ大魚の皮革を処理したもの。防具として加工することも可能になるという種類のもので、冒険者に愛用されている。",
+    "translation": "海で捕れた、鋼鉄のような堅さを持つ大魚の皮革を処理したもの。防具として加工することも可能になるという種類のもので、冒険者に愛用されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.231.8",
+    "original": "装甲魚の皮革",
+    "translation": "装甲魚の皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.232.7",
+    "original": "スネーク系の魔獣から剥がした皮革をなめして素材にしたもの。丈夫で高級感があり、貴婦人も好みそう。",
+    "translation": "スネーク系の魔獣から剥がした皮革をなめして素材にしたもの。丈夫で高級感があり、貴婦人も好みそう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.232.8",
+    "original": "スネークの皮革",
+    "translation": "スネークの皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.233.7",
+    "original": "大型のトカゲ種のうろこ。ドラゴンとよく似た姿をしているので、ドラゴンのうろこと騙して売られることはとても多い。リザードも価値はそれなりにあるが……。",
+    "translation": "大型のトカゲ種のうろこ。ドラゴンとよく似た姿をしているので、ドラゴンのうろこと騙して売られることはとても多い。リザードも価値はそれなりにあるが……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.233.8",
+    "original": "ビッグリザードの皮革",
+    "translation": "ビッグリザードの皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.238.7",
+    "original": "ファングと呼ばれる鋭い歯を持つ獰猛な生物の皮革。軽くて丈夫で、防御力が高い。",
+    "translation": "ファングと呼ばれる鋭い歯を持つ獰猛な生物の皮革。軽くて丈夫で、防御力が高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.238.8",
+    "original": "ファングの皮革",
+    "translation": "ファングの皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.235.7",
+    "original": "大型魔獣として恐れられるキャタピラーの皮革を素材としたもの。軍隊の攻撃にも耐えられるキャタピラーを討伐することは尋常ではなく、強力な武具の素材になる。",
+    "translation": "大型魔獣として恐れられるキャタピラーの皮革を素材としたもの。軍隊の攻撃にも耐えられるキャタピラーを討伐することは尋常ではなく、強力な武具の素材になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.235.8",
+    "original": "キャタピラーの皮革",
+    "translation": "キャタピラーの皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.234.7",
+    "original": "大型魔獣として恐れられるバジリスクの皮革を素材としてたもの。皮革としての価値もさることながら、魔力を秘めており魔術の触媒としても高値で取引されている。",
+    "translation": "大型魔獣として恐れられるバジリスクの皮革を素材としてたもの。皮革としての価値もさることながら、魔力を秘めており魔術の触媒としても高値で取引されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.234.8",
+    "original": "バジリスクの皮革",
+    "translation": "バジリスクの皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.237.7",
+    "original": "毒々しい体液が滲みだす、リザード種の物と思しき皮革。並の魔獣を凌駕する硬さを持つが、絶えず染み出る毒液により、加工は困難を極める。",
+    "translation": "毒々しい体液が滲みだす、リザード種の物と思しき皮革。並の魔獣を凌駕する硬さを持つが、絶えず染み出る毒液により、加工は困難を極める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.237.8",
+    "original": "黄金獣の皮革",
+    "translation": "黄金獣の皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.239.7",
+    "original": "天空に生息する魔獣の皮革。極寒にも耐える耐久性に優れており、寒冷地での防寒衣に使われる。一般的なオオカミの皮革よりも固く頑丈。",
+    "translation": "天空に生息する魔獣の皮革。極寒にも耐える耐久性に優れており、寒冷地での防寒衣に使われる。一般的なオオカミの皮革よりも固く頑丈。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.239.8",
+    "original": "天空の魔獣革",
+    "translation": "天空の魔獣革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.240.7",
+    "original": "かつてセグルメットの聖騎士が手に入れたと言われる、魔獣の皮革にそっくりな、硬い皮革。如何なる魔獣から剥がれ落ちたのか、現在も分かっていない。",
+    "translation": "かつてセグルメットの聖騎士が手に入れたと言われる、魔獣の皮革にそっくりな、硬い皮革。如何なる魔獣から剥がれ落ちたのか、現在も分かっていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.240.8",
+    "original": "大いなる魔獣の皮革",
+    "translation": "大いなる魔獣の皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.236.7",
+    "original": "大人がやっとの思いで抱えるような、ドラゴンの物と思しき巨大なうろこ。偶然剥がれ落ちたものと考えられており、ドラゴン自体を持ち帰れたことはない。",
+    "translation": "大人がやっとの思いで抱えるような、ドラゴンの物と思しき巨大なうろこ。偶然剥がれ落ちたものと考えられており、ドラゴン自体を持ち帰れたことはない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.236.8",
+    "original": "ドラゴン？のうろこ",
+    "translation": "ドラゴン？のうろこ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.242.7",
+    "original": "牧畜されている牛の毛皮。一般的な毛皮素材。",
+    "translation": "牧畜されている牛の毛皮。一般的な毛皮素材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.242.8",
+    "original": "牧畜の毛束",
+    "translation": "牧畜の毛束",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.243.7",
+    "original": "森の獣の毛皮。上手く扱われており、素材としての価値も高い。",
+    "translation": "森の獣の毛皮。上手く扱われており、素材としての価値も高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.243.8",
+    "original": "森の獣の毛皮",
+    "translation": "森の獣の毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.244.7",
+    "original": "森の凶暴な狼からの戦利品。しなやかで上品質な毛皮で、素材として価値が高い。",
+    "translation": "森の凶暴な狼からの戦利品。しなやかで上品質な毛皮で、素材として価値が高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.244.8",
+    "original": "オオカミの毛皮",
+    "translation": "オオカミの毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.245.7",
+    "original": "北に近い場所に住む大型魔獣の毛皮。高い防御力と防寒性を持つ。大型魔獣の素材ということでステイタスになり、貴族のインテリアにも好まれる。",
+    "translation": "北に近い場所に住む大型魔獣の毛皮。高い防御力と防寒性を持つ。大型魔獣の素材ということでステイタスになり、貴族のインテリアにも好まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.245.8",
+    "original": "魔獣のなめし革",
+    "translation": "魔獣のなめし革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.246.7",
+    "original": "大型の魔獣の毛皮を素材として処理したもの。生前の獣の生命力を感じさせる。",
+    "translation": "大型の魔獣の毛皮を素材として処理したもの。生前の獣の生命力を感じさせる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.246.8",
+    "original": "丈夫な毛皮",
+    "translation": "丈夫な毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.247.7",
+    "original": "紫色のいかにも毒を持ってそうな毛皮。カラフルで綺麗なのだが、触るのには少々ためらわれる……呪具としてなら、使えなくもないだろうか？",
+    "translation": "紫色のいかにも毒を持ってそうな毛皮。カラフルで綺麗なのだが、触るのには少々ためらわれる……呪具としてなら、使えなくもないだろうか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.247.8",
+    "original": "どくどくアニマル毛皮",
+    "translation": "どくどくアニマル毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.248.7",
+    "original": "灰色熊と恐れられる巨大な魔獣の毛皮を素材化したもの。ベテランの冒険者パーティを粉砕する巨大魔獣は討伐するだけで勇者と称えられ、大金で取引される。",
+    "translation": "灰色熊と恐れられる巨大な魔獣の毛皮を素材化したもの。ベテランの冒険者パーティを粉砕する巨大魔獣は討伐するだけで勇者と称えられ、大金で取引される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.248.8",
+    "original": "グリズリーの毛皮",
+    "translation": "グリズリーの毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.249.7",
+    "original": "魔法生物が持つ魔力によって棘のような体毛が生える毛皮。革の持ち主はすでに死んでいるはずなのに、魔力に反応する性質は失われていない。",
+    "translation": "魔法生物が持つ魔力によって棘のような体毛が生える毛皮。革の持ち主はすでに死んでいるはずなのに、魔力に反応する性質は失われていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.249.8",
+    "original": "魔法生物の毛皮",
+    "translation": "魔法生物の毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.250.7",
+    "original": "火山地帯に生息する獣の毛皮で、高い耐熱性と耐火性を持つ。防具や衣服の材料として使われるが、持ち帰るにはかなり重い。",
+    "translation": "火山地帯に生息する獣の毛皮で、高い耐熱性と耐火性を持つ。防具や衣服の材料として使われるが、持ち帰るにはかなり重い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.250.8",
+    "original": "燃える獣の毛皮",
+    "translation": "燃える獣の毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.251.7",
+    "original": "霊峰に生息する魔獣の皮。魔術的な障壁を発生させるのか、物理的のみならず、魔術に対して高い防御力を持つ。当然、これを持つ対象の討伐は容易ではない。",
+    "translation": "霊峰に生息する魔獣の皮。魔術的な障壁を発生させるのか、物理的のみならず、魔術に対して高い防御力を持つ。当然、これを持つ対象の討伐は容易ではない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.251.8",
+    "original": "魔海獣の水かき",
+    "translation": "魔海獣の水かき",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.252.7",
+    "original": "深海に生息する魔獣の毛皮。一見すると鱗のようなのだが、実は抜け毛らしい。海中でもほとんど劣化しない程の腐食耐性がある。",
+    "translation": "深海に生息する魔獣の毛皮。一見すると鱗のようなのだが、実は抜け毛らしい。海中でもほとんど劣化しない程の腐食耐性がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.252.8",
+    "original": "深海魔獣の毛皮",
+    "translation": "深海魔獣の毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.255.7",
+    "original": "糸を紡いで作った布を、後から染料で染めた物。染め方や織り方によって、使用用途や丈夫さが変わってくるため、職人の腕の見せ所。",
+    "translation": "糸を紡いで作った布を、後から染料で染めた物。染め方や織り方によって、使用用途や丈夫さが変わってくるため、職人の腕の見せ所。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.255.8",
+    "original": "染め上げた反物",
+    "translation": "染め上げた反物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.256.7",
+    "original": "地下に住む大蜘蛛が分泌した糸。粘性を持ち、加工を困難にしているが、この糸から生まれる布は、美しく煌めくような光沢を持ち、貴婦人にも求められる。",
+    "translation": "地下に住む大蜘蛛が分泌した糸。粘性を持ち、加工を困難にしているが、この糸から生まれる布は、美しく煌めくような光沢を持ち、貴婦人にも求められる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.256.8",
+    "original": "スパイダーシルク",
+    "translation": "スパイダーシルク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.257.7",
+    "original": "まるで鮮血に染まったかのように鮮やかな、肉食烏の羽束。忌まわしい存在ではあるが美しく、職人が欲しがる。",
+    "translation": "まるで鮮血に染まったかのように鮮やかな、肉食烏の羽束。忌まわしい存在ではあるが美しく、職人が欲しがる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.257.8",
+    "original": "レッドクロウの羽",
+    "translation": "レッドクロウの羽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.258.7",
+    "original": "魔力を帯びた黄金の羽。柔らかくふかふかした素材でありながら、集めて敷き詰めれば、刃をも通さない、強靭な防御盾にもなる。",
+    "translation": "魔力を帯びた黄金の羽。柔らかくふかふかした素材でありながら、集めて敷き詰めれば、刃をも通さない、強靭な防御盾にもなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.258.8",
+    "original": "ふかふかゴールドフェザー",
+    "translation": "ふかふかゴールドフェザー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.259.7",
+    "original": "金属で作った細長い糸。糸でありながら、材質そのものが違う為、圧倒的な強靭さを誇る。",
+    "translation": "金属で作った細長い糸。糸でありながら、材質そのものが違う為、圧倒的な強靭さを誇る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.259.8",
+    "original": "魔力を持つワイヤー",
+    "translation": "魔力を持つワイヤー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.260.7",
+    "original": "輝くような黄金色の光沢を放つ布。軽くふんわりとした手触りでありながら、槍をも通さないほどの強靭さを秘めている。熱や冷気にも強い、究極の布。",
+    "translation": "輝くような黄金色の光沢を放つ布。軽くふんわりとした手触りでありながら、槍をも通さないほどの強靭さを秘めている。熱や冷気にも強い、究極の布。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.260.8",
+    "original": "輝く不思議な布",
+    "translation": "輝く不思議な布",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.261.7",
+    "original": "人間が人工的に作り出した、強度が高く、魔法にも強い繊維。鉱石から作り出されたこの糸は、天然の糸素材とは材質そのものが異なり、特殊な用途に使われる。",
+    "translation": "人間が人工的に作り出した、強度が高く、魔法にも強い繊維。鉱石から作り出されたこの糸は、天然の糸素材とは材質そのものが異なり、特殊な用途に使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.261.8",
+    "original": "グラスファイバー",
+    "translation": "グラスファイバー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.262.7",
+    "original": "悪魔とも言われる魚の皮を布上に加工したと言われる繊維。邪教徒の神殿で祀られるこの素材は、禍々しい力に満ちている。",
+    "translation": "悪魔とも言われる魚の皮を布上に加工したと言われる繊維。邪教徒の神殿で祀られるこの素材は、禍々しい力に満ちている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.262.8",
+    "original": "デモニックスキン",
+    "translation": "デモニックスキン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.263.7",
+    "original": "魔力を帯びた植物糸と針金状の金属糸をより合わせ、対物、耐魔力の両性能を引き上げた素材。とてつもない時間と技術の研鑽が求められる、究極の繊維。",
+    "translation": "魔力を帯びた植物糸と針金状の金属糸をより合わせ、対物、耐魔力の両性能を引き上げた素材。とてつもない時間と技術の研鑽が求められる、究極の繊維。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.263.8",
+    "original": "金属繊維",
+    "translation": "金属繊維",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.264.7",
+    "original": "竜の翼から取れたと言われる、軽く強靭な羽毛。竜がふわふわの羽を持っているかはともかく、纏った魔力は本物で、今の人類には到達できないと言われている。",
+    "translation": "竜の翼から取れたと言われる、軽く強靭な羽毛。竜がふわふわの羽を持っているかはともかく、纏った魔力は本物で、今の人類には到達できないと言われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.264.8",
+    "original": "竜の羽毛",
+    "translation": "竜の羽毛",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.266.7",
+    "original": "根元から倒れた樹木の枝を落として持ち帰った物。重いので持ち帰るのは辛いが、燃料から武器の柄まで、用途は幅広い。",
+    "translation": "根元から倒れた樹木の枝を落として持ち帰った物。重いので持ち帰るのは辛いが、燃料から武器の柄まで、用途は幅広い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.266.8",
+    "original": "大きな丸太",
+    "translation": "大きな丸太",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.267.7",
+    "original": "森の魔力を蓄えた樹木から分泌された、粘着力の高い樹液。これを使って表面を覆えば、対魔力が得られそう。接着用の素材としても信頼性がある。",
+    "translation": "森の魔力を蓄えた樹木から分泌された、粘着力の高い樹液。これを使って表面を覆えば、対魔力が得られそう。接着用の素材としても信頼性がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.267.8",
+    "original": "ねばねばする樹液",
+    "translation": "ねばねばする樹液",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.268.7",
+    "original": "丸太を使いやすいようにカットした板材。板金で補強したり建物の壁面に使用したりと幅広い使用用途がある。",
+    "translation": "丸太を使いやすいようにカットした板材。板金で補強したり建物の壁面に使用したりと幅広い使用用途がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.268.8",
+    "original": "頑丈な板材",
+    "translation": "頑丈な板材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.269.7",
+    "original": "闇の魔力を持つ樹木を切り出した物。不気味な威圧感を放つ霊木を使ったアイテムは、不思議な魔力に満ちるという。",
+    "translation": "闇の魔力を持つ樹木を切り出した物。不気味な威圧感を放つ霊木を使ったアイテムは、不思議な魔力に満ちるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.269.8",
+    "original": "闇の迷彩樹木",
+    "translation": "闇の迷彩樹木",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.270.7",
+    "original": "とにかく頑丈な大木の枝を切り落とした物。どう見ても丸太だが、これでも枝部分。どんな攻撃を受けても破損しない頑丈さを持つ。",
+    "translation": "とにかく頑丈な大木の枝を切り落とした物。どう見ても丸太だが、これでも枝部分。どんな攻撃を受けても破損しない頑丈さを持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.270.8",
+    "original": "王樹の丸太",
+    "translation": "王樹の丸太",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.271.7",
+    "original": "魔力を帯びた、天に至る霊峰の樹木から取れる枝。自然の魔力の漲るこの枝ならば、マジックアイテムを作るのに向きそうだ。",
+    "translation": "魔力を帯びた、天に至る霊峰の樹木から取れる枝。自然の魔力の漲るこの枝ならば、マジックアイテムを作るのに向きそうだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.271.8",
+    "original": "天空樹の枝",
+    "translation": "天空樹の枝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.272.7",
+    "original": "樹木にあるまじき耐熱、耐衝撃性能を備えた角材。あらゆる建物や武器、防具の基礎として優れた性能を発揮する。",
+    "translation": "樹木にあるまじき耐熱、耐衝撃性能を備えた角材。あらゆる建物や武器、防具の基礎として優れた性能を発揮する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.272.8",
+    "original": "不滅の角材",
+    "translation": "不滅の角材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.273.7",
+    "original": "長い年月をかけて魔力を帯びた樹木。暗黒の力を持った樹木。",
+    "translation": "長い年月をかけて魔力を帯びた樹木。暗黒の力を持った樹木。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.273.8",
+    "original": "魔を帯びた樹木",
+    "translation": "魔を帯びた樹木",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.274.7",
+    "original": "金色に輝くオークと呼ばれる樹木を削り出した物。まるで宝石のような美しさと、高い耐久性を誇る木材。",
+    "translation": "金色に輝くオークと呼ばれる樹木を削り出した物。まるで宝石のような美しさと、高い耐久性を誇る木材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.274.8",
+    "original": "ゴールデンオーク",
+    "translation": "ゴールデンオーク",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.275.7",
+    "original": "魔力を帯びた特殊な木材。生息している樹木ではなく、流木として流れ着いた形でしか発見できていない。伝説の海底都市に存在すると、まことしやかに囁かれる。",
+    "translation": "魔力を帯びた特殊な木材。生息している樹木ではなく、流木として流れ着いた形でしか発見できていない。伝説の海底都市に存在すると、まことしやかに囁かれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.275.8",
+    "original": "腐食しない奇妙な材",
+    "translation": "腐食しない奇妙な材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.276.7",
+    "original": "魔界からこの世界に流れ着いたと言われる、黒い木材。魔力に満ち溢れたこの樹木は、凶悪な魔獣の蔓延るダムブナックの森でも、まだ見つかっていない。",
+    "translation": "魔界からこの世界に流れ着いたと言われる、黒い木材。魔力に満ち溢れたこの樹木は、凶悪な魔獣の蔓延るダムブナックの森でも、まだ見つかっていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.276.8",
+    "original": "魔界の枝",
+    "translation": "魔界の枝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.278.7",
+    "original": "作物を育てるのに適した土。様々な作物を育てられるのに適している反面、柔らかいので建材等には向かない。",
+    "translation": "作物を育てるのに適した土。様々な作物を育てられるのに適している反面、柔らかいので建材等には向かない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.278.8",
+    "original": "栄養豊富な牧場の土",
+    "translation": "栄養豊富な牧場の土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.279.7",
+    "original": "鉱物の成分を豊富に取り込んだ土。焼成して固めた物は、建材としても申し分ない硬さを持つが、あまりに強い衝撃を叩きつけられると砕けてしまう。",
+    "translation": "鉱物の成分を豊富に取り込んだ土。焼成して固めた物は、建材としても申し分ない硬さを持つが、あまりに強い衝撃を叩きつけられると砕けてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.279.8",
+    "original": "鉱山の赤土",
+    "translation": "鉱山の赤土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.280.7",
+    "original": "海水の流れによって堆積した砂。他の土と混ぜて、建材同士を接着したり、水分が抜けると固まる性質を利用し、地面を新しく生み出す用途に用いられる。",
+    "translation": "海水の流れによって堆積した砂。他の土と混ぜて、建材同士を接着したり、水分が抜けると固まる性質を利用し、地面を新しく生み出す用途に用いられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.280.8",
+    "original": "海底の砂",
+    "translation": "海底の砂",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.281.7",
+    "original": "水色に変色した魔力を帯びた土。美しさすら感じる水分を含んだ土は、見た目よりもはるかに禍々しい性質を備えている。",
+    "translation": "水色に変色した魔力を帯びた土。美しさすら感じる水分を含んだ土は、見た目よりもはるかに禍々しい性質を備えている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.281.8",
+    "original": "汚染された泥土",
+    "translation": "汚染された泥土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.282.7",
+    "original": "火山地帯で多く見られる、赤く輝く土。魔力を帯びた、暖かく燃えるような土は、植物を育てる以外にも使い道がある。",
+    "translation": "火山地帯で多く見られる、赤く輝く土。魔力を帯びた、暖かく燃えるような土は、植物を育てる以外にも使い道がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.282.8",
+    "original": "活力の火山土",
+    "translation": "活力の火山土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.283.7",
+    "original": "結晶化した黒土。見た目は黒光りする硬い結晶だが、少し触るとボロボロに崩れる。栄養分を豊富に含む他、金属成分と混ざると、その硬さが更に強化される。",
+    "translation": "結晶化した黒土。見た目は黒光りする硬い結晶だが、少し触るとボロボロに崩れる。栄養分を豊富に含む他、金属成分と混ざると、その硬さが更に強化される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.283.8",
+    "original": "結晶ブラックサンド",
+    "translation": "結晶ブラックサンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.284.7",
+    "original": "古代遺跡の周辺で採れる軽い土。長らく有力な利用方法が発見されなかったが、その不可思議な利用法が発見された途端に秘密裏に収集されるようになった。",
+    "translation": "古代遺跡の周辺で採れる軽い土。長らく有力な利用方法が発見されなかったが、その不可思議な利用法が発見された途端に秘密裏に収集されるようになった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.284.8",
+    "original": "魔力を帯びた遺跡の軽土",
+    "translation": "魔力を帯びた遺跡の軽土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.285.7",
+    "original": "聖地セグルメットの開拓時に掘り出された、魔力を秘めた土。その性質は元々、呪いに近い物であったようだが、現在は浄化されている。",
+    "translation": "聖地セグルメットの開拓時に掘り出された、魔力を秘めた土。その性質は元々、呪いに近い物であったようだが、現在は浄化されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.285.8",
+    "original": "聖地の土",
+    "translation": "聖地の土",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.287.7",
+    "original": "汚染された土壌の石。その呪いは、凍り付いた獲物を蝕み続ける。",
+    "translation": "汚染された土壌の石。その呪いは、凍り付いた獲物を蝕み続ける。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.287.8",
+    "original": "汚染したカースストーン",
+    "translation": "汚染したカースストーン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.288.7",
+    "original": "金を多量に含んだ石。サルバック砂漠で見つかる事から、黄金都市の噂が耐えなかった。内部には現在も謎めいた魔力が蓄積されている。",
+    "translation": "金を多量に含んだ石。サルバック砂漠で見つかる事から、黄金都市の噂が耐えなかった。内部には現在も謎めいた魔力が蓄積されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.288.8",
+    "original": "砂漠のゴールドサンド",
+    "translation": "砂漠のゴールドサンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.286.7",
+    "original": "海底都市に堆積している煌めく砂。魔力を帯びたこの砂は、常に表面がツルツルに磨かれている。",
+    "translation": "海底都市に堆積している煌めく砂。魔力を帯びたこの砂は、常に表面がツルツルに磨かれている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.286.8",
+    "original": "深海の煌めく砂",
+    "translation": "深海の煌めく砂",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.291.7",
+    "original": "大いなる海のうねりを閉じ込めたかのような渦巻き状の模様を持った石。水の魔力を持った石は、大岩のような存在感を放っている。",
+    "translation": "大いなる海のうねりを閉じ込めたかのような渦巻き状の模様を持った石。水の魔力を持った石は、大岩のような存在感を放っている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.291.8",
+    "original": "海洋ミルキーストーン",
+    "translation": "海洋ミルキーストーン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.292.7",
+    "original": "不気味な文様を持った蒼緑色の石。人工物のようにも見えるが、この恐ろしい気配を放つ、禍々しい石に近付ける者は数少ない。",
+    "translation": "不気味な文様を持った蒼緑色の石。人工物のようにも見えるが、この恐ろしい気配を放つ、禍々しい石に近付ける者は数少ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.292.8",
+    "original": "不吉な瓦礫",
+    "translation": "不吉な瓦礫",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.293.7",
+    "original": "ゆらゆらと陽炎のように揺らめく柱状結晶。並の石よりも硬い素材だが、内に秘めた魔力の力で、外見は柔らかくしなっている。",
+    "translation": "ゆらゆらと陽炎のように揺らめく柱状結晶。並の石よりも硬い素材だが、内に秘めた魔力の力で、外見は柔らかくしなっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.293.8",
+    "original": "揺らめく剛石",
+    "translation": "揺らめく剛石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.294.7",
+    "original": "鑑のように周囲の景色を映し込む石。天然の聖なる力を受けた平たい石は、専用にあつらえた道具でなければ傷をつける事ができず、害意を持った魔力を跳ね返す。",
+    "translation": "鑑のように周囲の景色を映し込む石。天然の聖なる力を受けた平たい石は、専用にあつらえた道具でなければ傷をつける事ができず、害意を持った魔力を跳ね返す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.294.8",
+    "original": "輝く鏡石",
+    "translation": "輝く鏡石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.295.7",
+    "original": "石でありながら、空中に浮かぶほどの軽さを持つ石材。光を湛えた石の内部には、膨大な魔力を秘めている。",
+    "translation": "石でありながら、空中に浮かぶほどの軽さを持つ石材。光を湛えた石の内部には、膨大な魔力を秘めている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.295.8",
+    "original": "浮遊する石材",
+    "translation": "浮遊する石材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.297.7",
+    "original": "内部に魔力を帯びた石が入った美しい石柱。魔法の力をそのまま武具に宿すには、繊細な手腕が必要。",
+    "translation": "内部に魔力を帯びた石が入った美しい石柱。魔法の力をそのまま武具に宿すには、繊細な手腕が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.297.8",
+    "original": "きらめきクリスタルロック",
+    "translation": "きらめきクリスタルロック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.298.7",
+    "original": "水中を好む魔物によって磨き上げられた美しい石材。高い魔力を持つが、耐性を持たないものが直視すると、海に引き込まれるという。",
+    "translation": "水中を好む魔物によって磨き上げられた美しい石材。高い魔力を持つが、耐性を持たないものが直視すると、海に引き込まれるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.298.8",
+    "original": "水魔が磨いた石材",
+    "translation": "水魔が磨いた石材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.299.7",
+    "original": "海に沈んだ邪教の神殿に用いられた石柱で、邪悪な力を滲ませている。闇の力を持つ素材ではあるが、これ自体が呪具として所持を禁止されている。",
+    "translation": "海に沈んだ邪教の神殿に用いられた石柱で、邪悪な力を滲ませている。闇の力を持つ素材ではあるが、これ自体が呪具として所持を禁止されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.299.8",
+    "original": "古代の石柱",
+    "translation": "古代の石柱",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.296.7",
+    "original": "はるか昔から存在したとされる、不思議な輝きを持つ石。これを加工するには特殊な技術が必要で、一般の職人では傷一つ付ける事もできない。",
+    "translation": "はるか昔から存在したとされる、不思議な輝きを持つ石。これを加工するには特殊な技術が必要で、一般の職人では傷一つ付ける事もできない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.296.8",
+    "original": "悠久のプリズムストーン",
+    "translation": "悠久のプリズムストーン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.300.7",
+    "original": "空から落ちた星の破片と言われる、内側で魔力が暴れ出している結晶体。天と海の魔力を蓄積させたこの結晶体は、加工法すら確立されていない。",
+    "translation": "空から落ちた星の破片と言われる、内側で魔力が暴れ出している結晶体。天と海の魔力を蓄積させたこの結晶体は、加工法すら確立されていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.300.8",
+    "original": "星のかけら",
+    "translation": "星のかけら",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.301.7",
+    "original": "砕けた金属を集めたもの。一つの量は少ないが、小さい分加工しやすい。",
+    "translation": "砕けた金属を集めたもの。一つの量は少ないが、小さい分加工しやすい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.301.8",
+    "original": "木っ端チップ",
+    "translation": "木っ端チップ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.303.7",
+    "original": "銅を精錬する際に、スズを含ませることで強度を増した金属。金属にしては加工しやすく、見た目も美しい。",
+    "translation": "銅を精錬する際に、スズを含ませることで強度を増した金属。金属にしては加工しやすく、見た目も美しい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.303.8",
+    "original": "青銅のインゴット",
+    "translation": "青銅のインゴット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.304.7",
+    "original": "鉄鉱石を高温で精錬した頑丈な金属。銅とは比較にならないほどの高温が必要な代わりに、途方もない頑丈さを実現した。",
+    "translation": "鉄鉱石を高温で精錬した頑丈な金属。銅とは比較にならないほどの高温が必要な代わりに、途方もない頑丈さを実現した。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.304.8",
+    "original": "アイアンのインゴット",
+    "translation": "アイアンのインゴット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.305.7",
+    "original": "アイアンに微量の炭を含ませることで、さらに強靭な頑丈さを実現した金属。強靭でありながら、加工性に優れ、刃物や防具へ加工される。",
+    "translation": "アイアンに微量の炭を含ませることで、さらに強靭な頑丈さを実現した金属。強靭でありながら、加工性に優れ、刃物や防具へ加工される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.305.8",
+    "original": "スチールインゴット",
+    "translation": "スチールインゴット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.306.7",
+    "original": "邪悪な魔力を持った金属。魔力の影響を受けやすいこの金属は、邪悪に染めるも、浄化して祝福を授けるのも容易で、マジックアイテムの製造に適している。",
+    "translation": "邪悪な魔力を持った金属。魔力の影響を受けやすいこの金属は、邪悪に染めるも、浄化して祝福を授けるのも容易で、マジックアイテムの製造に適している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.306.8",
+    "original": "邪悪な魔銀",
+    "translation": "邪悪な魔銀",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.307.7",
+    "original": "叩けばどこまでも薄く伸びる、黄金のインゴット。永遠に錆びず、光沢を放ち続けるこの金属は、その高級さゆえに、不純物を混ぜた偽物が偽造される事となった。",
+    "translation": "叩けばどこまでも薄く伸びる、黄金のインゴット。永遠に錆びず、光沢を放ち続けるこの金属は、その高級さゆえに、不純物を混ぜた偽物が偽造される事となった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.307.8",
+    "original": "ぴかぴか延べ棒ゴールド",
+    "translation": "ぴかぴか延べ棒ゴールド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.308.7",
+    "original": "渦巻く闇のエネルギーを封じ込めたエネルギー結晶。光を無限に吸い込む闇の如く、あらゆる衝撃を無効化する。鍛冶師たちが加工を夢見る伝説の物質。",
+    "translation": "渦巻く闇のエネルギーを封じ込めたエネルギー結晶。光を無限に吸い込む闇の如く、あらゆる衝撃を無効化する。鍛冶師たちが加工を夢見る伝説の物質。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.308.8",
+    "original": "常闇のダークマター",
+    "translation": "常闇のダークマター",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.309.7",
+    "original": "精製された魔力結晶の塊。魔法の杖や装飾品に用いられることが多い。透き通った内部には、膨大な魔力が秘められている。",
+    "translation": "精製された魔力結晶の塊。魔法の杖や装飾品に用いられることが多い。透き通った内部には、膨大な魔力が秘められている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.309.8",
+    "original": "巨大な魔力キューブ",
+    "translation": "巨大な魔力キューブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.310.7",
+    "original": "極めて硬い、特殊な配合で焼成した合金。加工することで強靭な装備が作れる。その強度は他の鉄鉱石を圧倒するが、あまりの硬さに加工できる職人は限られる。",
+    "translation": "極めて硬い、特殊な配合で焼成した合金。加工することで強靭な装備が作れる。その強度は他の鉄鉱石を圧倒するが、あまりの硬さに加工できる職人は限られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.310.8",
+    "original": "超硬度合金",
+    "translation": "超硬度合金",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.311.7",
+    "original": "邪悪な力を徹底的に排除し、神聖な祝福を詰め込んだ白銀に輝くインゴット。神聖なのは確かだが、周囲を何でも浄化してしまう。",
+    "translation": "邪悪な力を徹底的に排除し、神聖な祝福を詰め込んだ白銀に輝くインゴット。神聖なのは確かだが、周囲を何でも浄化してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.311.8",
+    "original": "聖なるホーリーシルバー",
+    "translation": "聖なるホーリーシルバー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.312.7",
+    "original": "遥か彼方から飛来したとされる、神秘的な鉄。その強度と軽さは、他の金属の追随を許さない。不自然に成形されたこの石は、現在の世界には存在しないと言われる。",
+    "translation": "遥か彼方から飛来したとされる、神秘的な鉄。その強度と軽さは、他の金属の追随を許さない。不自然に成形されたこの石は、現在の世界には存在しないと言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.312.8",
+    "original": "未知のユニバース隕石",
+    "translation": "未知のユニバース隕石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.313.7",
+    "original": "様々な宝石が混ざった原石。総合すれば高価だが、どうしても純度が低くなるため、取引額は低い。",
+    "translation": "様々な宝石が混ざった原石。総合すれば高価だが、どうしても純度が低くなるため、取引額は低い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.313.8",
+    "original": "混ざり合った原石",
+    "translation": "混ざり合った原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.314.7",
+    "original": "川辺でとれた価値のありそうな雑多な石。中には非常に高価な石が混ざっているが、見つけ出すのは困難であり、一般人は見向きもしない。",
+    "translation": "川辺でとれた価値のありそうな雑多な石。中には非常に高価な石が混ざっているが、見つけ出すのは困難であり、一般人は見向きもしない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.314.8",
+    "original": "川辺の原石",
+    "translation": "川辺の原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.315.7",
+    "original": "薄く透き通る鉱石。純度が低く濁っているが、加工すればそれなりの魔術工芸になる。",
+    "translation": "薄く透き通る鉱石。純度が低く濁っているが、加工すればそれなりの魔術工芸になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.315.8",
+    "original": "クリスタルの原石",
+    "translation": "クリスタルの原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.316.7",
+    "original": "樹木が長い年月を経て岩石と化したもの。通常の薪よりもよく燃え、鍛冶の重要な燃料にもなる。",
+    "translation": "樹木が長い年月を経て岩石と化したもの。通常の薪よりもよく燃え、鍛冶の重要な燃料にもなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.316.8",
+    "original": "燃える鉱物",
+    "translation": "燃える鉱物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.317.7",
+    "original": "樹木の化石といわれる美しい宝石。魔力を秘めた妖精の贈り物。",
+    "translation": "樹木の化石といわれる美しい宝石。魔力を秘めた妖精の贈り物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.317.8",
+    "original": "古の琥珀結晶",
+    "translation": "古の琥珀結晶",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.318.7",
+    "original": "まばゆい光を放つ岩石。その美しい見た目とは裏腹に、人を狂乱に導く魔力を放つ。加工すれば美しい宝石を生み出せるだろう。",
+    "translation": "まばゆい光を放つ岩石。その美しい見た目とは裏腹に、人を狂乱に導く魔力を放つ。加工すれば美しい宝石を生み出せるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.318.8",
+    "original": "虹色の原石",
+    "translation": "虹色の原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.319.7",
+    "original": "聖なる気配を感じるクリスタルの原石。神聖な魔力を秘めており、加工することで邪悪に対抗する道具を生み出すことが出来る。",
+    "translation": "聖なる気配を感じるクリスタルの原石。神聖な魔力を秘めており、加工することで邪悪に対抗する道具を生み出すことが出来る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.319.8",
+    "original": "神聖なクリスタル原石",
+    "translation": "神聖なクリスタル原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.320.7",
+    "original": "常人では加工することすらできない、極めて硬い鉄鉱石。その硬度から、武器や防具の素材として非常に重宝される。",
+    "translation": "常人では加工することすらできない、極めて硬い鉄鉱石。その硬度から、武器や防具の素材として非常に重宝される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.320.8",
+    "original": "超硬度の鉄鉱石",
+    "translation": "超硬度の鉄鉱石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.321.7",
+    "original": "美しい赤き輝きを放つ石。石でありながら燃え上がるような輝きを絶えず放つこの石は、太陽の化身として古代の人間に重宝されていた。",
+    "translation": "美しい赤き輝きを放つ石。石でありながら燃え上がるような輝きを絶えず放つこの石は、太陽の化身として古代の人間に重宝されていた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.321.8",
+    "original": "太陽の原石",
+    "translation": "太陽の原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.322.7",
+    "original": "サルバック砂漠近郊や、各地の鉱山で見つかる、金を含んだ鉱石。誰もが求めながら、産出量が少なく、高値で取引されている。",
+    "translation": "サルバック砂漠近郊や、各地の鉱山で見つかる、金を含んだ鉱石。誰もが求めながら、産出量が少なく、高値で取引されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.322.8",
+    "original": "ぴかぴか金鉱石",
+    "translation": "ぴかぴか金鉱石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.323.7",
+    "original": "北方で産出される、輝く魔力を秘めた鉱石。高い魔力伝導率を持ち、高性能な魔具に欠かせないが、産出場所の環境が過酷な為、入手量は限られる。",
+    "translation": "北方で産出される、輝く魔力を秘めた鉱石。高い魔力伝導率を持ち、高性能な魔具に欠かせないが、産出場所の環境が過酷な為、入手量は限られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.323.8",
+    "original": "氷獄のクリスタル",
+    "translation": "氷獄のクリスタル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.324.7",
+    "original": "アーマニア海底で極々まれに産出される、非常に硬い金属原石。硬さと対魔力を兼ね備えた、最高級の装備に使われる。",
+    "translation": "アーマニア海底で極々まれに産出される、非常に硬い金属原石。硬さと対魔力を兼ね備えた、最高級の装備に使われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.324.8",
+    "original": "海竜のバナジウム",
+    "translation": "海竜のバナジウム",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.325.7",
+    "original": "穀物を刈り取った後の乾燥藁。軽くて燃えやすいが、かさばる上にすぐ燃え尽きてしまう為、種火としての扱いがメイン。",
+    "translation": "穀物を刈り取った後の乾燥藁。軽くて燃えやすいが、かさばる上にすぐ燃え尽きてしまう為、種火としての扱いがメイン。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.325.8",
+    "original": "種火の稲わら",
+    "translation": "種火の稲わら",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.327.7",
+    "original": "水分が抜けて乾燥しきった丸太。適度な大きさに斧で割り、焚火の中に放り込めば、長く燃え続けてくれる。",
+    "translation": "水分が抜けて乾燥しきった丸太。適度な大きさに斧で割り、焚火の中に放り込めば、長く燃え続けてくれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.327.8",
+    "original": "乾燥した丸太",
+    "translation": "乾燥した丸太",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.328.7",
+    "original": "燃やすために精製した油。一度火を付ければ長く燃え続けるが、水をかけると燃えたままどこまでも広がるので、消火には注意が必要。",
+    "translation": "燃やすために精製した油。一度火を付ければ長く燃え続けるが、水をかけると燃えたままどこまでも広がるので、消火には注意が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.328.8",
+    "original": "燃料オイル",
+    "translation": "燃料オイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.330.7",
+    "original": "珍しい、一度火が付けば数日は燃え続ける樹木。その性質の為、冒険者が遠出をする際に重宝されるが、万が一山火事が起これば周辺を焼け野原にしてしまう。",
+    "translation": "珍しい、一度火が付けば数日は燃え続ける樹木。その性質の為、冒険者が遠出をする際に重宝されるが、万が一山火事が起これば周辺を焼け野原にしてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.330.8",
+    "original": "燃え続ける樹木",
+    "translation": "燃え続ける樹木",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.329.7",
+    "original": "激しく燃焼させないよう、じっくりと高温で制作した炭。木材とは違い、長く燃え続けるうえ、かなりの熱量を誇る。",
+    "translation": "激しく燃焼させないよう、じっくりと高温で制作した炭。木材とは違い、長く燃え続けるうえ、かなりの熱量を誇る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.329.8",
+    "original": "良く燃える活性炭",
+    "translation": "良く燃える活性炭",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.331.7",
+    "original": "空気に触れると爆発的な熱が発生し、燃え上がる水。布に染み込ませるだけで種火が得られ、入れ物ごと叩き割れば武器にもなるが、扱いには細心の注意が必要。",
+    "translation": "空気に触れると爆発的な熱が発生し、燃え上がる水。布に染み込ませるだけで種火が得られ、入れ物ごと叩き割れば武器にもなるが、扱いには細心の注意が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.331.8",
+    "original": "燃える水",
+    "translation": "燃える水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.332.7",
+    "original": "盃の上でいつまでも燃え続けている祝福された炎。強風でも、水をかけても消えないが、うっかり荷物袋に入れてしまうと、袋ごと盃が燃え尽きてしまう事になる。",
+    "translation": "盃の上でいつまでも燃え続けている祝福された炎。強風でも、水をかけても消えないが、うっかり荷物袋に入れてしまうと、袋ごと盃が燃え尽きてしまう事になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.332.8",
+    "original": "聖なる業火",
+    "translation": "聖なる業火",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.333.7",
+    "original": "火花を散らし、気化させたオイルを継続的かつ、少量ずつ燃焼させる器具。魔力を持たない人間でも、炎を自在に発生させられるが、あくまで種火用。",
+    "translation": "火花を散らし、気化させたオイルを継続的かつ、少量ずつ燃焼させる器具。魔力を持たない人間でも、炎を自在に発生させられるが、あくまで種火用。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.333.8",
+    "original": "燃焼オイル火花セット",
+    "translation": "燃焼オイル火花セット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.334.7",
+    "original": "極寒の吹雪の環境下でも火を付けられる、特殊な燃料。燃焼時間が長く、得られる熱量も大きいが、延焼には注意。",
+    "translation": "極寒の吹雪の環境下でも火を付けられる、特殊な燃料。燃焼時間が長く、得られる熱量も大きいが、延焼には注意。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.334.8",
+    "original": "氷獄焚火セット",
+    "translation": "氷獄焚火セット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.335.7",
+    "original": "油分の多い植物から精製した、よく燃えるオイル。その燃焼時間は非常に長い。火が付いたまま飛び散ると非常に危険だが、用法を守れば頼もしい。",
+    "translation": "油分の多い植物から精製した、よく燃えるオイル。その燃焼時間は非常に長い。火が付いたまま飛び散ると非常に危険だが、用法を守れば頼もしい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.335.8",
+    "original": "携帯用燃焼オイル",
+    "translation": "携帯用燃焼オイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.336.7",
+    "original": "少量ですさまじい熱量を生み出す、生成された油。魔石を溶かして精製されたこの油は、次世代の燃料として研究されている。",
+    "translation": "少量ですさまじい熱量を生み出す、生成された油。魔石を溶かして精製されたこの油は、次世代の燃料として研究されている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.336.8",
+    "original": "炎帝の魔石油",
+    "translation": "炎帝の魔石油",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.337.7",
+    "original": "薬草を乾燥させて、調合の準備しているもの。薬草としての利用価値は高い。",
+    "translation": "薬草を乾燥させて、調合の準備しているもの。薬草としての利用価値は高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.337.8",
+    "original": "干したハーブ",
+    "translation": "干したハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.339.7",
+    "original": "勇気が沸いてくるハーブ。英雄を思わせる気持ちが沸いてくる。",
+    "translation": "勇気が沸いてくるハーブ。英雄を思わせる気持ちが沸いてくる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.339.8",
+    "original": "ブレイブリーフ",
+    "translation": "ブレイブリーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.340.7",
+    "original": "幸せを運ぶ四葉のクローバー。栄養的な価値は低いが、それに籠もった人々の思いが詰まっている。",
+    "translation": "幸せを運ぶ四葉のクローバー。栄養的な価値は低いが、それに籠もった人々の思いが詰まっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.340.8",
+    "original": "フォーチュンクローバー",
+    "translation": "フォーチュンクローバー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.345.7",
+    "original": "見ているだけで気持ちが安らぐような、精神を安定させる木の実。頭をクリアにする効果があり、ハーブとして添えられる。",
+    "translation": "見ているだけで気持ちが安らぐような、精神を安定させる木の実。頭をクリアにする効果があり、ハーブとして添えられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.345.8",
+    "original": "精神安定の実",
+    "translation": "精神安定の実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.342.7",
+    "original": "夜にのみ輝くという魔力を帯びた薬草。魔界に生える植物と言われており、人間界で見るのは珍しい。強い魔力を秘めた、調合の優秀な素材。",
+    "translation": "夜にのみ輝くという魔力を帯びた薬草。魔界に生える植物と言われており、人間界で見るのは珍しい。強い魔力を秘めた、調合の優秀な素材。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.342.8",
+    "original": "月夜の薬草",
+    "translation": "月夜の薬草",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.344.7",
+    "original": "まるで時間を戻すかのような力を与える根。取り扱いは難しく、素人が扱うと危険。",
+    "translation": "まるで時間を戻すかのような力を与える根。取り扱いは難しく、素人が扱うと危険。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.344.8",
+    "original": "クロノルート",
+    "translation": "クロノルート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.341.7",
+    "original": "海辺に生える、魔力を帯びた花。清涼感に溢れた花弁を煎じて飲めば、たちまち気力が復活する。",
+    "translation": "海辺に生える、魔力を帯びた花。清涼感に溢れた花弁を煎じて飲めば、たちまち気力が復活する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.341.8",
+    "original": "清涼マリンフラワー",
+    "translation": "清涼マリンフラワー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.346.7",
+    "original": "妖精の祝福を得たと言われる、稀少な樹木の根っこ。黄金色に輝く根を煎じて飲めば、たちまち精力が溢れ出す。",
+    "translation": "妖精の祝福を得たと言われる、稀少な樹木の根っこ。黄金色に輝く根を煎じて飲めば、たちまち精力が溢れ出す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.346.8",
+    "original": "妖精樹の根っこ",
+    "translation": "妖精樹の根っこ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.347.7",
+    "original": "魔法エネルギーを豊富に含む葉っぱ。最高級の薬や飲料の材料になる。摂取すると心身ともにリラックスできるが、依存性を持つ為、取り扱いには注意。",
+    "translation": "魔法エネルギーを豊富に含む葉っぱ。最高級の薬や飲料の材料になる。摂取すると心身ともにリラックスできるが、依存性を持つ為、取り扱いには注意。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.347.8",
+    "original": "王樹の葉",
+    "translation": "王樹の葉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.343.7",
+    "original": "極北地帯に自生するという稀少な薬草花。人間に過剰なほどの生命力を与えてくれるが、扱いが非常に難しい。薬師の天才のみが扱うことを許されると言われる。",
+    "translation": "極北地帯に自生するという稀少な薬草花。人間に過剰なほどの生命力を与えてくれるが、扱いが非常に難しい。薬師の天才のみが扱うことを許されると言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.343.8",
+    "original": "冷たい氷の花",
+    "translation": "冷たい氷の花",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.348.7",
+    "original": "神々が座す神界にあるという木の実。非常に稀少なうえ、取り扱いを誤るとすぐに腐る。しかし、その実に秘めた魔力は圧倒的。",
+    "translation": "神々が座す神界にあるという木の実。非常に稀少なうえ、取り扱いを誤るとすぐに腐る。しかし、その実に秘めた魔力は圧倒的。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.348.8",
+    "original": "アンブロシア",
+    "translation": "アンブロシア",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.349.7",
+    "original": "特殊な成分を持つ葉を乾燥させた物。砕いて燃やした煙を吸うと、快楽と幻覚を得られるが、依存性がある為、長期に渡って吸い続けると危険。",
+    "translation": "特殊な成分を持つ葉を乾燥させた物。砕いて燃やした煙を吸うと、快楽と幻覚を得られるが、依存性がある為、長期に渡って吸い続けると危険。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.349.8",
+    "original": "不思議な香りの葉っぱ",
+    "translation": "不思議な香りの葉っぱ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.350.7",
+    "original": "取り締まりを逃れ、違法品を摂取するためのパイプ。何食わぬ顔で煙を吸っていても、つかの間の幸福感と引き換えに、その一生を奈落に叩き落とす。",
+    "translation": "取り締まりを逃れ、違法品を摂取するためのパイプ。何食わぬ顔で煙を吸っていても、つかの間の幸福感と引き換えに、その一生を奈落に叩き落とす。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.350.8",
+    "original": "虚脱のパイプ",
+    "translation": "虚脱のパイプ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.351.7",
+    "original": "自立して動いていた植物の根っこ。すでにビクビクと跳ねるだけだが、その生命力は疑いようがない。ビクンビクンと痙攣する姿はちょっと気持ち悪い。",
+    "translation": "自立して動いていた植物の根っこ。すでにビクビクと跳ねるだけだが、その生命力は疑いようがない。ビクンビクンと痙攣する姿はちょっと気持ち悪い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.351.8",
+    "original": "ビクビクマンドラゴラ",
+    "translation": "ビクビクマンドラゴラ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.352.7",
+    "original": "開花期間が非常に短く、咲いている瞬間を目撃すれば幸せになると言われる花。しかし、真実の由来は枯れた後の花を燃やした煙を吸う事で得られる幸福感。",
+    "translation": "開花期間が非常に短く、咲いている瞬間を目撃すれば幸せになると言われる花。しかし、真実の由来は枯れた後の花を燃やした煙を吸う事で得られる幸福感。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.352.8",
+    "original": "幸せの花",
+    "translation": "幸せの花",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.353.7",
+    "original": "サソリのような節足動物の抜け殻。殻の内に残った天然の毒素は、燃やすと人に幻覚を見せる煙を生み出す。一度体験してしまうと、その体験を忘れられなくなる。",
+    "translation": "サソリのような節足動物の抜け殻。殻の内に残った天然の毒素は、燃やすと人に幻覚を見せる煙を生み出す。一度体験してしまうと、その体験を忘れられなくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.353.8",
+    "original": "甲殻類の抜け殻",
+    "translation": "甲殻類の抜け殻",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.354.7",
+    "original": "人の中枢神経を狂わせる白い粉。吸引すると幸福な幻覚を見られる。強烈な依存性を持ち、一度体験した人間は、この薬の事しか考えられなくなる。",
+    "translation": "人の中枢神経を狂わせる白い粉。吸引すると幸福な幻覚を見られる。強烈な依存性を持ち、一度体験した人間は、この薬の事しか考えられなくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.354.8",
+    "original": "合成ハーブ包み",
+    "translation": "合成ハーブ包み",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.355.7",
+    "original": "夢魔の滴とも言われる不思議な液体を生み出す過程で生まれた残滓。薬師の夢を現実に留めておけず残った失敗作だが、それでも生み出す快楽と依存性は強烈。",
+    "translation": "夢魔の滴とも言われる不思議な液体を生み出す過程で生まれた残滓。薬師の夢を現実に留めておけず残った失敗作だが、それでも生み出す快楽と依存性は強烈。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.355.8",
+    "original": "サキュバスコロン",
+    "translation": "サキュバスコロン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.356.7",
+    "original": "呼吸と共に体内に取り入れると、尋常ならざる幸福感と酩酊感を与える粉。一吸いで人を幸福のままに木偶に変える、所持しているだけで極刑に処される。",
+    "translation": "呼吸と共に体内に取り入れると、尋常ならざる幸福感と酩酊感を与える粉。一吸いで人を幸福のままに木偶に変える、所持しているだけで極刑に処される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.356.8",
+    "original": "七色の幻惑粉",
+    "translation": "七色の幻惑粉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.357.7",
+    "original": "人生に深い絶望をもたらすとされる黒い粉末。一時快楽をもたらすが、呼吸器系に深刻なダメージを与える。これによって国家が滅亡したほど。",
+    "translation": "人生に深い絶望をもたらすとされる黒い粉末。一時快楽をもたらすが、呼吸器系に深刻なダメージを与える。これによって国家が滅亡したほど。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.357.8",
+    "original": "絶望の粉",
+    "translation": "絶望の粉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.358.7",
+    "original": "不老長寿の力があるとされる、植物の根。しかしそのまま摂取すると、引き換えに堪えがたい苦痛をもたらす。薬効のみを得るには、熟練の薬師の腕が必要。",
+    "translation": "不老長寿の力があるとされる、植物の根。しかしそのまま摂取すると、引き換えに堪えがたい苦痛をもたらす。薬効のみを得るには、熟練の薬師の腕が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.358.8",
+    "original": "不老長寿の根っこ",
+    "translation": "不老長寿の根っこ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.359.7",
+    "original": "異界に潜む魔神の血液。絶大な魔力を生むリソースではあるが、魔神が顕現していたら世界が滅ぶ為、本物ではないと思われる。迂闊に触ると頭がおかしくなる。",
+    "translation": "異界に潜む魔神の血液。絶大な魔力を生むリソースではあるが、魔神が顕現していたら世界が滅ぶ為、本物ではないと思われる。迂闊に触ると頭がおかしくなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.359.8",
+    "original": "デーモンブラッド",
+    "translation": "デーモンブラッド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.360.7",
+    "original": "聖地に降臨した神が、アワレな人類にもたらした慈悲の涙と言われている液体。信じればあらゆる難病を治療すると言われる。本人に聞いたら知らないと言われた。",
+    "translation": "聖地に降臨した神が、アワレな人類にもたらした慈悲の涙と言われている液体。信じればあらゆる難病を治療すると言われる。本人に聞いたら知らないと言われた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.360.8",
+    "original": "神の涙",
+    "translation": "神の涙",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.361.7",
+    "original": "磨り潰して取り込むと滋養に良いとされる獣の角。秘められた生命力を魔術に利用しようと、魔術師が触媒として買い求める。",
+    "translation": "磨り潰して取り込むと滋養に良いとされる獣の角。秘められた生命力を魔術に利用しようと、魔術師が触媒として買い求める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.361.8",
+    "original": "獣の角",
+    "translation": "獣の角",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.363.7",
+    "original": "不思議な魔術模様が浮かび上がった石板。遺跡から出土するこの石は、薬品を均一に溶かしたり、魔術コントロールを補助する効果がある。",
+    "translation": "不思議な魔術模様が浮かび上がった石板。遺跡から出土するこの石は、薬品を均一に溶かしたり、魔術コントロールを補助する効果がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.363.8",
+    "original": "魔力を帯びた石板",
+    "translation": "魔力を帯びた石板",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.364.7",
+    "original": "妖精の羽と言われているが、昆虫の羽と見分けがつかない。だが、魔力の宿った羽は、レベルの高い魔導師には高値で取引される。",
+    "translation": "妖精の羽と言われているが、昆虫の羽と見分けがつかない。だが、魔力の宿った羽は、レベルの高い魔導師には高値で取引される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.364.8",
+    "original": "輝ける妖精の羽",
+    "translation": "輝ける妖精の羽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.365.7",
+    "original": "浅瀬や海中に繁茂する、天然のミネラルを多量に取り込んだ海藻。",
+    "translation": "浅瀬や海中に繁茂する、天然のミネラルを多量に取り込んだ海藻。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.365.8",
+    "original": "大量に生える海洋植物",
+    "translation": "大量に生える海洋植物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.366.7",
+    "original": "聖なる獣が落としていった排泄物。見た目は汚いが、天然の祝福を受けた重要な魔術触媒。",
+    "translation": "聖なる獣が落としていった排泄物。見た目は汚いが、天然の祝福を受けた重要な魔術触媒。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.366.8",
+    "original": "聖獣の排泄物",
+    "translation": "聖獣の排泄物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.367.7",
+    "original": "巨大化した食虫植物の一種。生命力に満ち溢れ、時には人間すら閉じ込め、自身の生命力へと変えてしまう。",
+    "translation": "巨大化した食虫植物の一種。生命力に満ち溢れ、時には人間すら閉じ込め、自身の生命力へと変えてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.367.8",
+    "original": "人喰いビッグプラント",
+    "translation": "人喰いビッグプラント",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.368.7",
+    "original": "途方もない生命力を宿した樹木の花。寿命を延ばす効果があると言われ、長寿を求める貴族が争うように買い漁る。",
+    "translation": "途方もない生命力を宿した樹木の花。寿命を延ばす効果があると言われ、長寿を求める貴族が争うように買い漁る。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.368.8",
+    "original": "冥界の花",
+    "translation": "冥界の花",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.369.7",
+    "original": "様々な薬草を調合してきた大鍋。この鍋を使わないと、作れない薬もある。この器具自体が魔術触媒の一つとして取り扱われている。",
+    "translation": "様々な薬草を調合してきた大鍋。この鍋を使わないと、作れない薬もある。この器具自体が魔術触媒の一つとして取り扱われている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.369.8",
+    "original": "魔女の大鍋",
+    "translation": "魔女の大鍋",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.370.7",
+    "original": "雷のエネルギーを帯びた、霊峰から湧き出る天然水。空気に触れると徐々に魔力を放出する為、厳しい品質管理が求められる",
+    "translation": "雷のエネルギーを帯びた、霊峰から湧き出る天然水。空気に触れると徐々に魔力を放出する為、厳しい品質管理が求められる",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.370.8",
+    "original": "帯電エレキウォーター",
+    "translation": "帯電エレキウォーター",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.371.7",
+    "original": "強烈な炎の力を閉じ込めた、熱を持った魔術触媒。高温で反応させる必要がある調合に有効だが、うっかり素手で触ると火傷程度では済まない。",
+    "translation": "強烈な炎の力を閉じ込めた、熱を持った魔術触媒。高温で反応させる必要がある調合に有効だが、うっかり素手で触ると火傷程度では済まない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.371.8",
+    "original": "煮えたぎるオーブ",
+    "translation": "煮えたぎるオーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.372.7",
+    "original": "概念を捻じ曲げる力を持った、虹色に輝くハート型の宝石。精神と魂に干渉する程のエネルギーを扱える天才はほとんどいない。",
+    "translation": "概念を捻じ曲げる力を持った、虹色に輝くハート型の宝石。精神と魂に干渉する程のエネルギーを扱える天才はほとんどいない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.372.8",
+    "original": "虹色プリズムハート",
+    "translation": "虹色プリズムハート",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.373.7",
+    "original": "気が向いた時に金銭を入れていくだけで、金運に恵まれ、いずれはお金持ちになるらしい。だがこれ自体が盗難されてしまってはどうしようもない。",
+    "translation": "気が向いた時に金銭を入れていくだけで、金運に恵まれ、いずれはお金持ちになるらしい。だがこれ自体が盗難されてしまってはどうしようもない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.373.8",
+    "original": "金運の宝箱",
+    "translation": "金運の宝箱",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.374.7",
+    "original": "人心を狂わせ災厄をもたらすオーナメント。戦争の影にはこの品があると囁かれるほどのいわくつき。",
+    "translation": "人心を狂わせ災厄をもたらすオーナメント。戦争の影にはこの品があると囁かれるほどのいわくつき。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.374.8",
+    "original": "災厄のオーナメント",
+    "translation": "災厄のオーナメント",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.375.7",
+    "original": "聖人の遺骨と言われている骨。世界各地に存在し、全てを合わせると総量は途方もない重さになる。古の聖者は巨人だったに違いない。",
+    "translation": "聖人の遺骨と言われている骨。世界各地に存在し、全てを合わせると総量は途方もない重さになる。古の聖者は巨人だったに違いない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.375.8",
+    "original": "聖者の骨",
+    "translation": "聖者の骨",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.376.7",
+    "original": "見た目にも豪華な黄金色の壺。これを部屋に置いておくだけで運気が整い幸福になれるという。信じればそんな気になってくる。",
+    "translation": "見た目にも豪華な黄金色の壺。これを部屋に置いておくだけで運気が整い幸福になれるという。信じればそんな気になってくる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.376.8",
+    "original": "神聖な壺",
+    "translation": "神聖な壺",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.377.7",
+    "original": "遺跡から出土した、神聖な魔力を感じる翼を持った少女像。精巧な像は芸術品としてだけでなく、歴史的な価値がある。",
+    "translation": "遺跡から出土した、神聖な魔力を感じる翼を持った少女像。精巧な像は芸術品としてだけでなく、歴史的な価値がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.377.8",
+    "original": "白銀の天使像",
+    "translation": "白銀の天使像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.378.7",
+    "original": "不思議な模様が浮かんだ虹色に輝く三角錐上の石。偉業を為した人物が古代の教団から与えられたものらしく、不思議な魔力を感じる。",
+    "translation": "不思議な模様が浮かんだ虹色に輝く三角錐上の石。偉業を為した人物が古代の教団から与えられたものらしく、不思議な魔力を感じる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.378.8",
+    "original": "神聖なテトラパック",
+    "translation": "神聖なテトラパック",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.379.7",
+    "original": "虹のように輝く神聖な魔力を放つ結晶。神聖な魔力は信心深い善人をも魅了するが、迂闊に近寄ると、人の身に過ぎた魔力によって、跡形も無く浄化されてしまう。",
+    "translation": "虹のように輝く神聖な魔力を放つ結晶。神聖な魔力は信心深い善人をも魅了するが、迂闊に近寄ると、人の身に過ぎた魔力によって、跡形も無く浄化されてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.379.8",
+    "original": "浄化の聖石",
+    "translation": "浄化の聖石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.380.7",
+    "original": "天使が人間への試練と祝福の言葉を残したと言われる石板。虫がのたうち回ったような字は読めず、本物かどうか怪しいが、聖なる魔力は感じられる。",
+    "translation": "天使が人間への試練と祝福の言葉を残したと言われる石板。虫がのたうち回ったような字は読めず、本物かどうか怪しいが、聖なる魔力は感じられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.380.8",
+    "original": "祝福のホーリーグラフ",
+    "translation": "祝福のホーリーグラフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.381.7",
+    "original": "予測不可能な力が秘められた魔法のクリスタル。その力は、時に世界をも新生させうると言われるが、現状ではマジックアイテムの域を出ない。",
+    "translation": "予測不可能な力が秘められた魔法のクリスタル。その力は、時に世界をも新生させうると言われるが、現状ではマジックアイテムの域を出ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.381.8",
+    "original": "創世のクリスタル",
+    "translation": "創世のクリスタル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.382.7",
+    "original": "聖女と認定された女性が、祈りを捧げて生まれた液体。その力は邪悪な力を払うと言われるが、破天荒な効果をもたらす事も多い。",
+    "translation": "聖女と認定された女性が、祈りを捧げて生まれた液体。その力は邪悪な力を払うと言われるが、破天荒な効果をもたらす事も多い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.382.8",
+    "original": "聖女のエリクシル",
+    "translation": "聖女のエリクシル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.383.7",
+    "original": "教会において信仰と勇気を象徴する剣のレプリカ。この剣を振るった聖騎士は、聖女としての力を持ち、各地での英雄譚が語り継がれた。",
+    "translation": "教会において信仰と勇気を象徴する剣のレプリカ。この剣を振るった聖騎士は、聖女としての力を持ち、各地での英雄譚が語り継がれた。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.383.8",
+    "original": "伝説の聖騎士の剣",
+    "translation": "伝説の聖騎士の剣",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.384.7",
+    "original": "夜を統べる魔界四天王の力が宿っていると噂される宝玉。途方もない存在が関与したはずなのだが、現代においては、これが何なのか、誰も覚えていない。",
+    "translation": "夜を統べる魔界四天王の力が宿っていると噂される宝玉。途方もない存在が関与したはずなのだが、現代においては、これが何なのか、誰も覚えていない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.384.8",
+    "original": "常闇の宝玉",
+    "translation": "常闇の宝玉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.385.7",
+    "original": "獣の骨を加工した物。邪教徒が魔神と称し、自らの信徒を増やすためのツールとされている。邪教徒のシンボルであるため、一般には出回らない。",
+    "translation": "獣の骨を加工した物。邪教徒が魔神と称し、自らの信徒を増やすためのツールとされている。邪教徒のシンボルであるため、一般には出回らない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.385.8",
+    "original": "魔神の骨",
+    "translation": "魔神の骨",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.386.7",
+    "original": "深い闇に彩られた逆さの十字架。あしらわれた宝石は狂暴性を増し、周囲の人間を狂わせる。かつて憎い相手に送り、周囲の人間もろとも滅亡させる事件が多発した。",
+    "translation": "深い闇に彩られた逆さの十字架。あしらわれた宝石は狂暴性を増し、周囲の人間を狂わせる。かつて憎い相手に送り、周囲の人間もろとも滅亡させる事件が多発した。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.386.8",
+    "original": "ブラッディハングドクロス",
+    "translation": "ブラッディハングドクロス",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.387.7",
+    "original": "人の形をした人形に針が打ち込まれた人形。見ているだけで恐怖感を生み出すこの品は、向けられた呪術のカラクリを解き明かすため、魔術師が研究用に求める。",
+    "translation": "人の形をした人形に針が打ち込まれた人形。見ているだけで恐怖感を生み出すこの品は、向けられた呪術のカラクリを解き明かすため、魔術師が研究用に求める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.387.8",
+    "original": "針刺し呪い人形",
+    "translation": "針刺し呪い人形",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.388.7",
+    "original": "人を引き寄せる不思議なガイコツ。これが存在したが最後、込められた呪いが集まった人間の生気を吸い尽くし、屍の山を築く。一刻も早い教会の浄化が必要。",
+    "translation": "人を引き寄せる不思議なガイコツ。これが存在したが最後、込められた呪いが集まった人間の生気を吸い尽くし、屍の山を築く。一刻も早い教会の浄化が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.388.8",
+    "original": "青く変色したガイコツ",
+    "translation": "青く変色したガイコツ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.389.7",
+    "original": "憎い相手を呪う為の呪具。その身に突き刺さった釘は、すでに呪いが発動したことを示しており、血液のような液体が滴り落ちている。",
+    "translation": "憎い相手を呪う為の呪具。その身に突き刺さった釘は、すでに呪いが発動したことを示しており、血液のような液体が滴り落ちている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.389.8",
+    "original": "血まみれの藁人形",
+    "translation": "血まみれの藁人形",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.390.7",
+    "original": "コウモリのような皮膜を持つ羽。だがその巨大さはコウモリのそれとは大きく異なる。全体に禍々しい魔力が満ちている。",
+    "translation": "コウモリのような皮膜を持つ羽。だがその巨大さはコウモリのそれとは大きく異なる。全体に禍々しい魔力が満ちている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.390.8",
+    "original": "呪怨の魔羽",
+    "translation": "呪怨の魔羽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.391.7",
+    "original": "魔性を秘めたクリスタル。獣性を目覚めさせる闇黒の輝きは、近隣に存在する動植物を魔物に変えてしまう。",
+    "translation": "魔性を秘めたクリスタル。獣性を目覚めさせる闇黒の輝きは、近隣に存在する動植物を魔物に変えてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.391.8",
+    "original": "漆黒のダーククリスタル",
+    "translation": "漆黒のダーククリスタル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.392.7",
+    "original": "邪悪な魔力が宿った結晶。持ち主の魔力を高めるが、半面、周囲に災厄をもたらすと言われる。",
+    "translation": "邪悪な魔力が宿った結晶。持ち主の魔力を高めるが、半面、周囲に災厄をもたらすと言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.392.8",
+    "original": "不浄な魔力の欠片",
+    "translation": "不浄な魔力の欠片",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.393.7",
+    "original": "異邦に伝わる、邪悪な神を封印した術式を施した石。異邦の封印術はゼカリウスの民には不明だが、時折岩の中から呻き声が聞こえるという。",
+    "translation": "異邦に伝わる、邪悪な神を封印した術式を施した石。異邦の封印術はゼカリウスの民には不明だが、時折岩の中から呻き声が聞こえるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.393.8",
+    "original": "異邦の封印石",
+    "translation": "異邦の封印石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.394.7",
+    "original": "邪教徒が邪悪な救世主の為に作ろうとした、禍々しい剣。邪悪な魔術に反応し、凄まじい破壊をまき散らすと言うが、何者かに阻止され海に沈んだ。",
+    "translation": "邪教徒が邪悪な救世主の為に作ろうとした、禍々しい剣。邪悪な魔術に反応し、凄まじい破壊をまき散らすと言うが、何者かに阻止され海に沈んだ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.394.8",
+    "original": "邪教の救世剣",
+    "translation": "邪教の救世剣",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.395.7",
+    "original": "邪悪な力を封印するという、異邦の封印呪具。しかし長い封印の末に呪いを吸収し、負の力を垂れ流すようになってしまった。",
+    "translation": "邪悪な力を封印するという、異邦の封印呪具。しかし長い封印の末に呪いを吸収し、負の力を垂れ流すようになってしまった。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.395.8",
+    "original": "封魔の呪印",
+    "translation": "封魔の呪印",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.396.7",
+    "original": "魔界からやって来た魔神の瞳と言われている眼球。真偽のほどは定かではないが、不気味な威圧感と感じる魔力は、常人には耐えがたいほど。",
+    "translation": "魔界からやって来た魔神の瞳と言われている眼球。真偽のほどは定かではないが、不気味な威圧感と感じる魔力は、常人には耐えがたいほど。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.396.8",
+    "original": "悪魔の邪眼",
+    "translation": "悪魔の邪眼",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.397.7",
+    "original": "集中力を増す力を秘めた宝石。持ち主の命中能力を高めることができるといわれる。",
+    "translation": "集中力を増す力を秘めた宝石。持ち主の命中能力を高めることができるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.397.8",
+    "original": "情熱のガーネット",
+    "translation": "情熱のガーネット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.398.7",
+    "original": "無垢なる心を感じさせる淡い乳白色の宝石。持ち主の身体を異常から守るといわれる。",
+    "translation": "無垢なる心を感じさせる淡い乳白色の宝石。持ち主の身体を異常から守るといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.398.8",
+    "original": "希望のオパール",
+    "translation": "希望のオパール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.400.7",
+    "original": "誠実さを意味するという青い宝石。持ち主に幸運を与えるといわれる。",
+    "translation": "誠実さを意味するという青い宝石。持ち主に幸運を与えるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.400.8",
+    "original": "慈愛のサファイア",
+    "translation": "慈愛のサファイア",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.401.7",
+    "original": "海の生き物が産出する宝石。加工するすることでピンク色の美しい装飾品になる。",
+    "translation": "海の生き物が産出する宝石。加工するすることでピンク色の美しい装飾品になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.401.8",
+    "original": "清涼なパール",
+    "translation": "清涼なパール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.402.7",
+    "original": "精神を安定させる翠色の宝石。持ち主に閃きを与え、必殺の機会を与えるといわれる。",
+    "translation": "精神を安定させる翠色の宝石。持ち主に閃きを与え、必殺の機会を与えるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.402.8",
+    "original": "精神のエメラルド",
+    "translation": "精神のエメラルド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.403.7",
+    "original": "不思議な魅力を感じる緑色の宝石。持ち主の魔ヘの耐性を高めるといわれる。",
+    "translation": "不思議な魅力を感じる緑色の宝石。持ち主の魔ヘの耐性を高めるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.403.8",
+    "original": "運命のペリドット",
+    "translation": "運命のペリドット",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.404.7",
+    "original": "幸福をもたらす白色の宝石。持ち主に財宝と冨を与えるといわれる。",
+    "translation": "幸福をもたらす白色の宝石。持ち主に財宝と冨を与えるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.404.8",
+    "original": "純心のアクアマリン",
+    "translation": "純心のアクアマリン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.405.7",
+    "original": "友愛を意味するという黄色の宝石。持ち主に悪霊と戦う力を与えるといわれる。",
+    "translation": "友愛を意味するという黄色の宝石。持ち主に悪霊と戦う力を与えるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.405.8",
+    "original": "友情のトパーズ",
+    "translation": "友情のトパーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.406.7",
+    "original": "至高の輝きと硬度を持つ宝石。持ち主を害毒から守る力があるともいわれる。",
+    "translation": "至高の輝きと硬度を持つ宝石。持ち主を害毒から守る力があるともいわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.406.8",
+    "original": "光輝のダイアモンド",
+    "translation": "光輝のダイアモンド",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.407.7",
+    "original": "鋭く暗い黒曜石。闇の魔力を強く秘めていると言われる。",
+    "translation": "鋭く暗い黒曜石。闇の魔力を強く秘めていると言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.407.8",
+    "original": "闇に輝くオブシディアン",
+    "translation": "闇に輝くオブシディアン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.408.7",
+    "original": "様々な色を反射する、円形のマジックアイテム。莫大な魔力が込められた精巧な芸術品は、何に使われたのか全く分からない。だが、溢れ出る魔力は本物。",
+    "translation": "様々な色を反射する、円形のマジックアイテム。莫大な魔力が込められた精巧な芸術品は、何に使われたのか全く分からない。だが、溢れ出る魔力は本物。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.408.8",
+    "original": "輝くプリズムメダリオン",
+    "translation": "輝くプリズムメダリオン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.409.7",
+    "original": "品性を感じさせる月長の宝石。持ち主の生命力を高める力があるといわれる。",
+    "translation": "品性を感じさせる月長の宝石。持ち主の生命力を高める力があるといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.409.8",
+    "original": "母なるムーンストーン",
+    "translation": "母なるムーンストーン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.410.7",
+    "original": "全なる力を持つという神の金属。持ち主をあらゆる異常から守るといわれる。",
+    "translation": "全なる力を持つという神の金属。持ち主をあらゆる異常から守るといわれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.410.8",
+    "original": "幻想のオリハルコン",
+    "translation": "幻想のオリハルコン",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.411.7",
+    "original": "海から産出される黒い宝石。高額で取引される。",
+    "translation": "海から産出される黒い宝石。高額で取引される。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.411.8",
+    "original": "安寧のブラックパール",
+    "translation": "安寧のブラックパール",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.412.7",
+    "original": "世界樹の種とも呼ばれる大きな種子。生命の起源と呼ばれる世界樹は発芽が難しく、実行するには巨大な魔力が必要になる。何の役にも立たない貴重品。",
+    "translation": "世界樹の種とも呼ばれる大きな種子。生命の起源と呼ばれる世界樹は発芽が難しく、実行するには巨大な魔力が必要になる。何の役にも立たない貴重品。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.412.8",
+    "original": "樹の卵",
+    "translation": "樹の卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.413.7",
+    "original": "シイネの髪飾りに似ている紋様のメダル。簡単な作りではあるが、素材は不明で強い魔力も感じる。なんらかの邪教の儀式に使われていた物かも知れない。",
+    "translation": "シイネの髪飾りに似ている紋様のメダル。簡単な作りではあるが、素材は不明で強い魔力も感じる。なんらかの邪教の儀式に使われていた物かも知れない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.413.8",
+    "original": "死神のアーティファクト",
+    "translation": "死神のアーティファクト",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.415.7",
+    "original": "地下火山の中心で燃えさかる魔法の火種。ドワーム族が神とも称する魔力の結晶で、その火を炉にくべて鍛えた武器は伝説に称えられる強さに鍛えられるという。",
+    "translation": "地下火山の中心で燃えさかる魔法の火種。ドワーム族が神とも称する魔力の結晶で、その火を炉にくべて鍛えた武器は伝説に称えられる強さに鍛えられるという。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.415.8",
+    "original": "鍛冶神の火種",
+    "translation": "鍛冶神の火種",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.416.7",
+    "original": "時折雷鳴のような稲光が内部に発生するオーブ。荒れ狂う雷鳴が発生しているかのような内部の魔力を解析しようと、魔術師が研究を進めている。",
+    "translation": "時折雷鳴のような稲光が内部に発生するオーブ。荒れ狂う雷鳴が発生しているかのような内部の魔力を解析しようと、魔術師が研究を進めている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.416.8",
+    "original": "雷鳴のオーブ",
+    "translation": "雷鳴のオーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.417.7",
+    "original": "酷寒の地に巡る魔力が長い年月を経て結晶化した物。けっして溶けることはなく、永遠に強い冷気を発する宝石。生成には非常に時間がかかり、きわめて稀少。",
+    "translation": "酷寒の地に巡る魔力が長い年月を経て結晶化した物。けっして溶けることはなく、永遠に強い冷気を発する宝石。生成には非常に時間がかかり、きわめて稀少。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.417.8",
+    "original": "永久氷晶",
+    "translation": "永久氷晶",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.418.7",
+    "original": "厳重な封印が施された本。染み出る瘴気を取り除き、中を見る方法を、日夜研究者が探している。",
+    "translation": "厳重な封印が施された本。染み出る瘴気を取り除き、中を見る方法を、日夜研究者が探している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.418.8",
+    "original": "封印されし魔本",
+    "translation": "封印されし魔本",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.419.7",
+    "original": "魔神が災厄をもたらす言葉を綴ったという石板。人には読めない不思議な文字からは、確かに邪悪な力が感じられる。",
+    "translation": "魔神が災厄をもたらす言葉を綴ったという石板。人には読めない不思議な文字からは、確かに邪悪な力が感じられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.419.8",
+    "original": "災厄の予言版",
+    "translation": "災厄の予言版",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.420.7",
+    "original": "煉獄に座す魔神を象ったと言われる小型の像。人の死を冒涜する悪魔の像は、破滅願望のある人間に好まれる。",
+    "translation": "煉獄に座す魔神を象ったと言われる小型の像。人の死を冒涜する悪魔の像は、破滅願望のある人間に好まれる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.420.8",
+    "original": "煉獄の魔像",
+    "translation": "煉獄の魔像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.421.7",
+    "original": "中央に魔力を増幅する結晶体を配置し、魔法の力を循環させて増幅させる機構装置。一度流した魔力は常に循環し続け、永久に魔法力を取り出せる魔術界の至宝。",
+    "translation": "中央に魔力を増幅する結晶体を配置し、魔法の力を循環させて増幅させる機構装置。一度流した魔力は常に循環し続け、永久に魔法力を取り出せる魔術界の至宝。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.421.8",
+    "original": "輪廻の冥界機関",
+    "translation": "輪廻の冥界機関",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.422.7",
+    "original": "遺跡から出土したドーム型の薄い鉱物。光を屈折させ、不思議な像を浮かばせるマジックアイテムは、用途不明のまま、多くの学者が探し求める。",
+    "translation": "遺跡から出土したドーム型の薄い鉱物。光を屈折させ、不思議な像を浮かばせるマジックアイテムは、用途不明のまま、多くの学者が探し求める。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.422.8",
+    "original": "不思議なレンズ",
+    "translation": "不思議なレンズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.423.7",
+    "original": "カストロイアの中にあった何らかの機械人形。ゼカリウスの人間では理解できない技術で作られており、技術者にとっては格好の研究対象になる。",
+    "translation": "カストロイアの中にあった何らかの機械人形。ゼカリウスの人間では理解できない技術で作られており、技術者にとっては格好の研究対象になる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.423.8",
+    "original": "カストロイアの機械人形",
+    "translation": "カストロイアの機械人形",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.424.7",
+    "original": "古代の王をかたどったとされる黄金の像。黄金の都の墓に安置されているが、うっかり持ち帰ると古代の王の呪いを受けるとも言われる。",
+    "translation": "古代の王をかたどったとされる黄金の像。黄金の都の墓に安置されているが、うっかり持ち帰ると古代の王の呪いを受けるとも言われる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.424.8",
+    "original": "黄金の王の墓像",
+    "translation": "黄金の王の墓像",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.425.7",
+    "original": "氷獄に封印された伝説のミズイロケモミミの爪。強い魔力を秘めた彼女の一部は不滅とされ、現代にも残ることがあるようだ。見た目は普通の爪。",
+    "translation": "氷獄に封印された伝説のミズイロケモミミの爪。強い魔力を秘めた彼女の一部は不滅とされ、現代にも残ることがあるようだ。見た目は普通の爪。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.425.8",
+    "original": "魔獣王の爪の化石",
+    "translation": "魔獣王の爪の化石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.426.7",
+    "original": "竜のような見事な細工が施された置物。非常に繊細で壊れやすく、完成品はほとんど出回らない。何か途方もない魔力が感じられる。",
+    "translation": "竜のような見事な細工が施された置物。非常に繊細で壊れやすく、完成品はほとんど出回らない。何か途方もない魔力が感じられる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_10.txt.426.8",
+    "original": "ドラゴンシンボル",
+    "translation": "ドラゴンシンボル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.0.7",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.1.7",
+    "original": "小さい野鳥を捌き、食肉処理を施した後に串に刺したもの。このまま火に炙れば美味しくいただけるだろう。",
+    "translation": "小さい野鳥を捌き、食肉処理を施した後に串に刺したもの。このまま火に炙れば美味しくいただけるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.1.8",
+    "original": "小ぶりの鳥肉串",
+    "translation": "小ぶりの鳥肉串",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.2.7",
+    "original": "鳥の肉のような弾力を持つフロッグ肉。見た目さえ誤魔化せれば、トリニクと言われても信じられる。見た目さえ誤魔化せれば……。",
+    "translation": "鳥の肉のような弾力を持つフロッグ肉。見た目さえ誤魔化せれば、トリニクと言われても信じられる。見た目さえ誤魔化せれば……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.2.8",
+    "original": "トリニクモドキ",
+    "translation": "トリニクモドキ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.13.7",
+    "original": "豚肉を薄く切った物を干した保存食。適度に塩を振ってあり、新鮮な肉とは違った味わいが引き立つ。",
+    "translation": "豚肉を薄く切った物を干した保存食。適度に塩を振ってあり、新鮮な肉とは違った味わいが引き立つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.13.8",
+    "original": "乾燥スライスブタ肉",
+    "translation": "乾燥スライスブタ肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.26.7",
+    "original": "野生のウシを解体し、骨が付いたまま肉を取り出したもの。牛肉としては安価だが、程よく脂が乗った美味さ。",
+    "translation": "野生のウシを解体し、骨が付いたまま肉を取り出したもの。牛肉としては安価だが、程よく脂が乗った美味さ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.26.8",
+    "original": "解体した骨付きビーフ",
+    "translation": "解体した骨付きビーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.25.7",
+    "original": "洞窟の獣の肉。食べても死にはしない。牛肉ということで販売可能。",
+    "translation": "洞窟の獣の肉。食べても死にはしない。牛肉ということで販売可能。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.25.8",
+    "original": "洞窟ビーフ",
+    "translation": "洞窟ビーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.39.7",
+    "original": "潰した麦の粒に水を加えて練った生地。細長くしたり、薄く延ばして焼いたり、料理の使い道は多種多様。",
+    "translation": "潰した麦の粒に水を加えて練った生地。細長くしたり、薄く延ばして焼いたり、料理の使い道は多種多様。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.39.8",
+    "original": "練り上げられた穀物生地",
+    "translation": "練り上げられた穀物生地",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.37.7",
+    "original": "パンを焼くのに必要な小麦。野生にもたくさん生えているが、魔物が出没するため注意が必要。",
+    "translation": "パンを焼くのに必要な小麦。野生にもたくさん生えているが、魔物が出没するため注意が必要。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.37.8",
+    "original": "メテトス小麦",
+    "translation": "メテトス小麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.49.7",
+    "original": "肉厚の葉を摘み取った野菜。シャキシャキした歯触りとみずみずしさを持つ。",
+    "translation": "肉厚の葉を摘み取った野菜。シャキシャキした歯触りとみずみずしさを持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.49.8",
+    "original": "シャキシャキリーフ",
+    "translation": "シャキシャキリーフ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.61.7",
+    "original": "柔らかい果肉と甘酸っぱい果汁を蓄えた果実。手軽に持ち歩く事が可能で、僅かに疲労を回復する効果を持つが、嗜好品の域を出ない。",
+    "translation": "柔らかい果肉と甘酸っぱい果汁を蓄えた果実。手軽に持ち歩く事が可能で、僅かに疲労を回復する効果を持つが、嗜好品の域を出ない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.61.8",
+    "original": "ゼカリウスベリー",
+    "translation": "ゼカリウスベリー",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.73.7",
+    "original": "僅かに香りを放つ花。生食できない事も無いが、魚介の切り身に乗せる等のワンポイントが主な用途。",
+    "translation": "僅かに香りを放つ花。生食できない事も無いが、魚介の切り身に乗せる等のワンポイントが主な用途。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.73.8",
+    "original": "香り立つ花",
+    "translation": "香り立つ花",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.85.7",
+    "original": "水分が少ない、カサカサした肌触りのキノコ。見た目は悪いが、そこまで味が酷いわけではない。特徴的で、毒キノコと見分けやすい。",
+    "translation": "水分が少ない、カサカサした肌触りのキノコ。見た目は悪いが、そこまで味が酷いわけではない。特徴的で、毒キノコと見分けやすい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.85.8",
+    "original": "カサカサキノコ",
+    "translation": "カサカサキノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.86.7",
+    "original": "栄養価たっぷりのきのこ。煎じることで薬にもなる。",
+    "translation": "栄養価たっぷりのきのこ。煎じることで薬にもなる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.86.8",
+    "original": "薬草になるきのこ",
+    "translation": "薬草になるきのこ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.98.7",
+    "original": "渓流に生息する淡水魚。川に大量に生息しており、人々の貴重な食糧源となっている。",
+    "translation": "渓流に生息する淡水魚。川に大量に生息しており、人々の貴重な食糧源となっている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.98.8",
+    "original": "淡水の小魚",
+    "translation": "淡水の小魚",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.111.7",
+    "original": "岩ではなく砂地に生息する二枚貝。その身は小ぶりだが、スープのダシを取るのに人気。",
+    "translation": "岩ではなく砂地に生息する二枚貝。その身は小ぶりだが、スープのダシを取るのに人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.111.8",
+    "original": "小ぶりな二枚貝",
+    "translation": "小ぶりな二枚貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.109.7",
+    "original": "岩に張り付いている貝。硬い殻を剥がすと、プリプリの身が姿を現す。",
+    "translation": "岩に張り付いている貝。硬い殻を剥がすと、プリプリの身が姿を現す。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.109.8",
+    "original": "貝殻付き岩貝",
+    "translation": "貝殻付き岩貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.122.7",
+    "original": "調味料に漬け込んだ魚卵。味が濃く、酒場のツマミに人気。",
+    "translation": "調味料に漬け込んだ魚卵。味が濃く、酒場のツマミに人気。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.122.8",
+    "original": "魚卵盛り合わせ",
+    "translation": "魚卵盛り合わせ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.121.7",
+    "original": "漁獲された魚の食用には適さない部分。しかしカリカリに焼き上げたり、酒に付ければ独特の味わいが得られる。",
+    "translation": "漁獲された魚の食用には適さない部分。しかしカリカリに焼き上げたり、酒に付ければ独特の味わいが得られる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.121.8",
+    "original": "魚のヒレ",
+    "translation": "魚のヒレ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.134.7",
+    "original": "糖分を多く含む、植物の実。集めて煮込めば、甘さを味わうことができる。",
+    "translation": "糖分を多く含む、植物の実。集めて煮込めば、甘さを味わうことができる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.134.8",
+    "original": "甘い植物の実",
+    "translation": "甘い植物の実",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.146.7",
+    "original": "海水を沸騰させて水分を飛ばし、抽出した塩粒。",
+    "translation": "海水を沸騰させて水分を飛ばし、抽出した塩粒。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.146.8",
+    "original": "海水抽出塩粒",
+    "translation": "海水抽出塩粒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.145.7",
+    "original": "近海の浜辺から取れた不純物の多い塩。処理を施すことで高品質な塩に変わる。",
+    "translation": "近海の浜辺から取れた不純物の多い塩。処理を施すことで高品質な塩に変わる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.145.8",
+    "original": "味のする砂粒",
+    "translation": "味のする砂粒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.157.7",
+    "original": "使用済みの油を集め、濾過して再使用可能にした油脂類。専用に調整した油には及ばないが、味わいは得られる為、意外に使い勝手は良い。",
+    "translation": "使用済みの油を集め、濾過して再使用可能にした油脂類。専用に調整した油には及ばないが、味わいは得られる為、意外に使い勝手は良い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.157.8",
+    "original": "リサイクルオイル",
+    "translation": "リサイクルオイル",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.169.7",
+    "original": "牧場で育てられた鳥のたまご。生で食べても安心なように飼育されており、栄養価も高い。",
+    "translation": "牧場で育てられた鳥のたまご。生で食べても安心なように飼育されており、栄養価も高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.169.8",
+    "original": "牧場の新鮮たまご",
+    "translation": "牧場の新鮮たまご",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.181.7",
+    "original": "冷えて固まった個体の乳脂肪。溶かせばミルキーな味わいは感じ取れるが、流石に味は一段落ちる。",
+    "translation": "冷えて固まった個体の乳脂肪。溶かせばミルキーな味わいは感じ取れるが、流石に味は一段落ちる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.181.8",
+    "original": "固形乳脂肪",
+    "translation": "固形乳脂肪",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.193.7",
+    "original": "水分が抜けすぎてしまった硬いチーズ。食べれば乳製品独特の味わいは楽しめるが、いかんせん硬い。",
+    "translation": "水分が抜けすぎてしまった硬いチーズ。食べれば乳製品独特の味わいは楽しめるが、いかんせん硬い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.193.8",
+    "original": "かちかち穴あきチーズ",
+    "translation": "かちかち穴あきチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.194.7",
+    "original": "ダンジョン内で発見されたチーズ。冒険者が作ったのだろうか？　作ってからかなりの時間が経過しており、非常に熟成されていて、意外な風味が……？",
+    "translation": "ダンジョン内で発見されたチーズ。冒険者が作ったのだろうか？　作ってからかなりの時間が経過しており、非常に熟成されていて、意外な風味が……？",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.194.8",
+    "original": "遺跡で発見されたチーズ",
+    "translation": "遺跡で発見されたチーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.205.7",
+    "original": "日常生活に欠かせない、新鮮な真水。加熱を行わずに飲むのは怖い。",
+    "translation": "日常生活に欠かせない、新鮮な真水。加熱を行わずに飲むのは怖い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.205.8",
+    "original": "フレッシュな真水",
+    "translation": "フレッシュな真水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.206.7",
+    "original": "自然が磨き上げた地下水を汲み上げた物。料理に使う他、そのまま喉を潤すにも最適。",
+    "translation": "自然が磨き上げた地下水を汲み上げた物。料理に使う他、そのまま喉を潤すにも最適。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.206.8",
+    "original": "新鮮な地下水",
+    "translation": "新鮮な地下水",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.217.7",
+    "original": "アルコール醸造するための樽。樽内に染みついた微生物が中に入った液体を酒に醸すのだが、適切に糖分を追加しないと、微生物はあまり活動してくれない。",
+    "translation": "アルコール醸造するための樽。樽内に染みついた微生物が中に入った液体を酒に醸すのだが、適切に糖分を追加しないと、微生物はあまり活動してくれない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.217.8",
+    "original": "酒造りの醸造樽",
+    "translation": "酒造りの醸造樽",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.218.7",
+    "original": "粒の大きさが揃っており、含有する糖分が最適な醸造用の麦粒。旺盛な生命力は、アルコール醸造に高い適性を持つ。",
+    "translation": "粒の大きさが揃っており、含有する糖分が最適な醸造用の麦粒。旺盛な生命力は、アルコール醸造に高い適性を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.218.8",
+    "original": "発酵用大麦",
+    "translation": "発酵用大麦",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.229.7",
+    "original": "豚の皮をなめしたもの。加工者の腕が悪いのか質は悪い。",
+    "translation": "豚の皮をなめしたもの。加工者の腕が悪いのか質は悪い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.229.8",
+    "original": "安い豚皮",
+    "translation": "安い豚皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.241.7",
+    "original": "いまいち出来の悪い毛皮。加工者の腕が悪かったのか、ツギハギだらけになっている。使えなくもないが……。",
+    "translation": "いまいち出来の悪い毛皮。加工者の腕が悪かったのか、ツギハギだらけになっている。使えなくもないが……。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.241.8",
+    "original": "質の悪い毛皮",
+    "translation": "質の悪い毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.253.7",
+    "original": "柔らかい紐状の繊維を生成する植物。解して一本に紡げば、丈夫な糸が出来上がる。",
+    "translation": "柔らかい紐状の繊維を生成する植物。解して一本に紡げば、丈夫な糸が出来上がる。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.253.8",
+    "original": "糸精製の植物",
+    "translation": "糸精製の植物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.254.7",
+    "original": "様々な鳥の羽が混ざった毛束。ボロボロに朽ちており、加工するのは一苦労だ。",
+    "translation": "様々な鳥の羽が混ざった毛束。ボロボロに朽ちており、加工するのは一苦労だ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.254.8",
+    "original": "野鳥の羽束",
+    "translation": "野鳥の羽束",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.265.7",
+    "original": "丈夫な木の枝を折っただけの乱暴な素材。軽さを生かした練習用の武器制作には使える。",
+    "translation": "丈夫な木の枝を折っただけの乱暴な素材。軽さを生かした練習用の武器制作には使える。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.265.8",
+    "original": "折れた木の枝",
+    "translation": "折れた木の枝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.277.7",
+    "original": "栄養分を豊富に含んだ、湖沼の底に沈んでいる泥。",
+    "translation": "栄養分を豊富に含んだ、湖沼の底に沈んでいる泥。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.277.8",
+    "original": "粘着質な泥",
+    "translation": "粘着質な泥",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.289.7",
+    "original": "鉄分を含んだ岩。硬さだけはあるが、鉄を含んでいる為重い。その上、鉄部分だけをしっかりと精錬しなければ、鉄としても使えない。",
+    "translation": "鉄分を含んだ岩。硬さだけはあるが、鉄を含んでいる為重い。その上、鉄部分だけをしっかりと精錬しなければ、鉄としても使えない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.289.8",
+    "original": "鉄を含んだ岩石",
+    "translation": "鉄を含んだ岩石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.290.7",
+    "original": "炭化した有機物が堆積し、長い年月の末に生まれた化石の一種。高温にすると長く燃え続け、鉱石から鉄を生成する等用途が広い。",
+    "translation": "炭化した有機物が堆積し、長い年月の末に生まれた化石の一種。高温にすると長く燃え続け、鉱石から鉄を生成する等用途が広い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterial_11.txt.290.8",
+    "original": "魔力を帯びた石炭",
+    "translation": "魔力を帯びた石炭",
+    "context": null
+  }
+]

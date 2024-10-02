@@ -1,0 +1,506 @@
+[
+  {
+    "key": "db_UnitCharaPartner.txt.4.33",
+    "original": "ウルフィナ",
+    "translation": "ウルフィナ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.7.33",
+    "original": "ファシィ",
+    "translation": "ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.9.33",
+    "original": "カリスト",
+    "translation": "カリスト",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.10.33",
+    "original": "エリオルダ",
+    "translation": "エリオルダ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.11.33",
+    "original": "キャトリナ",
+    "translation": "キャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.12.33",
+    "original": "ミルテ",
+    "translation": "ミルテ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.13.33",
+    "original": "デシルス",
+    "translation": "デシルス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.15.33",
+    "original": "ムファード",
+    "translation": "ムファード",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.17.33",
+    "original": "ラシェウス",
+    "translation": "ラシェウス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.19.33",
+    "original": "ツバキ",
+    "translation": "ツバキ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.20.33",
+    "original": "レミル",
+    "translation": "レミル",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.21.33",
+    "original": "シズハ",
+    "translation": "シズハ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.22.33",
+    "original": "クレハ",
+    "translation": "クレハ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.23.33",
+    "original": "ノースリンデ",
+    "translation": "ノースリンデ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.24.33",
+    "original": "シェルフィ",
+    "translation": "シェルフィ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.25.33",
+    "original": "アーマニー",
+    "translation": "アーマニー",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.26.33",
+    "original": "ネルディーネ",
+    "translation": "ネルディーネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.27.33",
+    "original": "オーレリア",
+    "translation": "オーレリア",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.31.33",
+    "original": "リリエーヌ",
+    "translation": "リリエーヌ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.37.33",
+    "original": "ティオナ",
+    "translation": "ティオナ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.38.33",
+    "original": "ハヅキ",
+    "translation": "ハヅキ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner.txt.39.33",
+    "original": "アーマニー(女帝)",
+    "translation": "アーマニー(女帝)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.0.33",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.33",
+    "original": "密着され、耳に熱い吐息がかかる！",
+    "translation": "密着され、耳に熱い吐息がかかる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.33",
+    "original": "<pl>に抱きついた<pt>は、幸せそうに頭をこすりつけてくる！",
+    "translation": "<pl>に抱きついた<pt>は、幸せそうに頭をこすりつけてくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.33",
+    "original": "手を通して柔らかさと、体温が伝わってくるようだ！",
+    "translation": "手を通して柔らかさと、体温が伝わってくるようだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.33",
+    "original": "手に、<pt>の胸の感触が伝わってくる！",
+    "translation": "手に、<pt>の胸の感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.33",
+    "original": "<pt>の顔が間近になって、思わずドキドキしてしまった！",
+    "translation": "<pt>の顔が間近になって、思わずドキドキしてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.33",
+    "original": "そっと頬に触れるような優しいキスに、思わずドキドキしてしまった！",
+    "translation": "そっと頬に触れるような優しいキスに、思わずドキドキしてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.33",
+    "original": "<pt>との距離が近付き、思わず意識してしまう！",
+    "translation": "<pt>との距離が近付き、思わず意識してしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.33",
+    "original": "じっと見つめられ、思わずドキドキしてしまう！",
+    "translation": "じっと見つめられ、思わずドキドキしてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.33",
+    "original": "二人の舌が絡み合い、唾液交換を楽しんだ！",
+    "translation": "二人の舌が絡み合い、唾液交換を楽しんだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.33",
+    "original": "唾液のねっとりとした感触と、熱い息遣いに思わず興奮してしまう！",
+    "translation": "唾液のねっとりとした感触と、熱い息遣いに思わず興奮してしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.33",
+    "original": "二人は互いに舌を絡ませながら、お互いの身体を激しく求め合った！",
+    "translation": "二人は互いに舌を絡ませながら、お互いの身体を激しく求め合った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.33",
+    "original": "大きな胸に包まれて、恍惚としてしまう！",
+    "translation": "大きな胸に包まれて、恍惚としてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.33",
+    "original": "顔面に押しつけられた乳房から、柔らかい感触とニオイが伝わってくる！",
+    "translation": "顔面に押しつけられた乳房から、柔らかい感触とニオイが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.33",
+    "original": "<pl>の愛撫に、<pt>は気持ちよさそうに吐息を漏らした！",
+    "translation": "<pl>の愛撫に、<pt>は気持ちよさそうに吐息を漏らした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.33",
+    "original": "なめらかな感触が首に当って、ぞくりとした感触に興奮をさせられる！",
+    "translation": "なめらかな感触が首に当って、ぞくりとした感触に興奮をさせられる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.33",
+    "original": "大胆な仕草に、思わずドキドキしてしまう！",
+    "translation": "大胆な仕草に、思わずドキドキしてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.33",
+    "original": "ペニスを刺激され、射精感が高まってしまう！",
+    "translation": "ペニスを刺激され、射精感が高まってしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.36.33",
+    "original": "何も付けてない、柔らかい感触が伝わってくる！",
+    "translation": "何も付けてない、柔らかい感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.33",
+    "original": "<pt>の指がこちらのあちこちを触る！変なところを触られて悶絶してしまった！",
+    "translation": "<pt>の指がこちらのあちこちを触る！変なところを触られて悶絶してしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.33",
+    "original": "激しく密着し、<pt>の感触や息遣いが伝わってくる！",
+    "translation": "激しく密着し、<pt>の感触や息遣いが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.33",
+    "original": "どうやら相手もその気らしい！",
+    "translation": "どうやら相手もその気らしい！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.33",
+    "original": "相手は積極的だ、こちらの行動を期待している！",
+    "translation": "相手は積極的だ、こちらの行動を期待している！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.33",
+    "original": "腕を通して、<pt>の胸の感触が伝わってくる！",
+    "translation": "腕を通して、<pt>の胸の感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.33",
+    "original": "股はぬるぬるとした愛液が潤滑し、まるで挿入しているかのような快楽を与える！",
+    "translation": "股はぬるぬるとした愛液が潤滑し、まるで挿入しているかのような快楽を与える！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.65.33",
+    "original": "お尻のボリュームが伝わってくる！",
+    "translation": "お尻のボリュームが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.33",
+    "original": "お尻のボリュームが伝わってくる！　柔らかい！",
+    "translation": "お尻のボリュームが伝わってくる！　柔らかい！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.33",
+    "original": "ペニスに刺激を与えられ、膨らんだモノが堅くなって相手に伝わる！",
+    "translation": "ペニスに刺激を与えられ、膨らんだモノが堅くなって相手に伝わる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.33",
+    "original": "相手はかなり積極的なようだ！",
+    "translation": "相手はかなり積極的なようだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.33",
+    "original": "<pl>に撫でられて、気持ちよさそうにしている！",
+    "translation": "<pl>に撫でられて、気持ちよさそうにしている！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.33",
+    "original": "相手は積極的だが、中には挿入しないよう焦らしてくる！<p>そのまま入れてしまいそうなのに、入れさせてくれなくて、逆に興奮する！",
+    "translation": "相手は積極的だが、中には挿入しないよう焦らしてくる！<p>そのまま入れてしまいそうなのに、入れさせてくれなくて、逆に興奮する！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.88.33",
+    "original": "ペニスが痛い！<p>だがその痛みが快感になってしまう！",
+    "translation": "ペニスが痛い！<p>だがその痛みが快感になってしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.89.33",
+    "original": "柔らかい感触に夢心地となり、<pl>のモノはビクビクと震えてしまう！",
+    "translation": "柔らかい感触に夢心地となり、<pl>のモノはビクビクと震えてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.90.33",
+    "original": "<pt>の尻に密着され、<pl>のペニスはどんどん膨らんでいく！",
+    "translation": "<pt>の尻に密着され、<pl>のペニスはどんどん膨らんでいく！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.91.33",
+    "original": "ねっとりとした感触にペニスが震える！<p><pl>のモノはビクビクと震えてしまう！",
+    "translation": "ねっとりとした感触にペニスが震える！<p><pl>のモノはビクビクと震えてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.92.33",
+    "original": "<pt>に優しくリードされ、射精感を高められてしまった！",
+    "translation": "<pt>に優しくリードされ、射精感を高められてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.33",
+    "original": "<pt>は自分の<ruby=なか>膣内</ruby>でペニスを愛撫し、結合の感触を楽しんでいるようだ……！",
+    "translation": "<pt>は自分の<ruby=なか>膣内</ruby>でペニスを愛撫し、結合の感触を楽しんでいるようだ……！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.33",
+    "original": "ペニスがナカから出し入れされる度に、肉襞が激しく絡みついてくる！",
+    "translation": "ペニスがナカから出し入れされる度に、肉襞が激しく絡みついてくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.33",
+    "original": "<pt>の腰使いで、ペニスの亀頭は優しく快感に導かれる！",
+    "translation": "<pt>の腰使いで、ペニスの亀頭は優しく快感に導かれる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.1.33",
+    "original": "主人公",
+    "translation": "主人公",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.2.33",
+    "original": "シイネ",
+    "translation": "シイネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.3.33",
+    "original": "アンジュ",
+    "translation": "アンジュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.5.33",
+    "original": "ハーヴェスタ",
+    "translation": "ハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.6.33",
+    "original": "マリーゼル",
+    "translation": "マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.8.33",
+    "original": "ルーシェ",
+    "translation": "ルーシェ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.14.33",
+    "original": "衛兵さん",
+    "translation": "衛兵さん",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.16.33",
+    "original": "ポンタ",
+    "translation": "ポンタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.18.33",
+    "original": "ドルガノン",
+    "translation": "ドルガノン",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.28.33",
+    "original": "ユーステル",
+    "translation": "ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.29.33",
+    "original": "ヘレン",
+    "translation": "ヘレン",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.30.33",
+    "original": "ミーシャ",
+    "translation": "ミーシャ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.32.33",
+    "original": "イディット",
+    "translation": "イディット",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.33.33",
+    "original": "ソルネッタ",
+    "translation": "ソルネッタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.34.33",
+    "original": "パテラ",
+    "translation": "パテラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.35.33",
+    "original": "ジャネット",
+    "translation": "ジャネット",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.36.33",
+    "original": "グレーテ",
+    "translation": "グレーテ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.40.33",
+    "original": "～ですます少女",
+    "translation": "～ですます少女",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.41.33",
+    "original": "～ですわお嬢様",
+    "translation": "～ですわお嬢様",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.42.33",
+    "original": "～かしら上品娘",
+    "translation": "～かしら上品娘",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.43.33",
+    "original": "～よ、～ね強気娘",
+    "translation": "～よ、～ね強気娘",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.44.33",
+    "original": "～かな、だよロリ",
+    "translation": "～かな、だよロリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartner_11.txt.45.33",
+    "original": "～ですぅロリ",
+    "translation": "～ですぅロリ",
+    "context": null
+  }
+]

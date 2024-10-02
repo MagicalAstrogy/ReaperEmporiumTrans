@@ -1,0 +1,1868 @@
+[
+  {
+    "key": "db_EventChara.txt.20.21",
+    "original": "メイドのハヅキ",
+    "translation": "メイドのハヅキ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.20.22",
+    "original": "ハヅキ",
+    "translation": "ハヅキ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.21.21",
+    "original": "碧羽の退魔巫女シズハ",
+    "translation": "碧羽の退魔巫女シズハ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.21.22",
+    "original": "シズハ",
+    "translation": "シズハ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.22.21",
+    "original": "朱羽の退魔巫女クレハ",
+    "translation": "朱羽の退魔巫女クレハ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.22.22",
+    "original": "クレハ",
+    "translation": "クレハ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.23.21",
+    "original": "氷国の姫将軍ノースリンデ",
+    "translation": "氷国の姫将軍ノースリンデ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.23.22",
+    "original": "ノースリンデ",
+    "translation": "ノースリンデ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.24.21",
+    "original": "メイドのシェルフィ",
+    "translation": "メイドのシェルフィ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.24.22",
+    "original": "シェルフィ",
+    "translation": "シェルフィ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.26.21",
+    "original": "派遣管財人ネルディーネ",
+    "translation": "派遣管財人ネルディーネ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.26.22",
+    "original": "ネルディーネ",
+    "translation": "ネルディーネ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.27.21",
+    "original": "海賊女帝アーマニア14世",
+    "translation": "海賊女帝アーマニア14世",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.27.22",
+    "original": "アーマニー(女帝)",
+    "translation": "アーマニー(女帝)",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.105.21",
+    "original": "異邦の女剣士ツバキ",
+    "translation": "異邦の女剣士ツバキ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.105.22",
+    "original": "ツバキ",
+    "translation": "ツバキ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.115.21",
+    "original": "勇従の女賢者レミル",
+    "translation": "勇従の女賢者レミル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara.txt.115.22",
+    "original": "レミル",
+    "translation": "レミル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.0.21",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.1.21",
+    "original": "主人公",
+    "translation": "主人公",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.2.21",
+    "original": "死神シイネ",
+    "translation": "死神シイネ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.2.22",
+    "original": "シイネ",
+    "translation": "シイネ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.3.21",
+    "original": "鍛冶姫アンジュ",
+    "translation": "鍛冶姫アンジュ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.3.22",
+    "original": "アンジュ",
+    "translation": "アンジュ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.4.21",
+    "original": "狼娘ウルフィナ",
+    "translation": "狼娘ウルフィナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.4.22",
+    "original": "ウルフィナ",
+    "translation": "ウルフィナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.5.21",
+    "original": "女商人ハーヴェスタ",
+    "translation": "女商人ハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.5.22",
+    "original": "ハーヴェスタ",
+    "translation": "ハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.6.21",
+    "original": "新米神官マリーゼル",
+    "translation": "新米神官マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.6.22",
+    "original": "マリーゼル",
+    "translation": "マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.7.21",
+    "original": "女冒険者ファシィ",
+    "translation": "女冒険者ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.7.22",
+    "original": "ファシィ",
+    "translation": "ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.8.21",
+    "original": "夢魔ルーシェルーラ",
+    "translation": "夢魔ルーシェルーラ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.8.22",
+    "original": "ルーシェ",
+    "translation": "ルーシェ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.9.21",
+    "original": "魔女カリスト・ウィルチ",
+    "translation": "魔女カリスト・ウィルチ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.9.22",
+    "original": "カリスト",
+    "translation": "カリスト",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.10.21",
+    "original": "森人の射手エリオルダ",
+    "translation": "森人の射手エリオルダ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.10.22",
+    "original": "エリオルダ",
+    "translation": "エリオルダ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.11.21",
+    "original": "牧場娘キャトリナ",
+    "translation": "牧場娘キャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.11.22",
+    "original": "キャトリナ",
+    "translation": "キャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.12.21",
+    "original": "銀灰の魔術師ミルテ",
+    "translation": "銀灰の魔術師ミルテ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.12.22",
+    "original": "ミルテ",
+    "translation": "ミルテ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.13.21",
+    "original": "鍛冶頭ドルガノン",
+    "translation": "鍛冶頭ドルガノン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.13.22",
+    "original": "ドルガノン",
+    "translation": "ドルガノン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.14.21",
+    "original": "新米剣士ポンタ",
+    "translation": "新米剣士ポンタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.14.22",
+    "original": "ポンタ",
+    "translation": "ポンタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.15.21",
+    "original": "万能舎弟デシルス",
+    "translation": "万能舎弟デシルス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.15.22",
+    "original": "デシルス",
+    "translation": "デシルス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.16.21",
+    "original": "大商人ムファード",
+    "translation": "大商人ムファード",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.16.22",
+    "original": "ムファード",
+    "translation": "ムファード",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.17.21",
+    "original": "衛兵さん",
+    "translation": "衛兵さん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.18.21",
+    "original": "領主ゼルカ",
+    "translation": "領主ゼルカ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.18.22",
+    "original": "ゼルカ",
+    "translation": "ゼルカ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.19.21",
+    "original": "評判の勇者ラシェウス",
+    "translation": "評判の勇者ラシェウス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.19.22",
+    "original": "ラシェウス",
+    "translation": "ラシェウス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.25.21",
+    "original": "海賊作家アーマニー14世",
+    "translation": "海賊作家アーマニー14世",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.25.22",
+    "original": "アーマニー",
+    "translation": "アーマニー",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.28.21",
+    "original": "海竜姫ネルディーネ",
+    "translation": "海竜姫ネルディーネ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.29.21",
+    "original": "「死都を見届ける者」",
+    "translation": "「死都を見届ける者」",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.33.21",
+    "original": "ゲトレオス将軍",
+    "translation": "ゲトレオス将軍",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.33.22",
+    "original": "ゲトレオス",
+    "translation": "ゲトレオス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.101.21",
+    "original": "黒将軍ローグバルト",
+    "translation": "黒将軍ローグバルト",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.101.22",
+    "original": "ローグバルト",
+    "translation": "ローグバルト",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.102.21",
+    "original": "旅の新米商人ミーシャ",
+    "translation": "旅の新米商人ミーシャ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.102.22",
+    "original": "ミーシャ",
+    "translation": "ミーシャ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.103.21",
+    "original": "秘術の守護者",
+    "translation": "秘術の守護者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.103.22",
+    "original": "オーレリア",
+    "translation": "オーレリア",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.104.21",
+    "original": "農家の娘ヘレン",
+    "translation": "農家の娘ヘレン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.104.22",
+    "original": "ヘレン",
+    "translation": "ヘレン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.106.21",
+    "original": "女勇者ユーステル",
+    "translation": "女勇者ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.106.22",
+    "original": "ユーステル",
+    "translation": "ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.107.21",
+    "original": "女司祭リリエーヌ",
+    "translation": "女司祭リリエーヌ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.107.22",
+    "original": "リリエーヌ",
+    "translation": "リリエーヌ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.108.21",
+    "original": "先代魔女オーレリア・ウィルチ",
+    "translation": "先代魔女オーレリア・ウィルチ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.109.21",
+    "original": "遺跡学者イディット",
+    "translation": "遺跡学者イディット",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.109.22",
+    "original": "イディット",
+    "translation": "イディット",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.110.21",
+    "original": "新米兵士ソルネッタ",
+    "translation": "新米兵士ソルネッタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.110.22",
+    "original": "ソルネッタ",
+    "translation": "ソルネッタ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.111.21",
+    "original": "女密偵パテラ",
+    "translation": "女密偵パテラ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.111.22",
+    "original": "パテラ",
+    "translation": "パテラ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.112.21",
+    "original": "女戦士ジャネット",
+    "translation": "女戦士ジャネット",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.112.22",
+    "original": "ジャネット",
+    "translation": "ジャネット",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.113.21",
+    "original": "女武闘家グレーテ",
+    "translation": "女武闘家グレーテ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.113.22",
+    "original": "グレーテ",
+    "translation": "グレーテ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.114.21",
+    "original": "令嬢剣士ティオナ",
+    "translation": "令嬢剣士ティオナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.114.22",
+    "original": "ティオナ",
+    "translation": "ティオナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.116.21",
+    "original": "穏やかな重戦士オーディ",
+    "translation": "穏やかな重戦士オーディ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.116.22",
+    "original": "オーディ",
+    "translation": "オーディ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.117.21",
+    "original": "悩み多き執事エグバルト",
+    "translation": "悩み多き執事エグバルト",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.117.22",
+    "original": "エグバルト",
+    "translation": "エグバルト",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.118.21",
+    "original": "野心を持つ商売人",
+    "translation": "野心を持つ商売人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.119.21",
+    "original": "自警団の青年ジクレス",
+    "translation": "自警団の青年ジクレス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.119.22",
+    "original": "ジクレス",
+    "translation": "ジクレス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.120.21",
+    "original": "調査団の遺跡博士ヤキム",
+    "translation": "調査団の遺跡博士ヤキム",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.120.22",
+    "original": "ヤキム",
+    "translation": "ヤキム",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.121.21",
+    "original": "調査団員スティーヴ",
+    "translation": "調査団員スティーヴ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.121.22",
+    "original": "スティーヴ",
+    "translation": "スティーヴ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.122.21",
+    "original": "修行好きな女剣士",
+    "translation": "修行好きな女剣士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.123.21",
+    "original": "仕事熱心な漁師ヨダフ",
+    "translation": "仕事熱心な漁師ヨダフ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.123.22",
+    "original": "ヨダフ",
+    "translation": "ヨダフ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.124.21",
+    "original": "恋慕の青年商人サイラス",
+    "translation": "恋慕の青年商人サイラス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.124.22",
+    "original": "サイラス",
+    "translation": "サイラス",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.125.21",
+    "original": "仲間に恵まれない冒険者",
+    "translation": "仲間に恵まれない冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.126.21",
+    "original": "ドワーム大工マンヴィール",
+    "translation": "ドワーム大工マンヴィール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.126.22",
+    "original": "マンヴィール",
+    "translation": "マンヴィール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.127.21",
+    "original": "うわさ話が好きな少女",
+    "translation": "うわさ話が好きな少女",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.128.21",
+    "original": "冒険者の青年剣士",
+    "translation": "冒険者の青年剣士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.129.21",
+    "original": "富裕層の一般女性",
+    "translation": "富裕層の一般女性",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.130.21",
+    "original": "熟達の盗賊ヒューム",
+    "translation": "熟達の盗賊ヒューム",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.130.22",
+    "original": "ヒューム",
+    "translation": "ヒューム",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.131.21",
+    "original": "フードを被った男",
+    "translation": "フードを被った男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.132.21",
+    "original": "商売上手な行商人",
+    "translation": "商売上手な行商人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.133.21",
+    "original": "いたずら妖精",
+    "translation": "いたずら妖精",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.134.21",
+    "original": "領主の秘書",
+    "translation": "領主の秘書",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.135.21",
+    "original": "森林レンジャーのユタン",
+    "translation": "森林レンジャーのユタン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.135.22",
+    "original": "ユタン",
+    "translation": "ユタン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.136.21",
+    "original": "村娘ヘレンの父親",
+    "translation": "村娘ヘレンの父親",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.137.21",
+    "original": "学院の研修生トール",
+    "translation": "学院の研修生トール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.137.22",
+    "original": "トール",
+    "translation": "トール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.138.21",
+    "original": "セールス淫魔ちゃん",
+    "translation": "セールス淫魔ちゃん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.139.21",
+    "original": "貧乏なゼカリウス市民",
+    "translation": "貧乏なゼカリウス市民",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.140.21",
+    "original": "ドワーム職人ダルトン",
+    "translation": "ドワーム職人ダルトン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.140.22",
+    "original": "ダルトン",
+    "translation": "ダルトン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.141.21",
+    "original": "寝ぼけている兵士モルター",
+    "translation": "寝ぼけている兵士モルター",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.141.22",
+    "original": "モルター",
+    "translation": "モルター",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.142.21",
+    "original": "お調子者の商人ケイン",
+    "translation": "お調子者の商人ケイン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.142.22",
+    "original": "ケイン",
+    "translation": "ケイン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.143.21",
+    "original": "信心深い巡礼者メイソン",
+    "translation": "信心深い巡礼者メイソン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.143.22",
+    "original": "メイソン",
+    "translation": "メイソン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.144.21",
+    "original": "ハーヴェスタ商会員",
+    "translation": "ハーヴェスタ商会員",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.145.21",
+    "original": "女狩人アヴィール",
+    "translation": "女狩人アヴィール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.145.22",
+    "original": "アルヴィ",
+    "translation": "アルヴィ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.146.21",
+    "original": "女兵士イメルダ",
+    "translation": "女兵士イメルダ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.146.22",
+    "original": "イメルダ",
+    "translation": "イメルダ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.147.21",
+    "original": "女市民ポリーナ",
+    "translation": "女市民ポリーナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.147.22",
+    "original": "ポリーナ",
+    "translation": "ポリーナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.148.21",
+    "original": "メイドのディアンナ",
+    "translation": "メイドのディアンナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.148.22",
+    "original": "ディアンナ",
+    "translation": "ディアンナ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.149.21",
+    "original": "女貴族エレオノーラ",
+    "translation": "女貴族エレオノーラ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.149.22",
+    "original": "エレオノーラ",
+    "translation": "エレオノーラ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.150.21",
+    "original": "女騎士リンドリエル",
+    "translation": "女騎士リンドリエル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.150.22",
+    "original": "リンドリエル",
+    "translation": "リンドリエル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.151.21",
+    "original": "子供ゴブリン",
+    "translation": "子供ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.152.21",
+    "original": "淫魔メローザ",
+    "translation": "淫魔メローザ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.152.22",
+    "original": "メローザ",
+    "translation": "メローザ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.201.21",
+    "original": "匿名希望",
+    "translation": "匿名希望",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.202.21",
+    "original": "ゴブリン",
+    "translation": "ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.203.21",
+    "original": "雇われた兵士",
+    "translation": "雇われた兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.204.21",
+    "original": "ジルド聖騎士団の青年",
+    "translation": "ジルド聖騎士団の青年",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.206.21",
+    "original": "マリーゼルの父親",
+    "translation": "マリーゼルの父親",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.207.21",
+    "original": "アークエンジェル",
+    "translation": "アークエンジェル",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.208.21",
+    "original": "おじいさん",
+    "translation": "おじいさん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.209.21",
+    "original": "一般兵士",
+    "translation": "一般兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.210.21",
+    "original": "通りすがりの兵士",
+    "translation": "通りすがりの兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.211.21",
+    "original": "通りすがりの魔術師",
+    "translation": "通りすがりの魔術師",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.212.21",
+    "original": "通りすがりの冒険者",
+    "translation": "通りすがりの冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.213.21",
+    "original": "ならずもの",
+    "translation": "ならずもの",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.216.21",
+    "original": "金色のドラゴン",
+    "translation": "金色のドラゴン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.217.21",
+    "original": "邪教徒",
+    "translation": "邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.218.21",
+    "original": "雇われたチンピラＡ",
+    "translation": "雇われたチンピラＡ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.219.21",
+    "original": "雇われたチンピラＢ",
+    "translation": "雇われたチンピラＢ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.220.21",
+    "original": "配達人Ａ",
+    "translation": "配達人Ａ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.221.21",
+    "original": "配達人Ｂ",
+    "translation": "配達人Ｂ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.222.21",
+    "original": "ハーヴェスタの部下",
+    "translation": "ハーヴェスタの部下",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.223.21",
+    "original": "行き倒れの巡礼者",
+    "translation": "行き倒れの巡礼者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.224.21",
+    "original": "？？？",
+    "translation": "？？？",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.225.21",
+    "original": "ソルシア学院の魔術師",
+    "translation": "ソルシア学院の魔術師",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.226.21",
+    "original": "ヒエペリオの神官",
+    "translation": "ヒエペリオの神官",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.227.21",
+    "original": "宝石好きのドワーム族",
+    "translation": "宝石好きのドワーム族",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.228.21",
+    "original": "志半ばで倒れた冒険者",
+    "translation": "志半ばで倒れた冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.229.21",
+    "original": "真実を求めた記者",
+    "translation": "真実を求めた記者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.230.21",
+    "original": "古代魔術の探索者",
+    "translation": "古代魔術の探索者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.231.21",
+    "original": "ジルド聖騎士団の残党",
+    "translation": "ジルド聖騎士団の残党",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.232.21",
+    "original": "ならずものＡ",
+    "translation": "ならずものＡ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.233.21",
+    "original": "ならずものＢ",
+    "translation": "ならずものＢ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.234.21",
+    "original": "男",
+    "translation": "男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.235.21",
+    "original": "心配性な漁師",
+    "translation": "心配性な漁師",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.236.21",
+    "original": "素性の知れない男",
+    "translation": "素性の知れない男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.237.21",
+    "original": "横暴な男",
+    "translation": "横暴な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.238.21",
+    "original": "怪しげな男",
+    "translation": "怪しげな男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.239.21",
+    "original": "軽装の男",
+    "translation": "軽装の男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.240.21",
+    "original": "目つきの悪い男",
+    "translation": "目つきの悪い男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.241.21",
+    "original": "ソルネッタの父親",
+    "translation": "ソルネッタの父親",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.242.21",
+    "original": "狂った天文学者",
+    "translation": "狂った天文学者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.243.21",
+    "original": "ブロッサ娼会からの使者",
+    "translation": "ブロッサ娼会からの使者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.244.21",
+    "original": "軽薄そうなエルフィード",
+    "translation": "軽薄そうなエルフィード",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.245.21",
+    "original": "口下手なエルフィード",
+    "translation": "口下手なエルフィード",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.246.21",
+    "original": "ミズイロケモミミ？",
+    "translation": "ミズイロケモミミ？",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.247.21",
+    "original": "冒険者の男",
+    "translation": "冒険者の男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.249.21",
+    "original": "ノーザリア兵士",
+    "translation": "ノーザリア兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.301.21",
+    "original": "二人",
+    "translation": "二人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.302.21",
+    "original": "アンジュのファン",
+    "translation": "アンジュのファン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.303.21",
+    "original": "おどおどした男",
+    "translation": "おどおどした男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.304.21",
+    "original": "ケモミミファン",
+    "translation": "ケモミミファン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.305.21",
+    "original": "シイネのファン",
+    "translation": "シイネのファン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.306.21",
+    "original": "シスター好きの男性",
+    "translation": "シスター好きの男性",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.307.21",
+    "original": "ならず者",
+    "translation": "ならず者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.308.21",
+    "original": "ニヤついた男",
+    "translation": "ニヤついた男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.309.21",
+    "original": "ニヤニヤした男",
+    "translation": "ニヤニヤした男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.310.21",
+    "original": "ノーザリアの将校",
+    "translation": "ノーザリアの将校",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.312.21",
+    "original": "ヒソヒソ声の男性客",
+    "translation": "ヒソヒソ声の男性客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.313.21",
+    "original": "ヘレンのファン",
+    "translation": "ヘレンのファン",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.314.21",
+    "original": "ヘレンの客",
+    "translation": "ヘレンの客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.315.21",
+    "original": "ヘレンの父親",
+    "translation": "ヘレンの父親",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.316.21",
+    "original": "マリーゼルの相手",
+    "translation": "マリーゼルの相手",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.317.21",
+    "original": "メイド好きの男",
+    "translation": "メイド好きの男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.318.21",
+    "original": "モブ男",
+    "translation": "モブ男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.319.21",
+    "original": "異端審問官",
+    "translation": "異端審問官",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.320.21",
+    "original": "下っ端兵士",
+    "translation": "下っ端兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.321.21",
+    "original": "苛立った男",
+    "translation": "苛立った男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.322.21",
+    "original": "開拓村の村人",
+    "translation": "開拓村の村人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.323.21",
+    "original": "開拓村の暴徒",
+    "translation": "開拓村の暴徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.324.21",
+    "original": "客の男",
+    "translation": "客の男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.325.21",
+    "original": "挙動不審な男",
+    "translation": "挙動不審な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.326.21",
+    "original": "競売の参加者",
+    "translation": "競売の参加者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.327.21",
+    "original": "競売参加者",
+    "translation": "競売参加者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.328.21",
+    "original": "競売司会者",
+    "translation": "競売司会者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.329.21",
+    "original": "興奮した観客",
+    "translation": "興奮した観客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.330.21",
+    "original": "興奮した客",
+    "translation": "興奮した客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.331.21",
+    "original": "興奮した作家",
+    "translation": "興奮した作家",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.332.21",
+    "original": "興奮した邪教徒",
+    "translation": "興奮した邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.333.21",
+    "original": "興奮した商会員",
+    "translation": "興奮した商会員",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.334.21",
+    "original": "興奮した商人",
+    "translation": "興奮した商人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.335.21",
+    "original": "興奮した信者",
+    "translation": "興奮した信者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.336.21",
+    "original": "興奮した酔っ払い",
+    "translation": "興奮した酔っ払い",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.337.21",
+    "original": "興奮した男",
+    "translation": "興奮した男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.338.21",
+    "original": "興奮した男性客",
+    "translation": "興奮した男性客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.339.21",
+    "original": "興奮していた作家",
+    "translation": "興奮していた作家",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.340.21",
+    "original": "厳格そうなエルフィード",
+    "translation": "厳格そうなエルフィード",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.341.21",
+    "original": "荒ぶる男性",
+    "translation": "荒ぶる男性",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.342.21",
+    "original": "黒衣の邪教徒",
+    "translation": "黒衣の邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.343.21",
+    "original": "錯乱した村人",
+    "translation": "錯乱した村人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.344.21",
+    "original": "邪教の参加者",
+    "translation": "邪教の参加者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.345.21",
+    "original": "邪教の信者",
+    "translation": "邪教の信者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.346.21",
+    "original": "取り巻き",
+    "translation": "取り巻き",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.347.21",
+    "original": "酒場の常連客",
+    "translation": "酒場の常連客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.348.21",
+    "original": "従順な邪教徒",
+    "translation": "従順な邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.349.21",
+    "original": "従順な男",
+    "translation": "従順な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.350.21",
+    "original": "宿の従業員",
+    "translation": "宿の従業員",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.351.21",
+    "original": "勝ってる男",
+    "translation": "勝ってる男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.352.21",
+    "original": "商会の顧客",
+    "translation": "商会の顧客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.353.21",
+    "original": "将校の取り巻き",
+    "translation": "将校の取り巻き",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.354.21",
+    "original": "常連客",
+    "translation": "常連客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.355.21",
+    "original": "審問官の付き人",
+    "translation": "審問官の付き人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.356.21",
+    "original": "心配する男",
+    "translation": "心配する男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.357.21",
+    "original": "酔った商人",
+    "translation": "酔った商人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.358.21",
+    "original": "酔った常連客",
+    "translation": "酔った常連客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.359.21",
+    "original": "酔った男",
+    "translation": "酔った男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.360.21",
+    "original": "酔った労働者",
+    "translation": "酔った労働者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.361.21",
+    "original": "酔ってる男",
+    "translation": "酔ってる男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.362.21",
+    "original": "酔っ払い",
+    "translation": "酔っ払い",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.363.21",
+    "original": "酔っ払い開拓者",
+    "translation": "酔っ払い開拓者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.364.21",
+    "original": "酔っ払い冒険者",
+    "translation": "酔っ払い冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.365.21",
+    "original": "粗暴な男",
+    "translation": "粗暴な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.366.21",
+    "original": "息の荒い常連客",
+    "translation": "息の荒い常連客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.367.21",
+    "original": "息の荒い男",
+    "translation": "息の荒い男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.368.21",
+    "original": "村のおじさん",
+    "translation": "村のおじさん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.369.21",
+    "original": "村の少年",
+    "translation": "村の少年",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.370.21",
+    "original": "太った資産家",
+    "translation": "太った資産家",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.371.21",
+    "original": "怒った作家",
+    "translation": "怒った作家",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.372.21",
+    "original": "怒っていた作家",
+    "translation": "怒っていた作家",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.373.21",
+    "original": "農家のおじさん",
+    "translation": "農家のおじさん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.374.21",
+    "original": "卑屈に笑う男",
+    "translation": "卑屈に笑う男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.375.21",
+    "original": "必死な男",
+    "translation": "必死な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.376.21",
+    "original": "付き従う邪教徒",
+    "translation": "付き従う邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.377.21",
+    "original": "悶えるおじさん",
+    "translation": "悶えるおじさん",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.378.21",
+    "original": "悶える男",
+    "translation": "悶える男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.379.21",
+    "original": "痙攣する男",
+    "translation": "痙攣する男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.380.21",
+    "original": "キングホエール",
+    "translation": "キングホエール",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.381.21",
+    "original": "酔った兵士",
+    "translation": "酔った兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.382.21",
+    "original": "酔った冒険者",
+    "translation": "酔った冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.383.21",
+    "original": "冒険者",
+    "translation": "冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.384.21",
+    "original": "興奮したギャラリー",
+    "translation": "興奮したギャラリー",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.385.21",
+    "original": "若い男性客",
+    "translation": "若い男性客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.386.21",
+    "original": "好奇心旺盛な船乗り",
+    "translation": "好奇心旺盛な船乗り",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.387.21",
+    "original": "ソルネッタの父",
+    "translation": "ソルネッタの父",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.388.21",
+    "original": "自警団幹部",
+    "translation": "自警団幹部",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.389.21",
+    "original": "慎重派の船乗り",
+    "translation": "慎重派の船乗り",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.390.21",
+    "original": "酔っ払い兵士",
+    "translation": "酔っ払い兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.391.21",
+    "original": "態度の大きい男",
+    "translation": "態度の大きい男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.392.21",
+    "original": "ソルシアの遺物調査人",
+    "translation": "ソルシアの遺物調査人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.393.21",
+    "original": "噂好きな船乗り",
+    "translation": "噂好きな船乗り",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.394.21",
+    "original": "島を観測する者",
+    "translation": "島を観測する者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.395.21",
+    "original": "北方への行商人",
+    "translation": "北方への行商人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.396.21",
+    "original": "～ですます少女",
+    "translation": "～ですます少女",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.397.21",
+    "original": "～ですわお嬢様",
+    "translation": "～ですわお嬢様",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.398.21",
+    "original": "～かしら上品娘",
+    "translation": "～かしら上品娘",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.399.21",
+    "original": "～よ、～ね強気娘",
+    "translation": "～よ、～ね強気娘",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.400.21",
+    "original": "～かな、だよロリ",
+    "translation": "～かな、だよロリ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.401.21",
+    "original": "～ですぅロリ",
+    "translation": "～ですぅロリ",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.402.21",
+    "original": "酒が好きな冒険者",
+    "translation": "酒が好きな冒険者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.403.21",
+    "original": "興奮した兵士",
+    "translation": "興奮した兵士",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.404.21",
+    "original": "領主の取り巻き",
+    "translation": "領主の取り巻き",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.405.21",
+    "original": "傭兵団員",
+    "translation": "傭兵団員",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.407.21",
+    "original": "客の若者",
+    "translation": "客の若者",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.408.21",
+    "original": "懺悔する男",
+    "translation": "懺悔する男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.409.21",
+    "original": "学園の教師",
+    "translation": "学園の教師",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.410.21",
+    "original": "学園の校長",
+    "translation": "学園の校長",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.412.21",
+    "original": "厳つい男",
+    "translation": "厳つい男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.413.21",
+    "original": "小さくなった男",
+    "translation": "小さくなった男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.414.21",
+    "original": "酔った一般客",
+    "translation": "酔った一般客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.415.21",
+    "original": "怯える市民",
+    "translation": "怯える市民",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.416.21",
+    "original": "見物する市民",
+    "translation": "見物する市民",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.418.21",
+    "original": "駆けつけた野次馬",
+    "translation": "駆けつけた野次馬",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.419.21",
+    "original": "聞きつけた常連客",
+    "translation": "聞きつけた常連客",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.420.21",
+    "original": "野次馬の男",
+    "translation": "野次馬の男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.421.21",
+    "original": "旅の商人",
+    "translation": "旅の商人",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.422.21",
+    "original": "狂気的な男",
+    "translation": "狂気的な男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.423.21",
+    "original": "用心棒の男",
+    "translation": "用心棒の男",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.444.21",
+    "original": "領主の手下",
+    "translation": "領主の手下",
+    "context": null
+  },
+  {
+    "key": "db_EventChara_11.txt.999.21",
+    "original": "★選択肢★",
+    "translation": "★選択肢★",
+    "context": null
+  }
+]

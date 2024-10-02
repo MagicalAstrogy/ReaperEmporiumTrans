@@ -1,0 +1,80 @@
+[
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.0.8",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.1.8",
+    "original": "物理的な攻撃により、敵に与えるダメージに影響するデス。とっても重要なステータスデス。暴力は全てを解決するデス",
+    "translation": "物理的な攻撃により、敵に与えるダメージに影響するデス。とっても重要なステータスデス。暴力は全てを解決するデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.2.8",
+    "original": "敵から受けるダメージに影響するデス。相手の攻撃に耐えるよりは、攻撃を高めてさっさと倒す方が楽デスが、相手の数が多すぎたらそんなこと言えないデス",
+    "translation": "敵から受けるダメージに影響するデス。相手の攻撃に耐えるよりは、攻撃を高めてさっさと倒す方が楽デスが、相手の数が多すぎたらそんなこと言えないデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.3.8",
+    "original": "攻撃の命中率に影響するデス。攻撃ミスが目立つようなら、高めておくが良いデス",
+    "translation": "攻撃の命中率に影響するデス。攻撃ミスが目立つようなら、高めておくが良いデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.4.8",
+    "original": "敵から受ける攻撃の回避率に影響するデス",
+    "translation": "敵から受ける攻撃の回避率に影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.5.8",
+    "original": "クリティカルヒットの発生率に影響するデス",
+    "translation": "クリティカルヒットの発生率に影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.6.8",
+    "original": "行動の優先度が高まるデス、先制攻撃で相手の数を減らせば、被害を減らすことができるデス。また、相手の速度を下回ると命中率が下がり、上回ると追撃しやすくなるデス",
+    "translation": "行動の優先度が高まるデス、先制攻撃で相手の数を減らせば、被害を減らすことができるデス。また、相手の速度を下回ると命中率が下がり、上回ると追撃しやすくなるデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.7.8",
+    "original": "敵からのダメージを受けられる合計デス。前衛キャラはもちろん、後衛キャラもたまには高めておくデス",
+    "translation": "敵からのダメージを受けられる合計デス。前衛キャラはもちろん、後衛キャラもたまには高めておくデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.8.8",
+    "original": "消耗するスキルの使用回数に影響するデス。スキルをばんばん撃つにはたくさんのMPが必要なのデス",
+    "translation": "消耗するスキルの使用回数に影響するデス。スキルをばんばん撃つにはたくさんのMPが必要なのデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.9.8",
+    "original": "魔術攻撃で与えるダメージに影響するデス。魔術攻撃は大勢をまとめて相手できる攻撃が多いデス。魔術を使わないなら不要デス",
+    "translation": "魔術攻撃で与えるダメージに影響するデス。魔術攻撃は大勢をまとめて相手できる攻撃が多いデス。魔術を使わないなら不要デス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.10.8",
+    "original": "魔術攻撃から受けるダメージに影響するデス。優先度は低めデスが、レベルが高まったら、ちょっとぐらいは上げたいデス",
+    "translation": "魔術攻撃から受けるダメージに影響するデス。優先度は低めデスが、レベルが高まったら、ちょっとぐらいは上げたいデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.11.8",
+    "original": "ダブルアタックが発生する確率に影響するデス",
+    "translation": "ダブルアタックが発生する確率に影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaBattlerStatus_11.txt.12.8",
+    "original": "エッチな攻撃に耐えられる合計デス",
+    "translation": "エッチな攻撃に耐えられる合計デス",
+    "context": null
+  }
+]

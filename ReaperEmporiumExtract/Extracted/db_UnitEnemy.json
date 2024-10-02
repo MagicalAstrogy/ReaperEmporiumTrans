@@ -1,0 +1,764 @@
+[
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.0.18",
+    "original": "100",
+    "translation": "100",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.1.18",
+    "original": "120",
+    "translation": "120",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.3.18",
+    "original": "80",
+    "translation": "80",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.7.18",
+    "original": "130",
+    "translation": "130",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.12.18",
+    "original": "150",
+    "translation": "150",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.28.18",
+    "original": "50",
+    "translation": "50",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.50.18",
+    "original": "70",
+    "translation": "70",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.186.18",
+    "original": "103",
+    "translation": "103",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.217.18",
+    "original": "160",
+    "translation": "160",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.0.18",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.1.18",
+    "original": "アークエンジェル",
+    "translation": "アークエンジェル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.2.18",
+    "original": "アイアンゴーレム",
+    "translation": "アイアンゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.3.18",
+    "original": "アルラウネ",
+    "translation": "アルラウネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.4.18",
+    "original": "インセクト",
+    "translation": "インセクト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.5.18",
+    "original": "ヴァンパイア",
+    "translation": "ヴァンパイア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.6.18",
+    "original": "ウィザードマン",
+    "translation": "ウィザードマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.7.18",
+    "original": "ウィッチ",
+    "translation": "ウィッチ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.8.18",
+    "original": "ウシノシシ",
+    "translation": "ウシノシシ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.9.18",
+    "original": "ウンディーネ",
+    "translation": "ウンディーネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.10.18",
+    "original": "エレメンタル",
+    "translation": "エレメンタル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.11.18",
+    "original": "オーガ",
+    "translation": "オーガ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.12.18",
+    "original": "オオカミ",
+    "translation": "オオカミ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.13.18",
+    "original": "オークマン",
+    "translation": "オークマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.14.18",
+    "original": "オークレディ",
+    "translation": "オークレディ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.15.18",
+    "original": "おばけ",
+    "translation": "おばけ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.16.18",
+    "original": "ガイコツ",
+    "translation": "ガイコツ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.17.18",
+    "original": "カラス",
+    "translation": "カラス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.18.18",
+    "original": "キャタピラー",
+    "translation": "キャタピラー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.19.18",
+    "original": "クマ",
+    "translation": "クマ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.20.18",
+    "original": "クラウン",
+    "translation": "クラウン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.21.18",
+    "original": "クリスタラー",
+    "translation": "クリスタラー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.22.18",
+    "original": "コウモリ",
+    "translation": "コウモリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.23.18",
+    "original": "ゴースト",
+    "translation": "ゴースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.24.18",
+    "original": "ゴーレム",
+    "translation": "ゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.25.18",
+    "original": "ゴブリン",
+    "translation": "ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.26.18",
+    "original": "ゴブリンシャーマン",
+    "translation": "ゴブリンシャーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.27.18",
+    "original": "ゴブリンチャンピオン",
+    "translation": "ゴブリンチャンピオン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.28.18",
+    "original": "ゴブリンパラディン",
+    "translation": "ゴブリンパラディン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.29.18",
+    "original": "ゴブリンミュータント",
+    "translation": "ゴブリンミュータント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.30.18",
+    "original": "ゴブリンロード",
+    "translation": "ゴブリンロード",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.31.18",
+    "original": "ごろつき",
+    "translation": "ごろつき",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.32.18",
+    "original": "サーヴァント",
+    "translation": "サーヴァント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.33.18",
+    "original": "シーゴブリン",
+    "translation": "シーゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.34.18",
+    "original": "スネーク",
+    "translation": "スネーク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.35.18",
+    "original": "スパイダー",
+    "translation": "スパイダー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.36.18",
+    "original": "スライム",
+    "translation": "スライム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.37.18",
+    "original": "ゾンビ",
+    "translation": "ゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.38.18",
+    "original": "チャリオットタートル",
+    "translation": "チャリオットタートル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.39.18",
+    "original": "デーモン",
+    "translation": "デーモン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.40.18",
+    "original": "テンタクル",
+    "translation": "テンタクル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.41.18",
+    "original": "ドッグ",
+    "translation": "ドッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.42.18",
+    "original": "ドラゴン",
+    "translation": "ドラゴン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.43.18",
+    "original": "ドラゴンゾンビ",
+    "translation": "ドラゴンゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.44.18",
+    "original": "ドリアード",
+    "translation": "ドリアード",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.45.18",
+    "original": "ドレインホール",
+    "translation": "ドレインホール",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.46.18",
+    "original": "トレント",
+    "translation": "トレント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.47.18",
+    "original": "なりそこない",
+    "translation": "なりそこない",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.48.18",
+    "original": "ハーフデビル",
+    "translation": "ハーフデビル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.49.18",
+    "original": "ハイロウ",
+    "translation": "ハイロウ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.50.18",
+    "original": "バジリスク",
+    "translation": "バジリスク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.51.18",
+    "original": "バタフライ",
+    "translation": "バタフライ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.52.18",
+    "original": "ハチ",
+    "translation": "ハチ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.53.18",
+    "original": "パラサイト",
+    "translation": "パラサイト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.54.18",
+    "original": "ハンド",
+    "translation": "ハンド",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.55.18",
+    "original": "ファング",
+    "translation": "ファング",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.56.18",
+    "original": "フィッシュ",
+    "translation": "フィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.57.18",
+    "original": "フェアリー",
+    "translation": "フェアリー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.58.18",
+    "original": "ブタ",
+    "translation": "ブタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.59.18",
+    "original": "フラワー",
+    "translation": "フラワー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.60.18",
+    "original": "フロッグ",
+    "translation": "フロッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.61.18",
+    "original": "ベヒンモス",
+    "translation": "ベヒンモス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.62.18",
+    "original": "ホーリービースト",
+    "translation": "ホーリービースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.63.18",
+    "original": "ボーンフィッシュ",
+    "translation": "ボーンフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.64.18",
+    "original": "ホブゴブリン",
+    "translation": "ホブゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.65.18",
+    "original": "マーマン",
+    "translation": "マーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.66.18",
+    "original": "マーマンジェネラル",
+    "translation": "マーマンジェネラル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.67.18",
+    "original": "マグマゴーレム",
+    "translation": "マグマゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.68.18",
+    "original": "マジックウォーリア",
+    "translation": "マジックウォーリア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.69.18",
+    "original": "マシンアイ",
+    "translation": "マシンアイ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.70.18",
+    "original": "メタルハンター",
+    "translation": "メタルハンター",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.71.18",
+    "original": "ラストゴブリン",
+    "translation": "ラストゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.72.18",
+    "original": "レイス",
+    "translation": "レイス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.73.18",
+    "original": "ワーム",
+    "translation": "ワーム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.74.18",
+    "original": "暗殺者",
+    "translation": "暗殺者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.75.18",
+    "original": "異端審問将軍",
+    "translation": "異端審問将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.76.18",
+    "original": "騎士",
+    "translation": "騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.77.18",
+    "original": "儀式執行者",
+    "translation": "儀式執行者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.78.18",
+    "original": "失敗作",
+    "translation": "失敗作",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.79.18",
+    "original": "守護竜",
+    "translation": "守護竜",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.80.18",
+    "original": "重騎士",
+    "translation": "重騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.81.18",
+    "original": "商人",
+    "translation": "商人",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.82.18",
+    "original": "神官",
+    "translation": "神官",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.83.18",
+    "original": "戦乙女",
+    "translation": "戦乙女",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.84.18",
+    "original": "戦士",
+    "translation": "戦士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.85.18",
+    "original": "天使",
+    "translation": "天使",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.86.18",
+    "original": "兵士",
+    "translation": "兵士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.87.18",
+    "original": "変異した領主",
+    "translation": "変異した領主",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.88.18",
+    "original": "冒険者",
+    "translation": "冒険者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.89.18",
+    "original": "傭兵",
+    "translation": "傭兵",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.90.18",
+    "original": "死都を見届ける者",
+    "translation": "死都を見届ける者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.91.18",
+    "original": "キングホエール",
+    "translation": "キングホエール",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.92.18",
+    "original": "機械に取り込まれたゼルカ（巨大モブ）",
+    "translation": "機械に取り込まれたゼルカ（巨大モブ）",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.93.18",
+    "original": "ゴブリンコア",
+    "translation": "ゴブリンコア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.94.18",
+    "original": "サーペントRE",
+    "translation": "サーペントRE",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.95.18",
+    "original": "イエティ",
+    "translation": "イエティ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.96.18",
+    "original": "アイスゴーレム",
+    "translation": "アイスゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.97.18",
+    "original": "村人",
+    "translation": "村人",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.98.18",
+    "original": "マミー",
+    "translation": "マミー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.99.18",
+    "original": "ゲトレオス将軍",
+    "translation": "ゲトレオス将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.100.18",
+    "original": "バーサークアンジュ",
+    "translation": "バーサークアンジュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.101.18",
+    "original": "ミズイロケモミミ？",
+    "translation": "ミズイロケモミミ？",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.102.18",
+    "original": "淫魔メイドのシェルフィ",
+    "translation": "淫魔メイドのシェルフィ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.103.18",
+    "original": "黄金の都の守護巨兵",
+    "translation": "黄金の都の守護巨兵",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.104.18",
+    "original": "穏やかな重戦士オーディ",
+    "translation": "穏やかな重戦士オーディ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.105.18",
+    "original": "怪盗マジカル☆ファシィ",
+    "translation": "怪盗マジカル☆ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.106.18",
+    "original": "海竜姫ネルディーネ",
+    "translation": "海竜姫ネルディーネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.107.18",
+    "original": "覚醒したハーヴェスタ",
+    "translation": "覚醒したハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.108.18",
+    "original": "魔海要塞キングホエール",
+    "translation": "魔海要塞キングホエール",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.109.18",
+    "original": "邪聖女マリーゼル",
+    "translation": "邪聖女マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.110.18",
+    "original": "女勇者ユーステル",
+    "translation": "女勇者ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.111.18",
+    "original": "突然出てきたドラゴン？",
+    "translation": "突然出てきたドラゴン？",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.112.18",
+    "original": "氷国の姫将軍ノースリンデ",
+    "translation": "氷国の姫将軍ノースリンデ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.113.18",
+    "original": "評判の勇者ラシェウス",
+    "translation": "評判の勇者ラシェウス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.114.18",
+    "original": "暴走したキャトリナ",
+    "translation": "暴走したキャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.115.18",
+    "original": "淫魔(モングラなし)",
+    "translation": "淫魔(モングラなし)",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.116.18",
+    "original": "ゴブリン(モングラなし)",
+    "translation": "ゴブリン(モングラなし)",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemy_11.txt.117.18",
+    "original": "機械(モングラなし)",
+    "translation": "機械(モングラなし)",
+    "context": null
+  }
+]

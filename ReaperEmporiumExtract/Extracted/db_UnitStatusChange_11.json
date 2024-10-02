@@ -1,0 +1,2372 @@
+[
+  {
+    "key": "db_UnitStatusChange_11.txt.0.8",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.1.8",
+    "original": "物理ダメージ+30%",
+    "translation": "物理ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.1.10",
+    "original": "攻撃力アップ",
+    "translation": "攻撃力アップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.1.12",
+    "original": "【<dst>】の攻撃力が上がった！",
+    "translation": "【<dst>】の攻撃力が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.1.13",
+    "original": "【<dst>】の攻撃力が元に戻った……",
+    "translation": "【<dst>】の攻撃力が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.1.14",
+    "original": "攻撃",
+    "translation": "攻撃",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.2.8",
+    "original": "物理ダメージ+40%",
+    "translation": "物理ダメージ+40%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.2.14",
+    "original": "攻撃++",
+    "translation": "攻撃++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.3.8",
+    "original": "物理ダメージ+50% + 竜タイプへのダメージ+100%",
+    "translation": "物理ダメージ+50% + 竜タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.3.14",
+    "original": "竜殺",
+    "translation": "竜殺",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.4.8",
+    "original": "物理ダメージ+100% + クリティカル率+30%",
+    "translation": "物理ダメージ+100% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.4.14",
+    "original": "戦神",
+    "translation": "戦神",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.5.8",
+    "original": "物理ダメージ+30% + クリティカル率+60%",
+    "translation": "物理ダメージ+30% + クリティカル率+60%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.5.14",
+    "original": "剣聖",
+    "translation": "剣聖",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.6.8",
+    "original": "物理ダメージ+50% + クリティカル率+100%",
+    "translation": "物理ダメージ+50% + クリティカル率+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.6.12",
+    "original": "【<dst>】に逆鱗の効果が与えられた！",
+    "translation": "【<dst>】に逆鱗の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.6.13",
+    "original": "【<dst>】は落ち着いた……",
+    "translation": "【<dst>】は落ち着いた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.6.14",
+    "original": "逆鱗",
+    "translation": "逆鱗",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.7.8",
+    "original": "物理ダメージ+30% + クリティカル率+30%",
+    "translation": "物理ダメージ+30% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.7.12",
+    "original": "【<dst>】に獣王の力が備わった！",
+    "translation": "【<dst>】に獣王の力が備わった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.7.13",
+    "original": "【<dst>】の獣王が消えた……",
+    "translation": "【<dst>】の獣王が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.7.14",
+    "original": "獣王",
+    "translation": "獣王",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.8.8",
+    "original": "物理ダメージ+50% + クリティカルダメージ+100%",
+    "translation": "物理ダメージ+50% + クリティカルダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.8.12",
+    "original": "【<dst>】にかつての力が呼び起こされる！",
+    "translation": "【<dst>】にかつての力が呼び起こされる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.8.13",
+    "original": "【<dst>】の力が戻った……",
+    "translation": "【<dst>】の力が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.8.14",
+    "original": "覚醒",
+    "translation": "覚醒",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.9.8",
+    "original": "物理ダメージ+30% + ターンごとにMP回復(味方のみ)+10%",
+    "translation": "物理ダメージ+30% + ターンごとにMP回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.9.12",
+    "original": "【<dst>】に聖女の『祝福』が授けられた！",
+    "translation": "【<dst>】に聖女の『祝福』が授けられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.9.14",
+    "original": "聖女の祝福",
+    "translation": "聖女の祝福",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.10.8",
+    "original": "すべてのダメージ+30% + 物理ダメージ軽減率-30%",
+    "translation": "すべてのダメージ+30% + 物理ダメージ軽減率-30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.10.12",
+    "original": "【<dst>】は興奮した！",
+    "translation": "【<dst>】は興奮した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.10.14",
+    "original": "興奮",
+    "translation": "興奮",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.11.8",
+    "original": "すべてのダメージ+70% + 物理ダメージ軽減率-50%",
+    "translation": "すべてのダメージ+70% + 物理ダメージ軽減率-50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.11.14",
+    "original": "興奮++",
+    "translation": "興奮++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.12.8",
+    "original": "物理ダメージ+40% + 命中精度-20%",
+    "translation": "物理ダメージ+40% + 命中精度-20%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.12.12",
+    "original": "【<dst>】にバーサークが備わった！",
+    "translation": "【<dst>】にバーサークが備わった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.12.13",
+    "original": "【<dst>】はしょうきにもどった……",
+    "translation": "【<dst>】はしょうきにもどった……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.12.14",
+    "original": "狂戦士",
+    "translation": "狂戦士",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.13.8",
+    "original": "物理ダメージ+60% + 命中精度-30%",
+    "translation": "物理ダメージ+60% + 命中精度-30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.13.14",
+    "original": "狂戦士++",
+    "translation": "狂戦士++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.14.8",
+    "original": "被ダメージ回数に応じて最大攻撃力+30%",
+    "translation": "被ダメージ回数に応じて最大攻撃力+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.14.12",
+    "original": "【<dst>】に復讐者の力が備わった！",
+    "translation": "【<dst>】に復讐者の力が備わった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.14.13",
+    "original": "【<dst>】の反撃の構えを解いた……",
+    "translation": "【<dst>】の反撃の構えを解いた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.14.14",
+    "original": "復讐者",
+    "translation": "復讐者",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.15.8",
+    "original": "すべてのダメージ軽減率+30%",
+    "translation": "すべてのダメージ軽減率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.15.12",
+    "original": "【<dst>】の防御力が上がった！",
+    "translation": "【<dst>】の防御力が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.15.13",
+    "original": "【<dst>】の防御力が元に戻った……",
+    "translation": "【<dst>】の防御力が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.15.14",
+    "original": "防御",
+    "translation": "防御",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.16.8",
+    "original": "すべてのダメージ軽減率+50%",
+    "translation": "すべてのダメージ軽減率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.16.14",
+    "original": "防御++",
+    "translation": "防御++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.17.8",
+    "original": "すべての攻撃ダメージ-20%(敵のみ) + 魔術ダメージ+30%",
+    "translation": "すべての攻撃ダメージ-20%(敵のみ) + 魔術ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.17.12",
+    "original": "【<dst>】の周りを魔術の結界が覆った！",
+    "translation": "【<dst>】の周りを魔術の結界が覆った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.17.13",
+    "original": "【<dst>】の結界が消失した……",
+    "translation": "【<dst>】の結界が消失した……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.17.14",
+    "original": "退魔結界",
+    "translation": "退魔結界",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.18.8",
+    "original": "魔術ダメージ+25%",
+    "translation": "魔術ダメージ+25%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.18.12",
+    "original": "【<dst>】の魔術攻撃力が上がった！",
+    "translation": "【<dst>】の魔術攻撃力が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.18.13",
+    "original": "【<dst>】の魔術攻撃力が元に戻った……",
+    "translation": "【<dst>】の魔術攻撃力が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.18.14",
+    "original": "魔術",
+    "translation": "魔術",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.19.8",
+    "original": "魔術ダメージ+100%",
+    "translation": "魔術ダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.19.14",
+    "original": "魔術++",
+    "translation": "魔術++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.20.8",
+    "original": "魔術ダメージ+50% + スキル使用による速度低下軽減-80%",
+    "translation": "魔術ダメージ+50% + スキル使用による速度低下軽減-80%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.20.12",
+    "original": "【<dst>】のスキルキャスト速度が上がった！",
+    "translation": "【<dst>】のスキルキャスト速度が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.20.13",
+    "original": "【<dst>】の詠唱速度が元に戻った……",
+    "translation": "【<dst>】の詠唱速度が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.20.14",
+    "original": "詠唱",
+    "translation": "詠唱",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.21.14",
+    "original": "夢と一つに",
+    "translation": "夢と一つに",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.22.8",
+    "original": "魔術ダメージ+200% + 魔術暴走率+50%",
+    "translation": "魔術ダメージ+200% + 魔術暴走率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.22.14",
+    "original": "全力全開",
+    "translation": "全力全開",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.23.8",
+    "original": "魔術ダメージ+100% + デスクリティカル率+30%",
+    "translation": "魔術ダメージ+100% + デスクリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.23.14",
+    "original": "奈落の力",
+    "translation": "奈落の力",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.24.8",
+    "original": "すべての攻撃ダメージ+30% + ターンごとにMP回復+5%",
+    "translation": "すべての攻撃ダメージ+30% + ターンごとにMP回復+5%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.24.12",
+    "original": "【<dst>】の内なる力が呼び起された！",
+    "translation": "【<dst>】の内なる力が呼び起された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.24.13",
+    "original": "【<dst>】の力が元に戻った……",
+    "translation": "【<dst>】の力が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.24.14",
+    "original": "淫魔化",
+    "translation": "淫魔化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.25.8",
+    "original": "すべての攻撃ダメージ+500%",
+    "translation": "すべての攻撃ダメージ+500%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.25.14",
+    "original": "夢で一つに",
+    "translation": "夢で一つに",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.26.8",
+    "original": "すべての攻撃ダメージ+50% + ダブルアタック率+30%",
+    "translation": "すべての攻撃ダメージ+50% + ダブルアタック率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.26.12",
+    "original": "【<dst>】の戦闘力が上がった！",
+    "translation": "【<dst>】の戦闘力が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.26.13",
+    "original": "【<dst>】の覇道効果が消えた……",
+    "translation": "【<dst>】の覇道効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.26.14",
+    "original": "覇道",
+    "translation": "覇道",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.27.8",
+    "original": "プレイヤー側の能力が極大上昇 + さまざまなボーナス",
+    "translation": "プレイヤー側の能力が極大上昇 + さまざまなボーナス",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.27.12",
+    "original": "【<dst>】に神の『祝福』が授けられた！",
+    "translation": "【<dst>】に神の『祝福』が授けられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.27.13",
+    "original": "【<dst>】の祝福効果が消えた……",
+    "translation": "【<dst>】の祝福効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.27.14",
+    "original": "神の祝福",
+    "translation": "神の祝福",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.28.8",
+    "original": "クリティカル率+30%",
+    "translation": "クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.28.12",
+    "original": "【<dst>】のクリティカル率がアップ！",
+    "translation": "【<dst>】のクリティカル率がアップ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.28.13",
+    "original": "【<dst>】のクリティカル率が戻った……",
+    "translation": "【<dst>】のクリティカル率が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.28.14",
+    "original": "必殺",
+    "translation": "必殺",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.29.8",
+    "original": "クリティカル率+50%",
+    "translation": "クリティカル率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.29.14",
+    "original": "必殺++",
+    "translation": "必殺++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.30.8",
+    "original": "ダブルアタック率+50%",
+    "translation": "ダブルアタック率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.30.10",
+    "original": "速度アップ",
+    "translation": "速度アップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.30.12",
+    "original": "【<dst>】のスピードが上がった！",
+    "translation": "【<dst>】のスピードが上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.30.13",
+    "original": "【<dst>】のスピードが戻った……",
+    "translation": "【<dst>】のスピードが戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.30.14",
+    "original": "加速",
+    "translation": "加速",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.31.8",
+    "original": "ダブルアタック率+100%",
+    "translation": "ダブルアタック率+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.31.14",
+    "original": "加速++",
+    "translation": "加速++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.32.8",
+    "original": "ダブルアタック率+100% + ダブルアタックのダメージ+10%",
+    "translation": "ダブルアタック率+100% + ダブルアタックのダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.32.14",
+    "original": "加速+++",
+    "translation": "加速+++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.33.8",
+    "original": "ダブルアタック率+100% + ダブルアタックのダメージ+20%",
+    "translation": "ダブルアタック率+100% + ダブルアタックのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.33.14",
+    "original": "神速",
+    "translation": "神速",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.34.8",
+    "original": "チェイススキル発生率+50%",
+    "translation": "チェイススキル発生率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.34.12",
+    "original": "【<dst>】のチェイススキル発生率が上がった！",
+    "translation": "【<dst>】のチェイススキル発生率が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.34.13",
+    "original": "【<dst>】のチェイススキル発生率が戻った……",
+    "translation": "【<dst>】のチェイススキル発生率が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.34.14",
+    "original": "一気呵成",
+    "translation": "一気呵成",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.35.8",
+    "original": "自分へのチェイススキル発生率+50%",
+    "translation": "自分へのチェイススキル発生率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.35.12",
+    "original": "【<dst>】へのチェイススキル発生率が上がった！",
+    "translation": "【<dst>】へのチェイススキル発生率が上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.35.13",
+    "original": "【<dst>】へのチェイススキル発生率が戻った……",
+    "translation": "【<dst>】へのチェイススキル発生率が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.35.14",
+    "original": "連携収束",
+    "translation": "連携収束",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.36.8",
+    "original": "自分へのチェイススキル発生率+80%",
+    "translation": "自分へのチェイススキル発生率+80%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.36.14",
+    "original": "連携収束++",
+    "translation": "連携収束++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.37.8",
+    "original": "回避率+30%",
+    "translation": "回避率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.37.12",
+    "original": "【<dst>】に身代わり効果が与えられた！",
+    "translation": "【<dst>】に身代わり効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.37.13",
+    "original": "【<dst>】の身代わりが消えた……",
+    "translation": "【<dst>】の身代わりが消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.37.14",
+    "original": "身代わり",
+    "translation": "身代わり",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.38.8",
+    "original": "物理耐性貫通+30%",
+    "translation": "物理耐性貫通+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.38.12",
+    "original": "【<dst>】に貫通効果が与えられた！",
+    "translation": "【<dst>】に貫通効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.38.13",
+    "original": "【<dst>】の貫通効果が消えた……",
+    "translation": "【<dst>】の貫通効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.38.14",
+    "original": "貫通",
+    "translation": "貫通",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.39.8",
+    "original": "攻撃の範囲拡大率+100%",
+    "translation": "攻撃の範囲拡大率+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.39.12",
+    "original": "【<dst>】に範囲拡大効果が与えられた！",
+    "translation": "【<dst>】に範囲拡大効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.39.13",
+    "original": "【<dst>】の攻撃範囲拡大が消えた……",
+    "translation": "【<dst>】の攻撃範囲拡大が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.39.14",
+    "original": "範囲拡大",
+    "translation": "範囲拡大",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.40.8",
+    "original": "ダメージを攻撃+魔攻で計算",
+    "translation": "ダメージを攻撃+魔攻で計算",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.40.12",
+    "original": "【<dst>】に魔力付与効果が与えられた！",
+    "translation": "【<dst>】に魔力付与効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.40.13",
+    "original": "【<dst>】の魔力付与が消えた……",
+    "translation": "【<dst>】の魔力付与が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.40.14",
+    "original": "魔力付与",
+    "translation": "魔力付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.41.8",
+    "original": "クリティカル率+50% + 弱点へのダメージ+10%",
+    "translation": "クリティカル率+50% + 弱点へのダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.41.10",
+    "original": "暗殺",
+    "translation": "暗殺",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.41.12",
+    "original": "【<dst>】は気配を消した！",
+    "translation": "【<dst>】は気配を消した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.41.13",
+    "original": "【<dst>】の隠密効果が元に戻った……",
+    "translation": "【<dst>】の隠密効果が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.42.8",
+    "original": "クリティカル率+100% + 弱点へのダメージ+20%",
+    "translation": "クリティカル率+100% + 弱点へのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.42.14",
+    "original": "暗殺++",
+    "translation": "暗殺++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.43.8",
+    "original": "被ターゲット率+1000%",
+    "translation": "被ターゲット率+1000%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.43.12",
+    "original": "【<dst>】は敵を挑発状態に入った！",
+    "translation": "【<dst>】は敵を挑発状態に入った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.43.13",
+    "original": "【<dst>】は相手にされなくなった……",
+    "translation": "【<dst>】は相手にされなくなった……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.43.14",
+    "original": "挑発",
+    "translation": "挑発",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.44.8",
+    "original": "最大HPの20%を超える攻撃を軽減+50%",
+    "translation": "最大HPの20%を超える攻撃を軽減+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.44.12",
+    "original": "【<dst>】に守護が与えられた！",
+    "translation": "【<dst>】に守護が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.44.13",
+    "original": "【<dst>】の大盾効果が消えた……",
+    "translation": "【<dst>】の大盾効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.44.14",
+    "original": "大盾",
+    "translation": "大盾",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.45.12",
+    "original": "【<dst>】の前に魔力の盾が張られた！",
+    "translation": "【<dst>】の前に魔力の盾が張られた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.45.13",
+    "original": "【<dst>】の魔盾効果が消えた……",
+    "translation": "【<dst>】の魔盾効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.45.14",
+    "original": "魔盾",
+    "translation": "魔盾",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.46.8",
+    "original": "最大HPの20%を超える攻撃を軽減+70%",
+    "translation": "最大HPの20%を超える攻撃を軽減+70%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.46.12",
+    "original": "【<dst>】の前に聖盾が張られた！",
+    "translation": "【<dst>】の前に聖盾が張られた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.46.13",
+    "original": "【<dst>】の聖盾が消滅した……",
+    "translation": "【<dst>】の聖盾が消滅した……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.46.14",
+    "original": "聖盾",
+    "translation": "聖盾",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.47.8",
+    "original": "最大HPの20%を超える攻撃を軽減+90%",
+    "translation": "最大HPの20%を超える攻撃を軽減+90%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.47.12",
+    "original": "【<dst>】に死神バリアが張られた！",
+    "translation": "【<dst>】に死神バリアが張られた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.47.13",
+    "original": "【<dst>】の死神バリアが消えた……",
+    "translation": "【<dst>】の死神バリアが消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.47.14",
+    "original": "神盾",
+    "translation": "神盾",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.48.12",
+    "original": "【<dst>】は見切りバリアを張った！",
+    "translation": "【<dst>】は見切りバリアを張った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.48.13",
+    "original": "【<dst>】は見切れなくなった……",
+    "translation": "【<dst>】は見切れなくなった……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.48.14",
+    "original": "見切り",
+    "translation": "見切り",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.49.8",
+    "original": "ターンごとにHP回復+10%",
+    "translation": "ターンごとにHP回復+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.49.10",
+    "original": "自動回復",
+    "translation": "自動回復",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.49.12",
+    "original": "【<dst>】に再生の力が付与された！",
+    "translation": "【<dst>】に再生の力が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.49.13",
+    "original": "【<dst>】から再生の力が消えた……",
+    "translation": "【<dst>】から再生の力が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.49.14",
+    "original": "再生",
+    "translation": "再生",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.50.8",
+    "original": "ターンごとにMP回復+10% + 四属性ダメージ+30%",
+    "translation": "ターンごとにMP回復+10% + 四属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.50.12",
+    "original": "【<dst>】に霊樹の力が顕現した！",
+    "translation": "【<dst>】に霊樹の力が顕現した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.50.13",
+    "original": "【<dst>】の霊樹の力が消えた……",
+    "translation": "【<dst>】の霊樹の力が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.50.14",
+    "original": "霊樹",
+    "translation": "霊樹",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.51.8",
+    "original": "戦闘不能時に自動復活+100%",
+    "translation": "戦闘不能時に自動復活+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.51.12",
+    "original": "【<dst>】に復活の力が現れた！",
+    "translation": "【<dst>】に復活の力が現れた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.51.13",
+    "original": "【<dst>】の復活効果が消えた……",
+    "translation": "【<dst>】の復活効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.51.14",
+    "original": "復活",
+    "translation": "復活",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.52.8",
+    "original": "戦闘不能時に自動復活+100% + ターンごとにHP回復+20%",
+    "translation": "戦闘不能時に自動復活+100% + ターンごとにHP回復+20%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.52.14",
+    "original": "復活++",
+    "translation": "復活++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.53.8",
+    "original": "チェイススキルのダメージ+50%",
+    "translation": "チェイススキルのダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.53.10",
+    "original": "強化・中級",
+    "translation": "強化・中級",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.53.12",
+    "original": "【<dst>】の影分身が作り出された！",
+    "translation": "【<dst>】の影分身が作り出された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.53.13",
+    "original": "【<dst>】の影分身が消えた……",
+    "translation": "【<dst>】の影分身が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.53.14",
+    "original": "影分身",
+    "translation": "影分身",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.54.8",
+    "original": "チェイススキルのダメージ+100%",
+    "translation": "チェイススキルのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.54.14",
+    "original": "影分身++",
+    "translation": "影分身++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.55.8",
+    "original": "フィールド効果除去",
+    "translation": "フィールド効果除去",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.55.10",
+    "original": "フィールド",
+    "translation": "フィールド",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.55.12",
+    "original": "【<dst>】にディスペル効果が与えられた！",
+    "translation": "【<dst>】にディスペル効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.55.13",
+    "original": "【<dst>】のディスペル効果が消えた……",
+    "translation": "【<dst>】のディスペル効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.55.14",
+    "original": "デスペル",
+    "translation": "デスペル",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.56.8",
+    "original": "回避率+20% + クリティカル率+30%",
+    "translation": "回避率+20% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.56.10",
+    "original": "ドロップ",
+    "translation": "ドロップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.56.12",
+    "original": "【<dst>】に幸運の力が備わった！",
+    "translation": "【<dst>】に幸運の力が備わった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.56.13",
+    "original": "【<dst>】の幸運が消えた……",
+    "translation": "【<dst>】の幸運が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.56.14",
+    "original": "幸運",
+    "translation": "幸運",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.57.8",
+    "original": "近接攻撃を受けた際にトラップ反撃+30%",
+    "translation": "近接攻撃を受けた際にトラップ反撃+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.57.10",
+    "original": "妨害",
+    "translation": "妨害",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.57.12",
+    "original": "【<dst>】の周りに罠が張りめぐされた！",
+    "translation": "【<dst>】の周りに罠が張りめぐされた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.57.13",
+    "original": "【<dst>】の罠が効果を失った……",
+    "translation": "【<dst>】の罠が効果を失った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.57.14",
+    "original": "反撃罠",
+    "translation": "反撃罠",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.58.8",
+    "original": "近接攻撃を受けた際にトラップ反撃+50%",
+    "translation": "近接攻撃を受けた際にトラップ反撃+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.58.14",
+    "original": "反撃罠++",
+    "translation": "反撃罠++",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.59.8",
+    "original": "属性付与・火属性",
+    "translation": "属性付与・火属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.59.10",
+    "original": "属性付与",
+    "translation": "属性付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.59.12",
+    "original": "【<dst>】の武器に【火属性】が付与された！",
+    "translation": "【<dst>】の武器に【火属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.59.13",
+    "original": "【<dst>】の属性付与が消えた……",
+    "translation": "【<dst>】の属性付与が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.59.14",
+    "original": "火付与",
+    "translation": "火付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.60.8",
+    "original": "属性付与・氷属性",
+    "translation": "属性付与・氷属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.60.12",
+    "original": "【<dst>】の武器に【氷属性】が付与された！",
+    "translation": "【<dst>】の武器に【氷属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.60.14",
+    "original": "氷付与",
+    "translation": "氷付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.61.8",
+    "original": "属性付与・風属性",
+    "translation": "属性付与・風属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.61.12",
+    "original": "【<dst>】の武器に【風属性】が付与された！",
+    "translation": "【<dst>】の武器に【風属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.61.14",
+    "original": "風付与",
+    "translation": "風付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.62.8",
+    "original": "属性付与・雷属性",
+    "translation": "属性付与・雷属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.62.12",
+    "original": "【<dst>】の武器に【雷属性】が付与された！",
+    "translation": "【<dst>】の武器に【雷属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.62.14",
+    "original": "雷付与",
+    "translation": "雷付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.63.8",
+    "original": "属性付与・聖属性",
+    "translation": "属性付与・聖属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.63.12",
+    "original": "【<dst>】の武器に【聖属性】が付与された！",
+    "translation": "【<dst>】の武器に【聖属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.63.14",
+    "original": "聖付与",
+    "translation": "聖付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.64.8",
+    "original": "属性付与・闇属性",
+    "translation": "属性付与・闇属性",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.64.12",
+    "original": "【<dst>】の武器に【闇属性】が付与された！",
+    "translation": "【<dst>】の武器に【闇属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.64.14",
+    "original": "闇付与",
+    "translation": "闇付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.65.8",
+    "original": "強制的に弱点を突いたことになる+50%",
+    "translation": "強制的に弱点を突いたことになる+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.65.12",
+    "original": "【<dst>】の武器に【死属性】が付与された！",
+    "translation": "【<dst>】の武器に【死属性】が付与された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.65.13",
+    "original": "【<dst>】の弱点付与が消えた……",
+    "translation": "【<dst>】の弱点付与が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.65.14",
+    "original": "死付与",
+    "translation": "死付与",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.66.8",
+    "original": "淫魔領域の効果を完全無効化",
+    "translation": "淫魔領域の効果を完全無効化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.66.12",
+    "original": "【<dst>】の淫魔領域効果が無効化された！",
+    "translation": "【<dst>】の淫魔領域効果が無効化された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.66.13",
+    "original": "【<dst>】の淫魔領域無効化効果が消えた……",
+    "translation": "【<dst>】の淫魔領域無効化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.66.14",
+    "original": "夢魔の輪",
+    "translation": "夢魔の輪",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.67.8",
+    "original": "弱点へのダメージ+30%",
+    "translation": "弱点へのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.67.10",
+    "original": "属性強化",
+    "translation": "属性強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.67.12",
+    "original": "【<dst>】に弱点ダメージ強化の効果が与えられた！",
+    "translation": "【<dst>】に弱点ダメージ強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.67.13",
+    "original": "【<dst>】の弱点ダメージ強化効果が消えた……",
+    "translation": "【<dst>】の弱点ダメージ強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.67.14",
+    "original": "ウィーク",
+    "translation": "ウィーク",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.68.8",
+    "original": "火属性ダメージ+30%",
+    "translation": "火属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.68.12",
+    "original": "【<dst>】に火強化の効果が与えられた！",
+    "translation": "【<dst>】に火強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.68.13",
+    "original": "【<dst>】の火強化効果が消えた……",
+    "translation": "【<dst>】の火強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.68.14",
+    "original": "火強化",
+    "translation": "火強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.69.8",
+    "original": "氷属性ダメージ+30%",
+    "translation": "氷属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.69.12",
+    "original": "【<dst>】に氷強化の効果が与えられた！",
+    "translation": "【<dst>】に氷強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.69.13",
+    "original": "【<dst>】の氷強化効果が消えた……",
+    "translation": "【<dst>】の氷強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.69.14",
+    "original": "氷強化",
+    "translation": "氷強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.70.8",
+    "original": "風属性ダメージ+30%",
+    "translation": "風属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.70.12",
+    "original": "【<dst>】に風強化の効果が与えられた！",
+    "translation": "【<dst>】に風強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.70.13",
+    "original": "【<dst>】の風強化効果が消えた……",
+    "translation": "【<dst>】の風強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.70.14",
+    "original": "風強化",
+    "translation": "風強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.71.8",
+    "original": "雷属性ダメージ+30%",
+    "translation": "雷属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.71.12",
+    "original": "【<dst>】に雷強化の効果が与えられた！",
+    "translation": "【<dst>】に雷強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.71.13",
+    "original": "【<dst>】の雷強化効果が消えた……",
+    "translation": "【<dst>】の雷強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.71.14",
+    "original": "雷強化",
+    "translation": "雷強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.72.8",
+    "original": "四属性ダメージ+40%",
+    "translation": "四属性ダメージ+40%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.72.12",
+    "original": "【<dst>】に精霊強化の効果が与えられた！",
+    "translation": "【<dst>】に精霊強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.72.13",
+    "original": "【<dst>】の精霊強化効果が消えた……",
+    "translation": "【<dst>】の精霊強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.72.14",
+    "original": "精霊強化",
+    "translation": "精霊強化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.73.8",
+    "original": "聖属性ダメージ+50%",
+    "translation": "聖属性ダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.73.12",
+    "original": "【<dst>】に聖強化の効果が与えられた！",
+    "translation": "【<dst>】に聖強化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.73.13",
+    "original": "【<dst>】の聖強化効果が消えた……",
+    "translation": "【<dst>】の聖強化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.73.14",
+    "original": "破邪の印",
+    "translation": "破邪の印",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.74.8",
+    "original": "聖属性ダメージ+50% + ターンごとにHP自動回復(味方のみ)+10%",
+    "translation": "聖属性ダメージ+50% + ターンごとにHP自動回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.74.12",
+    "original": "【<dst>】に聖域の効果が与えられた！",
+    "translation": "【<dst>】に聖域の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.74.13",
+    "original": "【<dst>】の聖域効果が消えた……",
+    "translation": "【<dst>】の聖域効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.74.14",
+    "original": "聖域",
+    "translation": "聖域",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.75.8",
+    "original": "闇属性ダメージ+50% + ターンごとにMP自動回復(味方のみ)+10%",
+    "translation": "闇属性ダメージ+50% + ターンごとにMP自動回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.75.12",
+    "original": "【<dst>】に魔界化の効果が与えられた！",
+    "translation": "【<dst>】に魔界化の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.75.13",
+    "original": "【<dst>】の魔界化効果が消えた……",
+    "translation": "【<dst>】の魔界化効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.75.14",
+    "original": "魔界化",
+    "translation": "魔界化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.76.8",
+    "original": "単体攻撃以外のダメージ-40%",
+    "translation": "単体攻撃以外のダメージ-40%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.76.12",
+    "original": "【<dst>】に矢逸らしの効果が与えられた！",
+    "translation": "【<dst>】に矢逸らしの効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.76.13",
+    "original": "【<dst>】の矢逸らし効果が消えた……",
+    "translation": "【<dst>】の矢逸らし効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.76.14",
+    "original": "矢逸らし",
+    "translation": "矢逸らし",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.77.8",
+    "original": "単体攻撃以外のダメージ-80%",
+    "translation": "単体攻撃以外のダメージ-80%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.77.12",
+    "original": "【<dst>】にプロテクトの効果が与えられた！",
+    "translation": "【<dst>】にプロテクトの効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.77.13",
+    "original": "【<dst>】のプロテクトが消えた……",
+    "translation": "【<dst>】のプロテクトが消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.77.14",
+    "original": "プロテク",
+    "translation": "プロテク",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.78.8",
+    "original": "沈黙フィールド生成 + 先制攻撃率アップ+60%",
+    "translation": "沈黙フィールド生成 + 先制攻撃率アップ+60%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.78.12",
+    "original": "【<dst>】に沈黙の効果が与えられた！",
+    "translation": "【<dst>】に沈黙の効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.78.13",
+    "original": "【<dst>】の沈黙効果が消えた……",
+    "translation": "【<dst>】の沈黙効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.78.14",
+    "original": "サイレス",
+    "translation": "サイレス",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.79.10",
+    "original": "先制攻撃",
+    "translation": "先制攻撃",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.79.12",
+    "original": "【<dst>】に罠サーチ効果が与えられた！",
+    "translation": "【<dst>】に罠サーチ効果が与えられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.79.13",
+    "original": "【<dst>】の先制攻撃が消えた……",
+    "translation": "【<dst>】の先制攻撃が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.80.13",
+    "original": "【<dst>】の不意打ちが消えた……",
+    "translation": "【<dst>】の不意打ちが消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.80.14",
+    "original": "不意打ち",
+    "translation": "不意打ち",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.81.8",
+    "original": "魔術ダメージ-80%",
+    "translation": "魔術ダメージ-80%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.81.10",
+    "original": "デバフ",
+    "translation": "デバフ",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.81.12",
+    "original": "【<dst>】に術法阻害の効果が与えられた！！",
+    "translation": "【<dst>】に術法阻害の効果が与えられた！！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.81.13",
+    "original": "【<dst>】の術法阻害効果が消えた……",
+    "translation": "【<dst>】の術法阻害効果が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.81.14",
+    "original": "術法阻害",
+    "translation": "術法阻害",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.82.8",
+    "original": "命中精度-50%",
+    "translation": "命中精度-50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.82.12",
+    "original": "【<dst>】は酔っぱらってしまった！",
+    "translation": "【<dst>】は酔っぱらってしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.82.13",
+    "original": "【<dst>】の意識が戻った……",
+    "translation": "【<dst>】の意識が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.82.14",
+    "original": "酩酊",
+    "translation": "酩酊",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.83.12",
+    "original": "【<dst>】の命中率が下がった！",
+    "translation": "【<dst>】の命中率が下がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.83.13",
+    "original": "【<dst>】の命中率が元に戻った……",
+    "translation": "【<dst>】の命中率が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.83.14",
+    "original": "盲目",
+    "translation": "盲目",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.84.8",
+    "original": "物理ダメージ軽減率-30% + クリティカルを受ける確率+30%",
+    "translation": "物理ダメージ軽減率-30% + クリティカルを受ける確率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.84.12",
+    "original": "【<dst>】の身体が凍結した！",
+    "translation": "【<dst>】の身体が凍結した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.84.13",
+    "original": "【<dst>】の凍結から解放された！",
+    "translation": "【<dst>】の凍結から解放された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.84.14",
+    "original": "凍結",
+    "translation": "凍結",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.85.8",
+    "original": "物理ダメージ軽減率+30%",
+    "translation": "物理ダメージ軽減率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.85.12",
+    "original": "【<dst>】は石化の魔術にかけられた！",
+    "translation": "【<dst>】は石化の魔術にかけられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.85.13",
+    "original": "【<dst>】の石化の魔術が消え去った！",
+    "translation": "【<dst>】の石化の魔術が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.85.14",
+    "original": "石化",
+    "translation": "石化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.86.8",
+    "original": "物理ダメージ-50%",
+    "translation": "物理ダメージ-50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.86.12",
+    "original": "【<dst>】はお腹を壊してしまった！",
+    "translation": "【<dst>】はお腹を壊してしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.86.13",
+    "original": "【<dst>】の体調が戻った……",
+    "translation": "【<dst>】の体調が戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.86.14",
+    "original": "腹痛",
+    "translation": "腹痛",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.87.12",
+    "original": "【<dst>】の攻撃力が下がった！",
+    "translation": "【<dst>】の攻撃力が下がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.87.13",
+    "original": "【<dst>】の攻撃力が元に戻った！",
+    "translation": "【<dst>】の攻撃力が元に戻った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.87.14",
+    "original": "虚脱",
+    "translation": "虚脱",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.88.8",
+    "original": "物理ダメージ軽減率-50%",
+    "translation": "物理ダメージ軽減率-50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.88.12",
+    "original": "【<dst>】の防御力が下がった！",
+    "translation": "【<dst>】の防御力が下がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.88.13",
+    "original": "【<dst>】の防御力が元に戻った！",
+    "translation": "【<dst>】の防御力が元に戻った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.88.14",
+    "original": "脆化",
+    "translation": "脆化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.89.8",
+    "original": "クリティカルを受ける確率+30%",
+    "translation": "クリティカルを受ける確率+30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.89.12",
+    "original": "【<dst>】の回避率が下がった！",
+    "translation": "【<dst>】の回避率が下がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.89.13",
+    "original": "【<dst>】の回避率が元に戻った……",
+    "translation": "【<dst>】の回避率が元に戻った……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.89.14",
+    "original": "足縛",
+    "translation": "足縛",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.90.12",
+    "original": "【<dst>】は強い眠気に襲われた！",
+    "translation": "【<dst>】は強い眠気に襲われた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.90.13",
+    "original": "【<dst>】は目が覚めた！",
+    "translation": "【<dst>】は目が覚めた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.90.14",
+    "original": "睡眠",
+    "translation": "睡眠",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.91.12",
+    "original": "【<dst>】は感電した！",
+    "translation": "【<dst>】は感電した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.91.13",
+    "original": "【<dst>】の感電から回復した！",
+    "translation": "【<dst>】の感電から回復した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.91.14",
+    "original": "感電",
+    "translation": "感電",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.92.12",
+    "original": "【<dst>】はスタンした！",
+    "translation": "【<dst>】はスタンした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.92.13",
+    "original": "【<dst>】のスタンが回復した！",
+    "translation": "【<dst>】のスタンが回復した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.92.14",
+    "original": "スタン",
+    "translation": "スタン",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.93.8",
+    "original": "クリティカルを受ける確率+50%",
+    "translation": "クリティカルを受ける確率+50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.93.12",
+    "original": "【<dst>】は罠に引っかかった！",
+    "translation": "【<dst>】は罠に引っかかった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.93.13",
+    "original": "【<dst>】は阻害罠から逃げ出した！",
+    "translation": "【<dst>】は阻害罠から逃げ出した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.93.14",
+    "original": "阻害罠",
+    "translation": "阻害罠",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.94.12",
+    "original": "【<dst>】は不運の魔術にかけられた！",
+    "translation": "【<dst>】は不運の魔術にかけられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.94.13",
+    "original": "【<dst>】から不運が消え去った！",
+    "translation": "【<dst>】から不運が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.94.14",
+    "original": "不運",
+    "translation": "不運",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.95.12",
+    "original": "【<dst>】はバランスを崩した！",
+    "translation": "【<dst>】はバランスを崩した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.95.13",
+    "original": "【<dst>】は体勢を立て直した！",
+    "translation": "【<dst>】は体勢を立て直した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.95.14",
+    "original": "崩し",
+    "translation": "崩し",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.96.12",
+    "original": "【<dst>】は転倒した！",
+    "translation": "【<dst>】は転倒した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.96.13",
+    "original": "【<dst>】は起き上がった！",
+    "translation": "【<dst>】は起き上がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.96.14",
+    "original": "転倒",
+    "translation": "転倒",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.97.12",
+    "original": "【<dst>】は麻痺毒に冒された！",
+    "translation": "【<dst>】は麻痺毒に冒された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.97.13",
+    "original": "【<dst>】の身体から麻痺が消え去った！",
+    "translation": "【<dst>】の身体から麻痺が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.97.14",
+    "original": "麻痺",
+    "translation": "麻痺",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.98.12",
+    "original": "【<dst>】は身体を縛られ、拘束された！",
+    "translation": "【<dst>】は身体を縛られ、拘束された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.98.13",
+    "original": "【<dst>】は解放された！",
+    "translation": "【<dst>】は解放された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.98.14",
+    "original": "束縛",
+    "translation": "束縛",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.99.12",
+    "original": "【<dst>】は押し倒された！",
+    "translation": "【<dst>】は押し倒された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.99.13",
+    "original": "【<dst>】は押し倒しから解放された！",
+    "translation": "【<dst>】は押し倒しから解放された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.99.14",
+    "original": "押倒",
+    "translation": "押倒",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.100.8",
+    "original": "スキルが使用できなくなる",
+    "translation": "スキルが使用できなくなる",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.100.12",
+    "original": "【<dst>】は忘却の魔術にかけられた！",
+    "translation": "【<dst>】は忘却の魔術にかけられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.100.13",
+    "original": "【<dst>】は正気に戻った！",
+    "translation": "【<dst>】は正気に戻った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.100.14",
+    "original": "忘却",
+    "translation": "忘却",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.101.12",
+    "original": "【<dst>】は恐怖状態に陥った！",
+    "translation": "【<dst>】は恐怖状態に陥った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.101.13",
+    "original": "【<dst>】の恐慌状態から復帰した！",
+    "translation": "【<dst>】の恐慌状態から復帰した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.101.14",
+    "original": "恐怖",
+    "translation": "恐怖",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.102.8",
+    "original": "すべての攻撃ダメージ-30%",
+    "translation": "すべての攻撃ダメージ-30%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.102.12",
+    "original": "【<dst>】は不思議な妄想に覆われた！",
+    "translation": "【<dst>】は不思議な妄想に覆われた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.102.13",
+    "original": "【<dst>】の妄想が消え去った！",
+    "translation": "【<dst>】の妄想が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.102.14",
+    "original": "妄想",
+    "translation": "妄想",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.103.12",
+    "original": "【<dst>】は相手に魅了された！",
+    "translation": "【<dst>】は相手に魅了された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.103.13",
+    "original": "【<dst>】はしょうきにもどった！",
+    "translation": "【<dst>】はしょうきにもどった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.103.14",
+    "original": "魅了",
+    "translation": "魅了",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.104.12",
+    "original": "【<dst>】は欲情した！",
+    "translation": "【<dst>】は欲情した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.104.14",
+    "original": "欲情",
+    "translation": "欲情",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.105.12",
+    "original": "【<dst>】は満腹になってしまった！",
+    "translation": "【<dst>】は満腹になってしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.105.14",
+    "original": "満腹",
+    "translation": "満腹",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.106.8",
+    "original": "すべての攻撃ダメージ-50%",
+    "translation": "すべての攻撃ダメージ-50%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.106.12",
+    "original": "【<dst>】は呪縛の魔術にかけられた！",
+    "translation": "【<dst>】は呪縛の魔術にかけられた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.106.13",
+    "original": "【<dst>】の呪縛が消え去った！",
+    "translation": "【<dst>】の呪縛が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.106.14",
+    "original": "呪縛",
+    "translation": "呪縛",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.107.12",
+    "original": "【<dst>】は病魔に冒された！",
+    "translation": "【<dst>】は病魔に冒された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.107.13",
+    "original": "【<dst>】は病魔から回復した！",
+    "translation": "【<dst>】は病魔から回復した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.107.14",
+    "original": "病気",
+    "translation": "病気",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.108.12",
+    "original": "【<dst>】の心が闇に閉ざされた！",
+    "translation": "【<dst>】の心が闇に閉ざされた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.108.13",
+    "original": "【<dst>】の心が闇から解放された！",
+    "translation": "【<dst>】の心が闇から解放された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.108.14",
+    "original": "絶望",
+    "translation": "絶望",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.109.8",
+    "original": "毒によりターンごとにダメージ+10%",
+    "translation": "毒によりターンごとにダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.109.10",
+    "original": "デバフ(ダメ)",
+    "translation": "デバフ(ダメ)",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.109.12",
+    "original": "【<dst>】は毒に冒された！",
+    "translation": "【<dst>】は毒に冒された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.109.13",
+    "original": "【<dst>】の身体から毒が消え去った！",
+    "translation": "【<dst>】の身体から毒が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.109.14",
+    "original": "毒化",
+    "translation": "毒化",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.110.8",
+    "original": "毒によりターンごとにダメージ+20%",
+    "translation": "毒によりターンごとにダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.110.12",
+    "original": "【<dst>】は猛毒に冒された！",
+    "translation": "【<dst>】は猛毒に冒された！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.110.13",
+    "original": "【<dst>】の身体から猛毒が消え去った！",
+    "translation": "【<dst>】の身体から猛毒が消え去った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.110.14",
+    "original": "猛毒",
+    "translation": "猛毒",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.111.8",
+    "original": "炎によりターンごとにダメージ+10%",
+    "translation": "炎によりターンごとにダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.111.12",
+    "original": "【<dst>】の周りが炎上した！",
+    "translation": "【<dst>】の周りが炎上した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.111.13",
+    "original": "【<dst>】の炎上が消えた……",
+    "translation": "【<dst>】の炎上が消えた……",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.111.14",
+    "original": "炎上",
+    "translation": "炎上",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.112.8",
+    "original": "すべての攻撃ダメージ-100%",
+    "translation": "すべての攻撃ダメージ-100%",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.112.12",
+    "original": "【<dst>】は恍惚状態になってしまった！",
+    "translation": "【<dst>】は恍惚状態になってしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.112.14",
+    "original": "恍惚",
+    "translation": "恍惚",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.113.8",
+    "original": "味方が弱体化Lv1 + 敵が強化Lv1",
+    "translation": "味方が弱体化Lv1 + 敵が強化Lv1",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.113.12",
+    "original": "【<dst>】に淫魔の領域が広がった！",
+    "translation": "【<dst>】に淫魔の領域が広がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.113.13",
+    "original": "【<dst>】の淫魔領域が消えた！",
+    "translation": "【<dst>】の淫魔領域が消えた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.113.14",
+    "original": "淫魔領域1",
+    "translation": "淫魔領域1",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.114.8",
+    "original": "味方が弱体化Lv2 + 敵が強化Lv2",
+    "translation": "味方が弱体化Lv2 + 敵が強化Lv2",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.114.14",
+    "original": "淫魔領域2",
+    "translation": "淫魔領域2",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.116.8",
+    "original": "レイズデッド時のHP回復を妨害",
+    "translation": "レイズデッド時のHP回復を妨害",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.116.12",
+    "original": "【<dst>】に復活阻害の領域が広がった！",
+    "translation": "【<dst>】に復活阻害の領域が広がった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.116.13",
+    "original": "【<dst>】の復活阻害領域が消えた！",
+    "translation": "【<dst>】の復活阻害領域が消えた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitStatusChange_11.txt.116.14",
+    "original": "復活阻害",
+    "translation": "復活阻害",
+    "context": null
+  }
+]

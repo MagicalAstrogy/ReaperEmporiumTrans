@@ -1,0 +1,50 @@
+[
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.0.4",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.1.4",
+    "original": "ダンジョンを新規開拓した",
+    "translation": "ダンジョンを新規開拓した",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.2.4",
+    "original": "新しいエネミーを倒した",
+    "translation": "新しいエネミーを倒した",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.3.4",
+    "original": "敵を１ターンキルした",
+    "translation": "敵を１ターンキルした",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.4.4",
+    "original": "ジャイアントキルに成功！",
+    "translation": "ジャイアントキルに成功！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.5.4",
+    "original": "新アイテムを発見した",
+    "translation": "新アイテムを発見した",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.6.4",
+    "original": "敵に負けてしまった……",
+    "translation": "敵に負けてしまった……",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerDungeonResult_11.txt.7.4",
+    "original": "その他の評価点",
+    "translation": "その他の評価点",
+    "context": null
+  }
+]

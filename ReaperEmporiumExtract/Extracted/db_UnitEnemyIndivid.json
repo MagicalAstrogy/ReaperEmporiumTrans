@@ -1,0 +1,2822 @@
+[
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.0.40",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.1.40",
+    "original": "魔の力によって魔獣と化した犬。貪欲な戦意を持ち、敵と見なした人間をどこまでも追跡する。",
+    "translation": "魔の力によって魔獣と化した犬。貪欲な戦意を持ち、敵と見なした人間をどこまでも追跡する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.1.41",
+    "original": "ドッグ",
+    "translation": "ドッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.2.40",
+    "original": "蝙蝠のように見える魔物。戦闘力は低いので冒険者の練習相手にされるが、行動範囲が広く、弱みを見せると危険。",
+    "translation": "蝙蝠のように見える魔物。戦闘力は低いので冒険者の練習相手にされるが、行動範囲が広く、弱みを見せると危険。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.2.41",
+    "original": "コウモリ",
+    "translation": "コウモリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.3.40",
+    "original": "蜘蛛型の昆虫モンスター。ゴブリンよりも恐れられる初心者冒険者の恐怖。ねばつく糸の巣で獲物を絡めとる他、直接糸を吐きかけて身動きを封じる。",
+    "translation": "蜘蛛型の昆虫モンスター。ゴブリンよりも恐れられる初心者冒険者の恐怖。ねばつく糸の巣で獲物を絡めとる他、直接糸を吐きかけて身動きを封じる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.3.41",
+    "original": "スパイダー",
+    "translation": "スパイダー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.5.40",
+    "original": "人間の子供のような体躯を持つ亜人。鈍器を持ち、人の家畜や野菜を強奪していく。単体ならば一般人でも容易に倒せるが、群れると途端に脅威となる。",
+    "translation": "人間の子供のような体躯を持つ亜人。鈍器を持ち、人の家畜や野菜を強奪していく。単体ならば一般人でも容易に倒せるが、群れると途端に脅威となる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.5.41",
+    "original": "ゴブリン",
+    "translation": "ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.6.40",
+    "original": "戦闘経験を積んだゴブリン。数体のゴブリンを伴って現れる事が多い、ゴブリンの前線指揮官。多くのゴブリンに先制攻撃を許す事は、冒険者にとって致命的。",
+    "translation": "戦闘経験を積んだゴブリン。数体のゴブリンを伴って現れる事が多い、ゴブリンの前線指揮官。多くのゴブリンに先制攻撃を許す事は、冒険者にとって致命的。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.6.41",
+    "original": "ゴブリン・エリート",
+    "translation": "ゴブリン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.7.40",
+    "original": "大人の人間より一回り大きな体を持つ、ゴブリンの荒くれ者。ゴブリンの巣穴に招かれ、用心棒のように活動する者もいる。",
+    "translation": "大人の人間より一回り大きな体を持つ、ゴブリンの荒くれ者。ゴブリンの巣穴に招かれ、用心棒のように活動する者もいる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.7.41",
+    "original": "ホブゴブリン",
+    "translation": "ホブゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.8.40",
+    "original": "ゴブリンの群れを統率する宗教家。呪文使いであり、宗教的な儀式を行っていた。ゴブリンの宗教は、その全てが人間を害し、欲望を満たす物。",
+    "translation": "ゴブリンの群れを統率する宗教家。呪文使いであり、宗教的な儀式を行っていた。ゴブリンの宗教は、その全てが人間を害し、欲望を満たす物。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.8.41",
+    "original": "ゴブリンシャーマン",
+    "translation": "ゴブリンシャーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.9.40",
+    "original": "ハチ型の昆虫に見えるモンスター。極めて高い感知力を持つ。一匹あたりは強くないのだが、数が多いため、冒険者を悩ませる。",
+    "translation": "ハチ型の昆虫に見えるモンスター。極めて高い感知力を持つ。一匹あたりは強くないのだが、数が多いため、冒険者を悩ませる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.9.41",
+    "original": "ハチ",
+    "translation": "ハチ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.10.40",
+    "original": "動物の豚のような魔物。貪欲な食欲を持ち、弱った人間と交尾しようとする。強靭な足腰を持つ為、突進には注意。",
+    "translation": "動物の豚のような魔物。貪欲な食欲を持ち、弱った人間と交尾しようとする。強靭な足腰を持つ為、突進には注意。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.10.41",
+    "original": "ブタ",
+    "translation": "ブタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.11.40",
+    "original": "手のひらに収まるサイズの妖精。物理的な力はほぼないが、人間の精神に異常をもたらす力がある。好奇心が強く友好的。淫魔ではないが必要に応じては精を吸う。",
+    "translation": "手のひらに収まるサイズの妖精。物理的な力はほぼないが、人間の精神に異常をもたらす力がある。好奇心が強く友好的。淫魔ではないが必要に応じては精を吸う。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.11.41",
+    "original": "フェアリー",
+    "translation": "フェアリー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.12.40",
+    "original": "イノシシ型のモンスター。野生化したブタの進化体で、更に突進力が高い。その突進力は槍を構えた騎士団の騎馬突撃に匹敵するといわれ、強固な防壁にも穴を空ける。",
+    "translation": "イノシシ型のモンスター。野生化したブタの進化体で、更に突進力が高い。その突進力は槍を構えた騎士団の騎馬突撃に匹敵するといわれ、強固な防壁にも穴を空ける。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.12.41",
+    "original": "ファング",
+    "translation": "ファング",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.13.40",
+    "original": "黒い毛並みを持つ鳥の魔物。行動範囲が広く、自由に空を飛ぶ上、戦闘力もそこそこに高い危険な敵。光り物を集める性質があるようだ。",
+    "translation": "黒い毛並みを持つ鳥の魔物。行動範囲が広く、自由に空を飛ぶ上、戦闘力もそこそこに高い危険な敵。光り物を集める性質があるようだ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.13.41",
+    "original": "カラス",
+    "translation": "カラス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.14.40",
+    "original": "強靭な四肢と鋭い牙を持つモンスター。高い戦闘力を誇る狩人。貪欲な食欲を持ち、冒険者たちを<ruby=むさぼ>貪</ruby>る。",
+    "translation": "強靭な四肢と鋭い牙を持つモンスター。高い戦闘力を誇る狩人。貪欲な食欲を持ち、冒険者たちを<ruby=むさぼ>貪</ruby>る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.14.41",
+    "original": "オオカミ",
+    "translation": "オオカミ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.15.40",
+    "original": "蝶々のようにひらひらと舞う魔物。見ているだけなら美しいのだが。生物に害のある鱗粉をまき散らしてくる。吸い込むと危険だが、用法・用量によっては薬の材料にもなる。",
+    "translation": "蝶々のようにひらひらと舞う魔物。見ているだけなら美しいのだが。生物に害のある鱗粉をまき散らしてくる。吸い込むと危険だが、用法・用量によっては薬の材料にもなる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.15.41",
+    "original": "バタフライ",
+    "translation": "バタフライ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.16.40",
+    "original": "魔力を帯びて動くようになった魔花。人間の身体をむしばむ花粉を飛ばし、苦しめてくる。快楽を求める淫魔がオナニーに使っているらしい。",
+    "translation": "魔力を帯びて動くようになった魔花。人間の身体をむしばむ花粉を飛ばし、苦しめてくる。快楽を求める淫魔がオナニーに使っているらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.16.41",
+    "original": "フラワー",
+    "translation": "フラワー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.17.40",
+    "original": "商人や旅人を襲う盗賊。一般人が武装した程度の戦力しか持たないが、徒党を組むことで気が大きくなっている。不利になると逃げてしまう。",
+    "translation": "商人や旅人を襲う盗賊。一般人が武装した程度の戦力しか持たないが、徒党を組むことで気が大きくなっている。不利になると逃げてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.17.41",
+    "original": "野盗",
+    "translation": "野盗",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.18.40",
+    "original": "生物の身体に寄生する植物型モンスター。身体はひ弱だが、寄生されてしまうと逃られず、精を吸い尽くして自壊し、胞子をばらまく。",
+    "translation": "生物の身体に寄生する植物型モンスター。身体はひ弱だが、寄生されてしまうと逃られず、精を吸い尽くして自壊し、胞子をばらまく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.18.41",
+    "original": "パラサイト",
+    "translation": "パラサイト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.19.40",
+    "original": "植物の淫魔。フェアリーよりも植物に近く、思考も魔物に近い。女性の姿にとまどった新人冒険者を虜にし、精を吸う。自らのテリトリーを持ち、菜園が趣味。",
+    "translation": "植物の淫魔。フェアリーよりも植物に近く、思考も魔物に近い。女性の姿にとまどった新人冒険者を虜にし、精を吸う。自らのテリトリーを持ち、菜園が趣味。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.19.41",
+    "original": "アルラウネ",
+    "translation": "アルラウネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.20.40",
+    "original": "長寿の植物淫魔。高い知恵を持つと言われ、育てている根菜は長寿の元。人々を誘惑し、その精気を養分にしていた。見た目は少女だが、かなり昔から森林道にいたらしい。",
+    "translation": "長寿の植物淫魔。高い知恵を持つと言われ、育てている根菜は長寿の元。人々を誘惑し、その精気を養分にしていた。見た目は少女だが、かなり昔から森林道にいたらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.20.41",
+    "original": "エルダーアルラウネ",
+    "translation": "エルダーアルラウネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.21.40",
+    "original": "魔力を帯びて動くようになった樹。葉が抜け落ちてしまい、養分を求めて人々を襲っていた。フレスミスのような人里近くでは珍しいが、「黒の森」と呼ばれる地方ではそれほど珍しくもない。",
+    "translation": "魔力を帯びて動くようになった樹。葉が抜け落ちてしまい、養分を求めて人々を襲っていた。フレスミスのような人里近くでは珍しいが、「黒の森」と呼ばれる地方ではそれほど珍しくもない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.21.41",
+    "original": "トレント",
+    "translation": "トレント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.22.40",
+    "original": "養分を吸収し、元気になったトレント。生命力に溢れているが、なお貪欲に生命を吸収しようと枝葉を伸ばす。その身を打ち倒すには猛烈な攻撃が必要となる。",
+    "translation": "養分を吸収し、元気になったトレント。生命力に溢れているが、なお貪欲に生命を吸収しようと枝葉を伸ばす。その身を打ち倒すには猛烈な攻撃が必要となる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.22.41",
+    "original": "フルトレント",
+    "translation": "フルトレント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.23.40",
+    "original": "樹の精。森林道を行き交う人々を誘惑し、夫婦生活を営むこともある。しかし虜になった男は、精気を吸われ、森の養分になるまで精を搾られてしまう。",
+    "translation": "樹の精。森林道を行き交う人々を誘惑し、夫婦生活を営むこともある。しかし虜になった男は、精気を吸われ、森の養分になるまで精を搾られてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.23.41",
+    "original": "ドリアード",
+    "translation": "ドリアード",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.24.40",
+    "original": "巨大な体躯と剛腕を誇る、強大な戦闘力を誇る魔獣。圧倒的な戦闘力に対し、生半可な冒険者は相手にならない。通常は人の生活圏内に降りて来る事はない。エルフィードが餌付けしてた。",
+    "translation": "巨大な体躯と剛腕を誇る、強大な戦闘力を誇る魔獣。圧倒的な戦闘力に対し、生半可な冒険者は相手にならない。通常は人の生活圏内に降りて来る事はない。エルフィードが餌付けしてた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.24.41",
+    "original": "クマのようじんぼう",
+    "translation": "クマのようじんぼう",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.25.40",
+    "original": "戦闘に特化したハチ。人間はおろか、大型の獣すら獲物とする昆虫で、仕留めた動物の肉を貪る。相手がメスであれば異種族であろうと、胎内に卵を産み落とす。",
+    "translation": "戦闘に特化したハチ。人間はおろか、大型の獣すら獲物とする昆虫で、仕留めた動物の肉を貪る。相手がメスであれば異種族であろうと、胎内に卵を産み落とす。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.25.41",
+    "original": "ハンターフライ",
+    "translation": "ハンターフライ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.26.40",
+    "original": "洞窟内に住み着いているコウモリ。通常のコウモリよりも暗い環境で育ったためか、全身の感覚が通常よりも発達しているようだ。",
+    "translation": "洞窟内に住み着いているコウモリ。通常のコウモリよりも暗い環境で育ったためか、全身の感覚が通常よりも発達しているようだ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.26.41",
+    "original": "どうくつコウモリ",
+    "translation": "どうくつコウモリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.27.40",
+    "original": "一攫千金を狙う、腕自慢の荒くれ者ども。自分の利益が全てであり、邪魔する者は、たとえ人間であろうと襲い掛かる。",
+    "translation": "一攫千金を狙う、腕自慢の荒くれ者ども。自分の利益が全てであり、邪魔する者は、たとえ人間であろうと襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.27.41",
+    "original": "ごろつき",
+    "translation": "ごろつき",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.28.40",
+    "original": "土中に生息する触手型の虫。獲物の足に絡みつき、動きを止めてから捕食する。身体は耐久力が無いが、多少引きちぎっても再生する、高い生命力を持つ。",
+    "translation": "土中に生息する触手型の虫。獲物の足に絡みつき、動きを止めてから捕食する。身体は耐久力が無いが、多少引きちぎっても再生する、高い生命力を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.28.41",
+    "original": "ワーム",
+    "translation": "ワーム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.29.40",
+    "original": "キラキラとした水晶の形をした魔生物。武器を叩きつければ砕ける。輝く体はキレイなのだが、残念ながら倒すと殆どの部分は消滅してしまう。",
+    "translation": "キラキラとした水晶の形をした魔生物。武器を叩きつければ砕ける。輝く体はキレイなのだが、残念ながら倒すと殆どの部分は消滅してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.29.41",
+    "original": "クリスタラー",
+    "translation": "クリスタラー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.30.40",
+    "original": "天使の輪ともいわれる、硬い鉱物質な体を持った魔生物。まばゆい光を放ち、魅入られた人間を洗脳してしまう。鉱山内で相対し、そのまま魅入られる冒険者や鉱夫が多発した。",
+    "translation": "天使の輪ともいわれる、硬い鉱物質な体を持った魔生物。まばゆい光を放ち、魅入られた人間を洗脳してしまう。鉱山内で相対し、そのまま魅入られる冒険者や鉱夫が多発した。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.30.41",
+    "original": "ハイロウ",
+    "translation": "ハイロウ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.31.40",
+    "original": "巨大な蜘蛛型モンスター。ねばつく糸で身動き取れないところを、猛毒の牙で仕留める。閉所でこの魔物の罠に嵌ってしまうと、ソロの冒険者はほぼ生き残れない。",
+    "translation": "巨大な蜘蛛型モンスター。ねばつく糸で身動き取れないところを、猛毒の牙で仕留める。閉所でこの魔物の罠に嵌ってしまうと、ソロの冒険者はほぼ生き残れない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.31.41",
+    "original": "タランチュラ",
+    "translation": "タランチュラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.32.40",
+    "original": "巨大な獣にすら寄生する植物モンスター。寄生相手の自我を奪い、ある程度は自由に行動することができる。その後は爆発し、大量の胞子を広範囲にばらまく。",
+    "translation": "巨大な獣にすら寄生する植物モンスター。寄生相手の自我を奪い、ある程度は自由に行動することができる。その後は爆発し、大量の胞子を広範囲にばらまく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.32.41",
+    "original": "パラサイトモンスター",
+    "translation": "パラサイトモンスター",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.33.40",
+    "original": "細長い体躯と猛毒を持つヘビ型のモンスター。音も無く獲物に這い寄り、執拗に相手を狙う厄介な敵。大きな個体は、人間の身体など丸呑みにしてしまう。",
+    "translation": "細長い体躯と猛毒を持つヘビ型のモンスター。音も無く獲物に這い寄り、執拗に相手を狙う厄介な敵。大きな個体は、人間の身体など丸呑みにしてしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.33.41",
+    "original": "スネーク",
+    "translation": "スネーク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.34.40",
+    "original": "不定形の軟体生命体。武器攻撃が通用しにくい。動きは鈍いが、獲物を見つけるとどこまでも追いかける。暗闇に潜み、獲物を強襲する。鉱物の魔力が溶けだして生まれた、偶然の魔物。",
+    "translation": "不定形の軟体生命体。武器攻撃が通用しにくい。動きは鈍いが、獲物を見つけるとどこまでも追いかける。暗闇に潜み、獲物を強襲する。鉱物の魔力が溶けだして生まれた、偶然の魔物。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.34.41",
+    "original": "スライム",
+    "translation": "スライム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.35.40",
+    "original": "冒険者たちに恐れられる、巨大な魔獣。非常に高い攻撃力を持っており、手が付けられないほどの腕力を誇る。出現頻度は低いが、恐るべきモンスターである。",
+    "translation": "冒険者たちに恐れられる、巨大な魔獣。非常に高い攻撃力を持っており、手が付けられないほどの腕力を誇る。出現頻度は低いが、恐るべきモンスターである。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.35.41",
+    "original": "デスベアー",
+    "translation": "デスベアー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.36.40",
+    "original": "大きなハサミを備えた昆虫のような魔物。極めて高い感知力を持つ。外皮も硬く獰猛で、冒険者でも手を焼く相手である。人間のメスを抑え込み、胎内に卵を産み付ける事もある。",
+    "translation": "大きなハサミを備えた昆虫のような魔物。極めて高い感知力を持つ。外皮も硬く獰猛で、冒険者でも手を焼く相手である。人間のメスを抑え込み、胎内に卵を産み付ける事もある。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.36.41",
+    "original": "インセクト",
+    "translation": "インセクト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.37.40",
+    "original": "近年になって数が増える強力な変異ゴブリン。通常のゴブリンよりも土っぽい肌色をしている。",
+    "translation": "近年になって数が増える強力な変異ゴブリン。通常のゴブリンよりも土っぽい肌色をしている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.37.41",
+    "original": "ゴブリン・亜種",
+    "translation": "ゴブリン・亜種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.38.40",
+    "original": "通常のホブゴブリンよりも強力な荒くれ者。単体でも冒険者の脅威になり得る、強大なゴブリン。",
+    "translation": "通常のホブゴブリンよりも強力な荒くれ者。単体でも冒険者の脅威になり得る、強大なゴブリン。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.38.41",
+    "original": "ホブゴブリン・エリート",
+    "translation": "ホブゴブリン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.39.40",
+    "original": "ゴブリンの群れを統率する宗教家。呪文使いであり、宗教的な儀式を行っていた。人間を束縛し、苦しむ姿を見るのが、ゴブリンの喜びである。",
+    "translation": "ゴブリンの群れを統率する宗教家。呪文使いであり、宗教的な儀式を行っていた。人間を束縛し、苦しむ姿を見るのが、ゴブリンの喜びである。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.39.41",
+    "original": "ゴブリンシャーマン・エリート",
+    "translation": "ゴブリンシャーマン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.40.40",
+    "original": "ゴブリンの群れを統率する、指導者ゴブリン。この魔物に率いられた群れは残虐性を増し、攻め込まれた村は、家屋はおろか、生存者すらも絶望的。",
+    "translation": "ゴブリンの群れを統率する、指導者ゴブリン。この魔物に率いられた群れは残虐性を増し、攻め込まれた村は、家屋はおろか、生存者すらも絶望的。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.40.41",
+    "original": "ゴブリンロード",
+    "translation": "ゴブリンロード",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.42.40",
+    "original": "各地を冒険し、人々の依頼をこなして糧を得る者たち。ダンジョンの財宝を荒らし回る、マナーがなっていない者たち。",
+    "translation": "各地を冒険し、人々の依頼をこなして糧を得る者たち。ダンジョンの財宝を荒らし回る、マナーがなっていない者たち。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.42.41",
+    "original": "トレジャーハンター",
+    "translation": "トレジャーハンター",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.43.40",
+    "original": "とある地方領主に雇われた戦士たち。元々の気性が荒く、莫大な報酬につられて戦っている。",
+    "translation": "とある地方領主に雇われた戦士たち。元々の気性が荒く、莫大な報酬につられて戦っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.43.41",
+    "original": "雇われ戦士",
+    "translation": "雇われ戦士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.44.40",
+    "original": "地方領主に雇われた私兵。冒険者上がりの為、金のこと以外に興味が無く、相手が人間であっても、武器を振るう。",
+    "translation": "地方領主に雇われた私兵。冒険者上がりの為、金のこと以外に興味が無く、相手が人間であっても、武器を振るう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.44.41",
+    "original": "雇われ兵士",
+    "translation": "雇われ兵士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.45.40",
+    "original": "低級の魔族。魔物としては自我も知能も力も弱いが、夜目が効くため、暗所で相対するのは非常に危険。その肉体能力に目を付けられ、警備の為に利用されている。",
+    "translation": "低級の魔族。魔物としては自我も知能も力も弱いが、夜目が効くため、暗所で相対するのは非常に危険。その肉体能力に目を付けられ、警備の為に利用されている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.45.41",
+    "original": "サーヴァント",
+    "translation": "サーヴァント",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.46.40",
+    "original": "各地で戦いを続けてきた腕利きの傭兵。指揮官としても戦士としても一流の能力を持ち、特に集団戦では無類の強さを誇る。",
+    "translation": "各地で戦いを続けてきた腕利きの傭兵。指揮官としても戦士としても一流の能力を持ち、特に集団戦では無類の強さを誇る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.46.41",
+    "original": "腕利きの傭兵",
+    "translation": "腕利きの傭兵",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.47.40",
+    "original": "怪しげな動物実験に利用された生物たちのなれの果て。その身に何が起こったのかも分からず、食欲のみに突き動かされて行動する。",
+    "translation": "怪しげな動物実験に利用された生物たちのなれの果て。その身に何が起こったのかも分からず、食欲のみに突き動かされて行動する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.47.41",
+    "original": "失敗作",
+    "translation": "失敗作",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.48.40",
+    "original": "邪悪な儀式によって生まれたアンデッド。魔力か生け贄の霊格が足りなかったのか、醜悪な不定形の魔物にされてしまった。",
+    "translation": "邪悪な儀式によって生まれたアンデッド。魔力か生け贄の霊格が足りなかったのか、醜悪な不定形の魔物にされてしまった。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.48.41",
+    "original": "なりそこない",
+    "translation": "なりそこない",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.49.40",
+    "original": "魔族に敗北し、忠誠を誓った人間の裏切り者。魔力で強化された全身鎧に身を包み、鍛え上げた武芸を人類に向けて放つ。",
+    "translation": "魔族に敗北し、忠誠を誓った人間の裏切り者。魔力で強化された全身鎧に身を包み、鍛え上げた武芸を人類に向けて放つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.49.41",
+    "original": "ダークナイト",
+    "translation": "ダークナイト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.50.40",
+    "original": "無数の触手を持つ軟体生物の魔物。本体は動かず、獲物が近づくのをじっと待っている。意外に殺傷力は低く、捕獲が容易。食用としている地域もあるとか。",
+    "translation": "無数の触手を持つ軟体生物の魔物。本体は動かず、獲物が近づくのをじっと待っている。意外に殺傷力は低く、捕獲が容易。食用としている地域もあるとか。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.50.41",
+    "original": "テンタクル",
+    "translation": "テンタクル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.51.40",
+    "original": "小型の昆虫型飛行機械。外敵排除は主な任務では無いが弛緩毒を内蔵しており、多数が組むと非常に強力な戦力となる。暗殺組織が放った偵察機械。",
+    "translation": "小型の昆虫型飛行機械。外敵排除は主な任務では無いが弛緩毒を内蔵しており、多数が組むと非常に強力な戦力となる。暗殺組織が放った偵察機械。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.51.41",
+    "original": "メタルビー",
+    "translation": "メタルビー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.52.40",
+    "original": "夜王やその眷属によって闇の住人になった吸血鬼の少女。吸血することによって、さらに仲間を増やすこともできる。自我を与えられた、夜王の小間使い。たまに強力に出世する個体もいる。",
+    "translation": "夜王やその眷属によって闇の住人になった吸血鬼の少女。吸血することによって、さらに仲間を増やすこともできる。自我を与えられた、夜王の小間使い。たまに強力に出世する個体もいる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.52.41",
+    "original": "ヴァンパイア",
+    "translation": "ヴァンパイア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.53.40",
+    "original": "恨みを持つ存在が死を与える為に差し向けた闇の住人。その対象は定かではないが、闇に生きる彼らの姿を見た人間は、その瞬間に彼らの標的となる。",
+    "translation": "恨みを持つ存在が死を与える為に差し向けた闇の住人。その対象は定かではないが、闇に生きる彼らの姿を見た人間は、その瞬間に彼らの標的となる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.53.41",
+    "original": "アサシン",
+    "translation": "アサシン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.54.40",
+    "original": "領主ゼルカの意思を汲み、闇から実力を行使するゼカリウスの暗部。障害を排除する手段は、非合法かつ冷酷な手段によるもの。",
+    "translation": "領主ゼルカの意思を汲み、闇から実力を行使するゼカリウスの暗部。障害を排除する手段は、非合法かつ冷酷な手段によるもの。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.54.41",
+    "original": "ゼルカ親衛隊",
+    "translation": "ゼルカ親衛隊",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.55.40",
+    "original": "怪しげな呪法によって異形へと変貌した領主ゼルカ。身も心も闇に捕らわれ、本能のままに破壊の力を振るう。",
+    "translation": "怪しげな呪法によって異形へと変貌した領主ゼルカ。身も心も闇に捕らわれ、本能のままに破壊の力を振るう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.55.41",
+    "original": "変異した領主ゼルカ",
+    "translation": "変異した領主ゼルカ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.56.40",
+    "original": "ごろつきのなかでも腕が立つ輩。その戦闘力は正規の軍人にも劣らないとされている。当然、欲望に正直で、上に立つ人間には扱いやすい手駒。",
+    "translation": "ごろつきのなかでも腕が立つ輩。その戦闘力は正規の軍人にも劣らないとされている。当然、欲望に正直で、上に立つ人間には扱いやすい手駒。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.56.41",
+    "original": "ごろつき・エリート",
+    "translation": "ごろつき・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.57.40",
+    "original": "地方領主に雇われた私兵の中でも、統率を任されたリーダー的存在。雇い主への忠誠心が高く、盲目的に命令に従う。",
+    "translation": "地方領主に雇われた私兵の中でも、統率を任されたリーダー的存在。雇い主への忠誠心が高く、盲目的に命令に従う。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.57.41",
+    "original": "ダークソルジャー",
+    "translation": "ダークソルジャー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.58.40",
+    "original": "失意のまま死んでいった人間の骨に魔力が宿り、動きだしたアンデッド。生者に強い憎悪を持ち、襲いかかってくる。",
+    "translation": "失意のまま死んでいった人間の骨に魔力が宿り、動きだしたアンデッド。生者に強い憎悪を持ち、襲いかかってくる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.58.41",
+    "original": "ガイコツ",
+    "translation": "ガイコツ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.59.40",
+    "original": "死んだ人間の身体に魔力が宿り、動き出した魔物。飢えと渇きを満たそうと、生者に対して無差別に襲い掛かる。",
+    "translation": "死んだ人間の身体に魔力が宿り、動き出した魔物。飢えと渇きを満たそうと、生者に対して無差別に襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.59.41",
+    "original": "ゾンビ",
+    "translation": "ゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.60.40",
+    "original": "長い間彷徨い歩いたゾンビの変種。生者への執着は高まり続け、通常のゾンビとは比較にならない攻撃力を持っている。",
+    "translation": "長い間彷徨い歩いたゾンビの変種。生者への執着は高まり続け、通常のゾンビとは比較にならない攻撃力を持っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.60.41",
+    "original": "エルダーゾンビ",
+    "translation": "エルダーゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.61.40",
+    "original": "うち捨てられた淫魔の機械に意思が宿り、精気を求めてさまよいだしたもの。男女問わずに襲い掛かり、自由を奪った上で生命力を吸収していく。",
+    "translation": "うち捨てられた淫魔の機械に意思が宿り、精気を求めてさまよいだしたもの。男女問わずに襲い掛かり、自由を奪った上で生命力を吸収していく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.61.41",
+    "original": "ドレインホール",
+    "translation": "ドレインホール",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.62.40",
+    "original": "現世に実体化した魂の魔物。とらえどころのない体に武器攻撃は通じ辛い。捕まってしまえば生気を吸われ、呪い殺される。手を出さなければ、意外とおとなしい。",
+    "translation": "現世に実体化した魂の魔物。とらえどころのない体に武器攻撃は通じ辛い。捕まってしまえば生気を吸われ、呪い殺される。手を出さなければ、意外とおとなしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.62.41",
+    "original": "ゴースト",
+    "translation": "ゴースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.63.40",
+    "original": "しわしわの猿の手の形をした魔生物。魔族が使役する下級の使い魔だが、人間にも扱うことができる。戦闘力は低いが、どこにでも潜むので奇襲を受けやすい。雑用も得意。",
+    "translation": "しわしわの猿の手の形をした魔生物。魔族が使役する下級の使い魔だが、人間にも扱うことができる。戦闘力は低いが、どこにでも潜むので奇襲を受けやすい。雑用も得意。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.63.41",
+    "original": "ハンド",
+    "translation": "ハンド",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.66.40",
+    "original": "魔術師免許を持っている、一般魔術師。呪文使いとして一人前の魔術師で、後衛から呪文を唱え、攻守に渡りサポートする。",
+    "translation": "魔術師免許を持っている、一般魔術師。呪文使いとして一人前の魔術師で、後衛から呪文を唱え、攻守に渡りサポートする。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.66.41",
+    "original": "雇われマジシャン",
+    "translation": "雇われマジシャン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.67.40",
+    "original": "生物実験の末に廃棄された動物たちのなれの果て。自らを異形の姿へと変えた人間達に恨みを抱き、苛烈な攻撃をしかけてくる。",
+    "translation": "生物実験の末に廃棄された動物たちのなれの果て。自らを異形の姿へと変えた人間達に恨みを抱き、苛烈な攻撃をしかけてくる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.67.41",
+    "original": "狂暴キメラ",
+    "translation": "狂暴キメラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.68.40",
+    "original": "領主の宝を守る為に雇われた、騎士団所属の騎士。通常の兵士とは一線を画す強さを持つが、真に守るべき物は何なのかは、彼にも分かっていなかった。",
+    "translation": "領主の宝を守る為に雇われた、騎士団所属の騎士。通常の兵士とは一線を画す強さを持つが、真に守るべき物は何なのかは、彼にも分かっていなかった。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.68.41",
+    "original": "雇われ騎士",
+    "translation": "雇われ騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.69.40",
+    "original": "魔術師でありながら、前線でも戦える実力を身に着けた魔導騎士。人間を相手にすることを想定し、様々な呪縛呪文で相手を束縛する。",
+    "translation": "魔術師でありながら、前線でも戦える実力を身に着けた魔導騎士。人間を相手にすることを想定し、様々な呪縛呪文で相手を束縛する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.69.41",
+    "original": "マジックウォーリア",
+    "translation": "マジックウォーリア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.70.40",
+    "original": "裏社会の組織に雇われた腕利きの暗殺者。対象を抹殺することのみに特化した技術を持ち、彼らの標的になると非常に危険。",
+    "translation": "裏社会の組織に雇われた腕利きの暗殺者。対象を抹殺することのみに特化した技術を持ち、彼らの標的になると非常に危険。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.70.41",
+    "original": "ダークストーカー",
+    "translation": "ダークストーカー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.71.40",
+    "original": "より凶暴に、より貪欲に変化したゴブリンの変異体。地下でひっそりと進化を続けたこの変異種が、どれだけ世界中に散ったのかを知る者はいない。",
+    "translation": "より凶暴に、より貪欲に変化したゴブリンの変異体。地下でひっそりと進化を続けたこの変異種が、どれだけ世界中に散ったのかを知る者はいない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.71.41",
+    "original": "変異ゴブリン",
+    "translation": "変異ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.73.40",
+    "original": "各地を冒険し宝を得る為、魔導船団に参加した冒険者。魔術師には手に負えない直接的な危険に対応できる。船団内での地位は低い。",
+    "translation": "各地を冒険し宝を得る為、魔導船団に参加した冒険者。魔術師には手に負えない直接的な危険に対応できる。船団内での地位は低い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.73.41",
+    "original": "雇われ冒険者",
+    "translation": "雇われ冒険者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.75.40",
+    "original": "ひらひらと宙を舞うバタフライの亜種。強力な毒の鱗粉を持つ反面、強力な薬効も得られるため、魔術師が実験用として手元に置いている。",
+    "translation": "ひらひらと宙を舞うバタフライの亜種。強力な毒の鱗粉を持つ反面、強力な薬効も得られるため、魔術師が実験用として手元に置いている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.75.41",
+    "original": "ポイズンバタフライ",
+    "translation": "ポイズンバタフライ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.76.40",
+    "original": "魔術によって動く無機物の巨人。生物ではないため、自ら砕けようとも命令を守る。本来は生体ユニットを収めて動くが、代わりに大量の魔力を注ぐことで動かしている。",
+    "translation": "魔術によって動く無機物の巨人。生物ではないため、自ら砕けようとも命令を守る。本来は生体ユニットを収めて動くが、代わりに大量の魔力を注ぐことで動かしている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.76.41",
+    "original": "ゴーレム",
+    "translation": "ゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.77.40",
+    "original": "長く使い魔として使用していた魔生物。魔族の魔力をたくわえており、人間の魔術師が魔術の媒体として利用していた。",
+    "translation": "長く使い魔として使用していた魔生物。魔族の魔力をたくわえており、人間の魔術師が魔術の媒体として利用していた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.77.41",
+    "original": "グローリーハンド",
+    "translation": "グローリーハンド",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.78.40",
+    "original": "完全な魔獣になったブタ。生命力を見込まれ、魔術師に買われたはずだが、世話を投げ出された。狂暴な性格で、人間を見つけると手当たり次第に襲い掛かる。",
+    "translation": "完全な魔獣になったブタ。生命力を見込まれ、魔術師に買われたはずだが、世話を投げ出された。狂暴な性格で、人間を見つけると手当たり次第に襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.78.41",
+    "original": "ブラックミート",
+    "translation": "ブラックミート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.79.40",
+    "original": "カエルのような生態を持ち、水辺の近くに住む魔物。粘性を帯びた肉体を持ち、相手を弄ぶように追い詰める。生命力旺盛で、実験素材にする魔導士もいる。",
+    "translation": "カエルのような生態を持ち、水辺の近くに住む魔物。粘性を帯びた肉体を持ち、相手を弄ぶように追い詰める。生命力旺盛で、実験素材にする魔導士もいる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.79.41",
+    "original": "フロッグ",
+    "translation": "フロッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.80.40",
+    "original": "前衛で戦う強さを身に着けたマジックウォーリアの中でも、場数を踏んだベテラン。仲間を守る事に秀でた能力を持ち、前衛に立つことで、天才への劣等感を克服しようとした。",
+    "translation": "前衛で戦う強さを身に着けたマジックウォーリアの中でも、場数を踏んだベテラン。仲間を守る事に秀でた能力を持ち、前衛に立つことで、天才への劣等感を克服しようとした。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.80.41",
+    "original": "マジックウォーリア・エリート",
+    "translation": "マジックウォーリア・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.81.40",
+    "original": "ソルシア学院でも優秀な、マジシャンのエリート。エリートゆえにプライドが高く、ミルテやカリストのような真の天才にはコンプレックスを持っているようだ。",
+    "translation": "ソルシア学院でも優秀な、マジシャンのエリート。エリートゆえにプライドが高く、ミルテやカリストのような真の天才にはコンプレックスを持っているようだ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.81.41",
+    "original": "マジシャン・エリート",
+    "translation": "マジシャン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.82.40",
+    "original": "魔術師が番犬として飼っている犬。魔術によって意のままに操られているが、単純な命令しか聞かない為、見慣れない人間を手当たり次第に襲ってしまう。",
+    "translation": "魔術師が番犬として飼っている犬。魔術によって意のままに操られているが、単純な命令しか聞かない為、見慣れない人間を手当たり次第に襲ってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.82.41",
+    "original": "魔術師の番犬",
+    "translation": "魔術師の番犬",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.83.40",
+    "original": "ヒエペリオ教会に遣わされた、異端の信徒を裁く審問官。その武力と、疑わしき者は滅ぼすという苛烈さゆえ恐れられ、無実の人間さえもうち滅ぼしてきた。",
+    "translation": "ヒエペリオ教会に遣わされた、異端の信徒を裁く審問官。その武力と、疑わしき者は滅ぼすという苛烈さゆえ恐れられ、無実の人間さえもうち滅ぼしてきた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.83.41",
+    "original": "異端審問の黒将軍",
+    "translation": "異端審問の黒将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.84.40",
+    "original": "ソルシアに雇われた傭兵。魔術師相手の戦闘を想定した戦略と、騎士をも上回る剣技を持ち、相手を選ばない強さを発揮する。",
+    "translation": "ソルシアに雇われた傭兵。魔術師相手の戦闘を想定した戦略と、騎士をも上回る剣技を持ち、相手を選ばない強さを発揮する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.84.41",
+    "original": "ソルシアの用心棒",
+    "translation": "ソルシアの用心棒",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.86.40",
+    "original": "魚に似たモンスターで、水の外にもやってくる。鋭い歯を持っており、小さいながら侮れない。",
+    "translation": "魚に似たモンスターで、水の外にもやってくる。鋭い歯を持っており、小さいながら侮れない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.86.41",
+    "original": "フィッシュ",
+    "translation": "フィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.87.40",
+    "original": "死の異名を持つ触手モンスター。しかし獲物を即死させることは好まず、捕食して体内でゆっくりと溶かす。その性質から、捕獲用途に使用する研究が行われている。",
+    "translation": "死の異名を持つ触手モンスター。しかし獲物を即死させることは好まず、捕食して体内でゆっくりと溶かす。その性質から、捕獲用途に使用する研究が行われている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.87.41",
+    "original": "這い寄る触手",
+    "translation": "這い寄る触手",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.88.40",
+    "original": "大陸各地に存在する聖域に出現するニセ天使。人々の心を混乱させ、悪に誘う。可愛らしい少女の姿をしているが、その心は醜悪で邪悪。",
+    "translation": "大陸各地に存在する聖域に出現するニセ天使。人々の心を混乱させ、悪に誘う。可愛らしい少女の姿をしているが、その心は醜悪で邪悪。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.88.41",
+    "original": "デミエンジェル",
+    "translation": "デミエンジェル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.89.40",
+    "original": "獲物の返り血によって真っ赤に染まったコウモリ。もっとも、赤いのは血ではなく魔力によるもの。通常のコウモリよりも好戦的で、攻撃力が増している。",
+    "translation": "獲物の返り血によって真っ赤に染まったコウモリ。もっとも、赤いのは血ではなく魔力によるもの。通常のコウモリよりも好戦的で、攻撃力が増している。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.89.41",
+    "original": "血塗れコウモリ",
+    "translation": "血塗れコウモリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.90.40",
+    "original": "魔獣化が進んだカラス。単独の攻撃力が高い上に集団で獲物を追い詰める狡猾さを持つ。場数を踏んだ冒険者でも、集団に襲われればひとたまりもない。",
+    "translation": "魔獣化が進んだカラス。単独の攻撃力が高い上に集団で獲物を追い詰める狡猾さを持つ。場数を踏んだ冒険者でも、集団に襲われればひとたまりもない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.90.41",
+    "original": "レッドクロウ",
+    "translation": "レッドクロウ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.91.40",
+    "original": "通常のドッグよりも魔獣化が進んだ魔犬。鋭い牙を付き立てられれば、大型の獣すら倒れる。うち捨てられた建物に潜んで狩りをしたり、素早い動きによって獲物をどこまでも追跡する。",
+    "translation": "通常のドッグよりも魔獣化が進んだ魔犬。鋭い牙を付き立てられれば、大型の獣すら倒れる。うち捨てられた建物に潜んで狩りをしたり、素早い動きによって獲物をどこまでも追跡する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.91.41",
+    "original": "ワイルドドッグ",
+    "translation": "ワイルドドッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.92.40",
+    "original": "生者に底知れない殺意を持つ悪霊に憑りつかれた、人間のなれの果て。実態と霊体の中間存在であり、武器攻撃が通じにくい。出会ってしまえば死が近づく。",
+    "translation": "生者に底知れない殺意を持つ悪霊に憑りつかれた、人間のなれの果て。実態と霊体の中間存在であり、武器攻撃が通じにくい。出会ってしまえば死が近づく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.92.41",
+    "original": "レイス",
+    "translation": "レイス",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.94.40",
+    "original": "巨大な芋虫型の昆虫モンスター。普段は大人しいが、ひとたび食事を始めると、嵐のようにすべてをなぎ倒し、森ごと獲物を捕食する。",
+    "translation": "巨大な芋虫型の昆虫モンスター。普段は大人しいが、ひとたび食事を始めると、嵐のようにすべてをなぎ倒し、森ごと獲物を捕食する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.94.41",
+    "original": "キャタピラー",
+    "translation": "キャタピラー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.95.40",
+    "original": "通常のオオカミよりもさらに魔獣化が進んだ。夜行性で、夜を進む無謀な冒険者を餌食にする。元は野生化した軍用犬と言われ、フリズを始めとした軍事拠点に批判が集まる原因となっている。",
+    "translation": "通常のオオカミよりもさらに魔獣化が進んだ。夜行性で、夜を進む無謀な冒険者を餌食にする。元は野生化した軍用犬と言われ、フリズを始めとした軍事拠点に批判が集まる原因となっている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.95.41",
+    "original": "キラーウルフ",
+    "translation": "キラーウルフ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.96.40",
+    "original": "強力な殺傷力を持つ危険な昆虫。大型の肉食獣にも襲い掛かる獰猛さを持つうえ、相手がメスであれば産卵を行い、自身の繁殖に利用する。",
+    "translation": "強力な殺傷力を持つ危険な昆虫。大型の肉食獣にも襲い掛かる獰猛さを持つうえ、相手がメスであれば産卵を行い、自身の繁殖に利用する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.96.41",
+    "original": "キラーインセクト",
+    "translation": "キラーインセクト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.97.40",
+    "original": "太古の機械人形。人々を守り、外敵から人々の営みを守るはずだったが、長い年月は守るべき人を失くし、敵を排除する事のみに機械を動かした。",
+    "translation": "太古の機械人形。人々を守り、外敵から人々の営みを守るはずだったが、長い年月は守るべき人を失くし、敵を排除する事のみに機械を動かした。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.97.41",
+    "original": "プロトゴーレム",
+    "translation": "プロトゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.98.40",
+    "original": "影が魔物化したもの。純粋な魔力の固まりであり、物質化していないために物理攻撃が効きにくい。魔力による攻撃でなければ干渉できない。",
+    "translation": "影が魔物化したもの。純粋な魔力の固まりであり、物質化していないために物理攻撃が効きにくい。魔力による攻撃でなければ干渉できない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.98.41",
+    "original": "さまよえるたましい",
+    "translation": "さまよえるたましい",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.99.40",
+    "original": "人体に害のある鱗粉をまき散らす、危険きわまりない蝶々。鱗粉の毒素はさらに深さを増しているが、少量の鱗粉で強力な薬効を得られる為、魔女達のお茶会で求められる。",
+    "translation": "人体に害のある鱗粉をまき散らす、危険きわまりない蝶々。鱗粉の毒素はさらに深さを増しているが、少量の鱗粉で強力な薬効を得られる為、魔女達のお茶会で求められる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.99.41",
+    "original": "デンジャラスフライ",
+    "translation": "デンジャラスフライ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.100.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。雷の魔法を得意とし、周囲を稲妻の結界へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。雷の魔法を得意とし、周囲を稲妻の結界へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.100.41",
+    "original": "サンダースピリット",
+    "translation": "サンダースピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.101.40",
+    "original": "北方にて発生した変異種。見た目は最弱のゴブリンに見えるが、その戦闘力は尋常で無いほどに高い。",
+    "translation": "北方にて発生した変異種。見た目は最弱のゴブリンに見えるが、その戦闘力は尋常で無いほどに高い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.101.41",
+    "original": "ゴブリン・北方種",
+    "translation": "ゴブリン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.102.40",
+    "original": "変異したゴブリンの中でも更に凶暴性を増した個体。執拗に急所を狙ってくる。たかがゴブリンと侮った冒険者は、生還する事はできないだろう。",
+    "translation": "変異したゴブリンの中でも更に凶暴性を増した個体。執拗に急所を狙ってくる。たかがゴブリンと侮った冒険者は、生還する事はできないだろう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.102.41",
+    "original": "変異ゴブリン・エリート",
+    "translation": "変異ゴブリン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.103.40",
+    "original": "実体化した魂の魔物。武器攻撃で倒すのは困難な上、通常のゴーストよりも好奇心が増している。一度捕まってしまえば、弄ぶように生気を吸いつくされる。",
+    "translation": "実体化した魂の魔物。武器攻撃で倒すのは困難な上、通常のゴーストよりも好奇心が増している。一度捕まってしまえば、弄ぶように生気を吸いつくされる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.103.41",
+    "original": "ヘルゴースト",
+    "translation": "ヘルゴースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.104.40",
+    "original": "ゴブリンの騎士。人間から身に着けた装備を身に着け、ゴブリンとは思えない技能を持つが、その精神性はゴブリンのままである。",
+    "translation": "ゴブリンの騎士。人間から身に着けた装備を身に着け、ゴブリンとは思えない技能を持つが、その精神性はゴブリンのままである。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.104.41",
+    "original": "ゴブリンパラディン",
+    "translation": "ゴブリンパラディン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.106.40",
+    "original": "海に住む淫魔の亜種。水精と人魚のハーフ的な存在。人間の男を誘惑し、自らも恋に落ちる、人間との恋の殆どは悲恋に終わり、その際に男の精を根こそぎ吸い取ってしまう。水があるところどこにでもいる。",
+    "translation": "海に住む淫魔の亜種。水精と人魚のハーフ的な存在。人間の男を誘惑し、自らも恋に落ちる、人間との恋の殆どは悲恋に終わり、その際に男の精を根こそぎ吸い取ってしまう。水があるところどこにでもいる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.106.41",
+    "original": "ウミディーネ",
+    "translation": "ウミディーネ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.108.40",
+    "original": "魔獣化が進み、体色が暗く変化したスネーク。音も無く獲物に這い寄り、強力な毒で獲物を弱らせながら捕食する。時には大型動物でさえ飲み込んでしまう。森林地帯では最も警戒される魔物。",
+    "translation": "魔獣化が進み、体色が暗く変化したスネーク。音も無く獲物に這い寄り、強力な毒で獲物を弱らせながら捕食する。時には大型動物でさえ飲み込んでしまう。森林地帯では最も警戒される魔物。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.108.41",
+    "original": "ダークスネーク",
+    "translation": "ダークスネーク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.109.40",
+    "original": "海底の土中に生息する触手型の虫。獲物に絡みつき、動きを止めてから捕食する。陸上のワームに比べ生命力が強く、動きも俊敏。",
+    "translation": "海底の土中に生息する触手型の虫。獲物に絡みつき、動きを止めてから捕食する。陸上のワームに比べ生命力が強く、動きも俊敏。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.109.41",
+    "original": "シーワーム",
+    "translation": "シーワーム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.110.40",
+    "original": "水中での生存を可能にしたゴブリンの進化体。水中から集団で襲ってくる、凶暴化したゴブリンが水中にも侵攻可能になり、水中の生命にも脅威となる。",
+    "translation": "水中での生存を可能にしたゴブリンの進化体。水中から集団で襲ってくる、凶暴化したゴブリンが水中にも侵攻可能になり、水中の生命にも脅威となる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.110.41",
+    "original": "シーゴブリン",
+    "translation": "シーゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.111.40",
+    "original": "鋭い牙を持ち、集団で大型動物を狙う凶暴な魚類。旺盛なマーマン族と水の中で格闘しているが、弱っている個体を見つけると、集団で弱者に食いつく。",
+    "translation": "鋭い牙を持ち、集団で大型動物を狙う凶暴な魚類。旺盛なマーマン族と水の中で格闘しているが、弱っている個体を見つけると、集団で弱者に食いつく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.111.41",
+    "original": "バトルフィッシュ",
+    "translation": "バトルフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.112.40",
+    "original": "毒を得たフロッグで、体液に猛毒を持つ。獲物の傷口から毒を与えるいやらしい性格をしており、動けなくなった相手をいたぶりながら捕食する。また、人間のメスと交尾する性質も持つ。",
+    "translation": "毒を得たフロッグで、体液に猛毒を持つ。獲物の傷口から毒を与えるいやらしい性格をしており、動けなくなった相手をいたぶりながら捕食する。また、人間のメスと交尾する性質も持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.112.41",
+    "original": "ポイズンフロッグ",
+    "translation": "ポイズンフロッグ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.113.40",
+    "original": "朽ち果てたフィッシュがアンデッド化した魔物。鋭い牙を持ち、激しい食欲に任せて獣を食う。しかし消化器官がないので食欲が満たされることは無い。",
+    "translation": "朽ち果てたフィッシュがアンデッド化した魔物。鋭い牙を持ち、激しい食欲に任せて獣を食う。しかし消化器官がないので食欲が満たされることは無い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.113.41",
+    "original": "ボーンフィッシュ",
+    "translation": "ボーンフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.114.40",
+    "original": "水中で進化し、陸上での活動も可能になったゴブリン。不気味な笑顔を浮かべたまま、人間に飛び掛かる。",
+    "translation": "水中で進化し、陸上での活動も可能になったゴブリン。不気味な笑顔を浮かべたまま、人間に飛び掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.114.41",
+    "original": "シーゴブリン・エリート",
+    "translation": "シーゴブリン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.115.40",
+    "original": "通常のスライムよりも不純物が多いモンスター。それゆえか燃えにくく、防御能力が大きく向上した難敵。",
+    "translation": "通常のスライムよりも不純物が多いモンスター。それゆえか燃えにくく、防御能力が大きく向上した難敵。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.115.41",
+    "original": "オイルスライム",
+    "translation": "オイルスライム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.116.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。氷の魔法を得意とし、周囲を氷獄の結界へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。氷の魔法を得意とし、周囲を氷獄の結界へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.116.41",
+    "original": "アイススピリット",
+    "translation": "アイススピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.117.40",
+    "original": "鱗の肌と人間の四肢を持つ魚人。手にした武器で人間に襲い掛かる。高い文化レベルを持つが、人間との意思疎通は困難。ゴブリンとも敵対しているらしい。",
+    "translation": "鱗の肌と人間の四肢を持つ魚人。手にした武器で人間に襲い掛かる。高い文化レベルを持つが、人間との意思疎通は困難。ゴブリンとも敵対しているらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.117.41",
+    "original": "マーマン",
+    "translation": "マーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.118.40",
+    "original": "鱗の肌と人間の四肢を持つ魚人の小隊長。通常のマーマンよりも卓越した技を持つが、肉体の強さは通常のマーマンとあまり変わっていないようだ。",
+    "translation": "鱗の肌と人間の四肢を持つ魚人の小隊長。通常のマーマンよりも卓越した技を持つが、肉体の強さは通常のマーマンとあまり変わっていないようだ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.118.41",
+    "original": "マーマンチーフ",
+    "translation": "マーマンチーフ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.119.40",
+    "original": "先陣を切って外敵と戦うマーマン族の特攻隊長。歴戦の猛者らしく、非常に強力な攻撃力と堅牢な守備力を併せ持つ。",
+    "translation": "先陣を切って外敵と戦うマーマン族の特攻隊長。歴戦の猛者らしく、非常に強力な攻撃力と堅牢な守備力を併せ持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.119.41",
+    "original": "マーマンナイト",
+    "translation": "マーマンナイト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.120.40",
+    "original": "甲羅の代わりに強力な攻撃力を持つ砲台を背負った亀の魔物。遠距離から一方的に砲弾を打ち出すこの魔物は、敵集団に存在するだけで脅威。",
+    "translation": "甲羅の代わりに強力な攻撃力を持つ砲台を背負った亀の魔物。遠距離から一方的に砲弾を打ち出すこの魔物は、敵集団に存在するだけで脅威。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.120.41",
+    "original": "チャリオットタートル",
+    "translation": "チャリオットタートル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.121.40",
+    "original": "生け贄をさらい、邪悪な儀式を実行する禁じられた宗教者。人間なのだが、薬物で精神を暴走させており、多少傷つけられた程度では止まらない。",
+    "translation": "生け贄をさらい、邪悪な儀式を実行する禁じられた宗教者。人間なのだが、薬物で精神を暴走させており、多少傷つけられた程度では止まらない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.121.41",
+    "original": "邪教徒",
+    "translation": "邪教徒",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.122.40",
+    "original": "邪教徒の儀式を監督する悪の上級神官。信仰心をねじ曲げられた結果、価値観が逆転しており、通常とは逆転した正義感を持つ。しかし行使する聖なる力まで闇に染まったわけではない。",
+    "translation": "邪教徒の儀式を監督する悪の上級神官。信仰心をねじ曲げられた結果、価値観が逆転しており、通常とは逆転した正義感を持つ。しかし行使する聖なる力まで闇に染まったわけではない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.122.41",
+    "original": "邪教の司祭",
+    "translation": "邪教の司祭",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.123.40",
+    "original": "邪教に傾倒し、欲望のままに行動する戦士。邪教の敵を排除するために行動する。",
+    "translation": "邪教に傾倒し、欲望のままに行動する戦士。邪教の敵を排除するために行動する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.123.41",
+    "original": "ダークファイター",
+    "translation": "ダークファイター",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.124.40",
+    "original": "邪教に魂をささげた悪魔の騎士。邪教の教義により、倫理観はすでに反転してしまっている。しかし訓練された戦闘力は健在で、危険度は魔獣を上回る。",
+    "translation": "邪教に魂をささげた悪魔の騎士。邪教の教義により、倫理観はすでに反転してしまっている。しかし訓練された戦闘力は健在で、危険度は魔獣を上回る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.124.41",
+    "original": "邪教の騎士",
+    "translation": "邪教の騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.126.40",
+    "original": "生け贄をさらい、邪悪な儀式を実行することを使命とする異教徒。絶対に相容れない価値観を持っており、コミュニケーションを取ることはできない。",
+    "translation": "生け贄をさらい、邪悪な儀式を実行することを使命とする異教徒。絶対に相容れない価値観を持っており、コミュニケーションを取ることはできない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.126.41",
+    "original": "邪教徒・エリート",
+    "translation": "邪教徒・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.127.40",
+    "original": "邪教徒の中でも最上位の神官。ねじれた正義感と信仰心により研鑽を積み重ねていった彼らは教会の高僧と比べても力で劣ることはなく、悪に堕ちた正義の力で圧倒する。",
+    "translation": "邪教徒の中でも最上位の神官。ねじれた正義感と信仰心により研鑽を積み重ねていった彼らは教会の高僧と比べても力で劣ることはなく、悪に堕ちた正義の力で圧倒する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.127.41",
+    "original": "邪教の大司祭",
+    "translation": "邪教の大司祭",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.128.40",
+    "original": "邪教の儀式に興味を持ち、魔界から覗きに来た魔族。少女の姿をしているが、上位の魔族であり、実力は本物。面白半分で精を吸うが、男の好みには結構うるさい。",
+    "translation": "邪教の儀式に興味を持ち、魔界から覗きに来た魔族。少女の姿をしているが、上位の魔族であり、実力は本物。面白半分で精を吸うが、男の好みには結構うるさい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.128.41",
+    "original": "ナイトレディ",
+    "translation": "ナイトレディ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.131.40",
+    "original": "邪教の思想に染まり、邪悪な神殿を守護するようになった騎士。優れた肉体と魔術の適性を持ち、暗黒騎士として外敵を打ち払う。",
+    "translation": "邪教の思想に染まり、邪悪な神殿を守護するようになった騎士。優れた肉体と魔術の適性を持ち、暗黒騎士として外敵を打ち払う。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.131.41",
+    "original": "邪教の守護騎士",
+    "translation": "邪教の守護騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.132.40",
+    "original": "邪教徒が飼っている番犬。覚えさせたニオイの持ち主以外は殺傷することを許可されている。独自の調教により、軍用犬並みの戦闘力を持つ。",
+    "translation": "邪教徒が飼っている番犬。覚えさせたニオイの持ち主以外は殺傷することを許可されている。独自の調教により、軍用犬並みの戦闘力を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.132.41",
+    "original": "邪教の番犬",
+    "translation": "邪教の番犬",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.133.40",
+    "original": "邪悪な儀式の犠牲となり、不定形の怪物にされてしまった村人。儀式により、邪教徒を襲うことはなく、自らを助けに来たはずの者達を襲い、食らってしまう。",
+    "translation": "邪悪な儀式の犠牲となり、不定形の怪物にされてしまった村人。儀式により、邪教徒を襲うことはなく、自らを助けに来たはずの者達を襲い、食らってしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.133.41",
+    "original": "上質のなりそこない",
+    "translation": "上質のなりそこない",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.134.40",
+    "original": "牛型の半獣半人。人よりも魔族に近い。人間の豪傑を遙かに超える力を持ち、人間のメスを犯す。本来はそれ単体で一都市を恐怖に陥れる。",
+    "translation": "牛型の半獣半人。人よりも魔族に近い。人間の豪傑を遙かに超える力を持ち、人間のメスを犯す。本来はそれ単体で一都市を恐怖に陥れる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.134.41",
+    "original": "ハーフデビル",
+    "translation": "ハーフデビル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.137.40",
+    "original": "異端者を狩る事のみに執着するあまり、邪教の思想へと傾倒した審問官。自らの信仰よりも、異端者と認定した人間を狩る事に執念を燃やす。",
+    "translation": "異端者を狩る事のみに執着するあまり、邪教の思想へと傾倒した審問官。自らの信仰よりも、異端者と認定した人間を狩る事に執念を燃やす。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.137.41",
+    "original": "堕落した黒将軍",
+    "translation": "堕落した黒将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.138.40",
+    "original": "ゾンビとして蘇った者が、マグマに焼かれながらも、その熱に耐える力を得た。炎を纏った体は接近を許すだけで脅威。しかし焼かれているゾンビは、想像を絶する苦痛に襲われている。",
+    "translation": "ゾンビとして蘇った者が、マグマに焼かれながらも、その熱に耐える力を得た。炎を纏った体は接近を許すだけで脅威。しかし焼かれているゾンビは、想像を絶する苦痛に襲われている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.138.41",
+    "original": "マグマゾンビ",
+    "translation": "マグマゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.139.40",
+    "original": "炎に焼かれて死亡した人間の死体に、邪悪な魂が入り込んだガイコツ。羨望を殺意へと転化され、生者へと襲い掛かる。",
+    "translation": "炎に焼かれて死亡した人間の死体に、邪悪な魂が入り込んだガイコツ。羨望を殺意へと転化され、生者へと襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.139.41",
+    "original": "燃え上がるガイコツ",
+    "translation": "燃え上がるガイコツ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.140.40",
+    "original": "魔術によって動く無機物の巨人。生物ではないため、自ら砕けようとも命令を守る。目的を達成するため、全ての障害を排除しようと襲い掛かる。",
+    "translation": "魔術によって動く無機物の巨人。生物ではないため、自ら砕けようとも命令を守る。目的を達成するため、全ての障害を排除しようと襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.140.41",
+    "original": "オールドゴーレム",
+    "translation": "オールドゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.141.40",
+    "original": "炎を纏ったゴーレム。大地のマグマをその身に取り込み、莫大なエネルギーを得た。炎獄の力をその身に纏い、あらゆる生命に襲い掛かる。",
+    "translation": "炎を纏ったゴーレム。大地のマグマをその身に取り込み、莫大なエネルギーを得た。炎獄の力をその身に纏い、あらゆる生命に襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.141.41",
+    "original": "ファイアゴーレム",
+    "translation": "ファイアゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.142.40",
+    "original": "高熱の中でも活動する、ファングの亜種。その突進力は攻城兵器にも匹敵すると言われるが、熟成された肉はうま味たっぷりで、王都の美食家に愛されている。",
+    "translation": "高熱の中でも活動する、ファングの亜種。その突進力は攻城兵器にも匹敵すると言われるが、熟成された肉はうま味たっぷりで、王都の美食家に愛されている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.142.41",
+    "original": "ファイヤーファング",
+    "translation": "ファイヤーファング",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.144.40",
+    "original": "巨大な昆虫型の魔獣。非常に硬い外皮と強大な生命力、暴力的な食欲を持ち、一度の食事で、山を丸ごと荒れ地に変えてしまう。単体でも非常に脅威となる、土地殺しの怪物。",
+    "translation": "巨大な昆虫型の魔獣。非常に硬い外皮と強大な生命力、暴力的な食欲を持ち、一度の食事で、山を丸ごと荒れ地に変えてしまう。単体でも非常に脅威となる、土地殺しの怪物。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.144.41",
+    "original": "ビッグキャタピラー",
+    "translation": "ビッグキャタピラー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.145.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。炎の魔法を得意とし、周囲を炎熱の結界へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。炎の魔法を得意とし、周囲を炎熱の結界へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.145.41",
+    "original": "フレイムスピリット",
+    "translation": "フレイムスピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.146.40",
+    "original": "数多の戦闘を潜り抜けたマーマン。通常のマーマンよりも戦闘力が上がっており、通常のマーマンと同一に考えると危険。",
+    "translation": "数多の戦闘を潜り抜けたマーマン。通常のマーマンよりも戦闘力が上がっており、通常のマーマンと同一に考えると危険。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.146.41",
+    "original": "歴戦マーマン",
+    "translation": "歴戦マーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.147.40",
+    "original": "マーマン族の兵士を束ねる将軍。最前線でも生き残る生命力と、硬い鱗による堅牢な防御力を持つ為、人間が武器での切り合いをしても有効打を与え辛い。",
+    "translation": "マーマン族の兵士を束ねる将軍。最前線でも生き残る生命力と、硬い鱗による堅牢な防御力を持つ為、人間が武器での切り合いをしても有効打を与え辛い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.147.41",
+    "original": "マーマンジェネラル",
+    "translation": "マーマンジェネラル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.148.40",
+    "original": "火力と堅牢さを増したチャリオットタートルの亜種。堅牢な守備と悪夢の砲撃はまさに要塞。",
+    "translation": "火力と堅牢さを増したチャリオットタートルの亜種。堅牢な守備と悪夢の砲撃はまさに要塞。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.148.41",
+    "original": "要塞タートル",
+    "translation": "要塞タートル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.149.40",
+    "original": "過酷な火山の環境に適応した、炎熱を纏った岩のゴーレム。巨大な体から放たれる、高熱を纏った攻撃は、歴戦の勇者と言えどひとたまりもない。",
+    "translation": "過酷な火山の環境に適応した、炎熱を纏った岩のゴーレム。巨大な体から放たれる、高熱を纏った攻撃は、歴戦の勇者と言えどひとたまりもない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.149.41",
+    "original": "ロックゴーレム",
+    "translation": "ロックゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.150.40",
+    "original": "マグマで構成されたゴーレム。岩をも溶かす凄まじい熱によって、絶えず体が自壊していく。敗北すれば骨すら残さず焼き尽くされてしまうだろう。",
+    "translation": "マグマで構成されたゴーレム。岩をも溶かす凄まじい熱によって、絶えず体が自壊していく。敗北すれば骨すら残さず焼き尽くされてしまうだろう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.150.41",
+    "original": "マグマゴーレム",
+    "translation": "マグマゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.153.40",
+    "original": "強力な呪文使いのゴブリン。強力な炎の呪文を操り、あらゆる生命を苦しめる。ゴブリンと言えど、扱う呪文は強力であり、ゴブリンと侮れば死が近付く。",
+    "translation": "強力な呪文使いのゴブリン。強力な炎の呪文を操り、あらゆる生命を苦しめる。ゴブリンと言えど、扱う呪文は強力であり、ゴブリンと侮れば死が近付く。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.153.41",
+    "original": "ゴブリンシャーマン・亜種",
+    "translation": "ゴブリンシャーマン・亜種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.154.40",
+    "original": "ホブゴブリンよりもさらに巨大な、全てを叩き潰すゴブリンの王者。巨体から繰り出される一撃は、板金鎧に身を包んだ冒険者すら、鎧の上から叩き潰してしまう。",
+    "translation": "ホブゴブリンよりもさらに巨大な、全てを叩き潰すゴブリンの王者。巨体から繰り出される一撃は、板金鎧に身を包んだ冒険者すら、鎧の上から叩き潰してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.154.41",
+    "original": "ゴブリンチャンピオン",
+    "translation": "ゴブリンチャンピオン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.155.40",
+    "original": "各地を巡礼して回っている冒険者。様々な土地を踏破してきた腕利きだが、あまりの過酷な環境に正気を失い、相手が誰であろうと襲い掛かる。",
+    "translation": "各地を巡礼して回っている冒険者。様々な土地を踏破してきた腕利きだが、あまりの過酷な環境に正気を失い、相手が誰であろうと襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.155.41",
+    "original": "狂乱した巡礼者",
+    "translation": "狂乱した巡礼者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.156.40",
+    "original": "高地を縄張りにするカラス。集団で巡礼者に襲い掛かる、狡猾な空の悪魔。巡礼に訪れる神官を、護衛もろとも狩り尽くす、凶悪な戦闘能力を備えている。",
+    "translation": "高地を縄張りにするカラス。集団で巡礼者に襲い掛かる、狡猾な空の悪魔。巡礼に訪れる神官を、護衛もろとも狩り尽くす、凶悪な戦闘能力を備えている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.156.41",
+    "original": "巡礼者を狩る凶鳥",
+    "translation": "巡礼者を狩る凶鳥",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.157.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。聖なる魔法を得意とし、周囲を浄化の結界へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。聖なる魔法を得意とし、周囲を浄化の結界へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.157.41",
+    "original": "ホーリースピリット",
+    "translation": "ホーリースピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.158.40",
+    "original": "聖域に住む聖なる獣。美しい白い毛皮を持つが獰猛で、聖域を荒らす人間を襲い、食い殺す恐ろしいモンスター。ただし、信仰心を持つ巡礼者を襲う事はない。",
+    "translation": "聖域に住む聖なる獣。美しい白い毛皮を持つが獰猛で、聖域を荒らす人間を襲い、食い殺す恐ろしいモンスター。ただし、信仰心を持つ巡礼者を襲う事はない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.158.41",
+    "original": "ホーリービースト",
+    "translation": "ホーリービースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.159.40",
+    "original": "天空に君臨するフェアリー。人の少ない土地で増え続けた彼女たちは、好奇心旺盛で人の精を吸いたがる。そのうえ際限なく仲間を呼ぶため、迂闊に手を出すのは危険。",
+    "translation": "天空に君臨するフェアリー。人の少ない土地で増え続けた彼女たちは、好奇心旺盛で人の精を吸いたがる。そのうえ際限なく仲間を呼ぶため、迂闊に手を出すのは危険。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.159.41",
+    "original": "ハイフェアリー",
+    "translation": "ハイフェアリー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.160.40",
+    "original": "大天使の威を借りるニセ天使。可愛らしく、威光ある姿をしているが、それは仮初め。その本性は悪魔で、人間を堕落させるのが目的の毒婦である。",
+    "translation": "大天使の威を借りるニセ天使。可愛らしく、威光ある姿をしているが、それは仮初め。その本性は悪魔で、人間を堕落させるのが目的の毒婦である。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.160.41",
+    "original": "アークデミンジェル",
+    "translation": "アークデミンジェル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.161.40",
+    "original": "天使の輪とも言われる神の使い。その正体は人間に審判を下す魔生物、そして神の威光を放つ存在。人の心を乱す力があり、弱いものは平伏してしまう。",
+    "translation": "天使の輪とも言われる神の使い。その正体は人間に審判を下す魔生物、そして神の威光を放つ存在。人の心を乱す力があり、弱いものは平伏してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.161.41",
+    "original": "エンゼルハイロウ",
+    "translation": "エンゼルハイロウ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.162.40",
+    "original": "上級魔術師に匹敵する魔術師。過酷な修行を経て強力な魔術を操れるようになった。天才にも至れぬ高みに至ったと喜んだ瞬間、真の天才が目の前に現れる。",
+    "translation": "上級魔術師に匹敵する魔術師。過酷な修行を経て強力な魔術を操れるようになった。天才にも至れぬ高みに至ったと喜んだ瞬間、真の天才が目の前に現れる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.162.41",
+    "original": "アークマジシャン",
+    "translation": "アークマジシャン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.163.40",
+    "original": "キラキラとした宝石のような魔生物。倒しても宝石のような身体は残る。しかし凶暴な性格で、鋭利な肉体と魔光を放ち、欲深い冒険者を幾人も返り討ちにしてきた。",
+    "translation": "キラキラとした宝石のような魔生物。倒しても宝石のような身体は残る。しかし凶暴な性格で、鋭利な肉体と魔光を放ち、欲深い冒険者を幾人も返り討ちにしてきた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.163.41",
+    "original": "ジュエルストーン",
+    "translation": "ジュエルストーン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.164.40",
+    "original": "人間の精神を惑わす魔花。幻惑されている間は、美しい女性のように見えるらしく、ホイホイ近づいた者をからめとり、体内で消化してしまう。",
+    "translation": "人間の精神を惑わす魔花。幻惑されている間は、美しい女性のように見えるらしく、ホイホイ近づいた者をからめとり、体内で消化してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.164.41",
+    "original": "ゆうわくフラワー",
+    "translation": "ゆうわくフラワー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.165.40",
+    "original": "地上に顕現した神の使い。堕天した天魔や偽の天使でもない、ヒエペリオの教義を体現した天の使い。あらゆる攻撃が効きにくい身体は、神の威光を体現する。",
+    "translation": "地上に顕現した神の使い。堕天した天魔や偽の天使でもない、ヒエペリオの教義を体現した天の使い。あらゆる攻撃が効きにくい身体は、神の威光を体現する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.165.41",
+    "original": "エンジェル",
+    "translation": "エンジェル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.166.40",
+    "original": "天界の戦乙女。本来は冥界に行くはずの勇者の魂をハントし、天界に捧げる役割を担う。彼女らと恋に落ちることは死を意味する。なのに惚れやすい。",
+    "translation": "天界の戦乙女。本来は冥界に行くはずの勇者の魂をハントし、天界に捧げる役割を担う。彼女らと恋に落ちることは死を意味する。なのに惚れやすい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.166.41",
+    "original": "ヴァルキリー",
+    "translation": "ヴァルキリー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.167.40",
+    "original": "齢を重ねて魔力を高めたホーリービースト。聖域の守護者の貫禄を持っており、高い知恵を持つ者もいる。原始的な攻撃魔術も扱い、盗賊から聖地を守る。",
+    "translation": "齢を重ねて魔力を高めたホーリービースト。聖域の守護者の貫禄を持っており、高い知恵を持つ者もいる。原始的な攻撃魔術も扱い、盗賊から聖地を守る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.167.41",
+    "original": "セイントビースト",
+    "translation": "セイントビースト",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.168.40",
+    "original": "強力な聖遺物や装備で武装したゴブリンの騎士。単純な鈍器での殴打以外にも、戦闘者としての技量を身に着けている。",
+    "translation": "強力な聖遺物や装備で武装したゴブリンの騎士。単純な鈍器での殴打以外にも、戦闘者としての技量を身に着けている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.168.41",
+    "original": "ゴブリンパラディン・エリート",
+    "translation": "ゴブリンパラディン・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.169.40",
+    "original": "黄金色の伝説の聖騎士。黄金色の鎧はあらゆる邪悪な力を回避しそうな力を感じ、神々しい力がオーラになって見えそうになって高確率で強い。",
+    "translation": "黄金色の伝説の聖騎士。黄金色の鎧はあらゆる邪悪な力を回避しそうな力を感じ、神々しい力がオーラになって見えそうになって高確率で強い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.169.41",
+    "original": "黄金の鉄の聖騎士",
+    "translation": "黄金の鉄の聖騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.171.40",
+    "original": "地上を救う者であるか、裁定を下すために顕現した。特別な地位にある大天使であり、本物の神の使い。人類に対して絶対的な強権を持っており、ときに人間を国ごと粛正する非情さも併せ持つ。",
+    "translation": "地上を救う者であるか、裁定を下すために顕現した。特別な地位にある大天使であり、本物の神の使い。人類に対して絶対的な強権を持っており、ときに人間を国ごと粛正する非情さも併せ持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.171.41",
+    "original": "アークエンジェル",
+    "translation": "アークエンジェル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.172.40",
+    "original": "魔の力が色濃く出ており、漆黒に染まった骸骨。強い未練を持ったまま彷徨い続け、生きた人間を殺して、その身体を乗っ取ろうと襲いかかる。",
+    "translation": "魔の力が色濃く出ており、漆黒に染まった骸骨。強い未練を持ったまま彷徨い続け、生きた人間を殺して、その身体を乗っ取ろうと襲いかかる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.172.41",
+    "original": "ブラックボーン",
+    "translation": "ブラックボーン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.173.40",
+    "original": "強力な力を持った影。物理的な害は及ぼさないが、並の人間がこれに触れると発狂してしまう。",
+    "translation": "強力な力を持った影。物理的な害は及ぼさないが、並の人間がこれに触れると発狂してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.173.41",
+    "original": "ダークシャドウ",
+    "translation": "ダークシャドウ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.174.40",
+    "original": "巨大な目で外部情報を蓄積するスパイダーのような機械。小型で様々な場所に入り込む性質から、情報を収集するために都合が良く、密かに軍事利用しようと世界中が狙っているらしい。",
+    "translation": "巨大な目で外部情報を蓄積するスパイダーのような機械。小型で様々な場所に入り込む性質から、情報を収集するために都合が良く、密かに軍事利用しようと世界中が狙っているらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.174.41",
+    "original": "マシンアイ",
+    "translation": "マシンアイ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.175.40",
+    "original": "魔神を顕現させる儀式により生まれた悪霊。自らを呼び出した者を殺した後、遺跡の奥底に封印され、彷徨い続けていた。",
+    "translation": "魔神を顕現させる儀式により生まれた悪霊。自らを呼び出した者を殺した後、遺跡の奥底に封印され、彷徨い続けていた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.175.41",
+    "original": "おぞましき肉塊",
+    "translation": "おぞましき肉塊",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.176.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。風の魔法を得意とし、周囲を狂嵐の結界へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。風の魔法を得意とし、周囲を狂嵐の結界へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.176.41",
+    "original": "ウィンドスピリット",
+    "translation": "ウィンドスピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.177.40",
+    "original": "機械化された鋼鉄の狩人。失われたテクノロジーで動いており、どういう仕組みで動作しているのかは、この世界の人間には理解できない。危険な殺人兵器。",
+    "translation": "機械化された鋼鉄の狩人。失われたテクノロジーで動いており、どういう仕組みで動作しているのかは、この世界の人間には理解できない。危険な殺人兵器。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.177.41",
+    "original": "メタルハンター",
+    "translation": "メタルハンター",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.178.40",
+    "original": "小型の殺人飛行機械。偵察を主とした下位種と違い、外敵の排除が主な任務。力は弱いが無音で飛行し、死角から集団で襲ってくる。",
+    "translation": "小型の殺人飛行機械。偵察を主とした下位種と違い、外敵の排除が主な任務。力は弱いが無音で飛行し、死角から集団で襲ってくる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.178.41",
+    "original": "キラーメタルビー",
+    "translation": "キラーメタルビー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.179.40",
+    "original": "生物を石化させる毒を持つ魔物。魔獣の中でも強力な怪物であり、さらに好戦的。相手にするにはベテランの冒険者の一党でも、犠牲を覚悟しなくてはならないだろう。",
+    "translation": "生物を石化させる毒を持つ魔物。魔獣の中でも強力な怪物であり、さらに好戦的。相手にするにはベテランの冒険者の一党でも、犠牲を覚悟しなくてはならないだろう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.179.41",
+    "original": "バジリスク",
+    "translation": "バジリスク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.180.40",
+    "original": "鋼鉄のボディを持つゴーレム。通常のゴーレムよりも、生命体を殺傷する能力に長けている。",
+    "translation": "鋼鉄のボディを持つゴーレム。通常のゴーレムよりも、生命体を殺傷する能力に長けている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.180.41",
+    "original": "アイアンゴーレム",
+    "translation": "アイアンゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.181.40",
+    "original": "鋼鉄の鎧に身を包み、強靱なボディを持つ太古のゴーレム。殺人のみを追求した性能を発揮し、侵入者を確実に抹殺する。",
+    "translation": "鋼鉄の鎧に身を包み、強靱なボディを持つ太古のゴーレム。殺人のみを追求した性能を発揮し、侵入者を確実に抹殺する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.181.41",
+    "original": "ロストガーディアン",
+    "translation": "ロストガーディアン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.183.40",
+    "original": "北方にて発生した変異種。深部を探索するホブゴブリン。注意力散漫で大雑把だが、その一撃は通常のホブよりも強力。",
+    "translation": "北方にて発生した変異種。深部を探索するホブゴブリン。注意力散漫で大雑把だが、その一撃は通常のホブよりも強力。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.183.41",
+    "original": "ホブゴブリン・北方種",
+    "translation": "ホブゴブリン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.184.40",
+    "original": "北方にて発生した変異種。異形の変異ゴブリン。変異ゴブリンの中でも感覚が鋭く、隙を見せると場数を踏んだ冒険者でも危険。",
+    "translation": "北方にて発生した変異種。異形の変異ゴブリン。変異ゴブリンの中でも感覚が鋭く、隙を見せると場数を踏んだ冒険者でも危険。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.184.41",
+    "original": "変異ゴブリン・北方種",
+    "translation": "変異ゴブリン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.185.40",
+    "original": "悪魔の縄とも言われる強靱なワーム。絡みとられたが最後、人はおろか、強力な魔獣であろうと、身動きすることができなくなると言われる。",
+    "translation": "悪魔の縄とも言われる強靱なワーム。絡みとられたが最後、人はおろか、強力な魔獣であろうと、身動きすることができなくなると言われる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.185.41",
+    "original": "デビルワーム",
+    "translation": "デビルワーム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.186.40",
+    "original": "燃え盛る岩石で肉体を構成されたマグマゴーレム。体を構成するマグマの温度が低かったせいか、自壊せずに燃え上がったまま活動している。存在自体が一つの災厄である。",
+    "translation": "燃え盛る岩石で肉体を構成されたマグマゴーレム。体を構成するマグマの温度が低かったせいか、自壊せずに燃え上がったまま活動している。存在自体が一つの災厄である。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.186.41",
+    "original": "燃え盛る岩石巨人",
+    "translation": "燃え盛る岩石巨人",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.188.40",
+    "original": "年経たために皮膚の色が変わったバジリスク。毒素と鱗の強度が増しており、ますます危険度を高めている。性格もあいかわらず凶暴。",
+    "translation": "年経たために皮膚の色が変わったバジリスク。毒素と鱗の強度が増しており、ますます危険度を高めている。性格もあいかわらず凶暴。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.188.41",
+    "original": "エルダーバジリスク",
+    "translation": "エルダーバジリスク",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.190.40",
+    "original": "牛型の半獣半人。ハーフデビルよりもさらに魔族に近い。獣と魔族の特性を両方備えており、生半可な冒険者は太刀打ちできず、貪欲にメスを犯す。",
+    "translation": "牛型の半獣半人。ハーフデビルよりもさらに魔族に近い。獣と魔族の特性を両方備えており、生半可な冒険者は太刀打ちできず、貪欲にメスを犯す。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.190.41",
+    "original": "ハーフデーモン",
+    "translation": "ハーフデーモン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.191.40",
+    "original": "土着の精霊が災厄の魔力に当てられ、悪霊と成り果てた。支配地に踏み入る人間の魂や精気を奪い、災厄の主へと届ける役目を持つ。物理攻撃が効きにくい。",
+    "translation": "土着の精霊が災厄の魔力に当てられ、悪霊と成り果てた。支配地に踏み入る人間の魂や精気を奪い、災厄の主へと届ける役目を持つ。物理攻撃が効きにくい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.191.41",
+    "original": "ダークソウル",
+    "translation": "ダークソウル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.193.40",
+    "original": "道化の姿をした殺人機械。主に魔族に使役され、冒険者を混乱させることを好む。直接人を害するよりも、苦しませる事を目的とし、身のこなしが素早く攻撃を避けるのが得意。",
+    "translation": "道化の姿をした殺人機械。主に魔族に使役され、冒険者を混乱させることを好む。直接人を害するよりも、苦しませる事を目的とし、身のこなしが素早く攻撃を避けるのが得意。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.193.41",
+    "original": "マーダーパペット",
+    "translation": "マーダーパペット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.194.40",
+    "original": "巨大な目で外部情報を蓄積する機械に、邪悪な魔力が注ぎ込まれた者。その瞳は石化の邪眼と化し、目を合わせた冒険者を石の像と化してしまう。",
+    "translation": "巨大な目で外部情報を蓄積する機械に、邪悪な魔力が注ぎ込まれた者。その瞳は石化の邪眼と化し、目を合わせた冒険者を石の像と化してしまう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.194.41",
+    "original": "メデューサアイ",
+    "translation": "メデューサアイ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.195.40",
+    "original": "殺戮のみを求めた技術の結晶。機械的な意思を持ち、生物を抹殺し、制圧する。鋼鉄の体を持つにも関わらず俊敏で、この機械が通った先は、無人の荒野へと変貌する。",
+    "translation": "殺戮のみを求めた技術の結晶。機械的な意思を持ち、生物を抹殺し、制圧する。鋼鉄の体を持つにも関わらず俊敏で、この機械が通った先は、無人の荒野へと変貌する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.195.41",
+    "original": "ゼカリウスガーダー",
+    "translation": "ゼカリウスガーダー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.196.40",
+    "original": "要塞と化した海上都市でゴブリンと人間の戦いを監視している蜘蛛型マシン。小型で素早いため武器が当て辛く、その身に備えた火器は人間への殺傷力に優れた、凶悪兵器。",
+    "translation": "要塞と化した海上都市でゴブリンと人間の戦いを監視している蜘蛛型マシン。小型で素早いため武器が当て辛く、その身に備えた火器は人間への殺傷力に優れた、凶悪兵器。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.196.41",
+    "original": "メタルスパイダー",
+    "translation": "メタルスパイダー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.197.40",
+    "original": "世界に生まれた勇者を抹殺するために開発されたロボット。魔術や武器に対して強力な防御力を持っており、攻撃力も高い。ゴブリン達が発掘してしまった為、最悪の敵となった。",
+    "translation": "世界に生まれた勇者を抹殺するために開発されたロボット。魔術や武器に対して強力な防御力を持っており、攻撃力も高い。ゴブリン達が発掘してしまった為、最悪の敵となった。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.197.41",
+    "original": "キラーマシーン",
+    "translation": "キラーマシーン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.198.40",
+    "original": "闇を這いずるうちに力を得たサーヴァント、主の命令はほとんど頭になく、本能に従い獲物に襲いかかる。",
+    "translation": "闇を這いずるうちに力を得たサーヴァント、主の命令はほとんど頭になく、本能に従い獲物に襲いかかる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.198.41",
+    "original": "サーヴァント・エリート",
+    "translation": "サーヴァント・エリート",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.199.40",
+    "original": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。闇の魔法を得意とし、周囲を魔空間へと引きずり込む。",
+    "translation": "燃える頭蓋骨の姿を模した精霊。規則的に生者の周りを飛び回り、嘲笑うように生命力を奪っていく。闇の魔法を得意とし、周囲を魔空間へと引きずり込む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.199.41",
+    "original": "ダークスピリット",
+    "translation": "ダークスピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.200.40",
+    "original": "北方にて発生した変異種。ゴブリン達の王。ゴブリンという種を束ねる実質的な支配者で、自らの眷属によって他種族を滅ぼそうと目論む。",
+    "translation": "北方にて発生した変異種。ゴブリン達の王。ゴブリンという種を束ねる実質的な支配者で、自らの眷属によって他種族を滅ぼそうと目論む。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.200.41",
+    "original": "ゴブリンロード・北方種",
+    "translation": "ゴブリンロード・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.201.40",
+    "original": "北方にて発生した変異種。経験を積んだ魔術使いのゴブリン。人間を意のままに操る呪文を、悪意を撒き散らすためだけに使用する、魔術組織にとっては存在そのものが不倶戴天の怨敵。",
+    "translation": "北方にて発生した変異種。経験を積んだ魔術使いのゴブリン。人間を意のままに操る呪文を、悪意を撒き散らすためだけに使用する、魔術組織にとっては存在そのものが不倶戴天の怨敵。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.201.41",
+    "original": "ゴブリンシャーマン・北方種",
+    "translation": "ゴブリンシャーマン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.202.40",
+    "original": "北方で発生した変異種。聖なる装備で身を固めたゴブリンの騎士。祝福を受けた装備の数々は、ゴブリンが制作したものではなく、打ち取られた人間から奪い取った、悲劇の末の産物。",
+    "translation": "北方で発生した変異種。聖なる装備で身を固めたゴブリンの騎士。祝福を受けた装備の数々は、ゴブリンが制作したものではなく、打ち取られた人間から奪い取った、悲劇の末の産物。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.202.41",
+    "original": "ゴブリンパラディン・北方種",
+    "translation": "ゴブリンパラディン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.203.40",
+    "original": "北方にて発生した変異種。強靭な体躯と絶大な怪力を持ち合わせた狂戦士。狂ったように破壊を繰り返しながらも、戦闘になると氷のような冷静さを持ち挑んでくる。",
+    "translation": "北方にて発生した変異種。強靭な体躯と絶大な怪力を持ち合わせた狂戦士。狂ったように破壊を繰り返しながらも、戦闘になると氷のような冷静さを持ち挑んでくる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.203.41",
+    "original": "ゴブリンチャンピオン・北方種",
+    "translation": "ゴブリンチャンピオン・北方種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.204.40",
+    "original": "ゼルカに心酔し、最後まで命運を共にすると誓った者たち。その精神は悪としても、忠誠心は本物である。ゼルカ同様に強大な神霊力を得ており、人間離れした能力を持つ。",
+    "translation": "ゼルカに心酔し、最後まで命運を共にすると誓った者たち。その精神は悪としても、忠誠心は本物である。ゼルカ同様に強大な神霊力を得ており、人間離れした能力を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.204.41",
+    "original": "ゼルカ特別親衛隊",
+    "translation": "ゼルカ特別親衛隊",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.220.40",
+    "original": "死都ルーメ・ルーデスに残った最後の神。彼が見出した一つの魂。それはまさしく種を導く覇王。しかしそれは人を滅ぼし、新たな種が成り代わるものだとしても、彼らにとっての神は見放すことはできない。",
+    "translation": "死都ルーメ・ルーデスに残った最後の神。彼が見出した一つの魂。それはまさしく種を導く覇王。しかしそれは人を滅ぼし、新たな種が成り代わるものだとしても、彼らにとっての神は見放すことはできない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.220.41",
+    "original": "死都を見届ける者",
+    "translation": "死都を見届ける者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.221.40",
+    "original": "死都にて幾度となく世代交代を繰り返し、地上よりも遙かな高みに進化したゴブリン。残虐性と繁殖力はそのままに、地上に現れるゴブリンとは明らかに違う戦闘能力を持っている。",
+    "translation": "死都にて幾度となく世代交代を繰り返し、地上よりも遙かな高みに進化したゴブリン。残虐性と繁殖力はそのままに、地上に現れるゴブリンとは明らかに違う戦闘能力を持っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.221.41",
+    "original": "死都のゴブリン",
+    "translation": "死都のゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.222.40",
+    "original": "冥界を闊歩するゴブリンの荒くれ者。死者の魂を蹂躙するこのゴブリンは、あらゆる次元における厄介者。",
+    "translation": "冥界を闊歩するゴブリンの荒くれ者。死者の魂を蹂躙するこのゴブリンは、あらゆる次元における厄介者。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.222.41",
+    "original": "死都のホブゴブリン",
+    "translation": "死都のホブゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.223.40",
+    "original": "死都を徘徊するシーゴブリンの亜種。ゴブリンとは考えられないほどの俊敏性を持ち、死者と生者の区別なく襲い掛かる。",
+    "translation": "死都を徘徊するシーゴブリンの亜種。ゴブリンとは考えられないほどの俊敏性を持ち、死者と生者の区別なく襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.223.41",
+    "original": "死都のシーゴブリン",
+    "translation": "死都のシーゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.224.40",
+    "original": "死都で発生した、軍略を駆使する異端のゴブリン戦略家。しかしその凶暴性は他のゴブリンよりも強く、戦闘能力も他の個体に勝るとも劣らない。",
+    "translation": "死都で発生した、軍略を駆使する異端のゴブリン戦略家。しかしその凶暴性は他のゴブリンよりも強く、戦闘能力も他の個体に勝るとも劣らない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.224.41",
+    "original": "死都の変異ゴブリン",
+    "translation": "死都の変異ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.225.40",
+    "original": "死都に蔓延るゴブリン達を統率する指揮官。戦闘・略奪を行うゴブリンの全てはこの魔物の指揮で動いているが、自身も何者かの意思によって動いているようだ。",
+    "translation": "死都に蔓延るゴブリン達を統率する指揮官。戦闘・略奪を行うゴブリンの全てはこの魔物の指揮で動いているが、自身も何者かの意思によって動いているようだ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.225.41",
+    "original": "死都のゴブリンロード",
+    "translation": "死都のゴブリンロード",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.226.40",
+    "original": "死者の霊魂を操るゴブリンシャーマン。死都に至った事で絶大な魔術を行使する。死者の眠りを妨げ冒涜する。",
+    "translation": "死者の霊魂を操るゴブリンシャーマン。死都に至った事で絶大な魔術を行使する。死者の眠りを妨げ冒涜する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.226.41",
+    "original": "死都のゴブリンシャーマン",
+    "translation": "死都のゴブリンシャーマン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.227.40",
+    "original": "軍団の先頭に立つ歴戦のゴブリン。大規模な隊を指揮する身でありながら、先頭に立って戦場を駆ける。しかしその振る舞いは災禍の渦そのものであり、全てを略奪していく。",
+    "translation": "軍団の先頭に立つ歴戦のゴブリン。大規模な隊を指揮する身でありながら、先頭に立って戦場を駆ける。しかしその振る舞いは災禍の渦そのものであり、全てを略奪していく。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.227.41",
+    "original": "死都のゴブリンパラディン",
+    "translation": "死都のゴブリンパラディン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.228.40",
+    "original": "死都を蹂躙するほどの巨体に成長した、ゴブリンの英雄。あらゆる敵を叩き潰す圧倒的な戦闘力を持ち、死都を混沌に叩き落とした。",
+    "translation": "死都を蹂躙するほどの巨体に成長した、ゴブリンの英雄。あらゆる敵を叩き潰す圧倒的な戦闘力を持ち、死都を混沌に叩き落とした。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.228.41",
+    "original": "死都のゴブリンチャンピオン",
+    "translation": "死都のゴブリンチャンピオン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.232.40",
+    "original": "ゼカリウスの秘奥を解き明かした領主。人間の領域を超え、魔神に等しい能力を得ている。魔界と接続したことによって本来使えないはずの強大な攻撃魔術を操る。",
+    "translation": "ゼカリウスの秘奥を解き明かした領主。人間の領域を超え、魔神に等しい能力を得ている。魔界と接続したことによって本来使えないはずの強大な攻撃魔術を操る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.232.41",
+    "original": "狂王ゼルカ",
+    "translation": "狂王ゼルカ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.233.40",
+    "original": "ゴブリンの神によって召喚された最初のゴブリンと、月の世界樹が融合されたもの。神に等しい力を振るい、その力は全てゴブリンの生産に使われていた。100年間に繁殖したゴブリンの数は兆を超える。",
+    "translation": "ゴブリンの神によって召喚された最初のゴブリンと、月の世界樹が融合されたもの。神に等しい力を振るい、その力は全てゴブリンの生産に使われていた。100年間に繁殖したゴブリンの数は兆を超える。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.233.41",
+    "original": "ゴブリンコア",
+    "translation": "ゴブリンコア",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.235.40",
+    "original": "北方に住む巨大な人型魔獣。本来は温厚な性格をしているが、テリトリーを侵された場合は激しく抵抗し、暴れ回る。分厚い毛皮を通常の武器で切り裂くのは非常に難しい。",
+    "translation": "北方に住む巨大な人型魔獣。本来は温厚な性格をしているが、テリトリーを侵された場合は激しく抵抗し、暴れ回る。分厚い毛皮を通常の武器で切り裂くのは非常に難しい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.235.41",
+    "original": "イエティ",
+    "translation": "イエティ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.251.40",
+    "original": "マミーの中でもさらに強力な死人。生前は歴戦の勇士であり、古代の王に死してなお仕えるために、自ら守護者の術を受けて死人となった。",
+    "translation": "マミーの中でもさらに強力な死人。生前は歴戦の勇士であり、古代の王に死してなお仕えるために、自ら守護者の術を受けて死人となった。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.251.41",
+    "original": "守護者",
+    "translation": "守護者",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.252.40",
+    "original": "『運命改変』により、『勇者』になるべき少年の因果を受けた女勇者。もともとは突っ走りがちな少女剣士で非常に乱暴者として、保護者のオーディを困らせていたらしい。",
+    "translation": "『運命改変』により、『勇者』になるべき少年の因果を受けた女勇者。もともとは突っ走りがちな少女剣士で非常に乱暴者として、保護者のオーディを困らせていたらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.252.41",
+    "original": "女勇者ユーステル",
+    "translation": "女勇者ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.253.40",
+    "original": "フリュジットの氷獄迷宮に封じられていた古代のケモミミ。フリュジットとは彼女を封じた偉大なる竜姫の名前から取られているとされるが、封印という名目で昼寝場所を提供するのがやっとだったらしい。",
+    "translation": "フリュジットの氷獄迷宮に封じられていた古代のケモミミ。フリュジットとは彼女を封じた偉大なる竜姫の名前から取られているとされるが、封印という名目で昼寝場所を提供するのがやっとだったらしい。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.253.41",
+    "original": "ミズイロケモミミ？",
+    "translation": "ミズイロケモミミ？",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.254.40",
+    "original": "海底神殿で生活するネルディーネの気合いを入れていないときの姿。気合いを入れているときはもっと別のすがたをするらしい。この姿でも生半可な冒険者はまったく歯が立たない。",
+    "translation": "海底神殿で生活するネルディーネの気合いを入れていないときの姿。気合いを入れているときはもっと別のすがたをするらしい。この姿でも生半可な冒険者はまったく歯が立たない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.254.41",
+    "original": "突然出てきたドラゴン？",
+    "translation": "突然出てきたドラゴン？",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.255.40",
+    "original": "北方都市ノーザリアを裏からひっかきまわす、厄介なケモミミ将軍。実はノーザリアはケモミミの国が支配しており、彼女の姉妹が王族を牛耳っている。ノースリンデはその中では真面目で働き者な方。",
+    "translation": "北方都市ノーザリアを裏からひっかきまわす、厄介なケモミミ将軍。実はノーザリアはケモミミの国が支配しており、彼女の姉妹が王族を牛耳っている。ノースリンデはその中では真面目で働き者な方。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.255.41",
+    "original": "氷国の姫将軍ノースリンデ①",
+    "translation": "氷国の姫将軍ノースリンデ①",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.256.41",
+    "original": "氷国の姫将軍ノースリンデ②",
+    "translation": "氷国の姫将軍ノースリンデ②",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.257.40",
+    "original": "勇者になることは彼の夢であり、引き継がれた使命だった。『運命改変』を受けた際に、最も親しい者を忘れてしまっていたが、魂が縁を手繰り寄せた。兄の店を盛り立てることが彼の夢であった。",
+    "translation": "勇者になることは彼の夢であり、引き継がれた使命だった。『運命改変』を受けた際に、最も親しい者を忘れてしまっていたが、魂が縁を手繰り寄せた。兄の店を盛り立てることが彼の夢であった。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.257.41",
+    "original": "評判の勇者ラシェウス①",
+    "translation": "評判の勇者ラシェウス①",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.258.41",
+    "original": "評判の勇者ラシェウス②",
+    "translation": "評判の勇者ラシェウス②",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.259.41",
+    "original": "評判の勇者ラシェウス③",
+    "translation": "評判の勇者ラシェウス③",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.260.40",
+    "original": "無意識に使っていた力を制御できなくなったキャトリナ。淫魔のような姿を見せているが、淫魔と相反する血が強いため、ほとんど魔力はない。大淫魔の力にすら抗う強力な抗魔力が、彼女の祖先の力である。",
+    "translation": "無意識に使っていた力を制御できなくなったキャトリナ。淫魔のような姿を見せているが、淫魔と相反する血が強いため、ほとんど魔力はない。大淫魔の力にすら抗う強力な抗魔力が、彼女の祖先の力である。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.260.41",
+    "original": "暴走したキャトリナ",
+    "translation": "暴走したキャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.261.41",
+    "original": "魔海要塞キングホエール①",
+    "translation": "魔海要塞キングホエール①",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.262.41",
+    "original": "魔海要塞キングホエール②",
+    "translation": "魔海要塞キングホエール②",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.263.40",
+    "original": "アーマニア海を漂う魔島の正体。背中の宝石は愚かな人間を釣るための疑似餌であるが、海の上を移動する人間は稀少なために、封印はなかなか解けないという。海には様々な古代の危険が眠っている。",
+    "translation": "アーマニア海を漂う魔島の正体。背中の宝石は愚かな人間を釣るための疑似餌であるが、海の上を移動する人間は稀少なために、封印はなかなか解けないという。海には様々な古代の危険が眠っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.263.41",
+    "original": "魔海要塞キングホエール③",
+    "translation": "魔海要塞キングホエール③",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.206.40",
+    "original": "冥府の要所を守る骸骨兵士。生前は優秀な兵士であり、戦争などで命を落とした彼らを冥界の主が評価し、自らの眷属として迎え入れた。冥界に溢れるゴブリンのせいで、休日が無い。",
+    "translation": "冥府の要所を守る骸骨兵士。生前は優秀な兵士であり、戦争などで命を落とした彼らを冥界の主が評価し、自らの眷属として迎え入れた。冥界に溢れるゴブリンのせいで、休日が無い。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.206.41",
+    "original": "冥府の門番",
+    "translation": "冥府の門番",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.207.40",
+    "original": "冥府の要所を守る骸骨兵士。休日が無いのに働き続けたのを評価され、さらなる要所を任された。休日はないのだが、彼らが疲れることもない。よく寝ている。",
+    "translation": "冥府の要所を守る骸骨兵士。休日が無いのに働き続けたのを評価され、さらなる要所を任された。休日はないのだが、彼らが疲れることもない。よく寝ている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.207.41",
+    "original": "地獄の門番",
+    "translation": "地獄の門番",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.208.40",
+    "original": "人間の魂ではなく、長く冥界に住む精霊のようなもの。生者が冥界の世界に迷い込むと、その魂を食い尽くしてしまう。自動的な門番だが、多すぎるゴブリンのせいで手が足りていない。",
+    "translation": "人間の魂ではなく、長く冥界に住む精霊のようなもの。生者が冥界の世界に迷い込むと、その魂を食い尽くしてしまう。自動的な門番だが、多すぎるゴブリンのせいで手が足りていない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.208.41",
+    "original": "ヘルスピリット",
+    "translation": "ヘルスピリット",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.209.40",
+    "original": "七つの目を持つという凶兆の怪物。イビルアイという魔生物が冥界の魔虫に寄生した者であり、邪眼によって高い魔力を持ち、魔術の触媒になる。",
+    "translation": "七つの目を持つという凶兆の怪物。イビルアイという魔生物が冥界の魔虫に寄生した者であり、邪眼によって高い魔力を持ち、魔術の触媒になる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.209.41",
+    "original": "ナナホシ",
+    "translation": "ナナホシ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.210.40",
+    "original": "冥界のルールをはずれ、さまよう死体となった死者。生者との境界があいまいなこの世界で、たまたま迷い込んだ生者を見つけては襲っている。",
+    "translation": "冥界のルールをはずれ、さまよう死体となった死者。生者との境界があいまいなこの世界で、たまたま迷い込んだ生者を見つけては襲っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.210.41",
+    "original": "さまよいびと",
+    "translation": "さまよいびと",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.211.40",
+    "original": "グールとも言われる半生半死の怪物。死都を彷徨い、死者を食らう。生者に対して明確な憎悪を持ち、この地に迷い込んだ人間が対峙して、生きて帰ることはない。",
+    "translation": "グールとも言われる半生半死の怪物。死都を彷徨い、死者を食らう。生者に対して明確な憎悪を持ち、この地に迷い込んだ人間が対峙して、生きて帰ることはない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.211.41",
+    "original": "屍食鬼",
+    "translation": "屍食鬼",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.212.40",
+    "original": "死都の水辺を泳ぐ、骨のような魚。獰猛かつ悪食で、何でも水に引きずり込み、その肉を喰らう。",
+    "translation": "死都の水辺を泳ぐ、骨のような魚。獰猛かつ悪食で、何でも水に引きずり込み、その肉を喰らう。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.212.41",
+    "original": "化石のフィッシュ",
+    "translation": "化石のフィッシュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.213.40",
+    "original": "冥界の戦乙女。天界とは戦争状態にあり、勇者の魂を奪い合っているとのこと。冥界に強力な人間が迷い込んだのを察知し、勇者の魂を持つ者として探しに来る。",
+    "translation": "冥界の戦乙女。天界とは戦争状態にあり、勇者の魂を奪い合っているとのこと。冥界に強力な人間が迷い込んだのを察知し、勇者の魂を持つ者として探しに来る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.213.41",
+    "original": "メイデン",
+    "translation": "メイデン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.214.40",
+    "original": "死都を舞う蝶。その鱗粉は美しく、魔術的な価値が高い。ひとたび吸い込めば、長寿を得られるとして金と同じ重さで取引されるが、実物を持ち帰った生者はいない。",
+    "translation": "死都を舞う蝶。その鱗粉は美しく、魔術的な価値が高い。ひとたび吸い込めば、長寿を得られるとして金と同じ重さで取引されるが、実物を持ち帰った生者はいない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.214.41",
+    "original": "ヨミアゲハ",
+    "translation": "ヨミアゲハ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.215.40",
+    "original": "死都を舞うヨミアゲハの中でも希少な、七色に輝く蝶。その鱗粉を吸い込むと人間はゾンビの仲間入りしてしまう。人間世界ではまだ存在を確認されていない。",
+    "translation": "死都を舞うヨミアゲハの中でも希少な、七色に輝く蝶。その鱗粉を吸い込むと人間はゾンビの仲間入りしてしまう。人間世界ではまだ存在を確認されていない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.215.41",
+    "original": "ナナイロヨミアゲハ",
+    "translation": "ナナイロヨミアゲハ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.216.40",
+    "original": "七つの眼を持つ怪物。封印されていた八つの眼が開いたとき、それを見た者は即座に命を落とすと言われる。邪眼は最上級の魔術の触媒とされる。",
+    "translation": "七つの眼を持つ怪物。封印されていた八つの眼が開いたとき、それを見た者は即座に命を落とすと言われる。邪眼は最上級の魔術の触媒とされる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.216.41",
+    "original": "死のナナホシ",
+    "translation": "死のナナホシ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.217.40",
+    "original": "邪悪な力によって、ドラゴンの死体がモンスター化したもの。眠りを妨げられ、狂乱した伝説の魔物は、理性を失い全てを破壊しようと襲い掛かる。",
+    "translation": "邪悪な力によって、ドラゴンの死体がモンスター化したもの。眠りを妨げられ、狂乱した伝説の魔物は、理性を失い全てを破壊しようと襲い掛かる。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.217.41",
+    "original": "ドラゴンゾンビ",
+    "translation": "ドラゴンゾンビ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.218.40",
+    "original": "ドラゴンの死体が呪詛によってモンスター化したもの。強い呪いをまとっており、一帯を不浄の地に変える力を持っている。生半可な魔獣は近寄る事すらできない。",
+    "translation": "ドラゴンの死体が呪詛によってモンスター化したもの。強い呪いをまとっており、一帯を不浄の地に変える力を持っている。生半可な魔獣は近寄る事すらできない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.218.41",
+    "original": "カースドドラゴン",
+    "translation": "カースドドラゴン",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.236.40",
+    "original": "魔族によって生み出された魔術人形。氷獄に封印された恐るべき大魔獣を監視するために作られたらしく、彼女の封印を解こうとする愚か者を排除する。",
+    "translation": "魔族によって生み出された魔術人形。氷獄に封印された恐るべき大魔獣を監視するために作られたらしく、彼女の封印を解こうとする愚か者を排除する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.236.41",
+    "original": "アイスゴーレム",
+    "translation": "アイスゴーレム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.237.40",
+    "original": "ドワームに伝わるケモミミ衣装を身につけることによって、バーサーカーになってしまったアンジュ。わがまま娘のはずなのに、なにかとストレスを押しつけられる役回りのせいで、普段から鬱憤が溜まっていたのかも。",
+    "translation": "ドワームに伝わるケモミミ衣装を身につけることによって、バーサーカーになってしまったアンジュ。わがまま娘のはずなのに、なにかとストレスを押しつけられる役回りのせいで、普段から鬱憤が溜まっていたのかも。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.237.41",
+    "original": "バーサークアンジュ",
+    "translation": "バーサークアンジュ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.238.40",
+    "original": "メイドのシェルフィの正体はルーラ・ブロッサ娼会の幹部候補。ハーフサキュバスの血を引く淫魔である。シェルフィはルーシェのことを半人前と考えているが、ルーシェからは出来損ないと思われている。",
+    "translation": "メイドのシェルフィの正体はルーラ・ブロッサ娼会の幹部候補。ハーフサキュバスの血を引く淫魔である。シェルフィはルーシェのことを半人前と考えているが、ルーシェからは出来損ないと思われている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.238.41",
+    "original": "淫魔メイドのシェルフィ①",
+    "translation": "淫魔メイドのシェルフィ①",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.239.41",
+    "original": "淫魔メイドのシェルフィ②",
+    "translation": "淫魔メイドのシェルフィ②",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.241.40",
+    "original": "ユーステルの仲間の重戦士。わがままで突っ走りがちなユーステルをフォローしている。彼女のことは親戚の娘ぐらいに思っており、首尾範囲外でもあるのでまったく意識していない。",
+    "translation": "ユーステルの仲間の重戦士。わがままで突っ走りがちなユーステルをフォローしている。彼女のことは親戚の娘ぐらいに思っており、首尾範囲外でもあるのでまったく意識していない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.241.41",
+    "original": "穏やかな重戦士オーディ",
+    "translation": "穏やかな重戦士オーディ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.242.40",
+    "original": "突如マジカルな力に目覚めてしまったファシィ。変身能力は彼女の潜在能力の表れであり、これは淫魔と似て異なる力とされている。マジカルは幻を操る力であり、レアかつ非常に強力な洗脳能力。",
+    "translation": "突如マジカルな力に目覚めてしまったファシィ。変身能力は彼女の潜在能力の表れであり、これは淫魔と似て異なる力とされている。マジカルは幻を操る力であり、レアかつ非常に強力な洗脳能力。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.242.41",
+    "original": "怪盗マジカル☆ファシィ",
+    "translation": "怪盗マジカル☆ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.243.40",
+    "original": "海底都市を統べる海竜の姫。ウミディーネの王。七色の虹を冠する偉大なる竜姫の一人(自称)。大商会のネルディーネの化身でもあるが、本能に従って生活したせいか知能がかなり弱くなっている。",
+    "translation": "海底都市を統べる海竜の姫。ウミディーネの王。七色の虹を冠する偉大なる竜姫の一人(自称)。大商会のネルディーネの化身でもあるが、本能に従って生活したせいか知能がかなり弱くなっている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.243.41",
+    "original": "海竜姫ネルディーネ①",
+    "translation": "海竜姫ネルディーネ①",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.244.41",
+    "original": "海竜姫ネルディーネ②",
+    "translation": "海竜姫ネルディーネ②",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.245.40",
+    "original": "秘められていた力を引き出してしまったハーヴェスタ。彼女の力は『淫魔』のようであって、実体は異なる者であり。人類に対する強力なリミッター。超古代の大戦で二つの星の間で結ばれた約定の擬人化である。",
+    "translation": "秘められていた力を引き出してしまったハーヴェスタ。彼女の力は『淫魔』のようであって、実体は異なる者であり。人類に対する強力なリミッター。超古代の大戦で二つの星の間で結ばれた約定の擬人化である。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.245.41",
+    "original": "覚醒したハーヴェスタ",
+    "translation": "覚醒したハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.246.40",
+    "original": "恐慌状態に陥った村人。理性を失っており、暴徒と化している……。",
+    "translation": "恐慌状態に陥った村人。理性を失っており、暴徒と化している……。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.246.41",
+    "original": "錯乱した村人",
+    "translation": "錯乱した村人",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.249.40",
+    "original": "近年になって出現した、ホブゴブリンの亜種。通常のホブゴブリンを遙かに上回る能力を持っている。",
+    "translation": "近年になって出現した、ホブゴブリンの亜種。通常のホブゴブリンを遙かに上回る能力を持っている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.249.41",
+    "original": "ホブゴブリン・亜種",
+    "translation": "ホブゴブリン・亜種",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.250.40",
+    "original": "『聖女』の負の力に目覚めてしまったマリーゼル。強力な『聖女』であるほど負に染まりやすく、我欲に力を使うほど邪に染まりやすくなるとされる。そのため真の『聖女』はまず自らの心を律さなくてはならない。",
+    "translation": "『聖女』の負の力に目覚めてしまったマリーゼル。強力な『聖女』であるほど負に染まりやすく、我欲に力を使うほど邪に染まりやすくなるとされる。そのため真の『聖女』はまず自らの心を律さなくてはならない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.250.41",
+    "original": "邪聖女マリーゼル",
+    "translation": "邪聖女マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.265.40",
+    "original": "ノーザリアの主力兵士。強力な武具に身を包んでいる。ノーザリアは傭兵の輸出を産業としており、他地方よりも平均的な兵士の練度が高いと言われている。",
+    "translation": "ノーザリアの主力兵士。強力な武具に身を包んでいる。ノーザリアは傭兵の輸出を産業としており、他地方よりも平均的な兵士の練度が高いと言われている。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.265.41",
+    "original": "ノーザリア兵士",
+    "translation": "ノーザリア兵士",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.266.40",
+    "original": "猛者揃いのノーザリア兵士の中でも選りすぐりのエリート。非常に高い戦闘力を持つ。",
+    "translation": "猛者揃いのノーザリア兵士の中でも選りすぐりのエリート。非常に高い戦闘力を持つ。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.266.41",
+    "original": "ノーザリア兵士長",
+    "translation": "ノーザリア兵士長",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.267.40",
+    "original": "ノーザリア地方に雇われた傭兵魔術師。歴戦の経験を積んでいるために術は実戦的で、その実力は上級魔術師にも匹敵する。",
+    "translation": "ノーザリア地方に雇われた傭兵魔術師。歴戦の経験を積んでいるために術は実戦的で、その実力は上級魔術師にも匹敵する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.267.41",
+    "original": "ノーザリア魔術師",
+    "translation": "ノーザリア魔術師",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.268.40",
+    "original": "ノーザリア軍部を動かす過激派の将軍。本人は猛将の名にふさわしい歴戦の戦士であるが、選民意識が非常に強く、野心も強い。本人は古代ゼカリウスの放逐された王の末裔と思い込んでいた。",
+    "translation": "ノーザリア軍部を動かす過激派の将軍。本人は猛将の名にふさわしい歴戦の戦士であるが、選民意識が非常に強く、野心も強い。本人は古代ゼカリウスの放逐された王の末裔と思い込んでいた。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.268.41",
+    "original": "ゲトレオス将軍",
+    "translation": "ゲトレオス将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.273.40",
+    "original": "古代遺跡に埋葬された死人。死してなお、古代の王に仕える従者であり、侵入者を排除する。",
+    "translation": "古代遺跡に埋葬された死人。死してなお、古代の王に仕える従者であり、侵入者を排除する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.273.41",
+    "original": "マミー",
+    "translation": "マミー",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.274.41",
+    "original": "防衛システム",
+    "translation": "防衛システム",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.275.41",
+    "original": "竜のオーラ",
+    "translation": "竜のオーラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.276.41",
+    "original": "淫魔のオーラ",
+    "translation": "淫魔のオーラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitEnemyIndivid_11.txt.277.41",
+    "original": "ゴブリンの種子",
+    "translation": "ゴブリンの種子",
+    "context": null
+  }
+]

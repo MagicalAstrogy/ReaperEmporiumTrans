@@ -1,0 +1,464 @@
+[
+  {
+    "key": "db_UnitCharaClubClass_11.txt.0.29",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.1.29",
+    "original": "戦士",
+    "translation": "戦士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.2.29",
+    "original": "兵士",
+    "translation": "兵士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.3.29",
+    "original": "騎士",
+    "translation": "騎士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.4.29",
+    "original": "武闘家",
+    "translation": "武闘家",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.5.29",
+    "original": "剣士",
+    "translation": "剣士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.6.29",
+    "original": "盗賊",
+    "translation": "盗賊",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.7.29",
+    "original": "スパイ",
+    "translation": "スパイ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.7.30",
+    "original": "密偵",
+    "translation": "密偵",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.8.29",
+    "original": "レンジャー",
+    "translation": "レンジャー",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.8.30",
+    "original": "野伏",
+    "translation": "野伏",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.16.29",
+    "original": "狩人",
+    "translation": "狩人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.18.29",
+    "original": "船乗り",
+    "translation": "船乗り",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.9.29",
+    "original": "魔術師",
+    "translation": "魔術師",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.10.29",
+    "original": "学者",
+    "translation": "学者",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.11.29",
+    "original": "治療師",
+    "translation": "治療師",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.12.29",
+    "original": "呪術師",
+    "translation": "呪術師",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.28.29",
+    "original": "医者",
+    "translation": "医者",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.13.29",
+    "original": "神官",
+    "translation": "神官",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.14.29",
+    "original": "農民",
+    "translation": "農民",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.15.29",
+    "original": "木こり",
+    "translation": "木こり",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.17.29",
+    "original": "職人",
+    "translation": "職人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.19.29",
+    "original": "作業員",
+    "translation": "作業員",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.20.29",
+    "original": "吟遊詩人",
+    "translation": "吟遊詩人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.21.29",
+    "original": "ダンサー",
+    "translation": "ダンサー",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.21.30",
+    "original": "踊り子",
+    "translation": "踊り子",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.22.29",
+    "original": "芸術家",
+    "translation": "芸術家",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.23.29",
+    "original": "娼婦",
+    "translation": "娼婦",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.24.29",
+    "original": "貧民",
+    "translation": "貧民",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.25.29",
+    "original": "奴隷",
+    "translation": "奴隷",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.26.29",
+    "original": "一般人",
+    "translation": "一般人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.27.29",
+    "original": "学生",
+    "translation": "学生",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.29.29",
+    "original": "秘書",
+    "translation": "秘書",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.30.29",
+    "original": "執事",
+    "translation": "執事",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.31.29",
+    "original": "メイド",
+    "translation": "メイド",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.31.30",
+    "original": "メイドの",
+    "translation": "メイドの",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.32.29",
+    "original": "商人",
+    "translation": "商人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.33.29",
+    "original": "遊び人",
+    "translation": "遊び人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.34.29",
+    "original": "貴族",
+    "translation": "貴族",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.35.29",
+    "original": "全裸",
+    "translation": "全裸",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.51.29",
+    "original": "死神",
+    "translation": "死神",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.52.29",
+    "original": "死神代行",
+    "translation": "死神代行",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.53.29",
+    "original": "ケモミミ",
+    "translation": "ケモミミ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.53.30",
+    "original": "ケモミミの",
+    "translation": "ケモミミの",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.54.29",
+    "original": "夢魔",
+    "translation": "夢魔",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.55.29",
+    "original": "大商人",
+    "translation": "大商人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.56.29",
+    "original": "聖女",
+    "translation": "聖女",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.57.29",
+    "original": "精霊使い",
+    "translation": "精霊使い",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.58.29",
+    "original": "賢者",
+    "translation": "賢者",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.59.29",
+    "original": "大魔道士",
+    "translation": "大魔道士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.60.29",
+    "original": "魔女",
+    "translation": "魔女",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.61.29",
+    "original": "鍛冶姫",
+    "translation": "鍛冶姫",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.62.29",
+    "original": "遺跡渡り",
+    "translation": "遺跡渡り",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.63.29",
+    "original": "牧場娘",
+    "translation": "牧場娘",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.64.29",
+    "original": "異邦の剣士",
+    "translation": "異邦の剣士",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.65.29",
+    "original": "退魔メイド",
+    "translation": "退魔メイド",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.65.30",
+    "original": "退魔メイドの",
+    "translation": "退魔メイドの",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.66.29",
+    "original": "海賊作家",
+    "translation": "海賊作家",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.67.29",
+    "original": "大魔女",
+    "translation": "大魔女",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.68.29",
+    "original": "派遣管財人",
+    "translation": "派遣管財人",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.69.29",
+    "original": "なぞのメイド",
+    "translation": "なぞのメイド",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.70.29",
+    "original": "淫魔メイド",
+    "translation": "淫魔メイド",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.70.30",
+    "original": "淫魔メイドの",
+    "translation": "淫魔メイドの",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.71.29",
+    "original": "姫将軍",
+    "translation": "姫将軍",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.72.29",
+    "original": "名工",
+    "translation": "名工",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.73.29",
+    "original": "勇者",
+    "translation": "勇者",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.74.29",
+    "original": "衛兵",
+    "translation": "衛兵",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.75.29",
+    "original": "司祭",
+    "translation": "司祭",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.76.29",
+    "original": "遺跡学者",
+    "translation": "遺跡学者",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.77.29",
+    "original": "スーパーメイド",
+    "translation": "スーパーメイド",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.78.29",
+    "original": "怪盗",
+    "translation": "怪盗",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.101.29",
+    "original": "ごみ",
+    "translation": "ごみ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.102.29",
+    "original": "チンピラ",
+    "translation": "チンピラ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.103.29",
+    "original": "ならずもの",
+    "translation": "ならずもの",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.104.29",
+    "original": "ゴブリン",
+    "translation": "ゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.105.29",
+    "original": "ホブゴブリン",
+    "translation": "ホブゴブリン",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaClubClass_11.txt.107.29",
+    "original": "邪教徒",
+    "translation": "邪教徒",
+    "context": null
+  }
+]

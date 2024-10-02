@@ -1,0 +1,212 @@
+[
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.1.7",
+    "original": "鳥肉",
+    "translation": "鳥肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.2.7",
+    "original": "豚肉",
+    "translation": "豚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.3.7",
+    "original": "牛肉",
+    "translation": "牛肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.4.7",
+    "original": "穀物",
+    "translation": "穀物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.5.7",
+    "original": "野菜",
+    "translation": "野菜",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.6.7",
+    "original": "果物",
+    "translation": "果物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.7.7",
+    "original": "香辛料",
+    "translation": "香辛料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.8.7",
+    "original": "キノコ",
+    "translation": "キノコ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.9.7",
+    "original": "魚肉",
+    "translation": "魚肉",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.10.7",
+    "original": "貝",
+    "translation": "貝",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.11.7",
+    "original": "珍味",
+    "translation": "珍味",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.12.7",
+    "original": "甘味料",
+    "translation": "甘味料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.13.7",
+    "original": "食塩",
+    "translation": "食塩",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.14.7",
+    "original": "油脂",
+    "translation": "油脂",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.15.7",
+    "original": "卵",
+    "translation": "卵",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.16.7",
+    "original": "乳製品",
+    "translation": "乳製品",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.17.7",
+    "original": "チーズ",
+    "translation": "チーズ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.18.7",
+    "original": "水素材",
+    "translation": "水素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.19.7",
+    "original": "酒素材",
+    "translation": "酒素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.20.7",
+    "original": "皮革",
+    "translation": "皮革",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.21.7",
+    "original": "毛皮",
+    "translation": "毛皮",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.22.7",
+    "original": "繊維素材",
+    "translation": "繊維素材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.23.7",
+    "original": "木材",
+    "translation": "木材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.24.7",
+    "original": "土材",
+    "translation": "土材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.25.7",
+    "original": "石材",
+    "translation": "石材",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.26.7",
+    "original": "金属",
+    "translation": "金属",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.27.7",
+    "original": "原石",
+    "translation": "原石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.28.7",
+    "original": "燃料",
+    "translation": "燃料",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.29.7",
+    "original": "ハーブ",
+    "translation": "ハーブ",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.30.7",
+    "original": "薬物",
+    "translation": "薬物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.31.7",
+    "original": "魔術触媒",
+    "translation": "魔術触媒",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.32.7",
+    "original": "聖遺物",
+    "translation": "聖遺物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.33.7",
+    "original": "呪物",
+    "translation": "呪物",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.34.7",
+    "original": "宝石",
+    "translation": "宝石",
+    "context": null
+  },
+  {
+    "key": "db_ClubGoodsMaterialKb_11.txt.35.7",
+    "original": "アーティファクト",
+    "translation": "アーティファクト",
+    "context": null
+  }
+]

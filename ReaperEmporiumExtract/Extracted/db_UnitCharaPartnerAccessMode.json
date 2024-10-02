@@ -1,0 +1,122 @@
+[
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.1.4",
+    "original": "70",
+    "translation": "70",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.1.5",
+    "original": "5",
+    "translation": "5",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.2.4",
+    "original": "20",
+    "translation": "20",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.2.5",
+    "original": "10",
+    "translation": "10",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.3.4",
+    "original": "40",
+    "translation": "40",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.4.4",
+    "original": "50",
+    "translation": "50",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.4.5",
+    "original": "0",
+    "translation": "0",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.6.4",
+    "original": "30",
+    "translation": "30",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.7.4",
+    "original": "35",
+    "translation": "35",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.17.4",
+    "original": "80",
+    "translation": "80",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessModePoint_11.txt.25.4",
+    "original": "60",
+    "translation": "60",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.0.4",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.1.4",
+    "original": "ハプニングが起こって気が動転している状態。神経が太すぎるキャラ(フロティナ)以外は何かしら動じる。行為のハードルは下がるが、混乱しているので普段大丈夫な行為ですら失敗することも。",
+    "translation": "ハプニングが起こって気が動転している状態。神経が太すぎるキャラ(フロティナ)以外は何かしら動じる。行為のハードルは下がるが、混乱しているので普段大丈夫な行為ですら失敗することも。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.1.5",
+    "original": "ドキドキ",
+    "translation": "ドキドキ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.2.4",
+    "original": "ハプニングが起こって気が動転しており、それが攻撃的になっている状態。混乱しているのに刺激を与えて、そのまま相手を怒らせたような感じ。初期のハプニングはドキドキかピリピリのどちらかに変動しやすい。謝るしかない。",
+    "translation": "ハプニングが起こって気が動転しており、それが攻撃的になっている状態。混乱しているのに刺激を与えて、そのまま相手を怒らせたような感じ。初期のハプニングはドキドキかピリピリのどちらかに変動しやすい。謝るしかない。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.2.5",
+    "original": "ピリピリ",
+    "translation": "ピリピリ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.3.4",
+    "original": "友人という好感度ではなく、男性を意識している状態。ズブズブのエッチな行為は嫌だが、ライトなことなら言うことを聞いてあげようという状態。相手の好感度が暴走しているようなものなので、受け入れる行為は変動が激しい。また、変態行為は拒否する。",
+    "translation": "友人という好感度ではなく、男性を意識している状態。ズブズブのエッチな行為は嫌だが、ライトなことなら言うことを聞いてあげようという状態。相手の好感度が暴走しているようなものなので、受け入れる行為は変動が激しい。また、変態行為は拒否する。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.3.5",
+    "original": "デレデレ",
+    "translation": "デレデレ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.4.4",
+    "original": "いくら好感度が高くても、セックスを経て、攻略しないと変化しない。すでに男女の仲になっているので、通常の前戯はおろか、変態行為も受け入れる。攻略した後の状態を見れるモード。ただし奴隷というわけではないので、変態上級すぎると当然怒る。",
+    "translation": "いくら好感度が高くても、セックスを経て、攻略しないと変化しない。すでに男女の仲になっているので、通常の前戯はおろか、変態行為も受け入れる。攻略した後の状態を見れるモード。ただし奴隷というわけではないので、変態上級すぎると当然怒る。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessMode_11.txt.4.5",
+    "original": "エロエロ",
+    "translation": "エロエロ",
+    "context": null
+  }
+]

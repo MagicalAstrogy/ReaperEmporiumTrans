@@ -1,0 +1,2348 @@
+[
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.0.31",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.31",
+    "original": "抱き合う距離で、相手の耳を優しく噛みます",
+    "translation": "抱き合う距離で、相手の耳を優しく噛みます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.32",
+    "original": "<pl>は相手を抱き寄せ、軽く耳たぶを噛んだ！",
+    "translation": "<pl>は相手を抱き寄せ、軽く耳たぶを噛んだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.33",
+    "original": "密着され、耳に熱い吐息がかかる！",
+    "translation": "密着され、耳に熱い吐息がかかる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.34",
+    "original": "<pt>はそっと密着すると、<pl>の耳たぶを優しく噛んできた！",
+    "translation": "<pt>はそっと密着すると、<pl>の耳たぶを優しく噛んできた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.1.35",
+    "original": "耳を軽く噛む",
+    "translation": "耳を軽く噛む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.2.31",
+    "original": "軽く肩に触れ、元気づけます",
+    "translation": "軽く肩に触れ、元気づけます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.2.32",
+    "original": "<pl>はおもむろに相手の肩を叩いた！",
+    "translation": "<pl>はおもむろに相手の肩を叩いた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.2.35",
+    "original": "肩を叩く",
+    "translation": "肩を叩く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.31",
+    "original": "軽く抱きしめます。ハグともいいます",
+    "translation": "軽く抱きしめます。ハグともいいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.32",
+    "original": "<pl>はゆっくりと相手を抱きしめた！",
+    "translation": "<pl>はゆっくりと相手を抱きしめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.33",
+    "original": "<pl>に抱きついた<pt>は、幸せそうに頭をこすりつけてくる！",
+    "translation": "<pl>に抱きついた<pt>は、幸せそうに頭をこすりつけてくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.34",
+    "original": "<pt>がこちらに抱きついてきた！",
+    "translation": "<pt>がこちらに抱きついてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.3.35",
+    "original": "優しく抱きしめる",
+    "translation": "優しく抱きしめる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.4.31",
+    "original": "言葉だけです。これすら失敗するなら、大変です",
+    "translation": "言葉だけです。これすら失敗するなら、大変です",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.4.32",
+    "original": "<pl>は優しく元気づけた！",
+    "translation": "<pl>は優しく元気づけた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.4.35",
+    "original": "元気づける",
+    "translation": "元気づける",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.31",
+    "original": "普通に手を繋ぎます。安心させたり、引っ張ったり",
+    "translation": "普通に手を繋ぎます。安心させたり、引っ張ったり",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.32",
+    "original": "<pl>は軽く相手の手を握った！",
+    "translation": "<pl>は軽く相手の手を握った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.33",
+    "original": "手を通して柔らかさと、体温が伝わってくるようだ！",
+    "translation": "手を通して柔らかさと、体温が伝わってくるようだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.34",
+    "original": "笑いながら、<pt>が手を繋いできた！",
+    "translation": "笑いながら、<pt>が手を繋いできた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.5.35",
+    "original": "手を繋ぐ",
+    "translation": "手を繋ぐ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.31",
+    "original": "胸をちょっとだけ揉みます。ちょっとだけ……",
+    "translation": "胸をちょっとだけ揉みます。ちょっとだけ……",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.32",
+    "original": "<pl>は相手の目を見ながら、ゆっくり胸を触った！",
+    "translation": "<pl>は相手の目を見ながら、ゆっくり胸を触った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.33",
+    "original": "手に、<pt>の胸の感触が伝わってくる！",
+    "translation": "手に、<pt>の胸の感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.34",
+    "original": "<pt>はこちらの手を取ると、おもむろに自分の胸を触らせてきた！",
+    "translation": "<pt>はこちらの手を取ると、おもむろに自分の胸を触らせてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.6.35",
+    "original": "胸を優しく揉む",
+    "translation": "胸を優しく揉む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.31",
+    "original": "優しいキスで、【デレデレ】が大きくアップ",
+    "translation": "優しいキスで、【デレデレ】が大きくアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.32",
+    "original": "<pl>は相手を抱き寄せ、優しく口づけした！",
+    "translation": "<pl>は相手を抱き寄せ、優しく口づけした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.33",
+    "original": "<pt>の顔が間近になって、思わずドキドキしてしまった！",
+    "translation": "<pt>の顔が間近になって、思わずドキドキしてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.34",
+    "original": "<pt>は優しく唇を重ねてきた！",
+    "translation": "<pt>は優しく唇を重ねてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.7.35",
+    "original": "テンダーキッス",
+    "translation": "テンダーキッス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.8.31",
+    "original": "頭に軽くキスします。性的な意味はほとんどありません",
+    "translation": "頭に軽くキスします。性的な意味はほとんどありません",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.8.32",
+    "original": "<pl>は相手を抱き寄せ、頭にそっとキスした！",
+    "translation": "<pl>は相手を抱き寄せ、頭にそっとキスした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.8.35",
+    "original": "頭にキスする",
+    "translation": "頭にキスする",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.31",
+    "original": "頬にキスします。普通のあいさつにも見えます",
+    "translation": "頬にキスします。普通のあいさつにも見えます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.32",
+    "original": "<pl>は相手の頬に優しくキスした！",
+    "translation": "<pl>は相手の頬に優しくキスした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.33",
+    "original": "そっと頬に触れるような優しいキスに、思わずドキドキしてしまった！",
+    "translation": "そっと頬に触れるような優しいキスに、思わずドキドキしてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.34",
+    "original": "<pt>は優しくこちらにキスをしてきた！",
+    "translation": "<pt>は優しくこちらにキスをしてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.9.35",
+    "original": "頬にキスする",
+    "translation": "頬にキスする",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.10.31",
+    "original": "紳士的に手を取り、キスします。似合いません",
+    "translation": "紳士的に手を取り、キスします。似合いません",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.10.32",
+    "original": "<pl>は相手の手を取り、軽くキスした！",
+    "translation": "<pl>は相手の手を取り、軽くキスした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.10.35",
+    "original": "手に紳士的にキスする",
+    "translation": "手に紳士的にキスする",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.31",
+    "original": "見せつけるように、パートナーのにおいを嗅ぎます",
+    "translation": "見せつけるように、パートナーのにおいを嗅ぎます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.32",
+    "original": "<pl>は相手のにおいをかいだ！",
+    "translation": "<pl>は相手のにおいをかいだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.33",
+    "original": "<pt>との距離が近付き、思わず意識してしまう！",
+    "translation": "<pt>との距離が近付き、思わず意識してしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.34",
+    "original": "<pt>は顔を近づけ、こちらのニオイを嗅いできた！",
+    "translation": "<pt>は顔を近づけ、こちらのニオイを嗅いできた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.11.35",
+    "original": "においを嗅ぐ",
+    "translation": "においを嗅ぐ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.12.31",
+    "original": "髪を触って、ついでに褒めたりします",
+    "translation": "髪を触って、ついでに褒めたりします",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.12.32",
+    "original": "<pl>は抱き寄せながら、相手の頭を撫でた！",
+    "translation": "<pl>は抱き寄せながら、相手の頭を撫でた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.12.35",
+    "original": "髪を触る",
+    "translation": "髪を触る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.13.31",
+    "original": "服に付いたドロとかを払い、ついでに身体も触れます",
+    "translation": "服に付いたドロとかを払い、ついでに身体も触れます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.13.32",
+    "original": "<pl>は相手の服の汚れを払った！あとさりげなく身体にも触った！",
+    "translation": "<pl>は相手の服の汚れを払った！あとさりげなく身体にも触った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.13.35",
+    "original": "服の汚れを払う",
+    "translation": "服の汚れを払う",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.14.31",
+    "original": "上と下のインナーだけを触ります。かなり上級の変態です",
+    "translation": "上と下のインナーだけを触ります。かなり上級の変態です",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.14.32",
+    "original": "<pl>は相手の服に手を入れながら、下着の手触りを堪能した！",
+    "translation": "<pl>は相手の服に手を入れながら、下着の手触りを堪能した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.14.35",
+    "original": "下着に触る",
+    "translation": "下着に触る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.31",
+    "original": "熱い視線でじっと見つめます",
+    "translation": "熱い視線でじっと見つめます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.32",
+    "original": "<pl>は相手の顔をじっと見つめた！",
+    "translation": "<pl>は相手の顔をじっと見つめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.33",
+    "original": "じっと見つめられ、思わずドキドキしてしまう！",
+    "translation": "じっと見つめられ、思わずドキドキしてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.34",
+    "original": "<pt>は上目使いでこちらを見つめてきた！",
+    "translation": "<pt>は上目使いでこちらを見つめてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.15.35",
+    "original": "じっとみつめる",
+    "translation": "じっとみつめる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.16.31",
+    "original": "胸元や乳房のカタチを、いやらしく見ます",
+    "translation": "胸元や乳房のカタチを、いやらしく見ます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.16.32",
+    "original": "<pl>は相手の胸をいやらしく見つめた！",
+    "translation": "<pl>は相手の胸をいやらしく見つめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.16.35",
+    "original": "胸をじっと見る",
+    "translation": "胸をじっと見る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.17.31",
+    "original": "熱い視線でじっと見つめます。エッチな場所",
+    "translation": "熱い視線でじっと見つめます。エッチな場所",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.17.32",
+    "original": "<pl>は相手の尻をいやらしく見つめた！",
+    "translation": "<pl>は相手の尻をいやらしく見つめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.17.35",
+    "original": "尻をじっと見る",
+    "translation": "尻をじっと見る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.18.31",
+    "original": "熱い視線でじっと見つめます。無難な場所",
+    "translation": "熱い視線でじっと見つめます。無難な場所",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.18.32",
+    "original": "<pl>は相手の手をじっと見つめた！",
+    "translation": "<pl>は相手の手をじっと見つめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.18.35",
+    "original": "手をじっと見る",
+    "translation": "手をじっと見る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.19.31",
+    "original": "事故を装って胸を触ります",
+    "translation": "事故を装って胸を触ります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.19.32",
+    "original": "<pl>の手がうっかり相手の胸に！",
+    "translation": "<pl>の手がうっかり相手の胸に！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.19.35",
+    "original": "うっかり胸に手が！",
+    "translation": "うっかり胸に手が！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.20.31",
+    "original": "事故を装ってお尻を触ります",
+    "translation": "事故を装ってお尻を触ります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.20.32",
+    "original": "<pl>の手がうっかり相手の尻に！",
+    "translation": "<pl>の手がうっかり相手の尻に！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.20.35",
+    "original": "うっかり尻に手が！",
+    "translation": "うっかり尻に手が！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.31",
+    "original": "舌同士を絡める濃厚なキス",
+    "translation": "舌同士を絡める濃厚なキス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.32",
+    "original": "<pl>はむさぼるように相手と舌を絡ませ、唾液交換した！",
+    "translation": "<pl>はむさぼるように相手と舌を絡ませ、唾液交換した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.33",
+    "original": "二人の舌が絡み合い、唾液交換を楽しんだ！",
+    "translation": "二人の舌が絡み合い、唾液交換を楽しんだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.34",
+    "original": "<pt>はゆっくりと唇を重ねてキスをしてきた！<p>さらに舌を差し入れ、こちらの舌と絡ませる！",
+    "translation": "<pt>はゆっくりと唇を重ねてキスをしてきた！<p>さらに舌を差し入れ、こちらの舌と絡ませる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.22.35",
+    "original": "ディープキッス",
+    "translation": "ディープキッス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.31",
+    "original": "頬にキスした上、ベロベロと舐めます",
+    "translation": "頬にキスした上、ベロベロと舐めます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.32",
+    "original": "<pl>は相手を抱き寄せ、頬をベロベロ舐めた！",
+    "translation": "<pl>は相手を抱き寄せ、頬をベロベロ舐めた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.33",
+    "original": "唾液のねっとりとした感触と、熱い息遣いに思わず興奮してしまう！",
+    "translation": "唾液のねっとりとした感触と、熱い息遣いに思わず興奮してしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.34",
+    "original": "<pt>はこちらの首を抱えると、<pl>の頬にねっとりと舌を這わせた！",
+    "translation": "<pt>はこちらの首を抱えると、<pl>の頬にねっとりと舌を這わせた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.23.35",
+    "original": "頬をねっとり舐める",
+    "translation": "頬をねっとり舐める",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.31",
+    "original": "ディープキスしながら、身体全体をまさぐります",
+    "translation": "ディープキスしながら、身体全体をまさぐります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.32",
+    "original": "<pl>は相手と舌を絡ませながら、全身の性感帯を刺激した！",
+    "translation": "<pl>は相手と舌を絡ませながら、全身の性感帯を刺激した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.33",
+    "original": "二人は互いに舌を絡ませながら、お互いの身体を激しく求め合った！",
+    "translation": "二人は互いに舌を絡ませながら、お互いの身体を激しく求め合った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.34",
+    "original": "<pt>はゆっくりと唇を重ねてキスをしてきた！<p>舌を差し入れ、こちらの舌と絡ませながら、こちらの身体を情熱的に触ってくる！",
+    "translation": "<pt>はゆっくりと唇を重ねてキスをしてきた！<p>舌を差し入れ、こちらの舌と絡ませながら、こちらの身体を情熱的に触ってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.24.35",
+    "original": "舌を入れて全身を愛撫",
+    "translation": "舌を入れて全身を愛撫",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.31",
+    "original": "露出した乳房や乳首を舌でなめ回します",
+    "translation": "露出した乳房や乳首を舌でなめ回します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.32",
+    "original": "<pl>は相手の服をはだけさせ、乳房にしゃぶりついた！",
+    "translation": "<pl>は相手の服をはだけさせ、乳房にしゃぶりついた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.33",
+    "original": "大きな胸に包まれて、恍惚としてしまう！",
+    "translation": "大きな胸に包まれて、恍惚としてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.34",
+    "original": "<pt>は胸をはだけさせ、こちらを誘ってきた！",
+    "translation": "<pt>は胸をはだけさせ、こちらを誘ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.25.35",
+    "original": "乳房にむしゃぶりつく",
+    "translation": "乳房にむしゃぶりつく",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.31",
+    "original": "胸に顔を丸ごとぼふっとさせてもらいます",
+    "translation": "胸に顔を丸ごとぼふっとさせてもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.32",
+    "original": "<pl>は相手の胸の中にダイブ！",
+    "translation": "<pl>は相手の胸の中にダイブ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.33",
+    "original": "顔面に押しつけられた乳房から、柔らかい感触とニオイが伝わってくる！",
+    "translation": "顔面に押しつけられた乳房から、柔らかい感触とニオイが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.34",
+    "original": "<pt>は優しく微笑むと、<pl>の顔を抱きしめて、胸に押しつけた！",
+    "translation": "<pt>は優しく微笑むと、<pl>の顔を抱きしめて、胸に押しつけた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.26.35",
+    "original": "胸に顔をうずめる",
+    "translation": "胸に顔をうずめる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.31",
+    "original": "下着に手を入れて、指を入れてしまいます",
+    "translation": "下着に手を入れて、指を入れてしまいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.32",
+    "original": "<pl>はパンツの中に手を入れ、音を立てて性器をいじった！",
+    "translation": "<pl>はパンツの中に手を入れ、音を立てて性器をいじった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.33",
+    "original": "<pl>の愛撫に、<pt>は気持ちよさそうに吐息を漏らした！",
+    "translation": "<pl>の愛撫に、<pt>は気持ちよさそうに吐息を漏らした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.34",
+    "original": "<pt>は<pl>に性器を弄るよう命じた！",
+    "translation": "<pt>は<pl>に性器を弄るよう命じた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.28.35",
+    "original": "性器を指でいじる",
+    "translation": "性器を指でいじる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.29.31",
+    "original": "股間に顔を入れて、しゃぶりつくします",
+    "translation": "股間に顔を入れて、しゃぶりつくします",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.29.32",
+    "original": "<pl>はスカートの中に顔をつっこみ、音を立てて性器をしゃぶった！",
+    "translation": "<pl>はスカートの中に顔をつっこみ、音を立てて性器をしゃぶった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.29.34",
+    "original": "<pt>は<pl>に性器を舐めるよう命じた！",
+    "translation": "<pt>は<pl>に性器を舐めるよう命じた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.29.35",
+    "original": "性器の味を見る",
+    "translation": "性器の味を見る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.31",
+    "original": "首筋をなめ回します。かなりの変態行為です",
+    "translation": "首筋をなめ回します。かなりの変態行為です",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.32",
+    "original": "<pl>は相手を抱きしめながら、首元を舐めた！",
+    "translation": "<pl>は相手を抱きしめながら、首元を舐めた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.33",
+    "original": "なめらかな感触が首に当って、ぞくりとした感触に興奮をさせられる！",
+    "translation": "なめらかな感触が首に当って、ぞくりとした感触に興奮をさせられる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.34",
+    "original": "<pt>はそっと密着すると、<pl>の首にキスをしてきた！<p>そこから舌を這わせ、こちらの汗を舐め取る！",
+    "translation": "<pt>はそっと密着すると、<pl>の首にキスをしてきた！<p>そこから舌を這わせ、こちらの汗を舐め取る！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.30.35",
+    "original": "首筋の汗の味を見る",
+    "translation": "首筋の汗の味を見る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.31.31",
+    "original": "背中に指を這わせて、つつーっと刺激します",
+    "translation": "背中に指を這わせて、つつーっと刺激します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.31.32",
+    "original": "<pl>は相手の後ろに回ると、背中を指でなぞった！",
+    "translation": "<pl>は相手の後ろに回ると、背中を指でなぞった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.31.34",
+    "original": "<pt>が背中に抱きついてきた！",
+    "translation": "<pt>が背中に抱きついてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.31.35",
+    "original": "背中を触る",
+    "translation": "背中を触る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.32.31",
+    "original": "服の中に手を入れて、軽くまさぐります",
+    "translation": "服の中に手を入れて、軽くまさぐります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.32.32",
+    "original": "<pl>は相手の服に手を入れ、軽くまさぐった！",
+    "translation": "<pl>は相手の服に手を入れ、軽くまさぐった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.32.35",
+    "original": "服の中に手を突っ込む",
+    "translation": "服の中に手を突っ込む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.31",
+    "original": "勃起したアレの硬さを感じさせます",
+    "translation": "勃起したアレの硬さを感じさせます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.32",
+    "original": "<pl>は相手の手を自分の股間に導き、堅くなったモノを触らせた！",
+    "translation": "<pl>は相手の手を自分の股間に導き、堅くなったモノを触らせた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.33",
+    "original": "大胆な仕草に、思わずドキドキしてしまう！",
+    "translation": "大胆な仕草に、思わずドキドキしてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.34",
+    "original": "<pt>はこちらを見上げながら、<pl>の股間をゆっくり撫でてきた！",
+    "translation": "<pt>はこちらを見上げながら、<pl>の股間をゆっくり撫でてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.33.35",
+    "original": "股間を触らせる",
+    "translation": "股間を触らせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.31",
+    "original": "堅くなったアレを触らせてしまいます",
+    "translation": "堅くなったアレを触らせてしまいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.32",
+    "original": "<pl>は相手の手を自分の股間に導き、堅くなっているのを感じさせた！",
+    "translation": "<pl>は相手の手を自分の股間に導き、堅くなっているのを感じさせた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.33",
+    "original": "ペニスを刺激され、射精感が高まってしまう！",
+    "translation": "ペニスを刺激され、射精感が高まってしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.34",
+    "original": "<pt>はこちらの股間に手を這わせると、直接ペニスを触ってきた！",
+    "translation": "<pt>はこちらの股間に手を這わせると、直接ペニスを触ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.34.35",
+    "original": "チンポを触らせる",
+    "translation": "チンポを触らせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.35.31",
+    "original": "手を両手で握ります。ドキドキされるかも？",
+    "translation": "手を両手で握ります。ドキドキされるかも？",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.35.32",
+    "original": "<pl>は両手で相手の手を握った！",
+    "translation": "<pl>は両手で相手の手を握った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.35.35",
+    "original": "手を取って両手で握る",
+    "translation": "手を取って両手で握る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.36.31",
+    "original": "服に手まで入れます。普通に触るよりハード",
+    "translation": "服に手まで入れます。普通に触るよりハード",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.36.32",
+    "original": "<pl>は服の中に手を入れながら、乳房を揉んだ！",
+    "translation": "<pl>は服の中に手を入れながら、乳房を揉んだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.36.33",
+    "original": "何も付けてない、柔らかい感触が伝わってくる！",
+    "translation": "何も付けてない、柔らかい感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.36.35",
+    "original": "生胸を揉む",
+    "translation": "生胸を揉む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.37.31",
+    "original": "服の上からねっとり揉みます。言い訳できません",
+    "translation": "服の上からねっとり揉みます。言い訳できません",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.37.32",
+    "original": "<pl>は荒い息を吐きながら、いやらしく胸を揉んだ！",
+    "translation": "<pl>は荒い息を吐きながら、いやらしく胸を揉んだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.37.35",
+    "original": "胸をいやらしく揉む",
+    "translation": "胸をいやらしく揉む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.38.31",
+    "original": "事故を装ってスカートの中にダイブ。無理があるのでは？",
+    "translation": "事故を装ってスカートの中にダイブ。無理があるのでは？",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.38.32",
+    "original": "<pl>はうっかり相手のスカートにダイブ！",
+    "translation": "<pl>はうっかり相手のスカートにダイブ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.38.35",
+    "original": "事故でスカートに頭が",
+    "translation": "事故でスカートに頭が",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.31",
+    "original": "脇やあちこち触ってくすぐります",
+    "translation": "脇やあちこち触ってくすぐります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.32",
+    "original": "<pl>は相手の脇に手を入れ、思いっきりくすぐった！",
+    "translation": "<pl>は相手の脇に手を入れ、思いっきりくすぐった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.33",
+    "original": "<pt>の指がこちらのあちこちを触る！変なところを触られて悶絶してしまった！",
+    "translation": "<pt>の指がこちらのあちこちを触る！変なところを触られて悶絶してしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.34",
+    "original": "<pt>はこちらをくすぐってきた！",
+    "translation": "<pt>はこちらをくすぐってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.39.35",
+    "original": "身体をくすぐる",
+    "translation": "身体をくすぐる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.40.31",
+    "original": "インナーの中にも手を入れて、優しく愛撫します",
+    "translation": "インナーの中にも手を入れて、優しく愛撫します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.40.32",
+    "original": "<pl>は秘部に指を入れ、音を立てるように弄った！",
+    "translation": "<pl>は秘部に指を入れ、音を立てるように弄った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.40.35",
+    "original": "下着に手を入れて弄る",
+    "translation": "下着に手を入れて弄る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.31",
+    "original": "身体が密着するほどの強いハグです",
+    "translation": "身体が密着するほどの強いハグです",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.32",
+    "original": "<pl>は強く相手を抱きしめた！",
+    "translation": "<pl>は強く相手を抱きしめた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.33",
+    "original": "激しく密着し、<pt>の感触や息遣いが伝わってくる！",
+    "translation": "激しく密着し、<pt>の感触や息遣いが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.34",
+    "original": "<pt>はこちらを抱きしめてきた！",
+    "translation": "<pt>はこちらを抱きしめてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.41.35",
+    "original": "強く抱きしめる",
+    "translation": "強く抱きしめる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.43.31",
+    "original": "事故でうっかりチューしちゃいました。不可抗力です！",
+    "translation": "事故でうっかりチューしちゃいました。不可抗力です！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.43.32",
+    "original": "<pl>は偶然を装って口付けした！",
+    "translation": "<pl>は偶然を装って口付けした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.43.35",
+    "original": "事故チュー！",
+    "translation": "事故チュー！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.44.31",
+    "original": "服に手を入れて、乳首をつねります",
+    "translation": "服に手を入れて、乳首をつねります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.44.32",
+    "original": "<pl>は乳房を揉みながら、乳首を強めにつねった！",
+    "translation": "<pl>は乳房を揉みながら、乳首を強めにつねった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.44.35",
+    "original": "乳首をぎゅっとつねる",
+    "translation": "乳首をぎゅっとつねる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.31",
+    "original": "相手に知られないよう、こっそり距離を詰めます",
+    "translation": "相手に知られないよう、こっそり距離を詰めます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.32",
+    "original": "<pl>はこっそり相手に近づいた！",
+    "translation": "<pl>はこっそり相手に近づいた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.33",
+    "original": "どうやら相手もその気らしい！",
+    "translation": "どうやら相手もその気らしい！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.34",
+    "original": "<pt>はゆっくりと近付いてきた！",
+    "translation": "<pt>はゆっくりと近付いてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.46.35",
+    "original": "こっそり距離を詰める",
+    "translation": "こっそり距離を詰める",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.47.31",
+    "original": "一気に距離を詰めて肩を持ちます。驚かれるかも",
+    "translation": "一気に距離を詰めて肩を持ちます。驚かれるかも",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.47.32",
+    "original": "<pl>はおもむろに相手の肩を抱き寄せた！",
+    "translation": "<pl>はおもむろに相手の肩を抱き寄せた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.47.35",
+    "original": "肩を抱いて元気づける",
+    "translation": "肩を抱いて元気づける",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.31",
+    "original": "キスができそうな距離まで近づきます",
+    "translation": "キスができそうな距離まで近づきます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.32",
+    "original": "<pl>は目と鼻の先まで、顔を近づけた！",
+    "translation": "<pl>は目と鼻の先まで、顔を近づけた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.33",
+    "original": "相手は積極的だ、こちらの行動を期待している！",
+    "translation": "相手は積極的だ、こちらの行動を期待している！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.34",
+    "original": "<pt>は目と鼻の先まで近付いてきた！",
+    "translation": "<pt>は目と鼻の先まで近付いてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.48.35",
+    "original": "キスの距離まで近づく",
+    "translation": "キスの距離まで近づく",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.49.31",
+    "original": "近づきすぎた距離を離します",
+    "translation": "近づきすぎた距離を離します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.49.32",
+    "original": "<pl>は相手から距離を取った！",
+    "translation": "<pl>は相手から距離を取った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.49.35",
+    "original": "距離を離す1",
+    "translation": "距離を離す1",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.50.31",
+    "original": "事故を装って股を触ります",
+    "translation": "事故を装って股を触ります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.50.32",
+    "original": "<pl>の手がうっかり相手の股間に！",
+    "translation": "<pl>の手がうっかり相手の股間に！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.50.35",
+    "original": "うっかり手が股間に！",
+    "translation": "うっかり手が股間に！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.51.31",
+    "original": "ズボンを下ろし、勃起したアレを触らせます",
+    "translation": "ズボンを下ろし、勃起したアレを触らせます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.51.32",
+    "original": "<pl>はペニスを露出させ、相手に触らせた！",
+    "translation": "<pl>はペニスを露出させ、相手に触らせた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.51.35",
+    "original": "チンポを直接触らせる",
+    "translation": "チンポを直接触らせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.31",
+    "original": "ちょっと触ります。事故と言い訳できる程度に",
+    "translation": "ちょっと触ります。事故と言い訳できる程度に",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.32",
+    "original": "<pl>は自然を装って、手を相手の胸に当てた！",
+    "translation": "<pl>は自然を装って、手を相手の胸に当てた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.33",
+    "original": "腕を通して、<pt>の胸の感触が伝わってくる！",
+    "translation": "腕を通して、<pt>の胸の感触が伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.34",
+    "original": "<pt>はこちらに腕を組むと、おもむろに自分の胸を押しつけてきた！",
+    "translation": "<pt>はこちらに腕を組むと、おもむろに自分の胸を押しつけてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.52.35",
+    "original": "胸に軽く触る",
+    "translation": "胸に軽く触る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.55.31",
+    "original": "触っていいか訊ねてみます。なにを触るのでしょうか",
+    "translation": "触っていいか訊ねてみます。なにを触るのでしょうか",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.55.32",
+    "original": "<pl>は触っていいか聞いてみた！",
+    "translation": "<pl>は触っていいか聞いてみた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.55.35",
+    "original": "触っていいか聞く",
+    "translation": "触っていいか聞く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.56.31",
+    "original": "キスしていいか訊ねてみます",
+    "translation": "キスしていいか訊ねてみます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.56.32",
+    "original": "<pl>はキスしていいか聞いてみた！",
+    "translation": "<pl>はキスしていいか聞いてみた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.56.35",
+    "original": "キスしていいか聞く",
+    "translation": "キスしていいか聞く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.57.31",
+    "original": "「愛してるよ」「好きだよ」と、ささやいちゃいます",
+    "translation": "「愛してるよ」「好きだよ」と、ささやいちゃいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.57.32",
+    "original": "<pl>は耳元で愛の言葉を囁いた！",
+    "translation": "<pl>は耳元で愛の言葉を囁いた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.57.35",
+    "original": "愛を囁く",
+    "translation": "愛を囁く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.58.31",
+    "original": "可愛いとか色々と、適当に褒めてしまいます",
+    "translation": "可愛いとか色々と、適当に褒めてしまいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.58.32",
+    "original": "<pl>は相手を褒めちぎった！",
+    "translation": "<pl>は相手を褒めちぎった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.58.35",
+    "original": "とにかく褒める",
+    "translation": "とにかく褒める",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.59.31",
+    "original": "下着の上から性器を刺激します",
+    "translation": "下着の上から性器を刺激します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.59.32",
+    "original": "<pl>は相手を抱きしめ、股を触らせてもらった！",
+    "translation": "<pl>は相手を抱きしめ、股を触らせてもらった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.59.35",
+    "original": "下着の上から性器弄り",
+    "translation": "下着の上から性器弄り",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.60.31",
+    "original": "下着に手を入れて、性器を優しく愛撫します",
+    "translation": "下着に手を入れて、性器を優しく愛撫します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.60.32",
+    "original": "<pl>はパンツの中に手を入れ、クリトリスを弄った！",
+    "translation": "<pl>はパンツの中に手を入れ、クリトリスを弄った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.60.35",
+    "original": "クリトリスをいじる",
+    "translation": "クリトリスをいじる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.61.31",
+    "original": "告白します。断られても問題ありません",
+    "translation": "告白します。断られても問題ありません",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.61.32",
+    "original": "<pl>は相手の目を見ながら、好きと叫んだ！",
+    "translation": "<pl>は相手の目を見ながら、好きと叫んだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.61.35",
+    "original": "好きと囁く",
+    "translation": "好きと囁く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.31",
+    "original": "チンポを露出して、股の間に挟んでもらいます",
+    "translation": "チンポを露出して、股の間に挟んでもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.32",
+    "original": "<pl>はペニスを露出し、軽くスマタさせた！",
+    "translation": "<pl>はペニスを露出し、軽くスマタさせた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.33",
+    "original": "股はぬるぬるとした愛液が潤滑し、まるで挿入しているかのような快楽を与える！",
+    "translation": "股はぬるぬるとした愛液が潤滑し、まるで挿入しているかのような快楽を与える！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.34",
+    "original": "<pt>はスマタしたまま、積極的に腰を振ってきた！",
+    "translation": "<pt>はスマタしたまま、積極的に腰を振ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.62.35",
+    "original": "スマタしてもらう",
+    "translation": "スマタしてもらう",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.64.31",
+    "original": "ストレートに、エッチに誘います",
+    "translation": "ストレートに、エッチに誘います",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.64.32",
+    "original": "<pl>は耳元にそっと夜の誘いをした！",
+    "translation": "<pl>は耳元にそっと夜の誘いをした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.64.35",
+    "original": "エッチしたいと訊ねる",
+    "translation": "エッチしたいと訊ねる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.65.32",
+    "original": "<pl>は自然を装って、手を相手の尻に当てた！",
+    "translation": "<pl>は自然を装って、手を相手の尻に当てた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.65.33",
+    "original": "お尻のボリュームが伝わってくる！",
+    "translation": "お尻のボリュームが伝わってくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.65.34",
+    "original": "<pt>はこちらの手を取り、自分のお尻を触らせてきた！",
+    "translation": "<pt>はこちらの手を取り、自分のお尻を触らせてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.65.35",
+    "original": "尻に軽く触る",
+    "translation": "尻に軽く触る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.31",
+    "original": "尻をちょっとだけ触ります。ちょっとだけ……",
+    "translation": "尻をちょっとだけ触ります。ちょっとだけ……",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.32",
+    "original": "<pl>は相手の様子を見ながら、尻をさわさわ撫でた！",
+    "translation": "<pl>は相手の様子を見ながら、尻をさわさわ撫でた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.33",
+    "original": "お尻のボリュームが伝わってくる！　柔らかい！",
+    "translation": "お尻のボリュームが伝わってくる！　柔らかい！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.34",
+    "original": "<pt>は腰を振り、自分のお尻を撫でさせてきた！",
+    "translation": "<pt>は腰を振り、自分のお尻を撫でさせてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.66.35",
+    "original": "尻を優しく撫でる",
+    "translation": "尻を優しく撫でる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.67.32",
+    "original": "<pl>は荒い息を吐きながら、いやらしく尻を揉んだ！",
+    "translation": "<pl>は荒い息を吐きながら、いやらしく尻を揉んだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.67.35",
+    "original": "尻をいやらしく揉む",
+    "translation": "尻をいやらしく揉む",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.68.32",
+    "original": "<pl>はスカートに手をつっこみ、形が変わるまで触った！",
+    "translation": "<pl>はスカートに手をつっこみ、形が変わるまで触った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.68.35",
+    "original": "服に手を入れて尻揉み",
+    "translation": "服に手を入れて尻揉み",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.31",
+    "original": "堅くなったアレを、パートナーのお尻に当てます",
+    "translation": "堅くなったアレを、パートナーのお尻に当てます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.32",
+    "original": "<pl>は背後から相手を抱きしめ、堅くなった股間を尻に当てた！",
+    "translation": "<pl>は背後から相手を抱きしめ、堅くなった股間を尻に当てた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.33",
+    "original": "ペニスに刺激を与えられ、膨らんだモノが堅くなって相手に伝わる！",
+    "translation": "ペニスに刺激を与えられ、膨らんだモノが堅くなって相手に伝わる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.34",
+    "original": "<pt>はお尻を振り、<pl>の股間にすりつけてきた！",
+    "translation": "<pt>はお尻を振り、<pl>の股間にすりつけてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.70.35",
+    "original": "バックから股間当て",
+    "translation": "バックから股間当て",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.71.31",
+    "original": "バックから抱きつき、胸や性器などまさぐります",
+    "translation": "バックから抱きつき、胸や性器などまさぐります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.71.32",
+    "original": "<pl>はバックから抱きしめ、焦らすように愛撫した！",
+    "translation": "<pl>はバックから抱きしめ、焦らすように愛撫した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.71.35",
+    "original": "バックからまさぐる",
+    "translation": "バックからまさぐる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.31",
+    "original": "肩を抱き、ゆっくりと身体を密着させます",
+    "translation": "肩を抱き、ゆっくりと身体を密着させます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.32",
+    "original": "<pl>はゆっくりと密着した！",
+    "translation": "<pl>はゆっくりと密着した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.33",
+    "original": "相手はかなり積極的なようだ！",
+    "translation": "相手はかなり積極的なようだ！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.34",
+    "original": "<pt>はゆっくりと密着してきた！",
+    "translation": "<pt>はゆっくりと密着してきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.72.35",
+    "original": "ゆっくり密着する",
+    "translation": "ゆっくり密着する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.73.35",
+    "original": "距離を離す2",
+    "translation": "距離を離す2",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.75.35",
+    "original": "距離を離す3",
+    "translation": "距離を離す3",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.31",
+    "original": "頭を撫でます。馬鹿にされてると思われないように",
+    "translation": "頭を撫でます。馬鹿にされてると思われないように",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.32",
+    "original": "<pl>はおもむろに相手の頭を撫でた！",
+    "translation": "<pl>はおもむろに相手の頭を撫でた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.33",
+    "original": "<pl>に撫でられて、気持ちよさそうにしている！",
+    "translation": "<pl>に撫でられて、気持ちよさそうにしている！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.34",
+    "original": "<pt>は頭を撫でてもらいたがっている！",
+    "translation": "<pt>は頭を撫でてもらいたがっている！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.76.35",
+    "original": "頭を撫でる",
+    "translation": "頭を撫でる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.77.31",
+    "original": "とにかく必死で謝って、機嫌を直してもらいます",
+    "translation": "とにかく必死で謝って、機嫌を直してもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.77.32",
+    "original": "<pl>は必死で謝った！",
+    "translation": "<pl>は必死で謝った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.77.35",
+    "original": "必死に謝る！",
+    "translation": "必死に謝る！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.78.31",
+    "original": "なあなあで謝って、水に流してもらいます",
+    "translation": "なあなあで謝って、水に流してもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.78.32",
+    "original": "<pl>は相手の肩を叩き、なあなあで済ませようとした！",
+    "translation": "<pl>は相手の肩を叩き、なあなあで済ませようとした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.78.35",
+    "original": "なあなあで謝る",
+    "translation": "なあなあで謝る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.79.31",
+    "original": "キスして誤魔化します。上級過ぎるような？",
+    "translation": "キスして誤魔化します。上級過ぎるような？",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.79.32",
+    "original": "<pl>は相手にキスをして、誤魔化そうとした！",
+    "translation": "<pl>は相手にキスをして、誤魔化そうとした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.79.35",
+    "original": "キスして謝る",
+    "translation": "キスして謝る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.80.31",
+    "original": "頭を撫でて誤魔化します。火に油を注がないように注意",
+    "translation": "頭を撫でて誤魔化します。火に油を注がないように注意",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.80.32",
+    "original": "<pl>は相手の頭を撫でて、誤魔化そうとした！",
+    "translation": "<pl>は相手の頭を撫でて、誤魔化そうとした！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.80.35",
+    "original": "頭を撫でて誤魔化す",
+    "translation": "頭を撫でて誤魔化す",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.31",
+    "original": "スマタしてもらい、ちょっとだけ入れさせてもらいます",
+    "translation": "スマタしてもらい、ちょっとだけ入れさせてもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.32",
+    "original": "<pl>はおもむろにペニスを露出させ、相手のワレメに軽くあてがった！",
+    "translation": "<pl>はおもむろにペニスを露出させ、相手のワレメに軽くあてがった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.33",
+    "original": "相手は積極的だが、中には挿入しないよう焦らしてくる！<p>そのまま入れてしまいそうなのに、入れさせてくれなくて、逆に興奮する！",
+    "translation": "相手は積極的だが、中には挿入しないよう焦らしてくる！<p>そのまま入れてしまいそうなのに、入れさせてくれなくて、逆に興奮する！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.34",
+    "original": "<pt>はお尻を振り、<pl>のモノをワレメに入れようとしてくる！",
+    "translation": "<pt>はお尻を振り、<pl>のモノをワレメに入れようとしてくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.81.35",
+    "original": "先っちょだけ入れる",
+    "translation": "先っちょだけ入れる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.82.31",
+    "original": "心配します。これすら失敗するなら、大変です",
+    "translation": "心配します。これすら失敗するなら、大変です",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.82.32",
+    "original": "<pl>はいたわりの言葉を投げかけた！",
+    "translation": "<pl>はいたわりの言葉を投げかけた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.82.35",
+    "original": "大丈夫？と聞く",
+    "translation": "大丈夫？と聞く",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.83.31",
+    "original": "身体のあちこちをひたすらいやらしく見ます",
+    "translation": "身体のあちこちをひたすらいやらしく見ます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.83.32",
+    "original": "<pl>は相手の全身をくまなく視姦した！",
+    "translation": "<pl>は相手の全身をくまなく視姦した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.83.35",
+    "original": "全身を視姦する",
+    "translation": "全身を視姦する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.84.31",
+    "original": "これ以上何もせず、撤退します",
+    "translation": "これ以上何もせず、撤退します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.84.32",
+    "original": "<pl>は撤退した！",
+    "translation": "<pl>は撤退した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.84.35",
+    "original": "撤退する",
+    "translation": "撤退する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.87.31",
+    "original": "服をブレイクし、ハードなプレイを可能にします",
+    "translation": "服をブレイクし、ハードなプレイを可能にします",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.87.32",
+    "original": "<pl>は相手の服を切り裂いた！",
+    "translation": "<pl>は相手の服を切り裂いた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.87.35",
+    "original": "クロスカッター！",
+    "translation": "クロスカッター！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.88.31",
+    "original": "ペニスを足で踏みつけ、射精に導きます",
+    "translation": "ペニスを足で踏みつけ、射精に導きます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.88.33",
+    "original": "ペニスが痛い！<p>だがその痛みが快感になってしまう！",
+    "translation": "ペニスが痛い！<p>だがその痛みが快感になってしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.88.34",
+    "original": "<pt>はおもむろに靴を脱ぐと、<pl>のペニスをゆっくり踏みつけてきた！",
+    "translation": "<pt>はおもむろに靴を脱ぐと、<pl>のペニスをゆっくり踏みつけてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.88.35",
+    "original": "足で踏みつける",
+    "translation": "足で踏みつける",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.89.31",
+    "original": "豊富な乳房でペニスを挟み込み、射精に導きます",
+    "translation": "豊富な乳房でペニスを挟み込み、射精に導きます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.89.33",
+    "original": "柔らかい感触に夢心地となり、<pl>のモノはビクビクと震えてしまう！",
+    "translation": "柔らかい感触に夢心地となり、<pl>のモノはビクビクと震えてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.89.34",
+    "original": "<pt>は、<pl>のペニスを胸で挟み込んできた！",
+    "translation": "<pt>は、<pl>のペニスを胸で挟み込んできた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.89.35",
+    "original": "パイズリでイカせる",
+    "translation": "パイズリでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.90.31",
+    "original": "お尻でペニスを愛撫し、射精に導きます",
+    "translation": "お尻でペニスを愛撫し、射精に導きます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.90.33",
+    "original": "<pt>の尻に密着され、<pl>のペニスはどんどん膨らんでいく！",
+    "translation": "<pt>の尻に密着され、<pl>のペニスはどんどん膨らんでいく！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.90.34",
+    "original": "<pt>はスカートをまくると、<pl>のペニスにお尻をすりつけてきた！",
+    "translation": "<pt>はスカートをまくると、<pl>のペニスにお尻をすりつけてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.90.35",
+    "original": "尻コキでイカせる",
+    "translation": "尻コキでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.91.31",
+    "original": "ペニスを口で愛撫し、射精に導きます",
+    "translation": "ペニスを口で愛撫し、射精に導きます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.91.33",
+    "original": "ねっとりとした感触にペニスが震える！<p><pl>のモノはビクビクと震えてしまう！",
+    "translation": "ねっとりとした感触にペニスが震える！<p><pl>のモノはビクビクと震えてしまう！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.91.34",
+    "original": "<pt>は<pl>の前にかがむと、愛おしそうにペニスに舌を這わせ始めた！",
+    "translation": "<pt>は<pl>の前にかがむと、愛おしそうにペニスに舌を這わせ始めた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.91.35",
+    "original": "フェラでイカせる",
+    "translation": "フェラでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.92.31",
+    "original": "手でペニスを愛撫し、射精に導きます",
+    "translation": "手でペニスを愛撫し、射精に導きます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.92.33",
+    "original": "<pt>に優しくリードされ、射精感を高められてしまった！",
+    "translation": "<pt>に優しくリードされ、射精感を高められてしまった！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.92.34",
+    "original": "<pt>は<pl>のペニスを握り、ゆっくりと刺激を加えてきた！",
+    "translation": "<pt>は<pl>のペニスを握り、ゆっくりと刺激を加えてきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.92.35",
+    "original": "手コキでイカせる",
+    "translation": "手コキでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.31",
+    "original": "ゆっくり攻めて、相手の興奮を誘います。【ヌレヌレ】アップ",
+    "translation": "ゆっくり攻めて、相手の興奮を誘います。【ヌレヌレ】アップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.32",
+    "original": "<pl>はゆっくりと腰を突き入れ、亀頭で相手の快感を刺激した！$<pl>はペニスをゆっくりと出し入れして、粘膜が絡み合う感触を感じさせた！$<pl>はゆっくり腰を振った！",
+    "translation": "<pl>はゆっくりと腰を突き入れ、亀頭で相手の快感を刺激した！$<pl>はペニスをゆっくりと出し入れして、粘膜が絡み合う感触を感じさせた！$<pl>はゆっくり腰を振った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.33",
+    "original": "<pt>は自分の<ruby=なか>膣内</ruby>でペニスを愛撫し、結合の感触を楽しんでいるようだ……！",
+    "translation": "<pt>は自分の<ruby=なか>膣内</ruby>でペニスを愛撫し、結合の感触を楽しんでいるようだ……！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.34",
+    "original": "<pt>はゆっくりと、こちらのペニスを愛撫するよう腰を振ってきた！$<pt>はゆっくり腰を振ってきた！",
+    "translation": "<pt>はゆっくりと、こちらのペニスを愛撫するよう腰を振ってきた！$<pt>はゆっくり腰を振ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.93.35",
+    "original": "ゆっくりと突き入れる",
+    "translation": "ゆっくりと突き入れる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.31",
+    "original": "激しく攻めて、相手を絶頂させます。【ヌレヌレ】に応じて効果アップ",
+    "translation": "激しく攻めて、相手を絶頂させます。【ヌレヌレ】に応じて効果アップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.32",
+    "original": "<pl>は激しく腰を振った！$<pl>は激しいピストンで、相手のナカにペニスを突き入れた！$<pl>は相手の中にペニスを激しく出し入れした！$<pl>は激しく腰を振り、相手の身体を貪った！",
+    "translation": "<pl>は激しく腰を振った！$<pl>は激しいピストンで、相手のナカにペニスを突き入れた！$<pl>は相手の中にペニスを激しく出し入れした！$<pl>は激しく腰を振り、相手の身体を貪った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.33",
+    "original": "ペニスがナカから出し入れされる度に、肉襞が激しく絡みついてくる！",
+    "translation": "ペニスがナカから出し入れされる度に、肉襞が激しく絡みついてくる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.34",
+    "original": "<pt>は興奮して、激しく腰を振ってきた！$<pt>は興奮して腰を振ってきた！",
+    "translation": "<pt>は興奮して、激しく腰を振ってきた！$<pt>は興奮して腰を振ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.94.35",
+    "original": "激しく突き入れる",
+    "translation": "激しく突き入れる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.31",
+    "original": "焦らすように攻めます。【ヌレヌレ】が大きくアップ",
+    "translation": "焦らすように攻めます。【ヌレヌレ】が大きくアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.32",
+    "original": "<pl>は焦らすようなピストンで、相手のナカにペニスを出し入れした！$<pl>は焦らすように突き入れ、相手に快感を与え続けた！$<pl>は焦らすよう腰を振った！",
+    "translation": "<pl>は焦らすようなピストンで、相手のナカにペニスを出し入れした！$<pl>は焦らすように突き入れ、相手に快感を与え続けた！$<pl>は焦らすよう腰を振った！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.33",
+    "original": "<pt>の腰使いで、ペニスの亀頭は優しく快感に導かれる！",
+    "translation": "<pt>の腰使いで、ペニスの亀頭は優しく快感に導かれる！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.34",
+    "original": "<pt>は妖艶な表情を浮かべ、淫らに腰を振ってきた！$<pt>は焦らすよう腰を振ってきた！",
+    "translation": "<pt>は妖艶な表情を浮かべ、淫らに腰を振ってきた！$<pt>は焦らすよう腰を振ってきた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.95.35",
+    "original": "焦らすよう突き入れる",
+    "translation": "焦らすよう突き入れる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.96.31",
+    "original": "相手の興奮を抑えます。【エッチな気分】を低下",
+    "translation": "相手の興奮を抑えます。【エッチな気分】を低下",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.96.32",
+    "original": "<pl>は相手の興奮を抑えた！",
+    "translation": "<pl>は相手の興奮を抑えた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.96.35",
+    "original": "クールダウン",
+    "translation": "クールダウン",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.97.31",
+    "original": "ゆっくり深呼吸して、【ＥＰ】を大きく回復します",
+    "translation": "ゆっくり深呼吸して、【ＥＰ】を大きく回復します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.97.32",
+    "original": "<pl>は落ち着いて深呼吸した！",
+    "translation": "<pl>は落ち着いて深呼吸した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.97.35",
+    "original": "カームブレス",
+    "translation": "カームブレス",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.98.31",
+    "original": "小休止して、【ＥＰ】を回復します + 非合体時は【TIME】回復",
+    "translation": "小休止して、【ＥＰ】を回復します + 非合体時は【TIME】回復",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.98.32",
+    "original": "<pl>は小休止した！",
+    "translation": "<pl>は小休止した！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.98.35",
+    "original": "ウェイト",
+    "translation": "ウェイト",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.99.31",
+    "original": "相手を挑発します。ポイントはそのままで反撃されます",
+    "translation": "相手を挑発します。ポイントはそのままで反撃されます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.99.32",
+    "original": "<pl>は相手を激しく挑発してみた！",
+    "translation": "<pl>は相手を激しく挑発してみた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.99.35",
+    "original": "プロヴォーク",
+    "translation": "プロヴォーク",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.100.31",
+    "original": "ムチで打たれて快感を与えてもらいます",
+    "translation": "ムチで打たれて快感を与えてもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.100.35",
+    "original": "ムチを打ってもらう",
+    "translation": "ムチを打ってもらう",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.101.31",
+    "original": "泡まみれになって、身体をこすりつけて奉仕してもらいます",
+    "translation": "泡まみれになって、身体をこすりつけて奉仕してもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.101.35",
+    "original": "泡プレイでイカせる",
+    "translation": "泡プレイでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.102.31",
+    "original": "身体の上に乗ってもらい、互いの性器を愛撫します",
+    "translation": "身体の上に乗ってもらい、互いの性器を愛撫します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.102.35",
+    "original": "シックスナインを楽しむ",
+    "translation": "シックスナインを楽しむ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.103.31",
+    "original": "上に乗ってペニスを刺激してもらいます",
+    "translation": "上に乗ってペニスを刺激してもらいます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.103.35",
+    "original": "腰を振らせる",
+    "translation": "腰を振らせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.104.31",
+    "original": "アナルを舐めます",
+    "translation": "アナルを舐めます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.104.32",
+    "original": "<pl>はアナルを舐めた！",
+    "translation": "<pl>はアナルを舐めた！",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.104.35",
+    "original": "アナルを舐める",
+    "translation": "アナルを舐める",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.105.31",
+    "original": "服を脱いでもらいます。エッチの準備となります",
+    "translation": "服を脱いでもらいます。エッチの準備となります",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.105.35",
+    "original": "服を脱がせる",
+    "translation": "服を脱がせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.106.35",
+    "original": "乳房でぱふぱふ",
+    "translation": "乳房でぱふぱふ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.107.31",
+    "original": "女の子の行動を待ちます",
+    "translation": "女の子の行動を待ちます",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.107.35",
+    "original": "流れに身を任せる",
+    "translation": "流れに身を任せる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.108.35",
+    "original": "球筋を刺激する",
+    "translation": "球筋を刺激する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.109.35",
+    "original": "激しく腰を振る",
+    "translation": "激しく腰を振る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.110.35",
+    "original": "ゆっくり腰を振る",
+    "translation": "ゆっくり腰を振る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.111.35",
+    "original": "変態と言葉攻め(SM)",
+    "translation": "変態と言葉攻め(SM)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.112.35",
+    "original": "◆快感で悶える(クンニ)",
+    "translation": "◆快感で悶える(クンニ)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.113.31",
+    "original": "女の子の性器をいじります。",
+    "translation": "女の子の性器をいじります。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.113.35",
+    "original": "性器をしゃぶり尽くす",
+    "translation": "性器をしゃぶり尽くす",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.114.35",
+    "original": "SMプレイでイカせる",
+    "translation": "SMプレイでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.115.35",
+    "original": "乳首舐めでイカせる",
+    "translation": "乳首舐めでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.117.35",
+    "original": "授乳して誘惑する",
+    "translation": "授乳して誘惑する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.118.35",
+    "original": "巨乳で誘惑する",
+    "translation": "巨乳で誘惑する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.119.35",
+    "original": "膣内を締め付ける",
+    "translation": "膣内を締め付ける",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.120.35",
+    "original": "激しくキスをしてくる",
+    "translation": "激しくキスをしてくる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.121.35",
+    "original": "足を絡ませてくる",
+    "translation": "足を絡ませてくる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.122.35",
+    "original": "お尻を密着させる",
+    "translation": "お尻を密着させる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.123.31",
+    "original": "女の子の胸をいじります。",
+    "translation": "女の子の胸をいじります。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.123.35",
+    "original": "ちっぱいを攻める",
+    "translation": "ちっぱいを攻める",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.124.35",
+    "original": "全身を擦り付けてくる",
+    "translation": "全身を擦り付けてくる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.125.35",
+    "original": "★誘い受け(もっと激しく)",
+    "translation": "★誘い受け(もっと激しく)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.126.35",
+    "original": "足コキでイカせる",
+    "translation": "足コキでイカせる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.127.31",
+    "original": "女の子の肛門に指を入れて刺激します",
+    "translation": "女の子の肛門に指を入れて刺激します",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.127.35",
+    "original": "アナルに指を入れる",
+    "translation": "アナルに指を入れる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.128.35",
+    "original": "◆快感で悶える(乳首)",
+    "translation": "◆快感で悶える(乳首)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.129.31",
+    "original": "女の子のボテ腹を愛撫します。",
+    "translation": "女の子のボテ腹を愛撫します。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.129.35",
+    "original": "ボテ腹を愛おしむ",
+    "translation": "ボテ腹を愛おしむ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.130.35",
+    "original": "◆快感で悶える(乳房)",
+    "translation": "◆快感で悶える(乳房)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.131.35",
+    "original": "★誘い受け(アナザー)",
+    "translation": "★誘い受け(アナザー)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.133.35",
+    "original": "◆快感で悶える(尻)",
+    "translation": "◆快感で悶える(尻)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.134.35",
+    "original": "★誘い受け(メイド)",
+    "translation": "★誘い受け(メイド)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.135.35",
+    "original": "★誘い受け(特殊コス)",
+    "translation": "★誘い受け(特殊コス)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.136.35",
+    "original": "★誘い受け(凌辱プレイ)",
+    "translation": "★誘い受け(凌辱プレイ)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.137.35",
+    "original": "★誘い受け(ペニス全般)",
+    "translation": "★誘い受け(ペニス全般)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.138.35",
+    "original": "乳房を激しくこすりつける",
+    "translation": "乳房を激しくこすりつける",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.139.35",
+    "original": "乳房で圧迫する",
+    "translation": "乳房で圧迫する",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.140.35",
+    "original": "★誘い受け(射精)",
+    "translation": "★誘い受け(射精)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.141.35",
+    "original": "亀頭を舌で撫でる",
+    "translation": "亀頭を舌で撫でる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.142.35",
+    "original": "亀頭を指で弄る",
+    "translation": "亀頭を指で弄る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.143.35",
+    "original": "サオを激しくこする",
+    "translation": "サオを激しくこする",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.144.35",
+    "original": "授乳させながら甘やかす",
+    "translation": "授乳させながら甘やかす",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.145.35",
+    "original": "▲ボテ腹をさすりながら感じる",
+    "translation": "▲ボテ腹をさすりながら感じる",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.146.35",
+    "original": "乳首をコリコリと弄る",
+    "translation": "乳首をコリコリと弄る",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_11.txt.147.35",
+    "original": "★誘い受け(挿入を求める)",
+    "translation": "★誘い受け(挿入を求める)",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_15.txt.22.31",
+    "original": "舌同士を絡める濃厚なキス、【エロエロ】が大きくアップ",
+    "translation": "舌同士を絡める濃厚なキス、【エロエロ】が大きくアップ",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_15.txt.98.31",
+    "original": "小休止して、【ＥＰ】と【残りタイム】を回復します。",
+    "translation": "小休止して、【ＥＰ】と【残りタイム】を回復します。",
+    "context": null
+  },
+  {
+    "key": "db_UnitCharaPartnerAccessApproach_15.txt.127.31",
+    "original": "女の子の肛門に指を入れて刺激します。",
+    "translation": "女の子の肛門に指を入れて刺激します。",
+    "context": null
+  }
+]

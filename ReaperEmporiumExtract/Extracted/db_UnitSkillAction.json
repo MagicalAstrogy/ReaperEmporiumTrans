@@ -1,0 +1,338 @@
+[
+  {
+    "key": "db_UnitSkillAction_11.txt.0.5",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.1.5",
+    "original": "防御貫通(中)",
+    "translation": "防御貫通(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.2.5",
+    "original": "防御貫通(大)",
+    "translation": "防御貫通(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.3.5",
+    "original": "いなくなる",
+    "translation": "いなくなる",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.4.5",
+    "original": "強制命中",
+    "translation": "強制命中",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.5.5",
+    "original": "強制クリティカル",
+    "translation": "強制クリティカル",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.6.5",
+    "original": "自分以外に効果",
+    "translation": "自分以外に効果",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.7.5",
+    "original": "HP回復(中)",
+    "translation": "HP回復(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.8.5",
+    "original": "HP回復(大)",
+    "translation": "HP回復(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.9.5",
+    "original": "強制即死",
+    "translation": "強制即死",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.10.5",
+    "original": "バフ解除",
+    "translation": "バフ解除",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.11.5",
+    "original": "回避(中)",
+    "translation": "回避(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.12.5",
+    "original": "ドロップ上昇(小)",
+    "translation": "ドロップ上昇(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.13.5",
+    "original": "ドロップ上昇(大)",
+    "translation": "ドロップ上昇(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.14.5",
+    "original": "回避(小)",
+    "translation": "回避(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.15.5",
+    "original": "防御(中)",
+    "translation": "防御(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.16.5",
+    "original": "防御貫通(小)",
+    "translation": "防御貫通(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.17.5",
+    "original": "回避(大)",
+    "translation": "回避(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.18.5",
+    "original": "防御(大)",
+    "translation": "防御(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.19.5",
+    "original": "HP回復(小)",
+    "translation": "HP回復(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.20.5",
+    "original": "MP消費なし",
+    "translation": "MP消費なし",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.21.5",
+    "original": "MP回復(小)",
+    "translation": "MP回復(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.22.5",
+    "original": "MP回復(中)",
+    "translation": "MP回復(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.23.5",
+    "original": "MP回復(大)",
+    "translation": "MP回復(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.24.5",
+    "original": "全チェイス追撃可能",
+    "translation": "全チェイス追撃可能",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.25.5",
+    "original": "HP吸収(小)",
+    "translation": "HP吸収(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.26.5",
+    "original": "LV吸収(小)",
+    "translation": "LV吸収(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.27.5",
+    "original": "CT回復(小)",
+    "translation": "CT回復(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.28.5",
+    "original": "使用時に主人公レベルダウン + たまに恍惚状態に",
+    "translation": "使用時に主人公レベルダウン + たまに恍惚状態に",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.29.5",
+    "original": "全回復",
+    "translation": "全回復",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.30.5",
+    "original": "防御(小)",
+    "translation": "防御(小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.31.5",
+    "original": "MP節約",
+    "translation": "MP節約",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.32.5",
+    "original": "MP回復(極小)",
+    "translation": "MP回復(極小)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.33.5",
+    "original": "服破壊",
+    "translation": "服破壊",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.34.5",
+    "original": "男特攻",
+    "translation": "男特攻",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.35.5",
+    "original": "CT回復(中)",
+    "translation": "CT回復(中)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.36.5",
+    "original": "CT回復(大)",
+    "translation": "CT回復(大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.37.5",
+    "original": "CT消費増加",
+    "translation": "CT消費増加",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.38.5",
+    "original": "ダメージ限界突破",
+    "translation": "ダメージ限界突破",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.39.5",
+    "original": "蘇生",
+    "translation": "蘇生",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.40.5",
+    "original": "HP回復(特大)",
+    "translation": "HP回復(特大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.41.5",
+    "original": "転生封じ",
+    "translation": "転生封じ",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.42.5",
+    "original": "使用後死亡",
+    "translation": "使用後死亡",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.43.5",
+    "original": "逆鱗時CT短縮",
+    "translation": "逆鱗時CT短縮",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.44.5",
+    "original": "獣王時CT退縮",
+    "translation": "獣王時CT退縮",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.45.5",
+    "original": "攻撃後パーティー回復",
+    "translation": "攻撃後パーティー回復",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.46.5",
+    "original": "禁呪暴走抑制",
+    "translation": "禁呪暴走抑制",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.47.5",
+    "original": "超威力",
+    "translation": "超威力",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.48.5",
+    "original": "主人公のみ効果",
+    "translation": "主人公のみ効果",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.49.5",
+    "original": "仲間呼び(自他)",
+    "translation": "仲間呼び(自他)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.50.5",
+    "original": "強制デスクリティカル",
+    "translation": "強制デスクリティカル",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.51.5",
+    "original": "CT回復(特大)",
+    "translation": "CT回復(特大)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.52.5",
+    "original": "仲間呼び(他)",
+    "translation": "仲間呼び(他)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.53.5",
+    "original": "仲間呼び(自)",
+    "translation": "仲間呼び(自)",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.54.5",
+    "original": "デバフ特化",
+    "translation": "デバフ特化",
+    "context": null
+  },
+  {
+    "key": "db_UnitSkillAction_11.txt.55.5",
+    "original": "主人公以外に効果",
+    "translation": "主人公以外に効果",
+    "context": null
+  }
+]

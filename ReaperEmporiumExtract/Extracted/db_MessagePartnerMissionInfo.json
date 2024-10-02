@@ -1,0 +1,1304 @@
+[
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.2.6",
+    "original": "おいオマエ、せっかく女を大勢使ってるのに、これでは稼ぎが足りんデス！　もっと働かせて稼ぐデス！",
+    "translation": "おいオマエ、せっかく女を大勢使ってるのに、これでは稼ぎが足りんデス！　もっと働かせて稼ぐデス！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.4.6",
+    "original": "うぅむ、施設の細かい不便さが気になるのじゃ。ここらで少し改良してみんか？",
+    "translation": "うぅむ、施設の細かい不便さが気になるのじゃ。ここらで少し改良してみんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.5.6",
+    "original": "ウルフィナは欲求不満だぞ！　もっと交尾しようぜД",
+    "translation": "ウルフィナは欲求不満だぞ！　もっと交尾しようぜД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.6.6",
+    "original": "店の規模を考えるに、もっと手元に現金を残しておくべきですわ。もう少し稼いでしまいましょう",
+    "translation": "店の規模を考えるに、もっと手元に現金を残しておくべきですわ。もう少し稼いでしまいましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.7.6",
+    "original": "冒険者の方々は、もっと危険とスリルと報酬を求めておられます。血の気の多い方々に、派遣先を提示してあげては？",
+    "translation": "冒険者の方々は、もっと危険とスリルと報酬を求めておられます。血の気の多い方々に、派遣先を提示してあげては？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.8.6",
+    "original": "ねえねえ、ボクにはもう飽きちゃった？　また【<pl>】とエッチしたいなーД",
+    "translation": "ねえねえ、ボクにはもう飽きちゃった？　また【<pl>】とエッチしたいなーД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.9.6",
+    "original": "最近お客さんがジロジロ見てきてこわ～いД　お兄ちゃん、ルーシェを慰めて～Д",
+    "translation": "最近お客さんがジロジロ見てきてこわ～いД　お兄ちゃん、ルーシェを慰めて～Д",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.10.6",
+    "original": "店が賑やかなのは結構だが、荒くれ者が仕事をしないのでは困るな。ダンジョンに派遣するべきであろうな",
+    "translation": "店が賑やかなのは結構だが、荒くれ者が仕事をしないのでは困るな。ダンジョンに派遣するべきであろうな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.11.6",
+    "original": "森の民としては、【<pl>】殿がどのように資源を採取するのか興味がある。当然、良い探索結果を出してくれるだろう？",
+    "translation": "森の民としては、【<pl>】殿がどのように資源を採取するのか興味がある。当然、良い探索結果を出してくれるだろう？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.12.6",
+    "original": "ゼカリウス付近では、冒険者さんの派遣をお願いしたいって場所がまだ多いわ。お店からダンジョンに派遣できる冒険者さんはいないかしら？",
+    "translation": "ゼカリウス付近では、冒険者さんの派遣をお願いしたいって場所がまだ多いわ。お店からダンジョンに派遣できる冒険者さんはいないかしら？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.13.6",
+    "original": "冒険者のくせに、ダンジョンに行かずにたむろしているのがいますね。さっさと仕事を与えて、叩き出して下さい",
+    "translation": "冒険者のくせに、ダンジョンに行かずにたむろしているのがいますね。さっさと仕事を与えて、叩き出して下さい",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.14.6",
+    "original": "【<pl>】君達の力を必要としている所があるようだ。人を融通できたら、派遣してあげてくれないかい？",
+    "translation": "【<pl>】君達の力を必要としている所があるようだ。人を融通できたら、派遣してあげてくれないかい？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.15.6",
+    "original": "冒険者の助けを必要としている方々がいるようですね。【<pl>】さん、どなたか向かう事が出来る方はいらっしゃいませんか？",
+    "translation": "冒険者の助けを必要としている方々がいるようですね。【<pl>】さん、どなたか向かう事が出来る方はいらっしゃいませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.16.6",
+    "original": "ゼカリウスは交易の中心ですから、食材には困りますまい？　更なる利益が求められましょうな",
+    "translation": "ゼカリウスは交易の中心ですから、食材には困りますまい？　更なる利益が求められましょうな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.17.6",
+    "original": "今でも人を待ってるところがあるんだよな。誰か派遣してやったらどうだ？",
+    "translation": "今でも人を待ってるところがあるんだよな。誰か派遣してやったらどうだ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.18.6",
+    "original": "【『勇者』】の仕事と言えば、お宝のゲットだよな？　ダンジョンに行って、トレジャーハントしてきてくれよ！",
+    "translation": "【『勇者』】の仕事と言えば、お宝のゲットだよな？　ダンジョンに行って、トレジャーハントしてきてくれよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.19.6",
+    "original": "冒険者の派遣を要請する届け出が来ておりますぞ。どなたか手が空いている人材はいないのですかな？",
+    "translation": "冒険者の派遣を要請する届け出が来ておりますぞ。どなたか手が空いている人材はいないのですかな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.20.6",
+    "original": "よもや私を抱いたからと言って、仲が深まったと勘違いしていないだろうな？　まだまだ抱いてもらわないと、仲良くなったとは言えんなД",
+    "translation": "よもや私を抱いたからと言って、仲が深まったと勘違いしていないだろうな？　まだまだ抱いてもらわないと、仲良くなったとは言えんなД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.21.6",
+    "original": "ここの錬金術師は、随分と凄腕みたいだね。え、姉の友人？　う、嘘……あ、いえ、どおりで。じゃあ、もっと儲けて当たり前だと思う",
+    "translation": "ここの錬金術師は、随分と凄腕みたいだね。え、姉の友人？　う、嘘……あ、いえ、どおりで。じゃあ、もっと儲けて当たり前だと思う",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.22.6",
+    "original": "暇そうなスタッフがうろついてますね……早くダンジョンに派遣してあげて下さいよ",
+    "translation": "暇そうなスタッフがうろついてますね……早くダンジョンに派遣してあげて下さいよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.23.6",
+    "original": "近隣の人間に飽きられたのか、娯楽施設の客入りが悪くなってますわ。人を呼び込んで、稼いで下さいませ",
+    "translation": "近隣の人間に飽きられたのか、娯楽施設の客入りが悪くなってますわ。人を呼び込んで、稼いで下さいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.24.6",
+    "original": "ちょっとええ？　何やダンジョンに向かって、帰ってこない冒険者がいるんやて。早いとこ救出に向かった方がええやろな",
+    "translation": "ちょっとええ？　何やダンジョンに向かって、帰ってこない冒険者がいるんやて。早いとこ救出に向かった方がええやろな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.25.6",
+    "original": "お金を稼げばよろしいのでしょう？　ふふ、では、手っ取り早く体で稼いでみせましょうか。遠慮せず、お申しつけ下さいませ",
+    "translation": "お金を稼げばよろしいのでしょう？　ふふ、では、手っ取り早く体で稼いでみせましょうか。遠慮せず、お申しつけ下さいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.26.6",
+    "original": "えーっと、最近ネタに詰まってまして……アシスタントをお願いしたいのですが……Д　その、都合の良い時に、抱いてほしいでありますぞД",
+    "translation": "えーっと、最近ネタに詰まってまして……アシスタントをお願いしたいのですが……Д　その、都合の良い時に、抱いてほしいでありますぞД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.27.6",
+    "original": "迷宮のトレジャーは私にとっても価値あるものですわ。私も同行しますから、メインメンバーとして、トレジャーハントに参加させて下さいませ",
+    "translation": "迷宮のトレジャーは私にとっても価値あるものですわ。私も同行しますから、メインメンバーとして、トレジャーハントに参加させて下さいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.28.6",
+    "original": "ワシらの工房を作った者は凄腕じゃな。これだけの腕ならば、現状よりも稼ぎが出せるじゃろ？",
+    "translation": "ワシらの工房を作った者は凄腕じゃな。これだけの腕ならば、現状よりも稼ぎが出せるじゃろ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.29.6",
+    "original": "希少な素材があった方が、商売には助かるだろ？　ダンジョンに探しに行こうぜ！",
+    "translation": "希少な素材があった方が、商売には助かるだろ？　ダンジョンに探しに行こうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.30.6",
+    "original": "私は【<pl>】様の為なら、いくらでも身を捧げますよ……Д　良ければ、また私を抱いて、下さい……Д",
+    "translation": "私は【<pl>】様の為なら、いくらでも身を捧げますよ……Д　良ければ、また私を抱いて、下さい……Д",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.31.6",
+    "original": "え、直接資源回収に行くんですか？　じゃあ私にも【<pl>】さんの仕事ぶりを見せてもらいますね",
+    "translation": "え、直接資源回収に行くんですか？　じゃあ私にも【<pl>】さんの仕事ぶりを見せてもらいますね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.32.6",
+    "original": "私は身も心も【<pl>】様のシモベですわД　早く私に、欲求の全てをぶつけて下さいませД",
+    "translation": "私は身も心も【<pl>】様のシモベですわД　早く私に、欲求の全てをぶつけて下さいませД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.33.6",
+    "original": "凡人共が、優秀な人間の足を引っ張るようではいけませんね。ちゃんと教育して、ランクアップしてください",
+    "translation": "凡人共が、優秀な人間の足を引っ張るようではいけませんね。ちゃんと教育して、ランクアップしてください",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.34.6",
+    "original": "自分などの体で稼ぐ、でありますか……恥ずかしいですが、ご命令とあらばД　いえ、むしろその、やらせて下さいД",
+    "translation": "自分などの体で稼ぐ、でありますか……恥ずかしいですが、ご命令とあらばД　いえ、むしろその、やらせて下さいД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.35.6",
+    "original": "希少なアイテムを探すって、冒険者に任せた方がいいと思いますけど……ま、やるって言うなら、【<pl>】さんの腕前を見せてもらいますよ",
+    "translation": "希少なアイテムを探すって、冒険者に任せた方がいいと思いますけど……ま、やるって言うなら、【<pl>】さんの腕前を見せてもらいますよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.36.6",
+    "original": "おい【<pl>】、行方不明の冒険者がいるって？　仕方ねぇな……手遅れになる前に、救出に行こうぜ！",
+    "translation": "おい【<pl>】、行方不明の冒険者がいるって？　仕方ねぇな……手遅れになる前に、救出に行こうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.37.6",
+    "original": "せっかく体を張ってるんだから、もっと数字を出してくれよな。アタシも頑張ってやるから、これくらいは稼いでくれよД",
+    "translation": "せっかく体を張ってるんだから、もっと数字を出してくれよな。アタシも頑張ってやるから、これくらいは稼いでくれよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.38.6",
+    "original": "【<pl>】さんは毎日女の子を抱いてるんですよね……その、次に私の番になるのはいつでしょうかД　早く呼んでくださいねД",
+    "translation": "【<pl>】さんは毎日女の子を抱いてるんですよね……その、次に私の番になるのはいつでしょうかД　早く呼んでくださいねД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.40.6",
+    "original": "ザコ共が群れてうっとおしいデスね……おいオマエ！　ちょっと私と一緒に掃除に行くデス！　付き合えデス！",
+    "translation": "ザコ共が群れてうっとおしいデスね……おいオマエ！　ちょっと私と一緒に掃除に行くデス！　付き合えデス！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.41.6",
+    "original": "資源はいくらあっても困らんからな。妾と一緒に、探索に出るとしようぞ。店の倉庫を素材で溢れさせるのじゃ！",
+    "translation": "資源はいくらあっても困らんからな。妾と一緒に、探索に出るとしようぞ。店の倉庫を素材で溢れさせるのじゃ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.42.6",
+    "original": "この巣は快適だけど、臭え奴が近くにいるみたいだぞ。一緒にぶっとばしに行こうぜ",
+    "translation": "この巣は快適だけど、臭え奴が近くにいるみたいだぞ。一緒にぶっとばしに行こうぜ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.43.6",
+    "original": "ゼカリウス近辺を初め、未だ調査が完了していない土地は多いですわ。私も同行しますので、調査に行きませんこと？",
+    "translation": "ゼカリウス近辺を初め、未だ調査が完了していない土地は多いですわ。私も同行しますので、調査に行きませんこと？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.44.6",
+    "original": "【<pl>】様と共に働くようになってから、思わぬ幸運が巡るようになった気がしますわ。試しに、私と一緒に、希少素材を探しに行きませんか？",
+    "translation": "【<pl>】様と共に働くようになってから、思わぬ幸運が巡るようになった気がしますわ。試しに、私と一緒に、希少素材を探しに行きませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.45.6",
+    "original": "この世界はまだまだ色んなところに、貴重なお宝が眠ってるみたいだねД　ねえ【<pl>】、ボクと一緒に、トレジャーハントに行こうよД",
+    "translation": "この世界はまだまだ色んなところに、貴重なお宝が眠ってるみたいだねД　ねえ【<pl>】、ボクと一緒に、トレジャーハントに行こうよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.46.6",
+    "original": "娯楽施設は好調だけど、まだまだ稼げるよねД　もっと人を呼び込んで、娯楽でお金を稼いじゃおД",
+    "translation": "娯楽施設は好調だけど、まだまだ稼げるよねД　もっと人を呼び込んで、娯楽でお金を稼いじゃおД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.47.6",
+    "original": "一人では中々探索できんが、一帯には興味深い遺跡が点在しているである。私と一緒に、調査に挑む気はないか？",
+    "translation": "一人では中々探索できんが、一帯には興味深い遺跡が点在しているである。私と一緒に、調査に挑む気はないか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.48.6",
+    "original": "娯楽施設は好評のようだぞ。この調子なら、もっと稼げるだろう？",
+    "translation": "娯楽施設は好評のようだぞ。この調子なら、もっと稼げるだろう？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.49.6",
+    "original": "【<pl>】君、お金に困ったりしてないかな？　お姉ちゃん、頑張るから……遠慮しないでいいからね",
+    "translation": "【<pl>】君、お金に困ったりしてないかな？　お姉ちゃん、頑張るから……遠慮しないでいいからね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.50.6",
+    "original": "遺跡学者のはずが、最近はただの店員になっている気がしてなりません。そろそろ希少素材を探しに、私を連れて行ってくれませんか",
+    "translation": "遺跡学者のはずが、最近はただの店員になっている気がしてなりません。そろそろ希少素材を探しに、私を連れて行ってくれませんか",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.51.6",
+    "original": "【<pl>】君、ダンジョンの調査に行くんだろう？　終わったら君達の調査報告を聞きたいな。スコアが良ければ、ご褒美もあるよ",
+    "translation": "【<pl>】君、ダンジョンの調査に行くんだろう？　終わったら君達の調査報告を聞きたいな。スコアが良ければ、ご褒美もあるよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.52.6",
+    "original": "ダンジョン内は凶悪な魔獣が徒党を組んで襲ってきます。見つけ次第、始末しておいた方がいいでしょう",
+    "translation": "ダンジョン内は凶悪な魔獣が徒党を組んで襲ってきます。見つけ次第、始末しておいた方がいいでしょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.53.6",
+    "original": "ふぉっふぉっ、店が軌道に乗っているようで何よりです。ですが、更にこれくらいは、追加で稼ぎを増やすこともできるでしょうな",
+    "translation": "ふぉっふぉっ、店が軌道に乗っているようで何よりです。ですが、更にこれくらいは、追加で稼ぎを増やすこともできるでしょうな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.54.6",
+    "original": "ダンジョンでの戦いこそ、俺達冒険者の仕事だよな！　ベテランの戦いを見せてくれよ！",
+    "translation": "ダンジョンでの戦いこそ、俺達冒険者の仕事だよな！　ベテランの戦いを見せてくれよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.55.6",
+    "original": "戦闘かぁ……ま、やらなきゃいけねぇ時は戦わないとな！　よし、ハイスコア狙って頑張ろうぜ！",
+    "translation": "戦闘かぁ……ま、やらなきゃいけねぇ時は戦わないとな！　よし、ハイスコア狙って頑張ろうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.56.6",
+    "original": "この老体、この地に来てからどうにも魂が疼きましてな。ほっほ、一緒に、資源採集に同行していただけませんかな？",
+    "translation": "この老体、この地に来てからどうにも魂が疼きましてな。ほっほ、一緒に、資源採集に同行していただけませんかな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.57.6",
+    "original": "店員ばかりしていると、腕も鈍るというものだ。一緒に迷宮へと腕試しに行かないか？",
+    "translation": "店員ばかりしていると、腕も鈍るというものだ。一緒に迷宮へと腕試しに行かないか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.58.6",
+    "original": "ソルシアの魔術師としては、もっと遺跡を調査したい。調査に行く時は、私をメインメンバーに入れるの、忘れないでね",
+    "translation": "ソルシアの魔術師としては、もっと遺跡を調査したい。調査に行く時は、私をメインメンバーに入れるの、忘れないでね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.59.6",
+    "original": "バトルしに行くんですよね？　はぁ、御主人様の安全管理も仕事のうちか……分かりましたよ、私も同行しますので、いいとこ見せて下さい",
+    "translation": "バトルしに行くんですよね？　はぁ、御主人様の安全管理も仕事のうちか……分かりましたよ、私も同行しますので、いいとこ見せて下さい",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.60.6",
+    "original": "遺憾ながら、師匠からトレジャーの獲得を指示されましたわ。早く終わらせたいので、同行してくださいます？",
+    "translation": "遺憾ながら、師匠からトレジャーの獲得を指示されましたわ。早く終わらせたいので、同行してくださいます？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.61.6",
+    "original": "ここらでも、魔獣の脅威は深刻みたいやな。ウチもお手伝いしたるさかい、掃除と行きましょ。言うとくけど、低スコアじゃ満足せえへんよ",
+    "translation": "ここらでも、魔獣の脅威は深刻みたいやな。ウチもお手伝いしたるさかい、掃除と行きましょ。言うとくけど、低スコアじゃ満足せえへんよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.62.6",
+    "original": "はぁ、調査ですか？　まあ、同行するくらい構いませんけど……ちゃんと私を守って下さいね？　それと、やるからにはハイスコアを狙って頂きますわよ",
+    "translation": "はぁ、調査ですか？　まあ、同行するくらい構いませんけど……ちゃんと私を守って下さいね？　それと、やるからにはハイスコアを狙って頂きますわよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.63.6",
+    "original": "凶悪な魔獣を打ち倒してこそ冒険ってもんですな？　たまには凶悪な敵をぶちのめしに行きたいと、私の別人格が申してまする",
+    "translation": "凶悪な魔獣を打ち倒してこそ冒険ってもんですな？　たまには凶悪な敵をぶちのめしに行きたいと、私の別人格が申してまする",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.64.6",
+    "original": "希少なアイテムを見ると、私も心が躍りますД　私も迷宮に同行しますので、希少品を探しに行きましょう。良いスコアを期待してますわ",
+    "translation": "希少なアイテムを見ると、私も心が躍りますД　私も迷宮に同行しますので、希少品を探しに行きましょう。良いスコアを期待してますわ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.65.6",
+    "original": "魔獣由来の素材が欲しいのじゃが、素人には扱いが難しいでな。ちょっとワシと一緒に、デートと行かんか？　ついでに、戦い方を見てやろう",
+    "translation": "魔獣由来の素材が欲しいのじゃが、素人には扱いが難しいでな。ちょっとワシと一緒に、デートと行かんか？　ついでに、戦い方を見てやろう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.66.6",
+    "original": "なあ、俺も一緒に戦いたいぜ。メインパーティに入れて、魔獣と戦わせてくれよな",
+    "translation": "なあ、俺も一緒に戦いたいぜ。メインパーティに入れて、魔獣と戦わせてくれよな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.67.6",
+    "original": "ダンジョンに向かった冒険者の方が、戻っていないそうです。救出に向かうべきではありませんか？",
+    "translation": "ダンジョンに向かった冒険者の方が、戻っていないそうです。救出に向かうべきではありませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.68.6",
+    "original": "商人として、私もここで稼ぐ手段を勉強しなくちゃ。【<pl>】さんの手腕なら、これくらいは稼げますよね",
+    "translation": "商人として、私もここで稼ぐ手段を勉強しなくちゃ。【<pl>】さんの手腕なら、これくらいは稼げますよね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.69.6",
+    "original": "何という事でしょう、行方不明の冒険者がいらっしゃるようです。手遅れになる前に、救出致しましょう",
+    "translation": "何という事でしょう、行方不明の冒険者がいらっしゃるようです。手遅れになる前に、救出致しましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.70.6",
+    "original": "どうやら派遣要請が来ているようですね。暇な冒険者がいるのであれば、派遣してみては？",
+    "translation": "どうやら派遣要請が来ているようですね。暇な冒険者がいるのであれば、派遣してみては？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.71.6",
+    "original": "こちらの鍛冶師は、素晴らしい腕前でありますね。この品質を、もっと多くの方に武器を行き渡らせる事ができればと思います！",
+    "translation": "こちらの鍛冶師は、素晴らしい腕前でありますね。この品質を、もっと多くの方に武器を行き渡らせる事ができればと思います！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.72.6",
+    "original": "最近警戒してるのか、私を抱きに来ませんね？　そのぉ、私とエッチしたくなりませんかぁД",
+    "translation": "最近警戒してるのか、私を抱きに来ませんね？　そのぉ、私とエッチしたくなりませんかぁД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.73.6",
+    "original": "街道が整備されてきたとはいえ、まだまだ魔獣がうろついてるみてぇだな。大物じゃなくてもいいから、少しでも数を減らしておこうぜ",
+    "translation": "街道が整備されてきたとはいえ、まだまだ魔獣がうろついてるみてぇだな。大物じゃなくてもいいから、少しでも数を減らしておこうぜ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.74.6",
+    "original": "やれやれ、元気の有り余った連中が毎日飲んだくれてやがる。まとめてダンジョンに放り込んでやんなよ。",
+    "translation": "やれやれ、元気の有り余った連中が毎日飲んだくれてやがる。まとめてダンジョンに放り込んでやんなよ。",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.75.6",
+    "original": "アンジュさん達の鍛冶技術は凄いですね☆　この品質なら、もっといっぱい売れますよ！　このレベルが一般になるのはちょっと怖いですけど……",
+    "translation": "アンジュさん達の鍛冶技術は凄いですね☆　この品質なら、もっといっぱい売れますよ！　このレベルが一般になるのはちょっと怖いですけど……",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.77.6",
+    "original": "オマエ、他の女ばかり相手にして、私の相手を忘れてないデス？　もっと構えデス……Д",
+    "translation": "オマエ、他の女ばかり相手にして、私の相手を忘れてないデス？　もっと構えデス……Д",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.78.6",
+    "original": "最近、妾の事をないがしろにしとらんか？　そろそろ、妾が【<pl>】にとってどれほど重要か、知らしめてやらねばなД　さあ、部屋に来るのじゃД",
+    "translation": "最近、妾の事をないがしろにしとらんか？　そろそろ、妾が【<pl>】にとってどれほど重要か、知らしめてやらねばなД　さあ、部屋に来るのじゃД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.79.6",
+    "original": "しーねが宝物を掘り出してこいって言うんだけど、ウルフィナは犬じゃねぇんだよな……何か一緒に探してくれよ",
+    "translation": "しーねが宝物を掘り出してこいって言うんだけど、ウルフィナは犬じゃねぇんだよな……何か一緒に探してくれよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.80.6",
+    "original": "店の発展のためには、希少な素材の取り扱いが必須ですわ。私と一緒に、希少な素材を獲得に行きましょう",
+    "translation": "店の発展のためには、希少な素材の取り扱いが必須ですわ。私と一緒に、希少な素材を獲得に行きましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.81.6",
+    "original": "【<pl>】様の聖なる欲求を受け止めて差し上げたいですわД　お部屋にお呼び頂けるのを、心待ちにしておりますД",
+    "translation": "【<pl>】様の聖なる欲求を受け止めて差し上げたいですわД　お部屋にお呼び頂けるのを、心待ちにしておりますД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.82.6",
+    "original": "女の子達が協力してくれるんだから、もっとエッチなお仕事をしてもらおうよД　もちろん、ボクも協力してあげるД",
+    "translation": "女の子達が協力してくれるんだから、もっとエッチなお仕事をしてもらおうよД　もちろん、ボクも協力してあげるД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.83.6",
+    "original": "最近、働いてない冒険者さんが、昼間からたむろしてて空気が悪いよぉ。届いてる仕事をあげて、色んなところに派遣しよ？",
+    "translation": "最近、働いてない冒険者さんが、昼間からたむろしてて空気が悪いよぉ。届いてる仕事をあげて、色んなところに派遣しよ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.84.6",
+    "original": "暇を持て余している者がいるようであるな。人手を求めているところもあるようだし、少し派遣に出してはいかがであろう？",
+    "translation": "暇を持て余している者がいるようであるな。人手を求めているところもあるようだし、少し派遣に出してはいかがであろう？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.85.6",
+    "original": "なあ【<pl>】殿、まさか、もう抱いたから、私を抱かなくてもいいなどと思っていないだろうな？　頑張るから、早く私を呼んでくれД",
+    "translation": "なあ【<pl>】殿、まさか、もう抱いたから、私を抱かなくてもいいなどと思っていないだろうな？　頑張るから、早く私を呼んでくれД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.86.6",
+    "original": "お店に来る人、皆お腹が空いてるわよね？　お腹いっぱい食べさせてあげましょД　美味しいって言ってくれれば、お金も儲かるわよね",
+    "translation": "お店に来る人、皆お腹が空いてるわよね？　お腹いっぱい食べさせてあげましょД　美味しいって言ってくれれば、お金も儲かるわよね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.87.6",
+    "original": "私じゃない女にばかりうつつを抜かして、生意気ですよ。駄犬なのですから、素直に私を抱きなさいД",
+    "translation": "私じゃない女にばかりうつつを抜かして、生意気ですよ。駄犬なのですから、素直に私を抱きなさいД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.88.6",
+    "original": "探索の準備ができている冒険者が、店で暇を持て余しているようだ。クエストを発注して、ダンジョンに向かわせたらどうだい？",
+    "translation": "探索の準備ができている冒険者が、店で暇を持て余しているようだ。クエストを発注して、ダンジョンに向かわせたらどうだい？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.89.6",
+    "original": "ダンジョンの調査を行って頂きたいのですが、派遣できる冒険者さんはいませんか？　自分がいければ良いのですが……",
+    "translation": "ダンジョンの調査を行って頂きたいのですが、派遣できる冒険者さんはいませんか？　自分がいければ良いのですが……",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.90.6",
+    "original": "この地の噂は娘から聞いておりますが、【<pl>】さんには通用しなかったようですな。であれば、この地をもっと大きく改良していくべきでしょうな",
+    "translation": "この地の噂は娘から聞いておりますが、【<pl>】さんには通用しなかったようですな。であれば、この地をもっと大きく改良していくべきでしょうな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.91.6",
+    "original": "地道な調査は得意じゃないけど、そうも言ってられねえよな。【<pl>】さんのハイレベルなダンジョン調査を見せてくれよ",
+    "translation": "地道な調査は得意じゃないけど、そうも言ってられねえよな。【<pl>】さんのハイレベルなダンジョン調査を見せてくれよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.92.6",
+    "original": "人を紹介してほしいって連絡が来てるみたいだぜ？　ちょうどいい奴はいねえか？　適材適所って奴だな",
+    "translation": "人を紹介してほしいって連絡が来てるみたいだぜ？　ちょうどいい奴はいねえか？　適材適所って奴だな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.93.6",
+    "original": "ドワームの鍛冶は品質に比べて、儲からないと思われてませぬか？　姫様と共に、誠心誠意努めますゆえ、もっとゴールドを稼いで下され！",
+    "translation": "ドワームの鍛冶は品質に比べて、儲からないと思われてませぬか？　姫様と共に、誠心誠意努めますゆえ、もっとゴールドを稼いで下され！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.94.6",
+    "original": "スタッフの練度を向上させることも、トップの重要な仕事だろう？　今のうちにランクアップさせておくべきだな",
+    "translation": "スタッフの練度を向上させることも、トップの重要な仕事だろう？　今のうちにランクアップさせておくべきだな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.95.6",
+    "original": "【<pl>】、もっと私に言い寄って。じゃないと私、エッチできない……Д　それとも、私に襲われるの待ってるのかなД",
+    "translation": "【<pl>】、もっと私に言い寄って。じゃないと私、エッチできない……Д　それとも、私に襲われるの待ってるのかなД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.96.6",
+    "original": "最近あんまり酷いことをしてくれないですね？　もう私に飽きた、とかいいませんよねぇ？　早く寝室に連れ込んで下さいよД",
+    "translation": "最近あんまり酷いことをしてくれないですね？　もう私に飽きた、とかいいませんよねぇ？　早く寝室に連れ込んで下さいよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.97.6",
+    "original": "最近の客は舌が肥えたのか、料理にも面倒な注文を追加されますわ。ニーズに応えた、新しいメニューを開発してくださいませ",
+    "translation": "最近の客は舌が肥えたのか、料理にも面倒な注文を追加されますわ。ニーズに応えた、新しいメニューを開発してくださいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.98.6",
+    "original": "ゼカリウスの娯楽は進んどるなぁ。ウチも遊びたいけど、そんなわけにもいかんやろ。勝手に見学するから、客を長く遊ばせて、ガッポリ稼いだってや",
+    "translation": "ゼカリウスの娯楽は進んどるなぁ。ウチも遊びたいけど、そんなわけにもいかんやろ。勝手に見学するから、客を長く遊ばせて、ガッポリ稼いだってや",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.99.6",
+    "original": "私とエッチするのは怖いですか？　ふふ、可愛いですわねД　しっかり稼ぐ為にも、遠慮せずに抱いて下さいませД",
+    "translation": "私とエッチするのは怖いですか？　ふふ、可愛いですわねД　しっかり稼ぐ為にも、遠慮せずに抱いて下さいませД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.100.6",
+    "original": "たまにはレアアイテムをゲットしたいですな？　言っとくですが、半端なスコアで満足しませんぞ？",
+    "translation": "たまにはレアアイテムをゲットしたいですな？　言っとくですが、半端なスコアで満足しませんぞ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.101.6",
+    "original": "その節は大変申し訳ない事を致しましたわ……その、お詫びという訳ではありませんが、また私の体を楽しんで下さいませД",
+    "translation": "その節は大変申し訳ない事を致しましたわ……その、お詫びという訳ではありませんが、また私の体を楽しんで下さいませД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.102.6",
+    "original": "せっかくワシが協力してるんじゃから、もっと錬金で稼げるじゃろ。ほれほれ、早く売りさばかんかい",
+    "translation": "せっかくワシが協力してるんじゃから、もっと錬金で稼げるじゃろ。ほれほれ、早く売りさばかんかい",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.103.6",
+    "original": "大変だ、冒険者が行方不明になったらしい。手遅れになる前に、救出しにいかねえと！",
+    "translation": "大変だ、冒険者が行方不明になったらしい。手遅れになる前に、救出しにいかねえと！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.104.6",
+    "original": "【<pl>】様は自ら資源を回収に赴くとか……私も、森では薬草を積んでましたので、【<pl>】様の仕事に興味があります",
+    "translation": "【<pl>】様は自ら資源を回収に赴くとか……私も、森では薬草を積んでましたので、【<pl>】様の仕事に興味があります",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.105.6",
+    "original": "聞きました？　冒険者の人が行方不明らしいですよ。何か貴重な品物を回収してるかもしれないし、早く救出してあげましょうよ",
+    "translation": "聞きました？　冒険者の人が行方不明らしいですよ。何か貴重な品物を回収してるかもしれないし、早く救出してあげましょうよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.106.6",
+    "original": "必要とあらば、私自身を店の商品にして頂いても構いませんが……Д　ふふふ、もちろん、衆目に晒して稼ぐのでも構いませんわД",
+    "translation": "必要とあらば、私自身を店の商品にして頂いても構いませんが……Д　ふふふ、もちろん、衆目に晒して稼ぐのでも構いませんわД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.107.6",
+    "original": "遺跡調査の為には、資金を回してもらわないと……【<pl>】様、私の【『交渉』】受けて下さいますよねД",
+    "translation": "遺跡調査の為には、資金を回してもらわないと……【<pl>】様、私の【『交渉』】受けて下さいますよねД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.108.6",
+    "original": "どうやら冒険者の方が行方不明になっているようです。自分が先輩に助けられたように、何とか救出に向かう事はできませんか？",
+    "translation": "どうやら冒険者の方が行方不明になっているようです。自分が先輩に助けられたように、何とか救出に向かう事はできませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.109.6",
+    "original": "何か色々調査してるみたいですけど、何してるんです？　一介の店主にまともな調査できるか、見せてもらってもいいですよね？",
+    "translation": "何か色々調査してるみたいですけど、何してるんです？　一介の店主にまともな調査できるか、見せてもらってもいいですよね？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.110.6",
+    "original": "【<pl>】よぉ、俺とは遊びだったのかぁ？　本気ならよぉ、もっと抱いてくれよぉД　あぁ？　別に酔っちゃいねぇぞ！　早く連れ込んで犯せってのД",
+    "translation": "【<pl>】よぉ、俺とは遊びだったのかぁ？　本気ならよぉ、もっと抱いてくれよぉД　あぁ？　別に酔っちゃいねぇぞ！　早く連れ込んで犯せってのД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.111.6",
+    "original": "最近よぉ、アタシ、結構露骨にアピールしてると思うんだが、どうして手を出さないのさ？　店でヤってもいいって言ってんだぜД　分かれよД",
+    "translation": "最近よぉ、アタシ、結構露骨にアピールしてると思うんだが、どうして手を出さないのさ？　店でヤってもいいって言ってんだぜД　分かれよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.112.6",
+    "original": "私達の協力を必要としてる人達がいるみたいですよ☆　これって商売のチャンスじゃないですか？　早く人を送ってあげましょう☆",
+    "translation": "私達の協力を必要としてる人達がいるみたいですよ☆　これって商売のチャンスじゃないですか？　早く人を送ってあげましょう☆",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.114.6",
+    "original": "私達の居城が貧相なままでいいはずがないデス。もっと改良して、豪勢な居城にするデスよ！",
+    "translation": "私達の居城が貧相なままでいいはずがないデス。もっと改良して、豪勢な居城にするデスよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.115.6",
+    "original": "魔獣の被害はどこに行っても聞こえるのう。【<pl>】よ、たまには一緒に暴れてやるとするのじゃ",
+    "translation": "魔獣の被害はどこに行っても聞こえるのう。【<pl>】よ、たまには一緒に暴れてやるとするのじゃ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.116.6",
+    "original": "店にずっといるのは退屈だぞ。ちょっとストレス解消に付き合えよな。楽しい戦いを期待してるぞД",
+    "translation": "店にずっといるのは退屈だぞ。ちょっとストレス解消に付き合えよな。楽しい戦いを期待してるぞД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.117.6",
+    "original": "遠方からでも存在が分かるように、施設の改良を続けましょう！",
+    "translation": "遠方からでも存在が分かるように、施設の改良を続けましょう！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.119.6",
+    "original": "冒険者の皆を店で養ってちゃ、何の為にいるのか分からないよね？　もっとダンジョンに派遣して、働いてもらおうよ！",
+    "translation": "冒険者の皆を店で養ってちゃ、何の為にいるのか分からないよね？　もっとダンジョンに派遣して、働いてもらおうよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.120.6",
+    "original": "えへへ、ルーシェとお兄ちゃんは、とっても仲良しだよねД　もっとお客さんに、仲良しなところ、見せたいなぁД",
+    "translation": "えへへ、ルーシェとお兄ちゃんは、とっても仲良しだよねД　もっとお客さんに、仲良しなところ、見せたいなぁД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.121.6",
+    "original": "私の薬は非常に強力だと自負しているが、どうも売り上げが伸びていないのではないか？　もっと稼げると思うので、店としても推してほしいである",
+    "translation": "私の薬は非常に強力だと自負しているが、どうも売り上げが伸びていないのではないか？　もっと稼げると思うので、店としても推してほしいである",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.122.6",
+    "original": "人員が店に余っていないか？　早い所、必要な所に仕事を斡旋して、稼いできてもらおう",
+    "translation": "人員が店に余っていないか？　早い所、必要な所に仕事を斡旋して、稼いできてもらおう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.123.6",
+    "original": "【<pl>】君、疲れてるみたいだし、お姉ちゃんが癒してあげたいな……Д　エッチな気分になったら、いつでもお部屋に呼んでねД",
+    "translation": "【<pl>】君、疲れてるみたいだし、お姉ちゃんが癒してあげたいな……Д　エッチな気分になったら、いつでもお部屋に呼んでねД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.124.6",
+    "original": "どうやら、冒険者の助けを必要としている所があるようですよ。早く斡旋してやったらどうです？",
+    "translation": "どうやら、冒険者の助けを必要としている所があるようですよ。早く斡旋してやったらどうです？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.125.6",
+    "original": "【<pl>】君、僕に君達の戦いぶりを見せてくれないかい？　もちろん、スコアは厳正に受け止めるよ",
+    "translation": "【<pl>】君、僕に君達の戦いぶりを見せてくれないかい？　もちろん、スコアは厳正に受け止めるよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.126.6",
+    "original": "ダンジョンの中には、まだまだ宝物があるようです。危険な品物が残っていないか、私にも見せて頂けると助かります",
+    "translation": "ダンジョンの中には、まだまだ宝物があるようです。危険な品物が残っていないか、私にも見せて頂けると助かります",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.128.6",
+    "original": "なあ、暇そうな冒険者が多くねぇか？　ダンジョンに派遣してやった方がいいぜ？　本当は俺が行きたいんだけどな",
+    "translation": "なあ、暇そうな冒険者が多くねぇか？　ダンジョンに派遣してやった方がいいぜ？　本当は俺が行きたいんだけどな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.129.6",
+    "original": "仲間を育てるのもトップの仕事だよな！　スタッフをランクアップさせたらどうだい？",
+    "translation": "仲間を育てるのもトップの仕事だよな！　スタッフをランクアップさせたらどうだい？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.130.6",
+    "original": "ワシらの武器を手にした冒険者が、ダンジョンに行きたいとウズウズしているようですな。何かクエストはありませんかの？",
+    "translation": "ワシらの武器を手にした冒険者が、ダンジョンに行きたいとウズウズしているようですな。何かクエストはありませんかの？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.131.6",
+    "original": "こちらの鍛冶師は随分と腕がいいようだな……もっとこの素晴らしい武器を売って、普及させてほしいものだ",
+    "translation": "こちらの鍛冶師は随分と腕がいいようだな……もっとこの素晴らしい武器を売って、普及させてほしいものだ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.133.6",
+    "original": "あんなに凄い鍛冶師がいるんだから、もっと儲けて下さいよ。御主人様、私達の給料も払うんだって、忘れないでよね？",
+    "translation": "あんなに凄い鍛冶師がいるんだから、もっと儲けて下さいよ。御主人様、私達の給料も払うんだって、忘れないでよね？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.134.6",
+    "original": "資源獲得は経営でも必要でしょう？　皆様がサボらないように、私が監督してあげますわ。ん？　まさかメイドに資源採取をやれと？",
+    "translation": "資源獲得は経営でも必要でしょう？　皆様がサボらないように、私が監督してあげますわ。ん？　まさかメイドに資源採取をやれと？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.135.6",
+    "original": "【<pl>】はん、最近ウチを構ってくれへんやないのД　またお部屋で可愛がってほしいわぁД",
+    "translation": "【<pl>】はん、最近ウチを構ってくれへんやないのД　またお部屋で可愛がってほしいわぁД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.136.6",
+    "original": "皆さんに見せつけてまでエッチしたいなんて、あの女の入れ知恵ですの？　まあ、見せつけたい、というのであれば、もちろん私は拒みませんわД",
+    "translation": "皆さんに見せつけてまでエッチしたいなんて、あの女の入れ知恵ですの？　まあ、見せつけたい、というのであれば、もちろん私は拒みませんわД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.137.6",
+    "original": "娯楽施設でもっと稼げと言われたのですが、ほぼ居候みたいな私には無理ですぞ！　ビラくらいは作りますから、何とかして下され！",
+    "translation": "娯楽施設でもっと稼げと言われたのですが、ほぼ居候みたいな私には無理ですぞ！　ビラくらいは作りますから、何とかして下され！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.138.6",
+    "original": "ダンジョンに向かって、帰っていない方がいるそうですわね。貴重な労働力を失わない為にも、早急な救助が必要ですわ",
+    "translation": "ダンジョンに向かって、帰っていない方がいるそうですわね。貴重な労働力を失わない為にも、早急な救助が必要ですわ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.139.6",
+    "original": "この地の設備は素晴らしいが、それでも段々物足りなくなってきたのう。少し施設を改良してくれんか？",
+    "translation": "この地の設備は素晴らしいが、それでも段々物足りなくなってきたのう。少し施設を改良してくれんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.140.6",
+    "original": "なあ、気晴らしも兼ねて、俺と一勝負しねぇか？　どんな勝負でも望むところだぜ！　えっ？　エッチな奴って……お、おう、望むところだД",
+    "translation": "なあ、気晴らしも兼ねて、俺と一勝負しねぇか？　どんな勝負でも望むところだぜ！　えっ？　エッチな奴って……お、おう、望むところだД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.141.6",
+    "original": "宿としての機能は疑うべくもありませんが、お客様から時折不満が聞こえます。【<pl>】様、施設を改良する事はできますか？",
+    "translation": "宿としての機能は疑うべくもありませんが、お客様から時折不満が聞こえます。【<pl>】様、施設を改良する事はできますか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.142.6",
+    "original": "あんまりエッチな事で稼ぎたくはないけど……でも、手っ取り早いのはこの方法なのよね。【<pl>】さん、ちょっと練習に付き合って下さいよД",
+    "translation": "あんまりエッチな事で稼ぎたくはないけど……でも、手っ取り早いのはこの方法なのよね。【<pl>】さん、ちょっと練習に付き合って下さいよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.143.6",
+    "original": "まだ人手を求めてる方々がいらっしゃるようですわね。手の空いてる方を派遣して差し上げましょう",
+    "translation": "まだ人手を求めてる方々がいらっしゃるようですわね。手の空いてる方を派遣して差し上げましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.144.6",
+    "original": "これだけの錬金術工房があれば、もっと稼げるのでは？　まだまだ資金を貯めて下さいね",
+    "translation": "これだけの錬金術工房があれば、もっと稼げるのでは？　まだまだ資金を貯めて下さいね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.145.6",
+    "original": "皆様、素晴らしいスタッフでありますが、もっと練度を上げていくべきかと！　指導のほど、よろしくお願いします！",
+    "translation": "皆様、素晴らしいスタッフでありますが、もっと練度を上げていくべきかと！　指導のほど、よろしくお願いします！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.146.6",
+    "original": "迷宮調査なら、宝物を確保できますよね！　うふふ、何を獲得してきたか、後で教えてくださいよぉ",
+    "translation": "迷宮調査なら、宝物を確保できますよね！　うふふ、何を獲得してきたか、後で教えてくださいよぉ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.147.6",
+    "original": "冒険者には娯楽施設は好調だけどよ、ハマっちまって、働かない奴がいるみてぇだぜ。いっそのこと、もっと徹底的に搾りとりゃ、仕事に戻るか……？",
+    "translation": "冒険者には娯楽施設は好調だけどよ、ハマっちまって、働かない奴がいるみてぇだぜ。いっそのこと、もっと徹底的に搾りとりゃ、仕事に戻るか……？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.148.6",
+    "original": "聞いたかい？　半端なウデでダンジョンに向かった奴が行方不明だってよ。早いとこ、救出隊を編成した方がいいんじゃないかねぇ",
+    "translation": "聞いたかい？　半端なウデでダンジョンに向かった奴が行方不明だってよ。早いとこ、救出隊を編成した方がいいんじゃないかねぇ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.149.6",
+    "original": "このお店は質の高い商品が揃ってますね☆　もっとお客さんを集めて、ジャンジャン売って、がっぽり儲けちゃいましょう☆",
+    "translation": "このお店は質の高い商品が揃ってますね☆　もっとお客さんを集めて、ジャンジャン売って、がっぽり儲けちゃいましょう☆",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.151.6",
+    "original": "おいオマエ、ちゃんとカネを稼いでるデス？　カネを稼げば【『神』】の加護を与えてやるデス！",
+    "translation": "おいオマエ、ちゃんとカネを稼いでるデス？　カネを稼げば【『神』】の加護を与えてやるデス！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.152.6",
+    "original": "【<pl>】！　最近妾の商品が売れていないのではないか？　もっと妾の武器の素晴らしさを知らしめるのじゃ！",
+    "translation": "【<pl>】！　最近妾の商品が売れていないのではないか？　もっと妾の武器の素晴らしさを知らしめるのじゃ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.154.6",
+    "original": "せっかく冒険者の方が集まっているのですから、必要な派遣先に向かわせては？　ふさわしいクエストを紹介してくださいませ！",
+    "translation": "せっかく冒険者の方が集まっているのですから、必要な派遣先に向かわせては？　ふさわしいクエストを紹介してくださいませ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.155.6",
+    "original": "【<pl>】様の教えを理解しない、不浄な存在がまだまだ多く居るご様子……私と一緒に、排除致しましょう",
+    "translation": "【<pl>】様の教えを理解しない、不浄な存在がまだまだ多く居るご様子……私と一緒に、排除致しましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.156.6",
+    "original": "娯楽施設は好評だけど、ボクはもっと稼げると思うな。呼び込みしてあげるから、もっと稼いじゃおうよ",
+    "translation": "娯楽施設は好評だけど、ボクはもっと稼げると思うな。呼び込みしてあげるから、もっと稼いじゃおうよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.157.6",
+    "original": "ねえお兄ちゃんД　ルーシェ、エッチしたくなっちゃったなぁД　その気になったらぁ、お兄ちゃんから誘ってねД",
+    "translation": "ねえお兄ちゃんД　ルーシェ、エッチしたくなっちゃったなぁД　その気になったらぁ、お兄ちゃんから誘ってねД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.158.6",
+    "original": "【<pl>】殿、少し進めたい研究があるのだが、行き詰っていてな……【『魔女』】としては、ここはセックスしかないと思うのだがД",
+    "translation": "【<pl>】殿、少し進めたい研究があるのだが、行き詰っていてな……【『魔女』】としては、ここはセックスしかないと思うのだがД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.159.6",
+    "original": "むぅ、いつまでも店でダラダラしてる連中がいるようだな……早く仕事を斡旋して、ダンジョンに送り込んでやってくれ",
+    "translation": "むぅ、いつまでも店でダラダラしてる連中がいるようだな……早く仕事を斡旋して、ダンジョンに送り込んでやってくれ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.160.6",
+    "original": "しばらく滞在してる人達がいるんだけど、お仕事はどうしたのかしら……？　【<pl>】君、ちょうど人手が欲しい派遣先があるみたいよ？",
+    "translation": "しばらく滞在してる人達がいるんだけど、お仕事はどうしたのかしら……？　【<pl>】君、ちょうど人手が欲しい派遣先があるみたいよ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.161.6",
+    "original": "カリストの奴を使ってるのに、錬金の売り上げが足りないのでは？　もっと稼げるでしょう？",
+    "translation": "カリストの奴を使ってるのに、錬金の売り上げが足りないのでは？　もっと稼げるでしょう？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.162.6",
+    "original": "【<pl>】君は希少素材にも目利きが効くだろう？　君達の稀少点によっちゃ、追加のご褒美を出してあげよう",
+    "translation": "【<pl>】君は希少素材にも目利きが効くだろう？　君達の稀少点によっちゃ、追加のご褒美を出してあげよう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.163.6",
+    "original": "私はしがない衛兵ではありますが、迷宮のトレジャーには興味があります。研究の為にも、同行させてください。",
+    "translation": "私はしがない衛兵ではありますが、迷宮のトレジャーには興味があります。研究の為にも、同行させてください。",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.164.6",
+    "original": "こちらの錬金術工房は素晴らしい。よほど良い術師がいるのでしょうな。であれば、今の売り上げ金では、満足できませんな？",
+    "translation": "こちらの錬金術工房は素晴らしい。よほど良い術師がいるのでしょうな。であれば、今の売り上げ金では、満足できませんな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.166.6",
+    "original": "まだまだ調査が終わってない場所があるだろ？　仲間と一緒にダンジョンを調査してきてくれよ",
+    "translation": "まだまだ調査が終わってない場所があるだろ？　仲間と一緒にダンジョンを調査してきてくれよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.167.6",
+    "original": "ドワーム族の端くれとしては、施設が気になりますのう。もっと改良できるのではありませんかな？",
+    "translation": "ドワーム族の端くれとしては、施設が気になりますのう。もっと改良できるのではありませんかな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.169.6",
+    "original": "店の前に暑苦しい連中がたむろしてて困る。仕事があるなら、早くダンジョン送りにしてやって？",
+    "translation": "店の前に暑苦しい連中がたむろしてて困る。仕事があるなら、早くダンジョン送りにしてやって？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.170.6",
+    "original": "娯楽施設は中々楽しいですねぇ。私がいいって言ってるんだから、もう少しくらいは稼ぎを上げられますよねД",
+    "translation": "娯楽施設は中々楽しいですねぇ。私がいいって言ってるんだから、もう少しくらいは稼ぎを上げられますよねД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.171.6",
+    "original": "最近私に手を出してないようですが隠れてシズハを抱いてませんわよね？　いけませんわ、早く私で、その薄汚い欲望を発散してくださいませД",
+    "translation": "最近私に手を出してないようですが隠れてシズハを抱いてませんわよね？　いけませんわ、早く私で、その薄汚い欲望を発散してくださいませД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.172.6",
+    "original": "スタッフ間でレベル差が開いたら、部門間で連携がとれんのちゃうん？　はやいとこ教育して、ランクあげたろうやないの",
+    "translation": "スタッフ間でレベル差が開いたら、部門間で連携がとれんのちゃうん？　はやいとこ教育して、ランクあげたろうやないの",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.173.6",
+    "original": "【<pl>】様との思い出が忘れられませんわД　いえ、何も企んでませんわよ？　ふふ、よろしければ、また私を可愛がって下さいませД",
+    "translation": "【<pl>】様との思い出が忘れられませんわД　いえ、何も企んでませんわよ？　ふふ、よろしければ、また私を可愛がって下さいませД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.174.6",
+    "original": "執筆もいいけど、たまには海賊らしく、宝探しと行きたいみたいな血が騒ぎますぞ。もちろん、メインメンバーとして、同行してもいいですぞ？",
+    "translation": "執筆もいいけど、たまには海賊らしく、宝探しと行きたいみたいな血が騒ぎますぞ。もちろん、メインメンバーとして、同行してもいいですぞ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.175.6",
+    "original": "商人として、日々の売上を上げるのは当然ですわね。私の提示する金額を稼いでいただけます？",
+    "translation": "商人として、日々の売上を上げるのは当然ですわね。私の提示する金額を稼いでいただけます？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.176.6",
+    "original": "【『魔女』】としてはセックスしないと天啓が降りてこないのじゃ。ワシに働いてほしいなら、精を捧げてもらわんとのうД",
+    "translation": "【『魔女』】としてはセックスしないと天啓が降りてこないのじゃ。ワシに働いてほしいなら、精を捧げてもらわんとのうД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.177.6",
+    "original": "周辺の土地じゃ、まだまだ魔物に悩む人はいるみたいだな。奴らの巣穴に行って、倒してきてやろうぜ！",
+    "translation": "周辺の土地じゃ、まだまだ魔物に悩む人はいるみたいだな。奴らの巣穴に行って、倒してきてやろうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.178.6",
+    "original": "お料理は、少しなら美味しいのが作れるかも……どうでしょう、【<pl>】様の稼ぎに、貢献できますか？",
+    "translation": "お料理は、少しなら美味しいのが作れるかも……どうでしょう、【<pl>】様の稼ぎに、貢献できますか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.179.6",
+    "original": "商売をする場所が汚くちゃ、人も寄り付きませんよね。もっと施設を改良しませんか？",
+    "translation": "商売をする場所が汚くちゃ、人も寄り付きませんよね。もっと施設を改良しませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.180.6",
+    "original": "ふむ、兵糧で稼ぐということですか？　違います？　ですがこの料理なら、もっと稼げると思いますわよ？",
+    "translation": "ふむ、兵糧で稼ぐということですか？　違います？　ですがこの料理なら、もっと稼げると思いますわよ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.181.6",
+    "original": "凡人が無茶をしたのか、ダンジョンから帰っていないようです。死なれる前に、救出に向かいましょう",
+    "translation": "凡人が無茶をしたのか、ダンジョンから帰っていないようです。死なれる前に、救出に向かいましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.182.6",
+    "original": "【<pl>】殿、お疲れではありませんかД　良ければ、自分の体で癒されてほしいでありますД　いつでも、寝室に呼んでくださいД",
+    "translation": "【<pl>】殿、お疲れではありませんかД　良ければ、自分の体で癒されてほしいでありますД　いつでも、寝室に呼んでくださいД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.183.6",
+    "original": "ちょ、ちょっと、行方不明の冒険者がいるらしいですよ！　早く救出してあげないと！",
+    "translation": "ちょ、ちょっと、行方不明の冒険者がいるらしいですよ！　早く救出してあげないと！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.184.6",
+    "original": "バトルを監督してほしいだぁ？　何だよ、俺が守ってやるのに……Д　言っておくけど、やるからには高得点を目指せよな",
+    "translation": "バトルを監督してほしいだぁ？　何だよ、俺が守ってやるのに……Д　言っておくけど、やるからには高得点を目指せよな",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.185.6",
+    "original": "店の仕事は悪くないが、冒険に行くより刺激が無くてねぇ。もっとアタシと、刺激的な事してくれよД　なんなら、アタシがお姉ちゃんになってやろうかД",
+    "translation": "店の仕事は悪くないが、冒険に行くより刺激が無くてねぇ。もっとアタシと、刺激的な事してくれよД　なんなら、アタシがお姉ちゃんになってやろうかД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.186.6",
+    "original": "ダンジョンに行きたいって冒険者さんが集まってますよ。ちょうどいいクエストを紹介してあげましょう☆",
+    "translation": "ダンジョンに行きたいって冒険者さんが集まってますよ。ちょうどいいクエストを紹介してあげましょう☆",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.188.6",
+    "original": "持ち帰る品物が物足りんデス。サボってないか、私が直接監督してやるデス！　さあ、一緒にダンジョンでトレジャーハントデス！",
+    "translation": "持ち帰る品物が物足りんデス。サボってないか、私が直接監督してやるデス！　さあ、一緒にダンジョンでトレジャーハントデス！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.189.6",
+    "original": "ゼカリウスは海洋都市ゆえか、山の幸が少ないのう。山の民にも馴染めるような、新メニューを開発してくれんか？",
+    "translation": "ゼカリウスは海洋都市ゆえか、山の幸が少ないのう。山の民にも馴染めるような、新メニューを開発してくれんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.190.6",
+    "original": "ウルフィナの巣がいつまでもこの大きさじゃ不満だぞ。もっと住みやすい巣にしてくれよ！",
+    "translation": "ウルフィナの巣がいつまでもこの大きさじゃ不満だぞ。もっと住みやすい巣にしてくれよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.191.6",
+    "original": "アンジュさんの鍛冶は素晴らしい腕前ですわ。もっと彼女の商品を売って、アンジュブランドを打ち立てましょう",
+    "translation": "アンジュさんの鍛冶は素晴らしい腕前ですわ。もっと彼女の商品を売って、アンジュブランドを打ち立てましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.192.6",
+    "original": "希少な素材を求める方が多く感じますわね。【<pl>】様なら、もっと貴重な物を持ち帰れるはずですわД",
+    "translation": "希少な素材を求める方が多く感じますわね。【<pl>】様なら、もっと貴重な物を持ち帰れるはずですわД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.193.6",
+    "original": "お店の素材、枯渇してるんじゃない？　他の奴に確保されたら面倒だし、今のうちに、資源の回収に行こうよ",
+    "translation": "お店の素材、枯渇してるんじゃない？　他の奴に確保されたら面倒だし、今のうちに、資源の回収に行こうよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.194.6",
+    "original": "せまいお店じゃ、お客さんも入れないよД　もっと大きいお店に改良しよД",
+    "translation": "せまいお店じゃ、お客さんも入れないよД　もっと大きいお店に改良しよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.195.6",
+    "original": "うぅむ、最近メニューにマンネリを感じてきたであるな。もっと新商品の研究開発を進めようではないか",
+    "translation": "うぅむ、最近メニューにマンネリを感じてきたであるな。もっと新商品の研究開発を進めようではないか",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.196.6",
+    "original": "魔獣との戦いは命のやり取りだ。戦闘において、しっかりとした戦略を取っているところを見せてくれ",
+    "translation": "魔獣との戦いは命のやり取りだ。戦闘において、しっかりとした戦略を取っているところを見せてくれ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.197.6",
+    "original": "ゼカリウスは食材が豊富だけど、それを生かすメニューが少ないと思うわ。新しいメニューを開発していきましょ",
+    "translation": "ゼカリウスは食材が豊富だけど、それを生かすメニューが少ないと思うわ。新しいメニューを開発していきましょ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.198.6",
+    "original": "長く滞在すると、新しいメニューが欲しくなりますね。何か開発してくれませんか？",
+    "translation": "長く滞在すると、新しいメニューが欲しくなりますね。何か開発してくれませんか？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.199.6",
+    "original": "資源獲得に自ら行くなんて、【<pl>】君は働き者だね。スコアの報告次第で、僕も何か用意しようかな？",
+    "translation": "資源獲得に自ら行くなんて、【<pl>】君は働き者だね。スコアの報告次第で、僕も何か用意しようかな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.200.6",
+    "original": "昨今の周辺地域の状況を、一度徹底的に調査しておくべきではありませんか？　一緒に地域の平和を守りましょう",
+    "translation": "昨今の周辺地域の状況を、一度徹底的に調査しておくべきではありませんか？　一緒に地域の平和を守りましょう",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.201.6",
+    "original": "ドワーム族の鍛冶師を抱えているのですから、もっと客にアピールできるのではないですかな？　さあ、【<pl>】さんの力を見せて下され",
+    "translation": "ドワーム族の鍛冶師を抱えているのですから、もっと客にアピールできるのではないですかな？　さあ、【<pl>】さんの力を見せて下され",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.202.6",
+    "original": "【<pl>】さん、客がいるなら、もっとたくさん稼げるんじゃねえか？　俺も協力するから、ガンガン稼ごうぜ！",
+    "translation": "【<pl>】さん、客がいるなら、もっとたくさん稼げるんじゃねえか？　俺も協力するから、ガンガン稼ごうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.203.6",
+    "original": "レアアイテムのゲットは、誰でも心が躍るよな？　ダンジョンに行って、心の踊る瞬間を味わおうぜ！",
+    "translation": "レアアイテムのゲットは、誰でも心が躍るよな？　ダンジョンに行って、心の踊る瞬間を味わおうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.204.6",
+    "original": "あの娯楽機械は中々の稼ぎのようですのう。もっと大々的に宣伝して、更に稼ぎを上げる事もできるのではないですかな？",
+    "translation": "あの娯楽機械は中々の稼ぎのようですのう。もっと大々的に宣伝して、更に稼ぎを上げる事もできるのではないですかな？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.205.6",
+    "original": "エッチな仕事に慣れたわけではないが……【<pl>】、殿がやれと、言うのであれば、従おう……遠慮する事はないぞ？",
+    "translation": "エッチな仕事に慣れたわけではないが……【<pl>】、殿がやれと、言うのであれば、従おう……遠慮する事はないぞ？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.206.6",
+    "original": "もうエッチな仕事はさせないの？　ん、別にしたいわけじゃないけど……稼がないと困るでしょ？　遠慮しないで",
+    "translation": "もうエッチな仕事はさせないの？　ん、別にしたいわけじゃないけど……稼がないと困るでしょ？　遠慮しないで",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.207.6",
+    "original": "ちょっとぉ御主人様？　一緒に仕事するスタッフの練度が足りてませんよ。私が一緒に働くんですから、ランクアップは当り前よね",
+    "translation": "ちょっとぉ御主人様？　一緒に仕事するスタッフの練度が足りてませんよ。私が一緒に働くんですから、ランクアップは当り前よね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.208.6",
+    "original": "スタッフへの教育が疎かになっているのではないですか？　しっかり教育して、ランクアップさせてくださいね？",
+    "translation": "スタッフへの教育が疎かになっているのではないですか？　しっかり教育して、ランクアップさせてくださいね？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.209.6",
+    "original": "最近ウチの相手をしてくれへんで、寂しいわぁ。誘ってくれるの、ずぅっと待ってるんやけどД",
+    "translation": "最近ウチの相手をしてくれへんで、寂しいわぁ。誘ってくれるの、ずぅっと待ってるんやけどД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.210.6",
+    "original": "【<pl>】様の店に、いつまでも練度の低い人間を置いておくつもりですの？　解雇する気が無いのなら、早くランクアップさせてくださいませ",
+    "translation": "【<pl>】様の店に、いつまでも練度の低い人間を置いておくつもりですの？　解雇する気が無いのなら、早くランクアップさせてくださいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.211.6",
+    "original": "女将さんが稼ぎが少ないってぼやいてるのを見てしまいましたぞ。矛先が私に向く前に、もっと稼いで下され！",
+    "translation": "女将さんが稼ぎが少ないってぼやいてるのを見てしまいましたぞ。矛先が私に向く前に、もっと稼いで下され！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.212.6",
+    "original": "こちらの錬金工房は素晴らしい人材がいらっしゃいますが、稼げなければ宝の持ち腐れですわ。錬金で一定額の利益を上げて下さいませ",
+    "translation": "こちらの錬金工房は素晴らしい人材がいらっしゃいますが、稼げなければ宝の持ち腐れですわ。錬金で一定額の利益を上げて下さいませ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.213.6",
+    "original": "ワシを養うにもカネは必要じゃぞ？　ほれ、さっさと稼いでみせんか",
+    "translation": "ワシを養うにもカネは必要じゃぞ？　ほれ、さっさと稼いでみせんか",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.214.6",
+    "original": "【『勇者』】としては、戦えない人の為に魔獣狩りをしないとな。一緒にバトルに行こうぜ！　一応言っとくけど、手を抜かずに、高得点を狙えよ！",
+    "translation": "【『勇者』】としては、戦えない人の為に魔獣狩りをしないとな。一緒にバトルに行こうぜ！　一応言っとくけど、手を抜かずに、高得点を狙えよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.215.6",
+    "original": "錬金って儲かるんじゃないんデス？　もっと儲けてくるデス！",
+    "translation": "錬金って儲かるんじゃないんデス？　もっと儲けてくるデス！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.216.6",
+    "original": "希少な素材は危険な場所に多く、素人目には判断も難しい。妾と一緒に、希少素材を探しに行くのじゃ！",
+    "translation": "希少な素材は危険な場所に多く、素人目には判断も難しい。妾と一緒に、希少素材を探しに行くのじゃ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.217.6",
+    "original": "なあ【<pl>】、ニンゲンはメシを食わないとすぐ死ぬだろ？　もっとメシを食わせてやろうぜ！",
+    "translation": "なあ【<pl>】、ニンゲンはメシを食わないとすぐ死ぬだろ？　もっとメシを食わせてやろうぜ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.218.6",
+    "original": "商品開発の停滞は商いの後退です。もっと開発を進めるべきですわ！",
+    "translation": "商品開発の停滞は商いの後退です。もっと開発を進めるべきですわ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.219.6",
+    "original": "皆様を飢えさせては、信徒の心も離れますわ。もっと料理を売りつけて、信者を増やして稼ぎましょうД",
+    "translation": "皆様を飢えさせては、信徒の心も離れますわ。もっと料理を売りつけて、信者を増やして稼ぎましょうД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.220.6",
+    "original": "この世界の料理は中々だけど、もっと美味しいメニューが作れると思うよ。もっと新しいメニューを考えようよ！",
+    "translation": "この世界の料理は中々だけど、もっと美味しいメニューが作れると思うよ。もっと新しいメニューを考えようよ！",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.221.6",
+    "original": "ルーシェ、もっと賑やかなお店がいいなぁД　美味しいメニューを開発して、人をジャンジャン呼び込もうよД",
+    "translation": "ルーシェ、もっと賑やかなお店がいいなぁД　美味しいメニューを開発して、人をジャンジャン呼び込もうよД",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.222.6",
+    "original": "採掘が終わった土地でも、我々ならば、新たな発見もできよう？　少し資源を持ち帰って来ようではないか",
+    "translation": "採掘が終わった土地でも、我々ならば、新たな発見もできよう？　少し資源を持ち帰って来ようではないか",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.223.6",
+    "original": "拠点を構えていれば、保存食に頼る事もないだろう。冒険者に料理を売れば、もっと稼げると思うが？",
+    "translation": "拠点を構えていれば、保存食に頼る事もないだろう。冒険者に料理を売れば、もっと稼げると思うが？",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.224.6",
+    "original": "お店に人が増えて来たけど、スタッフの皆に、仕事の差が出てるみたい。ちゃんと教育して、ランクアップさせてあげてね",
+    "translation": "お店に人が増えて来たけど、スタッフの皆に、仕事の差が出てるみたい。ちゃんと教育して、ランクアップさせてあげてね",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.225.6",
+    "original": "獲得した資源も、私に言わせれば物足りませんね。この天才が指導してあげますので、資源採取に同行させなさい",
+    "translation": "獲得した資源も、私に言わせれば物足りませんね。この天才が指導してあげますので、資源採取に同行させなさい",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.226.6",
+    "original": "ダンジョンの調査にもポイントがあるデス。私も一緒に行くデスから、オマエの調査パワーを見せてみろデス",
+    "translation": "ダンジョンの調査にもポイントがあるデス。私も一緒に行くデスから、オマエの調査パワーを見せてみろデス",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.227.6",
+    "original": "資源の獲得は経営をするうえで重要な仕入れデス。私と一緒に仕入れに行くデスよ",
+    "translation": "資源の獲得は経営をするうえで重要な仕入れデス。私と一緒に仕入れに行くデスよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.228.6",
+    "original": "オマエ、ちゃんと連携を考えて戦ってるデス？　ちょっと一緒に戦いに行くデスよ",
+    "translation": "オマエ、ちゃんと連携を考えて戦ってるデス？　ちょっと一緒に戦いに行くデスよ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.229.6",
+    "original": "ここらで新メニューを作って、一気に呼び込みをしたいデスね……おいオマエ、何か開発するデス",
+    "translation": "ここらで新メニューを作って、一気に呼び込みをしたいデスね……おいオマエ、何か開発するデス",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMissionInfo_11.txt.230.6",
+    "original": "娯楽施設の稼働率が悪いデス……もっと娯楽施設でカネを稼ぐデス！",
+    "translation": "娯楽施設の稼働率が悪いデス……もっと娯楽施設でカネを稼ぐデス！",
+    "context": null
+  }
+]

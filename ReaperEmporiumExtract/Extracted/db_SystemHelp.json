@@ -1,0 +1,1412 @@
+[
+  {
+    "key": "db_SystemHelp_11.txt.1.2",
+    "original": "この店の経営を初めてからの経過日数デス。店の経営開始を基準にしているので、【死に戻り】すると、日数が戻ったりするデス",
+    "translation": "この店の経営を初めてからの経過日数デス。店の経営開始を基準にしているので、【死に戻り】すると、日数が戻ったりするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.1.3",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.1.4",
+    "original": "日数",
+    "translation": "日数",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.2.2",
+    "original": "現在の時刻デス。店を経営したり、ダンジョン内を探索していると経過するデス。時間は有限、キリキリ働くデス",
+    "translation": "現在の時刻デス。店を経営したり、ダンジョン内を探索していると経過するデス。時間は有限、キリキリ働くデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.2.4",
+    "original": "現在時刻",
+    "translation": "現在時刻",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.3.2",
+    "original": "本日の客の合計デス。客が増えれば当然落とすカネも増えるデス！",
+    "translation": "本日の客の合計デス。客が増えれば当然落とすカネも増えるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.3.4",
+    "original": "来客数",
+    "translation": "来客数",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.4.2",
+    "original": "宿に泊まった客デス",
+    "translation": "宿に泊まった客デス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.4.4",
+    "original": "宿泊数",
+    "translation": "宿泊数",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.5.2",
+    "original": "お店の汚さデス。この値が高いとゴミが増え、客が減ってしまうデス。『清掃』を強化することで減らすことが出来るデス",
+    "translation": "お店の汚さデス。この値が高いとゴミが増え、客が減ってしまうデス。『清掃』を強化することで減らすことが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.5.4",
+    "original": "汚染値",
+    "translation": "汚染値",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.6.2",
+    "original": "治安の悪さを示すデス。高くなってくるとガラの悪い客だらけになるデス。『防犯』を強化することで減らすことが出来るデス",
+    "translation": "治安の悪さを示すデス。高くなってくるとガラの悪い客だらけになるデス。『防犯』を強化することで減らすことが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.6.4",
+    "original": "犯罪値",
+    "translation": "犯罪値",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.7.2",
+    "original": "店の資産。いわゆるカネデス。たくさん稼ぐデス！！！",
+    "translation": "店の資産。いわゆるカネデス。たくさん稼ぐデス！！！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.7.4",
+    "original": "店パラメータ・資金(ゴールド)",
+    "translation": "店パラメータ・資金(ゴールド)",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.8.2",
+    "original": "スタッフが獲得したショップ経験値デス。このポイントは共有され、好きなスタッフを成長させることが出来るデス！　成長は『店員』から行うことが出来るデス",
+    "translation": "スタッフが獲得したショップ経験値デス。このポイントは共有され、好きなスタッフを成長させることが出来るデス！　成長は『店員』から行うことが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.8.4",
+    "original": "店パラメータ・経験値",
+    "translation": "店パラメータ・経験値",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.9.2",
+    "original": "神の権能を行使出来る力の値デス。最初のうちはあんまりないデスが、『死神研修』をこなすことで、総量はアップするデス。【店で商品が売れる】ごとに回復するデス",
+    "translation": "神の権能を行使出来る力の値デス。最初のうちはあんまりないデスが、『死神研修』をこなすことで、総量はアップするデス。【店で商品が売れる】ごとに回復するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.9.4",
+    "original": "店パラメータ・死神パワー(RP)",
+    "translation": "店パラメータ・死神パワー(RP)",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.10.2",
+    "original": "『商品』の開発に必要なポイントの一つデス。トレジャーを発見したときに獲得出来ることがあるデス",
+    "translation": "『商品』の開発に必要なポイントの一つデス。トレジャーを発見したときに獲得出来ることがあるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.10.4",
+    "original": "開発ポイント・資源点",
+    "translation": "開発ポイント・資源点",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.11.4",
+    "original": "開発ポイント・調査点",
+    "translation": "開発ポイント・調査点",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.12.2",
+    "original": "『商品』の開発に必要なポイントの一つデス。【ダンジョン】でエネミーを撃破すると獲得出来るデス",
+    "translation": "『商品』の開発に必要なポイントの一つデス。【ダンジョン】でエネミーを撃破すると獲得出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.12.4",
+    "original": "開発ポイント・戦功点",
+    "translation": "開発ポイント・戦功点",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.13.2",
+    "original": "『商品』の開発に必要なポイントの一つデス。【ダンジョン】で稀少なトレジャーを発見したときに獲得することがあるデス",
+    "translation": "『商品』の開発に必要なポイントの一つデス。【ダンジョン】で稀少なトレジャーを発見したときに獲得することがあるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.13.4",
+    "original": "開発ポイント・稀少点",
+    "translation": "開発ポイント・稀少点",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.31.2",
+    "original": "スタッフに部門を割り振ったり、ステータスを確認するデス",
+    "translation": "スタッフに部門を割り振ったり、ステータスを確認するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.31.4",
+    "original": "店員",
+    "translation": "店員",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.32.2",
+    "original": "販売する商品メニューを作成するデス。商品がなければ、カネを稼ぐことはできないデス！",
+    "translation": "販売する商品メニューを作成するデス。商品がなければ、カネを稼ぐことはできないデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.32.4",
+    "original": "商品",
+    "translation": "商品",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.33.2",
+    "original": "施設を建築したり強化したりして、施設を操作するデス。より良い店を作るためには、カネと設備が必要デス",
+    "translation": "施設を建築したり強化したりして、施設を操作するデス。より良い店を作るためには、カネと設備が必要デス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.33.4",
+    "original": "施設",
+    "translation": "施設",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.34.2",
+    "original": "宿の設備に投資したり、組織に献金したりするデス。カネのチカラを使って、あらゆるものをパワーアップさせるデス！",
+    "translation": "宿の設備に投資したり、組織に献金したりするデス。カネのチカラを使って、あらゆるものをパワーアップさせるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.34.4",
+    "original": "投資",
+    "translation": "投資",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.35.2",
+    "original": "スタッフを攻略済みのダンジョンに派遣して、冒険者どものサポートをさせるデス。開発ポイントを代わりに集めさせることができるデス",
+    "translation": "スタッフを攻略済みのダンジョンに派遣して、冒険者どものサポートをさせるデス。開発ポイントを代わりに集めさせることができるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.35.4",
+    "original": "派遣",
+    "translation": "派遣",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.36.2",
+    "original": "私達自らでダンジョンに挑戦するデス。店の経営を妨害する邪魔者を粉砕するデス！",
+    "translation": "私達自らでダンジョンに挑戦するデス。店の経営を妨害する邪魔者を粉砕するデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.36.4",
+    "original": "探索",
+    "translation": "探索",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.37.2",
+    "original": "システムメニューをオープンするデス",
+    "translation": "システムメニューをオープンするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.37.4",
+    "original": "システムメニュー",
+    "translation": "システムメニュー",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.38.2",
+    "original": "死神の権能を行使して、冒険に行くメンバーをパワーアップさせたりできるデス",
+    "translation": "死神の権能を行使して、冒険に行くメンバーをパワーアップさせたりできるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.38.4",
+    "original": "死神メニュー",
+    "translation": "死神メニュー",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.39.2",
+    "original": "本日の営業を終了して、次の日に移るデス",
+    "translation": "本日の営業を終了して、次の日に移るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.39.4",
+    "original": "就寝",
+    "translation": "就寝",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.40.2",
+    "original": "酒場の人間と話すデス。暇つぶしにはなるんじゃないかなデス",
+    "translation": "酒場の人間と話すデス。暇つぶしにはなるんじゃないかなデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.40.4",
+    "original": "酒場",
+    "translation": "酒場",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.41.2",
+    "original": "新しいスタッフを獲得するデス。【採用は1回につき1人のみ使用できるデス】。多く雇いすぎた場合は、誰かを解雇して入れ替えるデス",
+    "translation": "新しいスタッフを獲得するデス。【採用は1回につき1人のみ使用できるデス】。多く雇いすぎた場合は、誰かを解雇して入れ替えるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.41.4",
+    "original": "求人",
+    "translation": "求人",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.42.2",
+    "original": "ゴミと社会のゴミを一掃するデス【(有料)】",
+    "translation": "ゴミと社会のゴミを一掃するデス【(有料)】",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.42.4",
+    "original": "一掃",
+    "translation": "一掃",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.43.2",
+    "original": "神の『祝福』で客を大量に引き寄せるデス！",
+    "translation": "神の『祝福』で客を大量に引き寄せるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.43.4",
+    "original": "祝福",
+    "translation": "祝福",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.44.2",
+    "original": "寝る前に寝室で交流するデス",
+    "translation": "寝る前に寝室で交流するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.44.4",
+    "original": "夜伽",
+    "translation": "夜伽",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.45.2",
+    "original": "エネミー図鑑を見ることが出来るデス",
+    "translation": "エネミー図鑑を見ることが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.45.4",
+    "original": "図鑑",
+    "translation": "図鑑",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.46.2",
+    "original": "一緒に仕事をしているスタッフと【交流】するデス。コミュニケーションは大事デスかね。あまりしつこいと嫌われるデス。好感度が高いと成功しやすくなるデス",
+    "translation": "一緒に仕事をしているスタッフと【交流】するデス。コミュニケーションは大事デスかね。あまりしつこいと嫌われるデス。好感度が高いと成功しやすくなるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.46.4",
+    "original": "交流・会話",
+    "translation": "交流・会話",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.47.2",
+    "original": "セクハラするデス？　ちゃんと仕事しろデス！　好感度が高いと成功しやすくなるデス。人目に付く事務所だと成功しにくいデスが、仲良くなると関係なくなるデス",
+    "translation": "セクハラするデス？　ちゃんと仕事しろデス！　好感度が高いと成功しやすくなるデス。人目に付く事務所だと成功しにくいデスが、仲良くなると関係なくなるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.47.4",
+    "original": "交流・触る",
+    "translation": "交流・触る",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.48.2",
+    "original": "仕事をサボってなにするつもりデス？",
+    "translation": "仕事をサボってなにするつもりデス？",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.48.4",
+    "original": "交流・愛撫",
+    "translation": "交流・愛撫",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.49.2",
+    "original": "……仕事をサボってなにするつもりデス？",
+    "translation": "……仕事をサボってなにするつもりデス？",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.49.4",
+    "original": "交流・エッチ",
+    "translation": "交流・エッチ",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.50.2",
+    "original": "仕事する場所を移動するデス。移動先にスタッフがいると【交流】することも出来るデス",
+    "translation": "仕事する場所を移動するデス。移動先にスタッフがいると【交流】することも出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.50.4",
+    "original": "移動",
+    "translation": "移動",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.62.2",
+    "original": "探索メンバーを入れ替えるデス",
+    "translation": "探索メンバーを入れ替えるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.62.4",
+    "original": "編成",
+    "translation": "編成",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.51.2",
+    "original": "物理的な攻撃により、敵に与えるダメージに影響するデス。とっても重要なステータスデス。暴力は全てを解決するデス",
+    "translation": "物理的な攻撃により、敵に与えるダメージに影響するデス。とっても重要なステータスデス。暴力は全てを解決するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.51.4",
+    "original": "攻撃",
+    "translation": "攻撃",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.52.2",
+    "original": "敵から受けるダメージに影響するデス。相手の攻撃に耐えるよりは、攻撃を高めてさっさと倒す方が楽デスが、相手の数が多すぎたらそんなこと言えないデス",
+    "translation": "敵から受けるダメージに影響するデス。相手の攻撃に耐えるよりは、攻撃を高めてさっさと倒す方が楽デスが、相手の数が多すぎたらそんなこと言えないデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.52.4",
+    "original": "防御",
+    "translation": "防御",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.53.2",
+    "original": "攻撃の命中率に影響するデス。攻撃ミスが目立つようなら、高めておくが良いデス",
+    "translation": "攻撃の命中率に影響するデス。攻撃ミスが目立つようなら、高めておくが良いデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.53.4",
+    "original": "命中",
+    "translation": "命中",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.54.2",
+    "original": "敵から受ける攻撃の回避率に影響するデス",
+    "translation": "敵から受ける攻撃の回避率に影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.54.4",
+    "original": "回避",
+    "translation": "回避",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.55.2",
+    "original": "【クリティカルヒット】の威力に影響するデス。クリティカルヒットの発生率は決まってるデスが、スキルを使用することでアップするデス。【弱点】を突くと、発生確率もアップするデス",
+    "translation": "【クリティカルヒット】の威力に影響するデス。クリティカルヒットの発生率は決まってるデスが、スキルを使用することでアップするデス。【弱点】を突くと、発生確率もアップするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.55.4",
+    "original": "必殺",
+    "translation": "必殺",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.56.2",
+    "original": "行動の優先度が高まるデス。また、相手の速度を下回ると命中率が下がり、上回ると【ダブルアタック】しやすくなるデス。【クリティカルヒット】も一緒に発生すると強力な【デスクリティカル】になるデス",
+    "translation": "行動の優先度が高まるデス。また、相手の速度を下回ると命中率が下がり、上回ると【ダブルアタック】しやすくなるデス。【クリティカルヒット】も一緒に発生すると強力な【デスクリティカル】になるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.56.4",
+    "original": "速度",
+    "translation": "速度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.57.2",
+    "original": "魔術攻撃で与えるダメージに影響するデス。魔術攻撃は大勢をまとめて相手できる攻撃が多いデス。魔術を使わないなら不要デス",
+    "translation": "魔術攻撃で与えるダメージに影響するデス。魔術攻撃は大勢をまとめて相手できる攻撃が多いデス。魔術を使わないなら不要デス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.57.4",
+    "original": "魔攻",
+    "translation": "魔攻",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.58.2",
+    "original": "魔術攻撃から受けるダメージに影響するデス。優先度は低めデスが、レベルが高いダンジョンに行くなら、ちょっとぐらいは上げたいデス",
+    "translation": "魔術攻撃から受けるダメージに影響するデス。優先度は低めデスが、レベルが高いダンジョンに行くなら、ちょっとぐらいは上げたいデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.58.4",
+    "original": "魔防",
+    "translation": "魔防",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.59.2",
+    "original": "【ダブルアタック】の威力に影響するデス。ダブルアタックは、相手より『速度』が上回っていないといけないので、『速度』が高いキャラには重要デス",
+    "translation": "【ダブルアタック】の威力に影響するデス。ダブルアタックは、相手より『速度』が上回っていないといけないので、『速度』が高いキャラには重要デス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.59.4",
+    "original": "連撃",
+    "translation": "連撃",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.60.2",
+    "original": "敵からのダメージを受けられる合計デス。前衛キャラはもちろん、後衛キャラも重要デス",
+    "translation": "敵からのダメージを受けられる合計デス。前衛キャラはもちろん、後衛キャラも重要デス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.60.4",
+    "original": "HP",
+    "translation": "HP",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.61.2",
+    "original": "消耗するスキルの使用回数に影響するデス。スキルをばんばん撃つにはたくさんのMPが必要なのデス",
+    "translation": "消耗するスキルの使用回数に影響するデス。スキルをばんばん撃つにはたくさんのMPが必要なのデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.61.4",
+    "original": "MP",
+    "translation": "MP",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.71.2",
+    "original": "エネミー発見率。高いと隠れている敵を発見し、不意打ちを防ぐことが出来るデス",
+    "translation": "エネミー発見率。高いと隠れている敵を発見し、不意打ちを防ぐことが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.71.4",
+    "original": "敵発見",
+    "translation": "敵発見",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.72.2",
+    "original": "トラップ発見率。高いと仕掛けられているトラップを発見できる。トラップが発見できても、トラップの解除は別なので注意するデス。発見できないと問答無用で罠にかかるデス！",
+    "translation": "トラップ発見率。高いと仕掛けられているトラップを発見できる。トラップが発見できても、トラップの解除は別なので注意するデス。発見できないと問答無用で罠にかかるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.72.4",
+    "original": "罠発見",
+    "translation": "罠発見",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.73.2",
+    "original": "機械系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "translation": "機械系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.73.4",
+    "original": "機械罠",
+    "translation": "機械罠",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.74.2",
+    "original": "自然系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "translation": "自然系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.74.4",
+    "original": "自然罠",
+    "translation": "自然罠",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.75.2",
+    "original": "魔術系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "translation": "魔術系トラップの解除率に影響するデス。トラップのダメージは非常に大きいデス。敵と戦うより危険かもしれないので、解除率が低い時は心して開けるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.75.4",
+    "original": "魔術罠",
+    "translation": "魔術罠",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.76.2",
+    "original": "開発ポイントの獲得量に影響するデス。開発ポイントがないと、新しい商品を開発できないデス！",
+    "translation": "開発ポイントの獲得量に影響するデス。開発ポイントがないと、新しい商品を開発できないデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.76.4",
+    "original": "開発点",
+    "translation": "開発点",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.77.2",
+    "original": "レアトレジャーの発見率に影響するデス。レアトレジャーは通常よりも多くの開発ポイントをゲットするチャンスがあるデスが、トラップが仕掛けられているデス。マテリアル入手するために、レアハントするデス！",
+    "translation": "レアトレジャーの発見率に影響するデス。レアトレジャーは通常よりも多くの開発ポイントをゲットするチャンスがあるデスが、トラップが仕掛けられているデス。マテリアル入手するために、レアハントするデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.77.4",
+    "original": "レア宝",
+    "translation": "レア宝",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.78.2",
+    "original": "獲得経験値に影響するデス。この値が高いほど、レベルアップしやすくなるデス。仲間全体に効果があるスキルの値を示しているデス！",
+    "translation": "獲得経験値に影響するデス。この値が高いほど、レベルアップしやすくなるデス。仲間全体に効果があるスキルの値を示しているデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.78.4",
+    "original": "経験値",
+    "translation": "経験値",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.79.2",
+    "original": "敵から逃げられる確率に影響するデス。逃げたくなる強敵に限って、逃走率は低くなってるデス。いざってときのために、ある程度は欲しいデスね",
+    "translation": "敵から逃げられる確率に影響するデス。逃げたくなる強敵に限って、逃走率は低くなってるデス。いざってときのために、ある程度は欲しいデスね",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.79.4",
+    "original": "逃走率",
+    "translation": "逃走率",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.81.2",
+    "original": "こいつに部門を割り当てるデス。適正に合わせた仕事を与えて、キリキリ働かせるデス",
+    "translation": "こいつに部門を割り当てるデス。適正に合わせた仕事を与えて、キリキリ働かせるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.81.4",
+    "original": "部門変更",
+    "translation": "部門変更",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.82.2",
+    "original": "神の名において、こいつに新たなる『名』を与えるデス。与えられない者もいるデス",
+    "translation": "神の名において、こいつに新たなる『名』を与えるデス。与えられない者もいるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.82.4",
+    "original": "エディット・名前",
+    "translation": "エディット・名前",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.83.2",
+    "original": "神の名において、こいつに新たなる『姿』を与えるデス。与えられない者もいるデス",
+    "translation": "神の名において、こいつに新たなる『姿』を与えるデス。与えられない者もいるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.83.4",
+    "original": "エディット・画像",
+    "translation": "エディット・画像",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.101.2",
+    "original": "パートナーからの信頼感を示すパラメータです。『会話』をすることで増やせるかもしれません",
+    "translation": "パートナーからの信頼感を示すパラメータです。『会話』をすることで増やせるかもしれません",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.101.4",
+    "original": "信頼",
+    "translation": "信頼",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.102.2",
+    "original": "パートナーが異性を魅了する美しさ、身だしなみです。【ケモミミブラシ】を購入してから、【頭を撫でる】ことでアップできるかもしれません",
+    "translation": "パートナーが異性を魅了する美しさ、身だしなみです。【ケモミミブラシ】を購入してから、【頭を撫でる】ことでアップできるかもしれません",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.102.4",
+    "original": "魅力",
+    "translation": "魅力",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.103.2",
+    "original": "パートナーから御主人様への愛情を示すパラメータです。『遊ぶ』や『トレーニング』で成長させることができます",
+    "translation": "パートナーから御主人様への愛情を示すパラメータです。『遊ぶ』や『トレーニング』で成長させることができます",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.103.4",
+    "original": "愛情",
+    "translation": "愛情",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.141.2",
+    "original": "スタッフの仕事に対するモチベーションを示すパラメータデス。『体力』が高いスタッフは疲れにくくなるデス。健康的でもやる気が無いと仕事しないデス。……なんで私を見るデス？",
+    "translation": "スタッフの仕事に対するモチベーションを示すパラメータデス。『体力』が高いスタッフは疲れにくくなるデス。健康的でもやる気が無いと仕事しないデス。……なんで私を見るデス？",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.141.4",
+    "original": "店員能力・体力",
+    "translation": "店員能力・体力",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.142.2",
+    "original": "接客の能力を示すパラメータデス。商品を売ったときの販売額に影響するデス。能力が高いほど、高く売りつけることが出来るわけデス！",
+    "translation": "接客の能力を示すパラメータデス。商品を売ったときの販売額に影響するデス。能力が高いほど、高く売りつけることが出来るわけデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.142.4",
+    "original": "店員能力・接客",
+    "translation": "店員能力・接客",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.143.2",
+    "original": "料理をする能力を示すパラメータデス。料理部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "translation": "料理をする能力を示すパラメータデス。料理部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.143.4",
+    "original": "店員能力・料理",
+    "translation": "店員能力・料理",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.144.2",
+    "original": "鍛冶をする能力を示すパラメータデス。鍛冶部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "translation": "鍛冶をする能力を示すパラメータデス。鍛冶部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.144.4",
+    "original": "店員能力・鍛冶",
+    "translation": "店員能力・鍛冶",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.145.2",
+    "original": "錬金をする能力を示すパラメータデス。錬金部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "translation": "錬金をする能力を示すパラメータデス。錬金部門に割り振った際の、キャパシティの増加量に影響するデス。高いほどキャパシティも高くなり、多くのメニューをセットできるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.145.4",
+    "original": "店員能力・錬金",
+    "translation": "店員能力・錬金",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.146.2",
+    "original": "清掃の能力を示すパラメータデス。清掃部門に割り振った際の、店内でゴミ掃除する際のダメージ量に影響するデス",
+    "translation": "清掃の能力を示すパラメータデス。清掃部門に割り振った際の、店内でゴミ掃除する際のダメージ量に影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.146.4",
+    "original": "店員能力・清掃",
+    "translation": "店員能力・清掃",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.147.2",
+    "original": "防犯の能力を示すパラメータデス。防犯部門に割り振った際の、食い逃げ犯に与えるダメージ量に影響するデス。また、「ショップへの襲撃時」に現れたエネミーに与えるダメージにも影響するデス",
+    "translation": "防犯の能力を示すパラメータデス。防犯部門に割り振った際の、食い逃げ犯に与えるダメージ量に影響するデス。また、「ショップへの襲撃時」に現れたエネミーに与えるダメージにも影響するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.147.4",
+    "original": "店員能力・防犯",
+    "translation": "店員能力・防犯",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.151.2",
+    "original": "派遣クエスト時のやる気や体力などを総合的に評価する値デス。派遣クエストが始まると徐々に下がっていき、士気がなくなるとクエストを途中で切り上げてしまうデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "派遣クエスト時のやる気や体力などを総合的に評価する値デス。派遣クエストが始まると徐々に下がっていき、士気がなくなるとクエストを途中で切り上げてしまうデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.151.4",
+    "original": "派遣能力・士気",
+    "translation": "派遣能力・士気",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.152.2",
+    "original": "パーティーを危険から守るタンク的な役割を果たせる能力デス。この適性があるメンバーならば、敵からの攻撃の被害を最小限に抑えることが出来るデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "パーティーを危険から守るタンク的な役割を果たせる能力デス。この適性があるメンバーならば、敵からの攻撃の被害を最小限に抑えることが出来るデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.152.4",
+    "original": "派遣能力・盾役",
+    "translation": "派遣能力・盾役",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.153.2",
+    "original": "派遣クエストに必要な戦闘能力デス。魔獣やならずものを撃退する力が無くては、派遣クエストをクリアに導くことは不可能デス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "派遣クエストに必要な戦闘能力デス。魔獣やならずものを撃退する力が無くては、派遣クエストをクリアに導くことは不可能デス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.153.4",
+    "original": "派遣能力・戦力",
+    "translation": "派遣能力・戦力",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.154.2",
+    "original": "魔術師としての適性や能力を示す値デス。魔術師なら、大勢を相手取る攻撃魔術を使えるはずデスし、魔術的なトラップにも対応できるはずデス。魔術的なお宝も発見するデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "魔術師としての適性や能力を示す値デス。魔術師なら、大勢を相手取る攻撃魔術を使えるはずデスし、魔術的なトラップにも対応できるはずデス。魔術的なお宝も発見するデス！　【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.154.4",
+    "original": "派遣能力・魔術",
+    "translation": "派遣能力・魔術",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.155.2",
+    "original": "ヒーラー的な適性や能力を示す値デス。怪我を負う可能性のあるクエストにおいて、ヒーラーの存在は必須デスね。一人ぐらいは、この適性を持つメンバーを入れておきたいデス。【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "ヒーラー的な適性や能力を示す値デス。怪我を負う可能性のあるクエストにおいて、ヒーラーの存在は必須デスね。一人ぐらいは、この適性を持つメンバーを入れておきたいデス。【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.155.4",
+    "original": "派遣能力・回復",
+    "translation": "派遣能力・回復",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.156.2",
+    "original": "索敵やトラップ、トレジャーの発見などに役立つ能力デス。皆が持っている必要はないデスが、一人ぐらいは持っていないと、快適に派遣クエストを任せることは難しくなるデス。【才能】が高いほど、より高いランクまで成長するデス",
+    "translation": "索敵やトラップ、トレジャーの発見などに役立つ能力デス。皆が持っている必要はないデスが、一人ぐらいは持っていないと、快適に派遣クエストを任せることは難しくなるデス。【才能】が高いほど、より高いランクまで成長するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.156.4",
+    "original": "派遣能力・探索",
+    "translation": "派遣能力・探索",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.161.2",
+    "original": "エッチの上手さを示す値デス。高いほどHでたくさん搾り取れるようになるデス。エッチをするとどんどん増えていくデス。",
+    "translation": "エッチの上手さを示す値デス。高いほどHでたくさん搾り取れるようになるデス。エッチをするとどんどん増えていくデス。",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.161.4",
+    "original": "H能力・性技",
+    "translation": "H能力・性技",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.162.2",
+    "original": "エッチさを示す値デス。対ほどHに前向きになるデス。エッチをするとどんどん増えていくデス。淫乱度が低いやつは、搾精要員としてはあまり役に立たなさそうデス",
+    "translation": "エッチさを示す値デス。対ほどHに前向きになるデス。エッチをするとどんどん増えていくデス。淫乱度が低いやつは、搾精要員としてはあまり役に立たなさそうデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.162.4",
+    "original": "H能力・淫乱度",
+    "translation": "H能力・淫乱度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.163.2",
+    "original": "オマエに対する愛情の高さデス。まあエッチをするのに最低限必要なものデスかね。「一緒に仕事」すると増えるデス。低いヤツは、とりあえず一緒に仕事をして親交を深めるデス",
+    "translation": "オマエに対する愛情の高さデス。まあエッチをするのに最低限必要なものデスかね。「一緒に仕事」すると増えるデス。低いヤツは、とりあえず一緒に仕事をして親交を深めるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.163.4",
+    "original": "H能力・好感度",
+    "translation": "H能力・好感度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.164.2",
+    "original": "オマエに対する執着心の高さデス。独占欲が高いヤツほどエッチに前向きになるデスが、一方で満足度が下がりやすくなるデス。エッチをするとどんどん増えていくデス。",
+    "translation": "オマエに対する執着心の高さデス。独占欲が高いヤツほどエッチに前向きになるデスが、一方で満足度が下がりやすくなるデス。エッチをするとどんどん増えていくデス。",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.164.4",
+    "original": "H能力・独占欲",
+    "translation": "H能力・独占欲",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.165.2",
+    "original": "オマエに対する不満のなさデス。常に少しずつ下がっていき、エッチをすると増えるデス。嫉妬しやすいヤツほど下がりやすくなるデス。下がりすぎると仕事しなくなるデス",
+    "translation": "オマエに対する不満のなさデス。常に少しずつ下がっていき、エッチをすると増えるデス。嫉妬しやすいヤツほど下がりやすくなるデス。下がりすぎると仕事しなくなるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.165.4",
+    "original": "H能力・満足度",
+    "translation": "H能力・満足度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.166.2",
+    "original": "エッチの好きさ。この値が高いとやがて淫乱なムスメになるデス。\\n【(モブユニットのみのステータスです)】",
+    "translation": "エッチの好きさ。この値が高いとやがて淫乱なムスメになるデス。\\n【(モブユニットのみのステータスです)】",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.166.4",
+    "original": "H能力・H好き",
+    "translation": "H能力・H好き",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.167.2",
+    "original": "総合的なエッチの上手さデス。この値が高いほど搾精効率が高まり、たくさん搾り取るデス。搾精量が多ければ「搾精売上」も伸びるデス",
+    "translation": "総合的なエッチの上手さデス。この値が高いほど搾精効率が高まり、たくさん搾り取るデス。搾精量が多ければ「搾精売上」も伸びるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.167.4",
+    "original": "H能力・搾精力",
+    "translation": "H能力・搾精力",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.168.2",
+    "original": "総合的なエッチの頻度デス。この値が高いほどエッチを多く実行するデス。つまりはたくさん搾精する機会に恵まれるデス",
+    "translation": "総合的なエッチの頻度デス。この値が高いほどエッチを多く実行するデス。つまりはたくさん搾精する機会に恵まれるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.168.4",
+    "original": "H能力・H頻度",
+    "translation": "H能力・H頻度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.171.2",
+    "original": "前衛に立って敵のダメージを受け止めるチームロールデス。『HP』『被ターゲット率』がアップするデス",
+    "translation": "前衛に立って敵のダメージを受け止めるチームロールデス。『HP』『被ターゲット率』がアップするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.171.4",
+    "original": "ロール・盾役",
+    "translation": "ロール・盾役",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.172.2",
+    "original": "物理攻撃でダメージを発生させることを求められるチームロールデス。『攻撃』がアップするデスが、『魔攻』がダウンするデス",
+    "translation": "物理攻撃でダメージを発生させることを求められるチームロールデス。『攻撃』がアップするデスが、『魔攻』がダウンするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.172.4",
+    "original": "ロール・戦力",
+    "translation": "ロール・戦力",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.173.2",
+    "original": "魔術による攻撃でダメージを発生させることを求められるチームロールデス。『MP』『魔攻』がアップするデスが、『HP』『攻撃』『速度』がダウンするデス",
+    "translation": "魔術による攻撃でダメージを発生させることを求められるチームロールデス。『MP』『魔攻』がアップするデスが、『HP』『攻撃』『速度』がダウンするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.173.4",
+    "original": "ロール・魔術",
+    "translation": "ロール・魔術",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.174.2",
+    "original": "回復スキルで仲間を支援することを求められるチームロールデス。『回復HP』と戦闘終了後の『MP』回復量がアップするデスが、『HP』『攻撃』『魔攻』がダウンするデス",
+    "translation": "回復スキルで仲間を支援することを求められるチームロールデス。『回復HP』と戦闘終了後の『MP』回復量がアップするデスが、『HP』『攻撃』『魔攻』がダウンするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.174.4",
+    "original": "ロール・回復",
+    "translation": "ロール・回復",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.175.2",
+    "original": "探索することを求められるチームロールデス。『トレジャー』獲得による『開発ポイント』がアップするデス。また、『速度』『連撃』がアップして、『HP』がダウンするデス",
+    "translation": "探索することを求められるチームロールデス。『トレジャー』獲得による『開発ポイント』がアップするデス。また、『速度』『連撃』がアップして、『HP』がダウンするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.175.4",
+    "original": "ロール・探索",
+    "translation": "ロール・探索",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.201.2",
+    "original": "オマエだけに割り当てられる部門デス。サボらずちゃんと仕切るデスよ",
+    "translation": "オマエだけに割り当てられる部門デス。サボらずちゃんと仕切るデスよ",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.201.4",
+    "original": "経営部門",
+    "translation": "経営部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.202.2",
+    "original": "仕事を割り当てていないデス。何かの部門を割り当てるデス！",
+    "translation": "仕事を割り当てていないデス。何かの部門を割り当てるデス！",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.202.4",
+    "original": "待機部門",
+    "translation": "待機部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.203.2",
+    "original": "スタッフを冒険に出すデス。スタッフどもはもともとは冒険者デスからね",
+    "translation": "スタッフを冒険に出すデス。スタッフどもはもともとは冒険者デスからね",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.203.4",
+    "original": "派遣部門",
+    "translation": "派遣部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.204.2",
+    "original": "アイテムの販売と娯楽施設を担当させるデス。ショップを設置するには必須デスね",
+    "translation": "アイテムの販売と娯楽施設を担当させるデス。ショップを設置するには必須デスね",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.204.4",
+    "original": "接客部門",
+    "translation": "接客部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.205.2",
+    "original": "素材を使用して、『料理』系アイテムを生産させるデス",
+    "translation": "素材を使用して、『料理』系アイテムを生産させるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.205.4",
+    "original": "料理部門",
+    "translation": "料理部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.206.2",
+    "original": "素材を使用して、『鍛冶』系アイテムを生産させるデス",
+    "translation": "素材を使用して、『鍛冶』系アイテムを生産させるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.206.4",
+    "original": "鍛冶部門",
+    "translation": "鍛冶部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.207.2",
+    "original": "素材を使用して、『錬金』系アイテムを生産させるデス",
+    "translation": "素材を使用して、『錬金』系アイテムを生産させるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.207.4",
+    "original": "錬金部門",
+    "translation": "錬金部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.208.2",
+    "original": "店内を清掃させるデス。店の経営によって発生する汚れを退治してくれるデス",
+    "translation": "店内を清掃させるデス。店の経営によって発生する汚れを退治してくれるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.208.4",
+    "original": "清掃部門",
+    "translation": "清掃部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.209.2",
+    "original": "店内の食い逃げ犯を捕まえて、犯罪を防止するデス",
+    "translation": "店内の食い逃げ犯を捕まえて、犯罪を防止するデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.209.4",
+    "original": "防犯部門",
+    "translation": "防犯部門",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.210.2",
+    "original": "普通に働かせる状態デス。",
+    "translation": "普通に働かせる状態デス。",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.210.4",
+    "original": "エッチ部門・待機",
+    "translation": "エッチ部門・待機",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.211.2",
+    "original": "オマエのアバターを使ってエッチさせるデス。射精すれば、その精液を淫魔どもに売りつけて、カネを稼ぐことが出来るデス。アバターをたくさん作ればたんさん儲かるデス",
+    "translation": "オマエのアバターを使ってエッチさせるデス。射精すれば、その精液を淫魔どもに売りつけて、カネを稼ぐことが出来るデス。アバターをたくさん作ればたんさん儲かるデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.211.4",
+    "original": "エッチ部門・搾精",
+    "translation": "エッチ部門・搾精",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.212.2",
+    "original": "スタッフに客を取らせて売春させるデス。男の客から精気とカネを搾り取ってやるデス！ (売春シーンの条件になることがあります。「搾精」と利益的な差はありません)",
+    "translation": "スタッフに客を取らせて売春させるデス。男の客から精気とカネを搾り取ってやるデス！ (売春シーンの条件になることがあります。「搾精」と利益的な差はありません)",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.212.4",
+    "original": "エッチ部門・売春",
+    "translation": "エッチ部門・売春",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.213.2",
+    "original": "エッチな経験をリセットすることが出来るデス",
+    "translation": "エッチな経験をリセットすることが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.213.4",
+    "original": "リセット",
+    "translation": "リセット",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.214.2",
+    "original": "ヒロインごとのセクハラ耐性を見たり、エッチな出来事が発生する条件を確認することが出来るデス",
+    "translation": "ヒロインごとのセクハラ耐性を見たり、エッチな出来事が発生する条件を確認することが出来るデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.214.4",
+    "original": "プロフィール",
+    "translation": "プロフィール",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.215.2",
+    "original": "パートナーを一緒に仕事に誘って好感度を上げて、さらにムフフなことをするデス",
+    "translation": "パートナーを一緒に仕事に誘って好感度を上げて、さらにムフフなことをするデス",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.215.4",
+    "original": "一緒に仕事",
+    "translation": "一緒に仕事",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.216.2",
+    "original": "ウチの物件を使ってカネを増やすらしいデス。ククク……カネがカネを産むデスД",
+    "translation": "ウチの物件を使ってカネを増やすらしいデス。ククク……カネがカネを産むデスД",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.216.4",
+    "original": "資産運用",
+    "translation": "資産運用",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.221.2",
+    "original": "快楽に抗うポイント。この値が0になると、ご主人様はイッてしまいます",
+    "translation": "快楽に抗うポイント。この値が0になると、ご主人様はイッてしまいます",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.221.4",
+    "original": "EP",
+    "translation": "EP",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.222.2",
+    "original": "この値が0になると、このモードは完了してしまいます",
+    "translation": "この値が0になると、このモードは完了してしまいます",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.222.4",
+    "original": "残りタイム",
+    "translation": "残りタイム",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.223.2",
+    "original": "調教・訓練メニューのマスター度合いです。上手くコマンドを選んでマックスにしましょう",
+    "translation": "調教・訓練メニューのマスター度合いです。上手くコマンドを選んでマックスにしましょう",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.223.4",
+    "original": "マスター度",
+    "translation": "マスター度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.224.2",
+    "original": "エッチコマンドに対する耐性です。笑顔であるほど、コマンドは成功しやすくなります",
+    "translation": "エッチコマンドに対する耐性です。笑顔であるほど、コマンドは成功しやすくなります",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.224.4",
+    "original": "セクハラ耐性",
+    "translation": "セクハラ耐性",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.225.2",
+    "original": "ピリピリしている度合いです。高いときは機嫌をとることを重視しましょう",
+    "translation": "ピリピリしている度合いです。高いときは機嫌をとることを重視しましょう",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.225.4",
+    "original": "ピリピリ度",
+    "translation": "ピリピリ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.226.2",
+    "original": "ドキドキしている度合いです。ピリピリさせないように注意しましょう",
+    "translation": "ドキドキしている度合いです。ピリピリさせないように注意しましょう",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.226.4",
+    "original": "ドキドキ度",
+    "translation": "ドキドキ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.227.2",
+    "original": "デレデレしている度合いです。デレデレしている時は有利です。コマンドが成功しやすくなります",
+    "translation": "デレデレしている度合いです。デレデレしている時は有利です。コマンドが成功しやすくなります",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.227.4",
+    "original": "デレデレ度",
+    "translation": "デレデレ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.228.2",
+    "original": "エロエロな度合いです。この度合いが優勢なときは、ほぼ成功が確定です。このパラメータを維持しましょう",
+    "translation": "エロエロな度合いです。この度合いが優勢なときは、ほぼ成功が確定です。このパラメータを維持しましょう",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.228.4",
+    "original": "エロエロ度",
+    "translation": "エロエロ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.229.2",
+    "original": "ヒロインの性器の湿り具合です。濡れてないと相手は気持ちよくなりません",
+    "translation": "ヒロインの性器の湿り具合です。濡れてないと相手は気持ちよくなりません",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.229.4",
+    "original": "ヌレヌレ度",
+    "translation": "ヌレヌレ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.230.2",
+    "original": "ヒロインの興奮度合いです。この値がマックスになれば、相手は絶頂するでしょう",
+    "translation": "ヒロインの興奮度合いです。この値がマックスになれば、相手は絶頂するでしょう",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.230.4",
+    "original": "ムラムラ度",
+    "translation": "ムラムラ度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.231.2",
+    "original": "このモードでのヒロインの好感度の変化度合いです",
+    "translation": "このモードでのヒロインの好感度の変化度合いです",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.231.4",
+    "original": "好感度",
+    "translation": "好感度",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.401.2",
+    "original": "【初々しい感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……なし</size>",
+    "translation": "【初々しい感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……なし</size>",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.401.4",
+    "original": "初心",
+    "translation": "初心",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.402.2",
+    "original": "【ベテランの感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『処女セックス』(モブのみ。絶望でも可)</size>",
+    "translation": "【ベテランの感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『処女セックス』(モブのみ。絶望でも可)</size>",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.402.4",
+    "original": "習熟",
+    "translation": "習熟",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.403.2",
+    "original": "【エッチな感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『コスプレ』(ユニークのみ)『泡プレイ』『特殊プレイ』</size>",
+    "translation": "【エッチな感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『コスプレ』(ユニークのみ)『泡プレイ』『特殊プレイ』</size>",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.403.4",
+    "original": "妖艶",
+    "translation": "妖艶",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.404.2",
+    "original": "【凌辱される感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『処女セックス』(モブのみ。習熟でも可)</size>",
+    "translation": "【凌辱される感じ】で接客させるデス。可能なプレイが若干変化するデス。\\n<size=18>このモードのみのプレイ……『処女セックス』(モブのみ。習熟でも可)</size>",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_11.txt.404.4",
+    "original": "凌辱",
+    "translation": "凌辱",
+    "context": null
+  },
+  {
+    "key": "db_SystemHelp_16.txt.162.2",
+    "original": "エッチさを示す値デス。高いほどHに前向きになるデス。エッチをするとどんどん増えていくデス。淫乱度が低いやつは、搾精要員としてはあまり役に立たなさそうデス",
+    "translation": "エッチさを示す値デス。高いほどHに前向きになるデス。エッチをするとどんどん増えていくデス。淫乱度が低いやつは、搾精要員としてはあまり役に立たなさそうデス",
+    "context": null
+  }
+]

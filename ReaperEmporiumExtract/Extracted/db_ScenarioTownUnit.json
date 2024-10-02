@@ -1,0 +1,704 @@
+[
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.0.17",
+    "original": "0",
+    "translation": "0",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.1.17",
+    "original": "19",
+    "translation": "19",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.2.17",
+    "original": "1",
+    "translation": "1",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.3.17",
+    "original": "5",
+    "translation": "5",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.3.18",
+    "original": "4",
+    "translation": "4",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.4.17",
+    "original": "8",
+    "translation": "8",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.4.18",
+    "original": "6",
+    "translation": "6",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.5.17",
+    "original": "9",
+    "translation": "9",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.6.17",
+    "original": "11",
+    "translation": "11",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.6.18",
+    "original": "10",
+    "translation": "10",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.7.17",
+    "original": "14",
+    "translation": "14",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.9.17",
+    "original": "2",
+    "translation": "2",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.10.17",
+    "original": "3",
+    "translation": "3",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.13.17",
+    "original": "7",
+    "translation": "7",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.33.17",
+    "original": "12",
+    "translation": "12",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.34.17",
+    "original": "13",
+    "translation": "13",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.78.17",
+    "original": "21",
+    "translation": "21",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.79.17",
+    "original": "18",
+    "translation": "18",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.79.18",
+    "original": "16",
+    "translation": "16",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.100.17",
+    "original": "15",
+    "translation": "15",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.242.17",
+    "original": "20",
+    "translation": "20",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.249.17",
+    "original": "23",
+    "translation": "23",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.517.18",
+    "original": "17",
+    "translation": "17",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnitEvent_11.txt.532.17",
+    "original": "22",
+    "translation": "22",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.0.17",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.1.17",
+    "original": "メインキャラ",
+    "translation": "メインキャラ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.1.18",
+    "original": "死神シイネ",
+    "translation": "死神シイネ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.2.18",
+    "original": "鍛冶姫アンジュ",
+    "translation": "鍛冶姫アンジュ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.3.18",
+    "original": "狼娘ウルフィナ",
+    "translation": "狼娘ウルフィナ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.4.18",
+    "original": "女商人ハーヴェスタ",
+    "translation": "女商人ハーヴェスタ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.5.18",
+    "original": "新米神官マリーゼル",
+    "translation": "新米神官マリーゼル",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.6.18",
+    "original": "女冒険者ファシィ",
+    "translation": "女冒険者ファシィ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.7.18",
+    "original": "夢魔ルーシェルーラ",
+    "translation": "夢魔ルーシェルーラ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.8.18",
+    "original": "魔女カリスト・ウィルチ",
+    "translation": "魔女カリスト・ウィルチ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.9.18",
+    "original": "森人の射手エリオルダ",
+    "translation": "森人の射手エリオルダ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.10.18",
+    "original": "牧場娘キャトリナ",
+    "translation": "牧場娘キャトリナ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.11.18",
+    "original": "銀灰の魔術師ミルテ",
+    "translation": "銀灰の魔術師ミルテ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.12.18",
+    "original": "先代魔女オーレリア・ウィルチ",
+    "translation": "先代魔女オーレリア・ウィルチ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.13.18",
+    "original": "碧羽の退魔巫女シズハ",
+    "translation": "碧羽の退魔巫女シズハ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.14.18",
+    "original": "朱羽の退魔巫女クレハ",
+    "translation": "朱羽の退魔巫女クレハ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.15.18",
+    "original": "氷国の姫将軍ノースリンデ",
+    "translation": "氷国の姫将軍ノースリンデ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.16.18",
+    "original": "メイドのシェルフィ",
+    "translation": "メイドのシェルフィ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.17.18",
+    "original": "鍛冶頭ドルガノン",
+    "translation": "鍛冶頭ドルガノン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.18.18",
+    "original": "新米剣士ポンタ",
+    "translation": "新米剣士ポンタ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.19.18",
+    "original": "万能舎弟デシルス",
+    "translation": "万能舎弟デシルス",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.20.18",
+    "original": "衛兵さん",
+    "translation": "衛兵さん",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.21.18",
+    "original": "海賊作家アーマニー14世",
+    "translation": "海賊作家アーマニー14世",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.22.17",
+    "original": "パーティー(勇者)",
+    "translation": "パーティー(勇者)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.22.18",
+    "original": "異邦の女剣士ツバキ",
+    "translation": "異邦の女剣士ツバキ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.23.18",
+    "original": "勇従の女賢者レミル",
+    "translation": "勇従の女賢者レミル",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.24.18",
+    "original": "評判の勇者ラシェウス",
+    "translation": "評判の勇者ラシェウス",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.25.18",
+    "original": "評判の勇者パーティー",
+    "translation": "評判の勇者パーティー",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.26.17",
+    "original": "パーティー(村人)",
+    "translation": "パーティー(村人)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.26.18",
+    "original": "村娘ヘレンの父親",
+    "translation": "村娘ヘレンの父親",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.27.18",
+    "original": "農家の娘ヘレン",
+    "translation": "農家の娘ヘレン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.28.18",
+    "original": "恋慕の青年商人サイラス",
+    "translation": "恋慕の青年商人サイラス",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.29.17",
+    "original": "パーティー(異端審問)",
+    "translation": "パーティー(異端審問)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.29.18",
+    "original": "女司祭リリエーヌ",
+    "translation": "女司祭リリエーヌ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.30.18",
+    "original": "黒将軍と女司祭",
+    "translation": "黒将軍と女司祭",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.31.17",
+    "original": "パーティー(遺跡調査団)",
+    "translation": "パーティー(遺跡調査団)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.31.18",
+    "original": "遺跡学者イディット",
+    "translation": "遺跡学者イディット",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.32.18",
+    "original": "調査団の遺跡博士ヤキム",
+    "translation": "調査団の遺跡博士ヤキム",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.33.18",
+    "original": "調査団員スティーヴ",
+    "translation": "調査団員スティーヴ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.34.18",
+    "original": "ロオン遺跡調査団チーム",
+    "translation": "ロオン遺跡調査団チーム",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.35.17",
+    "original": "パーティー(商人)",
+    "translation": "パーティー(商人)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.35.18",
+    "original": "旅の新米商人ミーシャ",
+    "translation": "旅の新米商人ミーシャ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.36.18",
+    "original": "お調子者の商人ケイン",
+    "translation": "お調子者の商人ケイン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.37.18",
+    "original": "旅の商人コンビ",
+    "translation": "旅の商人コンビ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.38.17",
+    "original": "パーティー(自警団)",
+    "translation": "パーティー(自警団)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.38.18",
+    "original": "新米兵士ソルネッタ",
+    "translation": "新米兵士ソルネッタ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.39.18",
+    "original": "自警団の青年ジクレス",
+    "translation": "自警団の青年ジクレス",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.40.18",
+    "original": "ゼカリウス自警団の二人組",
+    "translation": "ゼカリウス自警団の二人組",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.41.17",
+    "original": "パーティー(盗賊ギルド)",
+    "translation": "パーティー(盗賊ギルド)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.41.18",
+    "original": "女密偵パテラ",
+    "translation": "女密偵パテラ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.42.18",
+    "original": "熟達の盗賊ヒューム",
+    "translation": "熟達の盗賊ヒューム",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.43.18",
+    "original": "盗賊ギルドの二人組",
+    "translation": "盗賊ギルドの二人組",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.44.17",
+    "original": "パーティー(冒険者コンビ)",
+    "translation": "パーティー(冒険者コンビ)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.44.18",
+    "original": "女戦士ジャネット",
+    "translation": "女戦士ジャネット",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.45.18",
+    "original": "女武闘家グレーテ",
+    "translation": "女武闘家グレーテ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.46.18",
+    "original": "ベテランの女冒険者コンビ",
+    "translation": "ベテランの女冒険者コンビ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.47.17",
+    "original": "パーティー(姫と執事)",
+    "translation": "パーティー(姫と執事)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.47.18",
+    "original": "令嬢剣士ティオナ",
+    "translation": "令嬢剣士ティオナ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.48.18",
+    "original": "悩み多き執事エグバルト",
+    "translation": "悩み多き執事エグバルト",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.49.18",
+    "original": "やんごとなき雰囲気の二人",
+    "translation": "やんごとなき雰囲気の二人",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.50.17",
+    "original": "パーティー(女勇者)",
+    "translation": "パーティー(女勇者)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.50.18",
+    "original": "女勇者ユーステル",
+    "translation": "女勇者ユーステル",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.51.18",
+    "original": "穏やかな重戦士オーディ",
+    "translation": "穏やかな重戦士オーディ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.52.18",
+    "original": "異国の女勇者とその仲間",
+    "translation": "異国の女勇者とその仲間",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.53.17",
+    "original": "パーティー(ドワーム族)",
+    "translation": "パーティー(ドワーム族)",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.53.18",
+    "original": "ドワーム大工マンヴィール",
+    "translation": "ドワーム大工マンヴィール",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.54.18",
+    "original": "ドワーム職人ダルトン",
+    "translation": "ドワーム職人ダルトン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.55.18",
+    "original": "酒を飲んでるドワーム族",
+    "translation": "酒を飲んでるドワーム族",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.56.17",
+    "original": "悪役のサブキャラ",
+    "translation": "悪役のサブキャラ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.56.18",
+    "original": "フードを被った男",
+    "translation": "フードを被った男",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.57.18",
+    "original": "領主の秘書",
+    "translation": "領主の秘書",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.58.18",
+    "original": "ハーヴェスタ商会員",
+    "translation": "ハーヴェスタ商会員",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.59.18",
+    "original": "野心を持つ商売人",
+    "translation": "野心を持つ商売人",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.60.18",
+    "original": "修行好きな女剣士",
+    "translation": "修行好きな女剣士",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.61.18",
+    "original": "仕事熱心な漁師ヨダフ",
+    "translation": "仕事熱心な漁師ヨダフ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.62.18",
+    "original": "仲間に恵まれない冒険者",
+    "translation": "仲間に恵まれない冒険者",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.63.18",
+    "original": "うわさ話が好きな少女",
+    "translation": "うわさ話が好きな少女",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.64.18",
+    "original": "富裕層の一般女性",
+    "translation": "富裕層の一般女性",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.65.18",
+    "original": "商売上手な行商人",
+    "translation": "商売上手な行商人",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.66.18",
+    "original": "森林レンジャーのユタン",
+    "translation": "森林レンジャーのユタン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.67.18",
+    "original": "学院の研修生トール",
+    "translation": "学院の研修生トール",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.68.18",
+    "original": "冒険者の青年剣士",
+    "translation": "冒険者の青年剣士",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.69.18",
+    "original": "貧乏なゼカリウス市民",
+    "translation": "貧乏なゼカリウス市民",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.70.18",
+    "original": "寝ぼけている兵士モルター",
+    "translation": "寝ぼけている兵士モルター",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.71.18",
+    "original": "信心深い巡礼者メイソン",
+    "translation": "信心深い巡礼者メイソン",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.72.17",
+    "original": "REEX伏線用のモブ",
+    "translation": "REEX伏線用のモブ",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.72.18",
+    "original": "心配性な漁師",
+    "translation": "心配性な漁師",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.73.18",
+    "original": "噂好きな船乗り",
+    "translation": "噂好きな船乗り",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.74.18",
+    "original": "ソルシアの遺物調査人",
+    "translation": "ソルシアの遺物調査人",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.75.18",
+    "original": "好奇心旺盛な船乗り",
+    "translation": "好奇心旺盛な船乗り",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.76.18",
+    "original": "北方への行商人",
+    "translation": "北方への行商人",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.77.18",
+    "original": "冒険者と天文学者",
+    "translation": "冒険者と天文学者",
+    "context": null
+  },
+  {
+    "key": "db_ScenarioTownUnit_11.txt.78.18",
+    "original": "慎重派の船乗り",
+    "translation": "慎重派の船乗り",
+    "context": null
+  }
+]

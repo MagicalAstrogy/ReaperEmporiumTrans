@@ -1,0 +1,3740 @@
+[
+  {
+    "key": "db_DefineValueIndivid_11.txt.2.1",
+    "original": "HP+200%",
+    "translation": "HP+200%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.3.1",
+    "original": "MP+3%",
+    "translation": "MP+3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.4.1",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.5.1",
+    "original": "HP+1%",
+    "translation": "HP+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.6.1",
+    "original": "魔攻+50%",
+    "translation": "魔攻+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.7.1",
+    "original": "速度+20 + クリティカル率+20%",
+    "translation": "速度+20 + クリティカル率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.8.1",
+    "original": "ダブルアタック率+50%",
+    "translation": "ダブルアタック率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.9.1",
+    "original": "能力開発の消費SP-10% + 獲得経験値+20%",
+    "translation": "能力開発の消費SP-10% + 獲得経験値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.10.1",
+    "original": "魔術ダメージ+40% + 魔術暴走率+20%",
+    "translation": "魔術ダメージ+40% + 魔術暴走率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.11.1",
+    "original": "鍛冶系商品の売値+40%",
+    "translation": "鍛冶系商品の売値+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.12.1",
+    "original": "命中精度+50%",
+    "translation": "命中精度+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.13.1",
+    "original": "命中精度-50%",
+    "translation": "命中精度-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.14.1",
+    "original": "命中精度+30%",
+    "translation": "命中精度+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.15.1",
+    "original": "回避率+20%",
+    "translation": "回避率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.16.1",
+    "original": "回避率+30%",
+    "translation": "回避率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.17.1",
+    "original": "回避率+20% + クリティカル率+30%",
+    "translation": "回避率+20% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.18.1",
+    "original": "クリティカル率+15%",
+    "translation": "クリティカル率+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.19.1",
+    "original": "アナザー衣装に切り替え(キャトリナ)",
+    "translation": "アナザー衣装に切り替え(キャトリナ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.20.1",
+    "original": "攻撃+30% + 攻撃の範囲拡大率+20% + 女性へのダメージ+30%",
+    "translation": "攻撃+30% + 攻撃の範囲拡大率+20% + 女性へのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.21.1",
+    "original": "ゴッドハンドのダメージ+100%",
+    "translation": "ゴッドハンドのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.22.1",
+    "original": "攻撃+50% + 攻撃の範囲拡大率+50% + 男性へのダメージ+30%",
+    "translation": "攻撃+50% + 攻撃の範囲拡大率+50% + 男性へのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.23.1",
+    "original": "弱点へのダメージ+30%",
+    "translation": "弱点へのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.24.1",
+    "original": "クリティカルを受ける確率+30%",
+    "translation": "クリティカルを受ける確率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.25.1",
+    "original": "クリティカルを受ける確率+50%",
+    "translation": "クリティカルを受ける確率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.26.1",
+    "original": "すべての攻撃ダメージ-30%",
+    "translation": "すべての攻撃ダメージ-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.27.1",
+    "original": "すべての攻撃ダメージ-50%",
+    "translation": "すべての攻撃ダメージ-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.28.1",
+    "original": "生産CP+15",
+    "translation": "生産CP+15",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.29.1",
+    "original": "すべての攻撃ダメージ+30% + ターンごとにMP回復+5%",
+    "translation": "すべての攻撃ダメージ+30% + ターンごとにMP回復+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.30.1",
+    "original": "聖属性ダメージ+50%",
+    "translation": "聖属性ダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.31.1",
+    "original": "すべての攻撃ダメージ-100%",
+    "translation": "すべての攻撃ダメージ-100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.32.1",
+    "original": "プレイヤー側の能力が極大上昇 + さまざまなボーナス",
+    "translation": "プレイヤー側の能力が極大上昇 + さまざまなボーナス",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.33.1",
+    "original": "味方が弱体化Lv1 + 敵が強化Lv1",
+    "translation": "味方が弱体化Lv1 + 敵が強化Lv1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.34.1",
+    "original": "味方が弱体化Lv2 + 敵が強化Lv2",
+    "translation": "味方が弱体化Lv2 + 敵が強化Lv2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.35.1",
+    "original": "物理ダメージ-50%",
+    "translation": "物理ダメージ-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.36.1",
+    "original": "汚染値の上昇率-10%",
+    "translation": "汚染値の上昇率-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.37.1",
+    "original": "物理ダメージ+4%",
+    "translation": "物理ダメージ+4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.38.1",
+    "original": "物理ダメージ+20%",
+    "translation": "物理ダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.39.1",
+    "original": "物理ダメージ+30%",
+    "translation": "物理ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.40.1",
+    "original": "レイズデッド時のHP回復を妨害",
+    "translation": "レイズデッド時のHP回復を妨害",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.41.1",
+    "original": "物理ダメージ+60% + 命中精度-30%",
+    "translation": "物理ダメージ+60% + 命中精度-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.42.1",
+    "original": "物理ダメージ+50% + クリティカル率+100%",
+    "translation": "物理ダメージ+50% + クリティカル率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.43.1",
+    "original": "生産CP+10",
+    "translation": "生産CP+10",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.44.1",
+    "original": "物理ダメージ+50% + クリティカルダメージ+100%",
+    "translation": "物理ダメージ+50% + クリティカルダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.45.1",
+    "original": "ダンジョン探索中のショップ売上+10%",
+    "translation": "ダンジョン探索中のショップ売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.46.1",
+    "original": "パートナー潜在能力解放+10%",
+    "translation": "パートナー潜在能力解放+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.47.1",
+    "original": "魔術ダメージ+200% + 魔術暴走率+50%",
+    "translation": "魔術ダメージ+200% + 魔術暴走率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.48.1",
+    "original": "魔術ダメージ+100% + デスクリティカル率+30%",
+    "translation": "魔術ダメージ+100% + デスクリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.49.1",
+    "original": "スキルダメージ+100% + デスクリティカル率+30% + 消費MP2倍",
+    "translation": "スキルダメージ+100% + デスクリティカル率+30% + 消費MP2倍",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.50.1",
+    "original": "ターンごとにMP回復+10% + 四属性ダメージ+30%",
+    "translation": "ターンごとにMP回復+10% + 四属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.51.1",
+    "original": "錬金系商品の売値+40%",
+    "translation": "錬金系商品の売値+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.52.1",
+    "original": "物理ダメージ+30% + ターンごとにMP回復(味方のみ)+10%",
+    "translation": "物理ダメージ+30% + ターンごとにMP回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.53.1",
+    "original": "物理ダメージ+40% + 命中精度-20%",
+    "translation": "物理ダメージ+40% + 命中精度-20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.54.1",
+    "original": "料理CP+30%",
+    "translation": "料理CP+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.55.1",
+    "original": "物理ダメージ+100% + クリティカル率+30%",
+    "translation": "物理ダメージ+100% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.56.1",
+    "original": "料理CP+60%",
+    "translation": "料理CP+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.57.1",
+    "original": "1日のショップ売上ボーナス+10%",
+    "translation": "1日のショップ売上ボーナス+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.58.1",
+    "original": "鍛冶CP+30%",
+    "translation": "鍛冶CP+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.59.1",
+    "original": "魔術ダメージ-80%",
+    "translation": "魔術ダメージ-80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.60.1",
+    "original": "鍛冶CP+60%",
+    "translation": "鍛冶CP+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.61.1",
+    "original": "物理ダメージ+30% + クリティカル率+30%",
+    "translation": "物理ダメージ+30% + クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.62.1",
+    "original": "死神スキルの威力+50%",
+    "translation": "死神スキルの威力+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.63.1",
+    "original": "樹木タイプへのダメージ+100%",
+    "translation": "樹木タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.64.1",
+    "original": "樹木+硬質タイプへのダメージ+100%",
+    "translation": "樹木+硬質タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.65.1",
+    "original": "人間タイプへのダメージ+20%",
+    "translation": "人間タイプへのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.66.1",
+    "original": "人間+亜人タイプへのダメージ+100%",
+    "translation": "人間+亜人タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.67.1",
+    "original": "動物タイプへのダメージ+20%",
+    "translation": "動物タイプへのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.68.1",
+    "original": "動物タイプへのダメージ+100%",
+    "translation": "動物タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.69.1",
+    "original": "飛行タイプへのダメージ+20%",
+    "translation": "飛行タイプへのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.70.1",
+    "original": "不形タイプへのダメージ+20%",
+    "translation": "不形タイプへのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.71.1",
+    "original": "硬質タイプへのダメージ+100%",
+    "translation": "硬質タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.72.1",
+    "original": "死霊タイプへのダメージ+100%",
+    "translation": "死霊タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.73.1",
+    "original": "死霊タイプへのダメージ+300%",
+    "translation": "死霊タイプへのダメージ+300%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.74.1",
+    "original": "xxxxタイプへのダメージ+200%",
+    "translation": "xxxxタイプへのダメージ+200%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.75.1",
+    "original": "物理ダメージ+50% + 竜タイプには+100% + 祝福有効時に強化",
+    "translation": "物理ダメージ+50% + 竜タイプには+100% + 祝福有効時に強化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.76.1",
+    "original": "物理ダメージ+50% + 竜タイプには+500% + 祝福有効時に強化",
+    "translation": "物理ダメージ+50% + 竜タイプには+500% + 祝福有効時に強化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.77.1",
+    "original": "単体攻撃以外のダメージ-80%",
+    "translation": "単体攻撃以外のダメージ-80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.78.1",
+    "original": "単体攻撃以外のダメージ-40%",
+    "translation": "単体攻撃以外のダメージ-40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.79.1",
+    "original": "クリティカルのダメージ+50%",
+    "translation": "クリティカルのダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.80.1",
+    "original": "物理ダメージ軽減率+2%",
+    "translation": "物理ダメージ軽減率+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.81.1",
+    "original": "クリティカルのダメージ+30%",
+    "translation": "クリティカルのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.82.1",
+    "original": "MP+1%",
+    "translation": "MP+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.83.1",
+    "original": "クリティカルのダメージ+80%",
+    "translation": "クリティカルのダメージ+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.84.1",
+    "original": "ザコへのダメージ+50%",
+    "translation": "ザコへのダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.85.1",
+    "original": "組織献金の必要資金-2%",
+    "translation": "組織献金の必要資金-2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.86.1",
+    "original": "魔術ダメージ軽減率+2%",
+    "translation": "魔術ダメージ軽減率+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.87.1",
+    "original": "ザコへのダメージ+100%",
+    "translation": "ザコへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.88.1",
+    "original": "初回攻撃のダメージ+100%",
+    "translation": "初回攻撃のダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.89.1",
+    "original": "格上とボスへのダメージ+50%",
+    "translation": "格上とボスへのダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.90.1",
+    "original": "能力開発の消費SP-1%",
+    "translation": "能力開発の消費SP-1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.91.1",
+    "original": "開発ポイント貯蔵上限+5000",
+    "translation": "開発ポイント貯蔵上限+5000",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.92.1",
+    "original": "男性への売上+5%",
+    "translation": "男性への売上+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.93.1",
+    "original": "女性への売上+5%",
+    "translation": "女性への売上+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.94.1",
+    "original": "冒険者への売上+20%",
+    "translation": "冒険者への売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.95.1",
+    "original": "生産者への売上+10%",
+    "translation": "生産者への売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.96.1",
+    "original": "能力開発の消費SP-10%",
+    "translation": "能力開発の消費SP-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.97.1",
+    "original": "戦士や兵士への売上+10%",
+    "translation": "戦士や兵士への売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.98.1",
+    "original": "一般人への売上+20%",
+    "translation": "一般人への売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.99.1",
+    "original": "戦士や兵士への売上+20%",
+    "translation": "戦士や兵士への売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.100.1",
+    "original": "チェイススキルのダメージ+80%",
+    "translation": "チェイススキルのダメージ+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.101.1",
+    "original": "富裕層への売上+10%",
+    "translation": "富裕層への売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.102.1",
+    "original": "犯罪値の上昇率-5%",
+    "translation": "犯罪値の上昇率-5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.103.1",
+    "original": "チェイススキルのダメージ+100%",
+    "translation": "チェイススキルのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.104.1",
+    "original": "林業資源を使用した商品の売値+10%",
+    "translation": "林業資源を使用した商品の売値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.105.1",
+    "original": "錬金CP+30%",
+    "translation": "錬金CP+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.106.1",
+    "original": "錬金CP+60%",
+    "translation": "錬金CP+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.107.1",
+    "original": "魔術資源を使用した商品の売値+10%",
+    "translation": "魔術資源を使用した商品の売値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.108.1",
+    "original": "被ダメージ回数に応じて最大攻撃力+30%",
+    "translation": "被ダメージ回数に応じて最大攻撃力+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.109.1",
+    "original": "軍需品タイプの売値+25%",
+    "translation": "軍需品タイプの売値+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.110.1",
+    "original": "火属性ダメージ+30%",
+    "translation": "火属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.111.1",
+    "original": "氷属性ダメージ+30%",
+    "translation": "氷属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.112.1",
+    "original": "魚料理タイプの売値+25%",
+    "translation": "魚料理タイプの売値+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.113.1",
+    "original": "風属性ダメージ+30%",
+    "translation": "風属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.114.1",
+    "original": "初回攻撃のダメージ+3%",
+    "translation": "初回攻撃のダメージ+3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.115.1",
+    "original": "雷属性ダメージ+30%",
+    "translation": "雷属性ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.116.1",
+    "original": "錬金系商品の売値+5%",
+    "translation": "錬金系商品の売値+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.117.1",
+    "original": "鍛冶系商品の売値+5%",
+    "translation": "鍛冶系商品の売値+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.118.1",
+    "original": "料理系商品の売値+5%",
+    "translation": "料理系商品の売値+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.119.1",
+    "original": "品質改良の必要資金-5%",
+    "translation": "品質改良の必要資金-5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.120.1",
+    "original": "HP+2%",
+    "translation": "HP+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.121.1",
+    "original": "四属性ダメージ+40%",
+    "translation": "四属性ダメージ+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.122.1",
+    "original": "聖属性ダメージ+50% + ターンごとにHP自動回復(味方のみ)+10%",
+    "translation": "聖属性ダメージ+50% + ターンごとにHP自動回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.123.1",
+    "original": "闇属性ダメージ+50% + ターンごとにMP自動回復(味方のみ)+10%",
+    "translation": "闇属性ダメージ+50% + ターンごとにMP自動回復(味方のみ)+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.124.1",
+    "original": "すべてのダメージ軽減率+30%",
+    "translation": "すべてのダメージ軽減率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.125.1",
+    "original": "すべてのダメージ軽減率+50%",
+    "translation": "すべてのダメージ軽減率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.126.1",
+    "original": "開発ポイント貯蔵上限+50000",
+    "translation": "開発ポイント貯蔵上限+50000",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.127.1",
+    "original": "物理ダメージ軽減率-30% + クリティカルを受ける確率+30%",
+    "translation": "物理ダメージ軽減率-30% + クリティカルを受ける確率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.128.1",
+    "original": "物理ダメージ軽減率-50%",
+    "translation": "物理ダメージ軽減率-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.129.1",
+    "original": "物理ダメージ軽減率+30%",
+    "translation": "物理ダメージ軽減率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.130.1",
+    "original": "物理ダメージ軽減率-50% + 霊体化",
+    "translation": "物理ダメージ軽減率-50% + 霊体化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.131.1",
+    "original": "魔術ダメージ軽減率+50%",
+    "translation": "魔術ダメージ軽減率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.132.1",
+    "original": "すべてのダメージ軽減率+20%",
+    "translation": "すべてのダメージ軽減率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.133.1",
+    "original": "料理レシピランク+1",
+    "translation": "料理レシピランク+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.134.1",
+    "original": "鍛冶レシピランク+1",
+    "translation": "鍛冶レシピランク+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.135.1",
+    "original": "錬金レシピランク+1",
+    "translation": "錬金レシピランク+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.136.1",
+    "original": "すべてのダメージ軽減率+30% + 死属性耐性",
+    "translation": "すべてのダメージ軽減率+30% + 死属性耐性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.137.1",
+    "original": "最大HPの20%を超える攻撃を軽減+50%",
+    "translation": "最大HPの20%を超える攻撃を軽減+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.138.1",
+    "original": "最大HPの20%を超える攻撃を軽減+70%",
+    "translation": "最大HPの20%を超える攻撃を軽減+70%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.139.1",
+    "original": "最大HPの20%を超える攻撃を軽減+90%",
+    "translation": "最大HPの20%を超える攻撃を軽減+90%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.140.1",
+    "original": "物理耐性貫通+30%",
+    "translation": "物理耐性貫通+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.141.1",
+    "original": "聖+闇属性ダメージを無効化+80%",
+    "translation": "聖+闇属性ダメージを無効化+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.142.1",
+    "original": "物理攻撃ダメージを無効化+30%",
+    "translation": "物理攻撃ダメージを無効化+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.143.1",
+    "original": "魔術攻撃ダメージを無効化+50%",
+    "translation": "魔術攻撃ダメージを無効化+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.144.1",
+    "original": "トラップで敵の攻撃を妨害+10%",
+    "translation": "トラップで敵の攻撃を妨害+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.145.1",
+    "original": "トラップで敵の攻撃を妨害+20%",
+    "translation": "トラップで敵の攻撃を妨害+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.146.1",
+    "original": "武器で敵の攻撃を妨害+10%",
+    "translation": "武器で敵の攻撃を妨害+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.147.1",
+    "original": "武器で敵の攻撃を妨害+20%",
+    "translation": "武器で敵の攻撃を妨害+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.148.1",
+    "original": "ターンごとにHP回復+10%",
+    "translation": "ターンごとにHP回復+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.149.1",
+    "original": "開発ポイント貯蔵上限+5000000",
+    "translation": "開発ポイント貯蔵上限+5000000",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.150.1",
+    "original": "贅沢品タイプの売値+25%",
+    "translation": "贅沢品タイプの売値+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.151.1",
+    "original": "戦闘不能時に自動復活+60%",
+    "translation": "戦闘不能時に自動復活+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.152.1",
+    "original": "速度+1",
+    "translation": "速度+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.153.1",
+    "original": "ダブルアタック率+2%",
+    "translation": "ダブルアタック率+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.154.1",
+    "original": "クリティカル率+1%",
+    "translation": "クリティカル率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.155.1",
+    "original": "すべての攻撃ダメージ+2%",
+    "translation": "すべての攻撃ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.156.1",
+    "original": "物理ダメージ+1%",
+    "translation": "物理ダメージ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.157.1",
+    "original": "魔術ダメージ+1%",
+    "translation": "魔術ダメージ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.158.1",
+    "original": "スキルダメージ+1%",
+    "translation": "スキルダメージ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.159.1",
+    "original": "樹木タイプへのダメージ+2%",
+    "translation": "樹木タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.160.1",
+    "original": "動物タイプへのダメージ+2%",
+    "translation": "動物タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.161.1",
+    "original": "飛行タイプへのダメージ+2%",
+    "translation": "飛行タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.162.1",
+    "original": "不形タイプへのダメージ+2%",
+    "translation": "不形タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.163.1",
+    "original": "硬質タイプへのダメージ+2%",
+    "translation": "硬質タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.164.1",
+    "original": "死霊タイプへのダメージ+2%",
+    "translation": "死霊タイプへのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.165.1",
+    "original": "クリティカルのダメージ+1%",
+    "translation": "クリティカルのダメージ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.166.1",
+    "original": "戦闘不能時に自動復活+40%",
+    "translation": "戦闘不能時に自動復活+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.167.1",
+    "original": "戦闘不能時に自動復活+100%",
+    "translation": "戦闘不能時に自動復活+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.168.1",
+    "original": "戦闘不能時に自動復活+100% + ターンごとにHP回復+20%",
+    "translation": "戦闘不能時に自動復活+100% + ターンごとにHP回復+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.169.1",
+    "original": "エッチ好き-3",
+    "translation": "エッチ好き-3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.170.1",
+    "original": "宿泊施設の売上+5%",
+    "translation": "宿泊施設の売上+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.171.1",
+    "original": "物理ダメージ軽減率+1%",
+    "translation": "物理ダメージ軽減率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.172.1",
+    "original": "戦闘後パーティー回復・CT+30%",
+    "translation": "戦闘後パーティー回復・CT+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.173.1",
+    "original": "魔術ダメージ軽減率+1%",
+    "translation": "魔術ダメージ軽減率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.174.1",
+    "original": "戦闘後パーティー回復・HP+20%",
+    "translation": "戦闘後パーティー回復・HP+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.175.1",
+    "original": "HP回復量アップ+2%",
+    "translation": "HP回復量アップ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.176.1",
+    "original": "MP回復量アップ+2%",
+    "translation": "MP回復量アップ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.177.1",
+    "original": "戦闘後パーティー回復・MP+15%",
+    "translation": "戦闘後パーティー回復・MP+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.178.1",
+    "original": "戦闘後パーティー回復・MP+10%",
+    "translation": "戦闘後パーティー回復・MP+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.179.1",
+    "original": "炎によりターンごとにダメージ+10%",
+    "translation": "炎によりターンごとにダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.180.1",
+    "original": "獲得経験値アップ+5%",
+    "translation": "獲得経験値アップ+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.181.1",
+    "original": "毒によりターンごとにダメージ+20%",
+    "translation": "毒によりターンごとにダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.182.1",
+    "original": "毒によりターンごとにダメージ+10%",
+    "translation": "毒によりターンごとにダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.183.1",
+    "original": "料理系商品の売値+20%",
+    "translation": "料理系商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.184.1",
+    "original": "MP消費軽減-30%",
+    "translation": "MP消費軽減-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.185.1",
+    "original": "MP消費軽減-50%",
+    "translation": "MP消費軽減-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.186.1",
+    "original": "店員休憩時の回復率+10%",
+    "translation": "店員休憩時の回復率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.187.1",
+    "original": "エッチな獲得経験値+30% + 感度開発サポート",
+    "translation": "エッチな獲得経験値+30% + 感度開発サポート",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.188.1",
+    "original": "パーティー全員のダメージ+5%",
+    "translation": "パーティー全員のダメージ+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.189.1",
+    "original": "好感度の上昇率+10%",
+    "translation": "好感度の上昇率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.190.1",
+    "original": "すべての攻撃ダメージ+10%",
+    "translation": "すべての攻撃ダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.191.1",
+    "original": "パーティー全員のダメージ+10%",
+    "translation": "パーティー全員のダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.192.1",
+    "original": "パーティー全員のダメージ+15%",
+    "translation": "パーティー全員のダメージ+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.193.1",
+    "original": "パーティー全員の四属性ダメージ+20%",
+    "translation": "パーティー全員の四属性ダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.194.1",
+    "original": "パーティー全員のクリティカル率+10%",
+    "translation": "パーティー全員のクリティカル率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.195.1",
+    "original": "パーティー全員の経験値+15%",
+    "translation": "パーティー全員の経験値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.196.1",
+    "original": "パーティー全員の経験値+30%",
+    "translation": "パーティー全員の経験値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.197.1",
+    "original": "パーティー全員の経験値+50%",
+    "translation": "パーティー全員の経験値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.198.1",
+    "original": "パーティー全員の経験値+80%",
+    "translation": "パーティー全員の経験値+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.199.1",
+    "original": "属性付与・火属性",
+    "translation": "属性付与・火属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.200.1",
+    "original": "属性付与・氷属性",
+    "translation": "属性付与・氷属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.201.1",
+    "original": "属性付与・風属性",
+    "translation": "属性付与・風属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.202.1",
+    "original": "属性付与・雷属性",
+    "translation": "属性付与・雷属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.203.1",
+    "original": "属性付与・聖属性",
+    "translation": "属性付与・聖属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.204.1",
+    "original": "属性付与・闇属性",
+    "translation": "属性付与・闇属性",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.205.1",
+    "original": "強制的に弱点を突いたことになる+50%",
+    "translation": "強制的に弱点を突いたことになる+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.206.1",
+    "original": "矢雨による先制ダメージ+25%",
+    "translation": "矢雨による先制ダメージ+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.207.1",
+    "original": "矢雨による先制ダメージ+40%",
+    "translation": "矢雨による先制ダメージ+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.208.1",
+    "original": "ターンアンデッドで先制ダメージ+50%",
+    "translation": "ターンアンデッドで先制ダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.209.1",
+    "original": "XXXXへの先制ダメージ+80%",
+    "translation": "XXXXへの先制ダメージ+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.210.1",
+    "original": "味方への強化効果ターン延長+1",
+    "translation": "味方への強化効果ターン延長+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.211.1",
+    "original": "エッチな獲得経験値+10%",
+    "translation": "エッチな獲得経験値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.212.1",
+    "original": "味方への強化効果ターン延長+2",
+    "translation": "味方への強化効果ターン延長+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.213.1",
+    "original": "相手への弱体効果ターン延長+2",
+    "translation": "相手への弱体効果ターン延長+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.214.1",
+    "original": "ランクアップに必要な経験-10%",
+    "translation": "ランクアップに必要な経験-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.215.1",
+    "original": "通常攻撃のダブルアタック率+60%",
+    "translation": "通常攻撃のダブルアタック率+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.216.1",
+    "original": "スキルが使用できなくなる",
+    "translation": "スキルが使用できなくなる",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.217.1",
+    "original": "低レベルメンバーの獲得経験値+15%",
+    "translation": "低レベルメンバーの獲得経験値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.218.1",
+    "original": "近接攻撃を受けた際にトラップ反撃+30%",
+    "translation": "近接攻撃を受けた際にトラップ反撃+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.219.1",
+    "original": "近接攻撃を受けた際にトラップ反撃+50%",
+    "translation": "近接攻撃を受けた際にトラップ反撃+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.220.1",
+    "original": "全ての生産CP+40%",
+    "translation": "全ての生産CP+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.221.1",
+    "original": "逃走成功率アップ+40%",
+    "translation": "逃走成功率アップ+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.222.1",
+    "original": "逃走成功率アップ+80%",
+    "translation": "逃走成功率アップ+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.223.1",
+    "original": "弱っている敵を優先してターゲット",
+    "translation": "弱っている敵を優先してターゲット",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.224.1",
+    "original": "先制攻撃率アップ+20%",
+    "translation": "先制攻撃率アップ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.225.1",
+    "original": "スキル画面使用時のＭＰ増加抑制",
+    "translation": "スキル画面使用時のＭＰ増加抑制",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.226.1",
+    "original": "フィールド効果除去",
+    "translation": "フィールド効果除去",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.227.1",
+    "original": "沈黙フィールド生成 + 先制攻撃率アップ+60%",
+    "translation": "沈黙フィールド生成 + 先制攻撃率アップ+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.228.1",
+    "original": "敵の弱点が表示される",
+    "translation": "敵の弱点が表示される",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.229.1",
+    "original": "味方が行動不能",
+    "translation": "味方が行動不能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.230.1",
+    "original": "敵が行動不能",
+    "translation": "敵が行動不能",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.231.1",
+    "original": "チェイススキルを連続使用+20%",
+    "translation": "チェイススキルを連続使用+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.232.1",
+    "original": "チェイススキルを連続使用+30%",
+    "translation": "チェイススキルを連続使用+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.233.1",
+    "original": "被ターゲット率+300%",
+    "translation": "被ターゲット率+300%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.234.1",
+    "original": "被ターゲット率+1000%",
+    "translation": "被ターゲット率+1000%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.235.1",
+    "original": "すべての攻撃ダメージ+50% + ダブルアタック率+30%",
+    "translation": "すべての攻撃ダメージ+50% + ダブルアタック率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.236.1",
+    "original": "ダメージを攻撃+魔攻で計算",
+    "translation": "ダメージを攻撃+魔攻で計算",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.237.1",
+    "original": "シズハ・クレハがいると追撃+100%",
+    "translation": "シズハ・クレハがいると追撃+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.238.1",
+    "original": "淫魔領域の効果を完全無効化",
+    "translation": "淫魔領域の効果を完全無効化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.239.1",
+    "original": "ハヅキがときどき乱入して追撃",
+    "translation": "ハヅキがときどき乱入して追撃",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.240.1",
+    "original": "双翼のメイド殺法の範囲に主人公を含める",
+    "translation": "双翼のメイド殺法の範囲に主人公を含める",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.241.1",
+    "original": "エネミー専用・淫魔領域Lv1",
+    "translation": "エネミー専用・淫魔領域Lv1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.242.1",
+    "original": "エネミー専用・淫魔領域Lv2",
+    "translation": "エネミー専用・淫魔領域Lv2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.243.1",
+    "original": "潜在能力を解放(第一段階)",
+    "translation": "潜在能力を解放(第一段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.244.1",
+    "original": "潜在能力を解放(第二段階)",
+    "translation": "潜在能力を解放(第二段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.245.1",
+    "original": "搾精施設の売上+3%",
+    "translation": "搾精施設の売上+3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.246.1",
+    "original": "潜在能力を解放(第三段階)",
+    "translation": "潜在能力を解放(第三段階)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.247.1",
+    "original": "プレイヤー潜在能力解放+10%",
+    "translation": "プレイヤー潜在能力解放+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.248.1",
+    "original": "パートナー潜在能力解放+5%",
+    "translation": "パートナー潜在能力解放+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.249.1",
+    "original": "パートナー潜在能力解放+20%",
+    "translation": "パートナー潜在能力解放+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.250.1",
+    "original": "パートナー潜在能力解放+30%",
+    "translation": "パートナー潜在能力解放+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.251.1",
+    "original": "パートナー潜在能力解放+40%",
+    "translation": "パートナー潜在能力解放+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.252.1",
+    "original": "レベル同期・アーマニー/ネルディーネと同じに",
+    "translation": "レベル同期・アーマニー/ネルディーネと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.253.1",
+    "original": "レベル同期・アンジュと同じに(+3)",
+    "translation": "レベル同期・アンジュと同じに(+3)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.254.1",
+    "original": "レベル同期・ウルフィナと同じに",
+    "translation": "レベル同期・ウルフィナと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.255.1",
+    "original": "レベル同期・エリオルダ/ツバキと同じに",
+    "translation": "レベル同期・エリオルダ/ツバキと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.256.1",
+    "original": "レベル同期・カリスト/オーレリアと同じに",
+    "translation": "レベル同期・カリスト/オーレリアと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.257.1",
+    "original": "レベル同期・キャトリナと同じに(+5)",
+    "translation": "レベル同期・キャトリナと同じに(+5)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.258.1",
+    "original": "レベル同期・シズハ/クレハと同じに",
+    "translation": "レベル同期・シズハ/クレハと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.259.1",
+    "original": "レベル同期・マリーゼルと同じに(+5)",
+    "translation": "レベル同期・マリーゼルと同じに(+5)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.260.1",
+    "original": "レベル同期・ミルテ/レミルと同じに",
+    "translation": "レベル同期・ミルテ/レミルと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.261.1",
+    "original": "レベル同期・ルーシェ/シェルフィと同じに",
+    "translation": "レベル同期・ルーシェ/シェルフィと同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.262.1",
+    "original": "レベル同期・主人公と同じに",
+    "translation": "レベル同期・主人公と同じに",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.263.1",
+    "original": "レベル同期・主人公と同じに(+5) + 魔攻超強化",
+    "translation": "レベル同期・主人公と同じに(+5) + 魔攻超強化",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.264.1",
+    "original": "アナザー衣装に切り替え(マリーゼル)",
+    "translation": "アナザー衣装に切り替え(マリーゼル)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.265.1",
+    "original": "アナザー衣装に切り替え(ネルディーネ)",
+    "translation": "アナザー衣装に切り替え(ネルディーネ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.266.1",
+    "original": "アナザー衣装に切り替え(シェルフィ)",
+    "translation": "アナザー衣装に切り替え(シェルフィ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.267.1",
+    "original": "アナザー衣装に切り替え(アンジュ)",
+    "translation": "アナザー衣装に切り替え(アンジュ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.268.1",
+    "original": "アナザー衣装に切り替え(ファシィ)",
+    "translation": "アナザー衣装に切り替え(ファシィ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.269.1",
+    "original": "アナザー衣装に切り替え(ハーヴェスタ)",
+    "translation": "アナザー衣装に切り替え(ハーヴェスタ)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.270.1",
+    "original": "接客による売上-10%",
+    "translation": "接客による売上-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.271.1",
+    "original": "接客による売上-20%",
+    "translation": "接客による売上-20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.272.1",
+    "original": "接客による売上-30%",
+    "translation": "接客による売上-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.273.1",
+    "original": "接客による売上+10%",
+    "translation": "接客による売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.274.1",
+    "original": "接客による売上+20%",
+    "translation": "接客による売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.275.1",
+    "original": "接客による売上+30%",
+    "translation": "接客による売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.276.1",
+    "original": "接客による売上+40%",
+    "translation": "接客による売上+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.277.1",
+    "original": "接客による売上+50%",
+    "translation": "接客による売上+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.278.1",
+    "original": "搾精による売上-10%",
+    "translation": "搾精による売上-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.279.1",
+    "original": "搾精による売上-30%",
+    "translation": "搾精による売上-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.280.1",
+    "original": "搾精による売上+10%",
+    "translation": "搾精による売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.281.1",
+    "original": "搾精による売上+20%",
+    "translation": "搾精による売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.282.1",
+    "original": "搾精による売上+25%",
+    "translation": "搾精による売上+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.283.1",
+    "original": "搾精による売上+30%",
+    "translation": "搾精による売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.284.1",
+    "original": "搾精による売上+40%",
+    "translation": "搾精による売上+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.285.1",
+    "original": "ダンジョン投資解放Lv1",
+    "translation": "ダンジョン投資解放Lv1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.286.1",
+    "original": "搾精による売上+50%",
+    "translation": "搾精による売上+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.287.1",
+    "original": "ダンジョン投資解放Lv2",
+    "translation": "ダンジョン投資解放Lv2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.288.1",
+    "original": "搾精による売上+100%",
+    "translation": "搾精による売上+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.289.1",
+    "original": "接客と搾精による売上+10%",
+    "translation": "接客と搾精による売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.290.1",
+    "original": "接客と搾精による売上+20%",
+    "translation": "接客と搾精による売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.291.1",
+    "original": "接客と搾精による売上+30%",
+    "translation": "接客と搾精による売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.292.1",
+    "original": "接客と搾精による売上+50%",
+    "translation": "接客と搾精による売上+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.293.1",
+    "original": "搾精施設の売上+1%",
+    "translation": "搾精施設の売上+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.294.1",
+    "original": "搾精施設の売上+5%",
+    "translation": "搾精施設の売上+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.295.1",
+    "original": "搾精施設の売上+20%",
+    "translation": "搾精施設の売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.296.1",
+    "original": "搾精施設の売上+30%",
+    "translation": "搾精施設の売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.297.1",
+    "original": "娯楽施設の売上+20%",
+    "translation": "娯楽施設の売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.298.1",
+    "original": "娯楽施設の売上+30%",
+    "translation": "娯楽施設の売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.299.1",
+    "original": "すべての攻撃ダメージ+500%",
+    "translation": "すべての攻撃ダメージ+500%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.300.1",
+    "original": "娯楽施設の売上+100%",
+    "translation": "娯楽施設の売上+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.301.1",
+    "original": "宿泊施設の売上+10%",
+    "translation": "宿泊施設の売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.302.1",
+    "original": "宿泊施設の売上+15%",
+    "translation": "宿泊施設の売上+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.303.1",
+    "original": "宿泊施設の売上+20%",
+    "translation": "宿泊施設の売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.304.1",
+    "original": "芸人・芸術家への売上+25%",
+    "translation": "芸人・芸術家への売上+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.305.1",
+    "original": "客の流入数+3%",
+    "translation": "客の流入数+3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.306.1",
+    "original": "客の流入数+10%",
+    "translation": "客の流入数+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.307.1",
+    "original": "接客と搾精による売上+40%",
+    "translation": "接客と搾精による売上+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.308.1",
+    "original": "宿泊施設の売上+30%",
+    "translation": "宿泊施設の売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.309.1",
+    "original": "宿泊施設の売上+40%",
+    "translation": "宿泊施設の売上+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.310.1",
+    "original": "宿泊施設の売上+50%",
+    "translation": "宿泊施設の売上+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.311.1",
+    "original": "料理系商品の売値+15%",
+    "translation": "料理系商品の売値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.312.1",
+    "original": "料理系商品の売値+30%",
+    "translation": "料理系商品の売値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.313.1",
+    "original": "富裕層への売上+30%",
+    "translation": "富裕層への売上+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.314.1",
+    "original": "錬金系商品の売値+20%",
+    "translation": "錬金系商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.315.1",
+    "original": "すべての商品の売値+1%",
+    "translation": "すべての商品の売値+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.316.1",
+    "original": "料理系商品の売値+60%",
+    "translation": "料理系商品の売値+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.317.1",
+    "original": "冒険者への売上+8%",
+    "translation": "冒険者への売上+8%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.318.1",
+    "original": "料理系商品の売値+100%",
+    "translation": "料理系商品の売値+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.319.1",
+    "original": "鍛冶系商品の売値+15%",
+    "translation": "鍛冶系商品の売値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.320.1",
+    "original": "物理ダメージ+40%",
+    "translation": "物理ダメージ+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.321.1",
+    "original": "一般人への売上+5%",
+    "translation": "一般人への売上+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.322.1",
+    "original": "店員の最大人数+5",
+    "translation": "店員の最大人数+5",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.323.1",
+    "original": "客の滞在時間の延長率+5%",
+    "translation": "客の滞在時間の延長率+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.324.1",
+    "original": "すべての商品の売値+2%",
+    "translation": "すべての商品の売値+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.325.1",
+    "original": "鍛冶系商品の売値+30%",
+    "translation": "鍛冶系商品の売値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.326.1",
+    "original": "鍛冶系商品の売値+60%",
+    "translation": "鍛冶系商品の売値+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.327.1",
+    "original": "鍛冶系商品の売値+100%",
+    "translation": "鍛冶系商品の売値+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.328.1",
+    "original": "犯罪値の上昇率-3%",
+    "translation": "犯罪値の上昇率-3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.329.1",
+    "original": "錬金系商品の売値+15%",
+    "translation": "錬金系商品の売値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.330.1",
+    "original": "錬金系商品の売値+30%",
+    "translation": "錬金系商品の売値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.331.1",
+    "original": "敷地のサイズ+1",
+    "translation": "敷地のサイズ+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.332.1",
+    "original": "魔術ダメージ+5%",
+    "translation": "魔術ダメージ+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.333.1",
+    "original": "錬金系商品の売値+60%",
+    "translation": "錬金系商品の売値+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.334.1",
+    "original": "水産資源を使用した商品の売値+20%",
+    "translation": "水産資源を使用した商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.335.1",
+    "original": "林業資源を使用した商品の売値+20%",
+    "translation": "林業資源を使用した商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.336.1",
+    "original": "農業資源を使用した商品の売値+20%",
+    "translation": "農業資源を使用した商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.337.1",
+    "original": "鉱業資源を使用した商品の売値+20%",
+    "translation": "鉱業資源を使用した商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.338.1",
+    "original": "魔術資源を使用した商品の売値+20%",
+    "translation": "魔術資源を使用した商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.339.1",
+    "original": "軍需品タイプの売値+50%",
+    "translation": "軍需品タイプの売値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.340.1",
+    "original": "娼館向けタイプの売値+50%",
+    "translation": "娼館向けタイプの売値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.341.1",
+    "original": "肉料理タイプの売値+50%",
+    "translation": "肉料理タイプの売値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.342.1",
+    "original": "魚料理タイプの売値+50%",
+    "translation": "魚料理タイプの売値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.343.1",
+    "original": "一般向けタイプの売値+50%",
+    "translation": "一般向けタイプの売値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.344.1",
+    "original": "贅沢品タイプの売値+30%",
+    "translation": "贅沢品タイプの売値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.345.1",
+    "original": "贅沢品タイプの売値+40%",
+    "translation": "贅沢品タイプの売値+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.346.1",
+    "original": "筆記用具タイプの売値+20%",
+    "translation": "筆記用具タイプの売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.347.1",
+    "original": "すべての商品の売値+4%",
+    "translation": "すべての商品の売値+4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.348.1",
+    "original": "開発ポイント獲得量+4%",
+    "translation": "開発ポイント獲得量+4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.349.1",
+    "original": "魔術系トラップの解除率+80%",
+    "translation": "魔術系トラップの解除率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.350.1",
+    "original": "ダブルアタック率+100%",
+    "translation": "ダブルアタック率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.351.1",
+    "original": "すべての商品の売値+5%",
+    "translation": "すべての商品の売値+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.352.1",
+    "original": "すべての商品の売値+20%",
+    "translation": "すべての商品の売値+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.353.1",
+    "original": "すべての商品の売値+30%",
+    "translation": "すべての商品の売値+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.354.1",
+    "original": "MP消費軽減-40%",
+    "translation": "MP消費軽減-40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.355.1",
+    "original": "ランクアップに必要な経験+50%",
+    "translation": "ランクアップに必要な経験+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.356.1",
+    "original": "エネミー専用・高速移動",
+    "translation": "エネミー専用・高速移動",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.357.1",
+    "original": "エネミー専用・獲得EXP+200%",
+    "translation": "エネミー専用・獲得EXP+200%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.358.1",
+    "original": "開発ポイント獲得量+15%",
+    "translation": "開発ポイント獲得量+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.359.1",
+    "original": "開発ポイント獲得量+20%",
+    "translation": "開発ポイント獲得量+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.360.1",
+    "original": "開発ポイント獲得量+30%",
+    "translation": "開発ポイント獲得量+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.361.1",
+    "original": "開発ポイント獲得量+40%",
+    "translation": "開発ポイント獲得量+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.362.1",
+    "original": "汚染値の上昇率-3%",
+    "translation": "汚染値の上昇率-3%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.363.1",
+    "original": "開発ポイント獲得量+50%",
+    "translation": "開発ポイント獲得量+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.364.1",
+    "original": "ダンジョン内のレアトレジャー発生率+20%",
+    "translation": "ダンジョン内のレアトレジャー発生率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.365.1",
+    "original": "ダンジョン内のレアトレジャー発生率+50%",
+    "translation": "ダンジョン内のレアトレジャー発生率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.366.1",
+    "original": "ダンジョン内のレアトレジャー発生率+80%",
+    "translation": "ダンジョン内のレアトレジャー発生率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.367.1",
+    "original": "開発ポイント獲得量+30% + レア+20%",
+    "translation": "開発ポイント獲得量+30% + レア+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.368.1",
+    "original": "ザコへのダメージ+5%",
+    "translation": "ザコへのダメージ+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.369.1",
+    "original": "開発ポイント獲得量+25% + レア+25%",
+    "translation": "開発ポイント獲得量+25% + レア+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.370.1",
+    "original": "開発ポイント獲得量+40% + レア+40%",
+    "translation": "開発ポイント獲得量+40% + レア+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.371.1",
+    "original": "開発ポイント獲得量+20% + レア+20%",
+    "translation": "開発ポイント獲得量+20% + レア+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.372.1",
+    "original": "開発ポイント獲得量+40% + レア+20%",
+    "translation": "開発ポイント獲得量+40% + レア+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.373.1",
+    "original": "エネミー発見率+30%",
+    "translation": "エネミー発見率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.374.1",
+    "original": "エネミー発見率+50%",
+    "translation": "エネミー発見率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.375.1",
+    "original": "エネミー発見率+80%",
+    "translation": "エネミー発見率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.376.1",
+    "original": "エネミー発見率+40% + トラップ発見率+40%",
+    "translation": "エネミー発見率+40% + トラップ発見率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.377.1",
+    "original": "お気に入りボーナス+10%",
+    "translation": "お気に入りボーナス+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.378.1",
+    "original": "トラップ発見率+30% + トラップ解除率+10%",
+    "translation": "トラップ発見率+30% + トラップ解除率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.379.1",
+    "original": "トラップ発見率+30% + トラップ解除率+100%",
+    "translation": "トラップ発見率+30% + トラップ解除率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.380.1",
+    "original": "トラップ発見率+50% + トラップ解除率+20%",
+    "translation": "トラップ発見率+50% + トラップ解除率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.381.1",
+    "original": "トラップ発見率+80%",
+    "translation": "トラップ発見率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.382.1",
+    "original": "エネミー発見率+50% + トラップ発見率+50%",
+    "translation": "エネミー発見率+50% + トラップ発見率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.383.1",
+    "original": "エネミー発見率+30% + トラップ発見率+70%",
+    "translation": "エネミー発見率+30% + トラップ発見率+70%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.384.1",
+    "original": "エネミー発見率+60% + トラップ発見率+20%",
+    "translation": "エネミー発見率+60% + トラップ発見率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.385.1",
+    "original": "エネミー発見率+60% + トラップ発見率+60%",
+    "translation": "エネミー発見率+60% + トラップ発見率+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.386.1",
+    "original": "エネミー発見率+60% + トラップ発見率+80%",
+    "translation": "エネミー発見率+60% + トラップ発見率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.387.1",
+    "original": "エネミー発見率+100% + トラップ発見率+100%",
+    "translation": "エネミー発見率+100% + トラップ発見率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.388.1",
+    "original": "機械系トラップの解除率+40%",
+    "translation": "機械系トラップの解除率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.389.1",
+    "original": "自然系トラップの解除率+40%",
+    "translation": "自然系トラップの解除率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.390.1",
+    "original": "魔術系トラップの解除率+40%",
+    "translation": "魔術系トラップの解除率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.391.1",
+    "original": "機械と自然系トラップの解除率+50%",
+    "translation": "機械と自然系トラップの解除率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.392.1",
+    "original": "自然と機械系トラップの解除率+50%",
+    "translation": "自然と機械系トラップの解除率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.393.1",
+    "original": "魔術と自然系トラップの解除率+50%",
+    "translation": "魔術と自然系トラップの解除率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.394.1",
+    "original": "戦士や兵士への売上+15%",
+    "translation": "戦士や兵士への売上+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.395.1",
+    "original": "学者・魔術師への売上+10%",
+    "translation": "学者・魔術師への売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.396.1",
+    "original": "死神パワーの入手量+5%",
+    "translation": "死神パワーの入手量+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.397.1",
+    "original": "自動入手できる開発ポイント+5%",
+    "translation": "自動入手できる開発ポイント+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.398.1",
+    "original": "ダンジョン内で様々お役立ち(魔女)",
+    "translation": "ダンジョン内で様々お役立ち(魔女)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.399.1",
+    "original": "錬金系商品の売値+10%",
+    "translation": "錬金系商品の売値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.400.1",
+    "original": "鍛冶系商品の売値+10%",
+    "translation": "鍛冶系商品の売値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.401.1",
+    "original": "料理系商品の売値+10%",
+    "translation": "料理系商品の売値+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.402.1",
+    "original": "ダンジョン内で様々お役立ち(メイド)",
+    "translation": "ダンジョン内で様々お役立ち(メイド)",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.403.1",
+    "original": "店員休憩時の回復率+20%",
+    "translation": "店員休憩時の回復率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.404.1",
+    "original": "店員休憩時の回復率+30%",
+    "translation": "店員休憩時の回復率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.405.1",
+    "original": "店員休憩時の回復率+40%",
+    "translation": "店員休憩時の回復率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.406.1",
+    "original": "犯罪値の上昇率-100%",
+    "translation": "犯罪値の上昇率-100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.407.1",
+    "original": "犯罪値の上昇率-25%",
+    "translation": "犯罪値の上昇率-25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.408.1",
+    "original": "犯罪値の上昇率-30%",
+    "translation": "犯罪値の上昇率-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.409.1",
+    "original": "犯罪値の上昇率-50%",
+    "translation": "犯罪値の上昇率-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.410.1",
+    "original": "犯罪値の上昇率+10%",
+    "translation": "犯罪値の上昇率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.411.1",
+    "original": "犯罪値の上昇率+100%",
+    "translation": "犯罪値の上昇率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.412.1",
+    "original": "犯罪値の上昇率+300%",
+    "translation": "犯罪値の上昇率+300%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.413.1",
+    "original": "犯罪値の上昇率+20%",
+    "translation": "犯罪値の上昇率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.414.1",
+    "original": "犯罪値の上昇率+25%",
+    "translation": "犯罪値の上昇率+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.415.1",
+    "original": "犯罪値の上昇率+30%",
+    "translation": "犯罪値の上昇率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.416.1",
+    "original": "犯罪値の上昇率+40%",
+    "translation": "犯罪値の上昇率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.417.1",
+    "original": "犯罪値の上昇率+50%",
+    "translation": "犯罪値の上昇率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.418.1",
+    "original": "汚染値の上昇率+10%",
+    "translation": "汚染値の上昇率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.419.1",
+    "original": "汚染値の上昇率-20%",
+    "translation": "汚染値の上昇率-20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.420.1",
+    "original": "汚染値の上昇率-50%",
+    "translation": "汚染値の上昇率-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.421.1",
+    "original": "汚染値の上昇率+20%",
+    "translation": "汚染値の上昇率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.422.1",
+    "original": "汚染値の上昇率+30%",
+    "translation": "汚染値の上昇率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.423.1",
+    "original": "汚染値の上昇率+40%",
+    "translation": "汚染値の上昇率+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.424.1",
+    "original": "汚染値の上昇率+50%",
+    "translation": "汚染値の上昇率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.425.1",
+    "original": "汚染値の上昇率+200%",
+    "translation": "汚染値の上昇率+200%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.426.1",
+    "original": "死神パワーの入手量+20%",
+    "translation": "死神パワーの入手量+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.427.1",
+    "original": "死神パワーの入手量+30%",
+    "translation": "死神パワーの入手量+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.428.1",
+    "original": "死神パワーの入手量+100%",
+    "translation": "死神パワーの入手量+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.429.1",
+    "original": "すべてのダメージ+30% + 物理ダメージ軽減率-30%",
+    "translation": "すべてのダメージ+30% + 物理ダメージ軽減率-30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.430.1",
+    "original": "すべてのダメージ+50% + 物理ダメージ軽減率-50%",
+    "translation": "すべてのダメージ+50% + 物理ダメージ軽減率-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.431.1",
+    "original": "料理CP+20",
+    "translation": "料理CP+20",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.432.1",
+    "original": "鍛冶CP+10",
+    "translation": "鍛冶CP+10",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.433.1",
+    "original": "鍛冶CP+20",
+    "translation": "鍛冶CP+20",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.434.1",
+    "original": "錬金CP+10",
+    "translation": "錬金CP+10",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.435.1",
+    "original": "錬金CP+20",
+    "translation": "錬金CP+20",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.436.1",
+    "original": "すべての商品の売値+80%",
+    "translation": "すべての商品の売値+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.437.1",
+    "original": "ランクアップに必要な経験-25%",
+    "translation": "ランクアップに必要な経験-25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.438.1",
+    "original": "すべての商品の売値+200%",
+    "translation": "すべての商品の売値+200%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.439.1",
+    "original": "ランクアップに必要な経験-50%",
+    "translation": "ランクアップに必要な経験-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.440.1",
+    "original": "ランクアップに必要な経験+75%",
+    "translation": "ランクアップに必要な経験+75%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.441.1",
+    "original": "ランクアップに必要な経験+100%",
+    "translation": "ランクアップに必要な経験+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.442.1",
+    "original": "エッチ好き-2",
+    "translation": "エッチ好き-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.443.1",
+    "original": "エッチ好き-1",
+    "translation": "エッチ好き-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.444.1",
+    "original": "客の流入数+50%",
+    "translation": "客の流入数+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.445.1",
+    "original": "客の流入数+100%",
+    "translation": "客の流入数+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.446.1",
+    "original": "ダブルアタック率+100% + ダブルアタックのダメージ+10%",
+    "translation": "ダブルアタック率+100% + ダブルアタックのダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.447.1",
+    "original": "ダブルアタック率+100% + ダブルアタックのダメージ+20%",
+    "translation": "ダブルアタック率+100% + ダブルアタックのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.448.1",
+    "original": "クリティカル率+30%",
+    "translation": "クリティカル率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.449.1",
+    "original": "開発ポイント貯蔵上限+500000",
+    "translation": "開発ポイント貯蔵上限+500000",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.450.1",
+    "original": "クリティカル率+50%",
+    "translation": "クリティカル率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.451.1",
+    "original": "クリティカル率+50% + 弱点へのダメージ+10%",
+    "translation": "クリティカル率+50% + 弱点へのダメージ+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.452.1",
+    "original": "クリティカル率+100% + 弱点へのダメージ+20%",
+    "translation": "クリティカル率+100% + 弱点へのダメージ+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.453.1",
+    "original": "物理ダメージ+30% + クリティカル率+60%",
+    "translation": "物理ダメージ+30% + クリティカル率+60%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.454.1",
+    "original": "魔術ダメージ+25%",
+    "translation": "魔術ダメージ+25%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.455.1",
+    "original": "清掃の才能+1",
+    "translation": "清掃の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.456.1",
+    "original": "清掃の才能+2",
+    "translation": "清掃の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.457.1",
+    "original": "清掃の才能+3",
+    "translation": "清掃の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.458.1",
+    "original": "清掃の才能-1",
+    "translation": "清掃の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.459.1",
+    "original": "清掃の才能-2",
+    "translation": "清掃の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.460.1",
+    "original": "接客の才能+1",
+    "translation": "接客の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.461.1",
+    "original": "接客の才能+2",
+    "translation": "接客の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.462.1",
+    "original": "接客の才能+3",
+    "translation": "接客の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.463.1",
+    "original": "接客の才能-1",
+    "translation": "接客の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.464.1",
+    "original": "接客の才能-2",
+    "translation": "接客の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.465.1",
+    "original": "体力の才能+1",
+    "translation": "体力の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.466.1",
+    "original": "体力の才能+2",
+    "translation": "体力の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.467.1",
+    "original": "体力の才能+3",
+    "translation": "体力の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.468.1",
+    "original": "体力の才能-1",
+    "translation": "体力の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.469.1",
+    "original": "体力の才能-2",
+    "translation": "体力の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.470.1",
+    "original": "娯楽施設の売上+10%",
+    "translation": "娯楽施設の売上+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.471.1",
+    "original": "体力の才能-3",
+    "translation": "体力の才能-3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.472.1",
+    "original": "鍛冶の才能+1",
+    "translation": "鍛冶の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.473.1",
+    "original": "鍛冶の才能+2",
+    "translation": "鍛冶の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.474.1",
+    "original": "鍛冶の才能+3",
+    "translation": "鍛冶の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.475.1",
+    "original": "鍛冶の才能-1",
+    "translation": "鍛冶の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.476.1",
+    "original": "鍛冶の才能-2",
+    "translation": "鍛冶の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.477.1",
+    "original": "防犯の才能+1",
+    "translation": "防犯の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.478.1",
+    "original": "防犯の才能+2",
+    "translation": "防犯の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.479.1",
+    "original": "防犯の才能+3",
+    "translation": "防犯の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.480.1",
+    "original": "防犯の才能-1",
+    "translation": "防犯の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.481.1",
+    "original": "防犯の才能-2",
+    "translation": "防犯の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.482.1",
+    "original": "料理の才能+1",
+    "translation": "料理の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.483.1",
+    "original": "料理の才能+2",
+    "translation": "料理の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.484.1",
+    "original": "料理の才能+3",
+    "translation": "料理の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.485.1",
+    "original": "料理の才能-1",
+    "translation": "料理の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.486.1",
+    "original": "料理の才能-2",
+    "translation": "料理の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.487.1",
+    "original": "錬金の才能+1",
+    "translation": "錬金の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.488.1",
+    "original": "錬金の才能+2",
+    "translation": "錬金の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.489.1",
+    "original": "錬金の才能+3",
+    "translation": "錬金の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.490.1",
+    "original": "錬金の才能-1",
+    "translation": "錬金の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.491.1",
+    "original": "錬金の才能-2",
+    "translation": "錬金の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.492.1",
+    "original": "回復の才能+1",
+    "translation": "回復の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.493.1",
+    "original": "回復の才能+2",
+    "translation": "回復の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.494.1",
+    "original": "回復の才能+3",
+    "translation": "回復の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.495.1",
+    "original": "回復の才能-1",
+    "translation": "回復の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.496.1",
+    "original": "士気の才能+1",
+    "translation": "士気の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.497.1",
+    "original": "士気の才能+2",
+    "translation": "士気の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.498.1",
+    "original": "士気の才能+3",
+    "translation": "士気の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.499.1",
+    "original": "士気の才能-1",
+    "translation": "士気の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.500.1",
+    "original": "士気の才能-2",
+    "translation": "士気の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.501.1",
+    "original": "盾役の才能+1",
+    "translation": "盾役の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.502.1",
+    "original": "密着モード時の成功率+4%",
+    "translation": "密着モード時の成功率+4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.503.1",
+    "original": "エッチな獲得経験値+5%",
+    "translation": "エッチな獲得経験値+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.504.1",
+    "original": "盾役の才能+2",
+    "translation": "盾役の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.505.1",
+    "original": "盾役の才能+3",
+    "translation": "盾役の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.506.1",
+    "original": "アバター人数+1",
+    "translation": "アバター人数+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.507.1",
+    "original": "盾役の才能-1",
+    "translation": "盾役の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.508.1",
+    "original": "戦力の才能+1",
+    "translation": "戦力の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.509.1",
+    "original": "戦力の才能+2",
+    "translation": "戦力の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.510.1",
+    "original": "戦力の才能+3",
+    "translation": "戦力の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.511.1",
+    "original": "戦力の才能-1",
+    "translation": "戦力の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.512.1",
+    "original": "探索の才能+1",
+    "translation": "探索の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.513.1",
+    "original": "探索の才能+2",
+    "translation": "探索の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.514.1",
+    "original": "探索の才能+3",
+    "translation": "探索の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.515.1",
+    "original": "探索の才能-1",
+    "translation": "探索の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.516.1",
+    "original": "魔術の才能+1",
+    "translation": "魔術の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.517.1",
+    "original": "魔術の才能+2",
+    "translation": "魔術の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.518.1",
+    "original": "魔術の才能+3",
+    "translation": "魔術の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.519.1",
+    "original": "魔術の才能-1",
+    "translation": "魔術の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.520.1",
+    "original": "すべての才能+1",
+    "translation": "すべての才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.521.1",
+    "original": "すべての才能+2",
+    "translation": "すべての才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.522.1",
+    "original": "すべての才能-1",
+    "translation": "すべての才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.523.1",
+    "original": "開発ポイント獲得量+5%",
+    "translation": "開発ポイント獲得量+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.524.1",
+    "original": "すべての才能-2",
+    "translation": "すべての才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.525.1",
+    "original": "生産の才能+1",
+    "translation": "生産の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.526.1",
+    "original": "生産の才能+2",
+    "translation": "生産の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.527.1",
+    "original": "生産の才能+3",
+    "translation": "生産の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.528.1",
+    "original": "生産の才能-1",
+    "translation": "生産の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.529.1",
+    "original": "生産の才能-2",
+    "translation": "生産の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.530.1",
+    "original": "冒険者の才能+1",
+    "translation": "冒険者の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.531.1",
+    "original": "冒険者の才能+2",
+    "translation": "冒険者の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.532.1",
+    "original": "冒険者の才能+3",
+    "translation": "冒険者の才能+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.533.1",
+    "original": "冒険者の才能-1",
+    "translation": "冒険者の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.534.1",
+    "original": "冒険者の才能-2",
+    "translation": "冒険者の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.535.1",
+    "original": "組織献金の必要資金-4%",
+    "translation": "組織献金の必要資金-4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.536.1",
+    "original": "客の流入数+5%",
+    "translation": "客の流入数+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.537.1",
+    "original": "店員の才能+1",
+    "translation": "店員の才能+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.538.1",
+    "original": "学者・魔術師への売上+20%",
+    "translation": "学者・魔術師への売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.539.1",
+    "original": "聖職者への売上+20%",
+    "translation": "聖職者への売上+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.540.1",
+    "original": "犯罪値の上昇率-4%",
+    "translation": "犯罪値の上昇率-4%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.541.1",
+    "original": "犯罪値の上昇率-10%",
+    "translation": "犯罪値の上昇率-10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.542.1",
+    "original": "1日のショップ売上ボーナス+5%",
+    "translation": "1日のショップ売上ボーナス+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.543.1",
+    "original": "設備投資の必要資金-5%",
+    "translation": "設備投資の必要資金-5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.544.1",
+    "original": "戦士・兵士の出現率+20%",
+    "translation": "戦士・兵士の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.545.1",
+    "original": "騎士・貴族の出現率+20%",
+    "translation": "騎士・貴族の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.546.1",
+    "original": "店員の才能+2",
+    "translation": "店員の才能+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.547.1",
+    "original": "店員の才能-1",
+    "translation": "店員の才能-1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.548.1",
+    "original": "店員の才能-2",
+    "translation": "店員の才能-2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.549.1",
+    "original": "エッチ好き+3",
+    "translation": "エッチ好き+3",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.550.1",
+    "original": "盗賊・スパイの出現率+20%",
+    "translation": "盗賊・スパイの出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.551.1",
+    "original": "魔術師の出現率+20%",
+    "translation": "魔術師の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.552.1",
+    "original": "武闘家・ダンサーの出現率+20%",
+    "translation": "武闘家・ダンサーの出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.553.1",
+    "original": "剣士・レンジャーの出現率+20%",
+    "translation": "剣士・レンジャーの出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.554.1",
+    "original": "治療師・医者の出現率+20%",
+    "translation": "治療師・医者の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.555.1",
+    "original": "神官の出現率+20%",
+    "translation": "神官の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.556.1",
+    "original": "農民の出現率+20%",
+    "translation": "農民の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.557.1",
+    "original": "呪術師の出現率+20%",
+    "translation": "呪術師の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.558.1",
+    "original": "木こり・狩人の出現率+20%",
+    "translation": "木こり・狩人の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.559.1",
+    "original": "吟遊詩人・芸術家の出現率+20%",
+    "translation": "吟遊詩人・芸術家の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.560.1",
+    "original": "船乗りの出現率+20%",
+    "translation": "船乗りの出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.561.1",
+    "original": "作業員・職人の出現率+20%",
+    "translation": "作業員・職人の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.562.1",
+    "original": "学生・学者の出現率+20%",
+    "translation": "学生・学者の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.563.1",
+    "original": "執事・秘書・メイドの出現率+20%",
+    "translation": "執事・秘書・メイドの出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.564.1",
+    "original": "商人の出現率+20%",
+    "translation": "商人の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.565.1",
+    "original": "娼婦・遊び人の出現率+20%",
+    "translation": "娼婦・遊び人の出現率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.566.1",
+    "original": "エッチな獲得経験値+50%",
+    "translation": "エッチな獲得経験値+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.567.1",
+    "original": "戦力変換・キス＞魔攻",
+    "translation": "戦力変換・キス＞魔攻",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.568.1",
+    "original": "戦力変換・胸＞防御",
+    "translation": "戦力変換・胸＞防御",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.569.1",
+    "original": "戦力変換・見る＞魔防",
+    "translation": "戦力変換・見る＞魔防",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.570.1",
+    "original": "戦力変換・言葉＞魔攻",
+    "translation": "戦力変換・言葉＞魔攻",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.571.1",
+    "original": "戦力変換・尻＞速度",
+    "translation": "戦力変換・尻＞速度",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.572.1",
+    "original": "戦力変換・性器＞攻撃",
+    "translation": "戦力変換・性器＞攻撃",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.573.1",
+    "original": "戦力変換・手＞必殺",
+    "translation": "戦力変換・手＞必殺",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.574.1",
+    "original": "戦力変換・全体＞ＨＰ",
+    "translation": "戦力変換・全体＞ＨＰ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.575.1",
+    "original": "戦力変換・頭＞ＭＰ",
+    "translation": "戦力変換・頭＞ＭＰ",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.576.1",
+    "original": "戦力変換・変態＞連撃力",
+    "translation": "戦力変換・変態＞連撃力",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.577.1",
+    "original": "好感度の上昇率+30%",
+    "translation": "好感度の上昇率+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.578.1",
+    "original": "すべてのダメージ+70% + 物理ダメージ軽減率-50%",
+    "translation": "すべてのダメージ+70% + 物理ダメージ軽減率-50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.579.1",
+    "original": "エッチな獲得経験値+15%",
+    "translation": "エッチな獲得経験値+15%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.580.1",
+    "original": "開発ポイント獲得量+10%",
+    "translation": "開発ポイント獲得量+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.581.1",
+    "original": "男性へのダメージ+30%",
+    "translation": "男性へのダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.582.1",
+    "original": "女性へのダメージ+100% + 女性からのチェイス発生率+20%",
+    "translation": "女性へのダメージ+100% + 女性からのチェイス発生率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.583.1",
+    "original": "女性へのダメージ+200% + 女性からのチェイス発生率+20%",
+    "translation": "女性へのダメージ+200% + 女性からのチェイス発生率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.584.1",
+    "original": "チェイススキル発生率+50%",
+    "translation": "チェイススキル発生率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.585.1",
+    "original": "自分へのチェイススキル発生率+50%",
+    "translation": "自分へのチェイススキル発生率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.586.1",
+    "original": "自分へのチェイススキル発生率+80%",
+    "translation": "自分へのチェイススキル発生率+80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.587.1",
+    "original": "エッチ好き+2",
+    "translation": "エッチ好き+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.588.1",
+    "original": "攻撃+10% + 攻撃の範囲拡大率+10%",
+    "translation": "攻撃+10% + 攻撃の範囲拡大率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.589.1",
+    "original": "エッチ好き+1",
+    "translation": "エッチ好き+1",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.590.1",
+    "original": "攻撃+20% + 攻撃の範囲拡大率+50%",
+    "translation": "攻撃+20% + 攻撃の範囲拡大率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.591.1",
+    "original": "トラップ解除率+50%",
+    "translation": "トラップ解除率+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.592.1",
+    "original": "攻撃の範囲拡大率+100%",
+    "translation": "攻撃の範囲拡大率+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.593.1",
+    "original": "魔術ダメージ+100%",
+    "translation": "魔術ダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.594.1",
+    "original": "トラップ解除率+50% + 攻撃+40%",
+    "translation": "トラップ解除率+50% + 攻撃+40%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.595.1",
+    "original": "すべての攻撃ダメージ-20%(敵のみ) + 魔術ダメージ+30%",
+    "translation": "すべての攻撃ダメージ-20%(敵のみ) + 魔術ダメージ+30%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.596.1",
+    "original": "トラップ発見率+5%",
+    "translation": "トラップ発見率+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.597.1",
+    "original": "攻撃+100% + デスクリティカル率+20%",
+    "translation": "攻撃+100% + デスクリティカル率+20%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.598.1",
+    "original": "物理ダメージ+50% + 竜タイプへのダメージ+100%",
+    "translation": "物理ダメージ+50% + 竜タイプへのダメージ+100%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.599.1",
+    "original": "ハヅキの乱入率+10%",
+    "translation": "ハヅキの乱入率+10%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.600.1",
+    "original": "チェイススキルのダメージ+50%",
+    "translation": "チェイススキルのダメージ+50%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.601.1",
+    "original": "魔術ダメージ+50% + スキル使用による速度低下軽減-80%",
+    "translation": "魔術ダメージ+50% + スキル使用による速度低下軽減-80%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.602.1",
+    "original": "すべてのトラップ解除率+5%",
+    "translation": "すべてのトラップ解除率+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.608.1",
+    "original": "MP+2%",
+    "translation": "MP+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.610.1",
+    "original": "速度+2",
+    "translation": "速度+2",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.611.1",
+    "original": "命中精度+1%",
+    "translation": "命中精度+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.612.1",
+    "original": "回避率+1%",
+    "translation": "回避率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.613.1",
+    "original": "物理ダメージ+2%",
+    "translation": "物理ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.614.1",
+    "original": "スキルダメージ+2%",
+    "translation": "スキルダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.615.1",
+    "original": "チェイススキルのダメージ+2%",
+    "translation": "チェイススキルのダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.616.1",
+    "original": "火属性ダメージ+2%",
+    "translation": "火属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.617.1",
+    "original": "氷属性ダメージ+2%",
+    "translation": "氷属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.618.1",
+    "original": "風属性ダメージ+2%",
+    "translation": "風属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.619.1",
+    "original": "雷属性ダメージ+2%",
+    "translation": "雷属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.620.1",
+    "original": "聖属性ダメージ+2%",
+    "translation": "聖属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.621.1",
+    "original": "闇属性ダメージ+2%",
+    "translation": "闇属性ダメージ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.622.1",
+    "original": "物理耐性貫通+2%",
+    "translation": "物理耐性貫通+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.623.1",
+    "original": "魔術耐性貫通+2%",
+    "translation": "魔術耐性貫通+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.624.1",
+    "original": "HP回復量アップ+1%",
+    "translation": "HP回復量アップ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.625.1",
+    "original": "MP回復量アップ+1%",
+    "translation": "MP回復量アップ+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.626.1",
+    "original": "不利な状態異常の回避率+5%",
+    "translation": "不利な状態異常の回避率+5%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.627.1",
+    "original": "獲得経験値アップ+2%",
+    "translation": "獲得経験値アップ+2%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.629.1",
+    "original": "機械系トラップの解除率+1%",
+    "translation": "機械系トラップの解除率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.630.1",
+    "original": "自然系トラップの解除率+1%",
+    "translation": "自然系トラップの解除率+1%",
+    "context": null
+  },
+  {
+    "key": "db_DefineValueIndivid_11.txt.631.1",
+    "original": "魔術系トラップの解除率+1%",
+    "translation": "魔術系トラップの解除率+1%",
+    "context": null
+  }
+]

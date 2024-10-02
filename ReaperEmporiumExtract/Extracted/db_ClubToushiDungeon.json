@@ -1,0 +1,2252 @@
+[
+  {
+    "key": "db_ClubToushiDungeon.txt.3.8",
+    "original": "最近開拓が始まった、フレスミス森林道へのクエストを発行して、冒険者を向かわせる。森が切り開かれれば、ドワーム族との交易も盛んになり、多くの資源がゼカリウスに届けられることになるだろう。資金を投入しよう。",
+    "translation": "最近開拓が始まった、フレスミス森林道へのクエストを発行して、冒険者を向かわせる。森が切り開かれれば、ドワーム族との交易も盛んになり、多くの資源がゼカリウスに届けられることになるだろう。資金を投入しよう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.3.9",
+    "original": "フレスミス森林道",
+    "translation": "フレスミス森林道",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.4.8",
+    "original": "ドワーム族が所有する鉱山だが、いまだ多くの魔獣が住み着いて荒れており、困っているようだ。ドワーム族との交流が蘇ったことで、ドルワミール鉱山も探索が可能になった。友好の証として冒険者に活躍して貰おう。",
+    "translation": "ドワーム族が所有する鉱山だが、いまだ多くの魔獣が住み着いて荒れており、困っているようだ。ドワーム族との交流が蘇ったことで、ドルワミール鉱山も探索が可能になった。友好の証として冒険者に活躍して貰おう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.4.9",
+    "original": "ドルワミール鉱山",
+    "translation": "ドルワミール鉱山",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.5.8",
+    "original": "イルニエル大灯台に冒険者を向かわせる。魔獣の巣窟であるため、解放後も定期的に人を向かわせなくてはいけないが、一般の漁師には荷が重いのだ。大灯台の機能が正常化すれば、海をゆく船も安全に航行出来るだろう。",
+    "translation": "イルニエル大灯台に冒険者を向かわせる。魔獣の巣窟であるため、解放後も定期的に人を向かわせなくてはいけないが、一般の漁師には荷が重いのだ。大灯台の機能が正常化すれば、海をゆく船も安全に航行出来るだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.5.9",
+    "original": "イルニエル大灯台",
+    "translation": "イルニエル大灯台",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.6.8",
+    "original": "ゼカリウスを支配する地方領主ゼルカの屋敷。主はすでにいない。自警団を中心として、大規模な修練施設を建設する話が上がっている。資金投入することで、冒険者のレベルが底上げされ、多くの開発ポイントを受け取れるだろう。",
+    "translation": "ゼカリウスを支配する地方領主ゼルカの屋敷。主はすでにいない。自警団を中心として、大規模な修練施設を建設する話が上がっている。資金投入することで、冒険者のレベルが底上げされ、多くの開発ポイントを受け取れるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.6.9",
+    "original": "地方領主ゼルカの屋敷",
+    "translation": "地方領主ゼルカの屋敷",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.7.8",
+    "original": "地下図書館へのクエストを作り、一般冒険者を向かわせる。危険な魔術トラップが随所に配置される危険なダンジョンだが、その深奥には数多の叡智が眠っており、学者や魔術師にとっては垂涎ものである。資金投入する価値がある。",
+    "translation": "地下図書館へのクエストを作り、一般冒険者を向かわせる。危険な魔術トラップが随所に配置される危険なダンジョンだが、その深奥には数多の叡智が眠っており、学者や魔術師にとっては垂涎ものである。資金投入する価値がある。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.7.9",
+    "original": "ゼカリウス地下図書館",
+    "translation": "ゼカリウス地下図書館",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.8.8",
+    "original": "都市の近辺に停泊していた武装船団。異形の魔獣が巣くっていたが所有者が元に戻った。その船団を基地として近海の魚魔獣を狩ることにする。資金を投入すれば、通常は漁獲できないものも捕れるに違いない。",
+    "translation": "都市の近辺に停泊していた武装船団。異形の魔獣が巣くっていたが所有者が元に戻った。その船団を基地として近海の魚魔獣を狩ることにする。資金を投入すれば、通常は漁獲できないものも捕れるに違いない。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.8.9",
+    "original": "ソルシア魔導船団",
+    "translation": "ソルシア魔導船団",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.9.8",
+    "original": "黒の森ダムブナックにある邪教の神殿に一般冒険者を向かわせる。邪教徒の大元は叩いたが、いまだ邪悪な魔獣は跋扈している。選りすぐりの冒険者でなければ立ち入れないが、得るものも多いだろう。黒の森は資源の宝庫だ。",
+    "translation": "黒の森ダムブナックにある邪教の神殿に一般冒険者を向かわせる。邪教徒の大元は叩いたが、いまだ邪悪な魔獣は跋扈している。選りすぐりの冒険者でなければ立ち入れないが、得るものも多いだろう。黒の森は資源の宝庫だ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.9.9",
+    "original": "ダムブナック黒神殿",
+    "translation": "ダムブナック黒神殿",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.10.8",
+    "original": "霊峰ヤークァリムの山頂への道を整備し、その遺跡への道を切り開く。冒険者の中でも特に才能に優れた者を選んで派遣することになる。持ち帰る資源は非常に高品質な物になるだろう。資金を投入する価値は高い。",
+    "translation": "霊峰ヤークァリムの山頂への道を整備し、その遺跡への道を切り開く。冒険者の中でも特に才能に優れた者を選んで派遣することになる。持ち帰る資源は非常に高品質な物になるだろう。資金を投入する価値は高い。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.10.9",
+    "original": "コノスパ天空遺跡",
+    "translation": "コノスパ天空遺跡",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.11.8",
+    "original": "ドルワミール鉱山の奥に一般冒険者を向かわせる。ドワーム族が聖地として守ってきた場所であるが、魔獣の巣窟になってしまった。奥には貴重な資源が多く眠っており、その発掘もドワーム族は歓迎している。",
+    "translation": "ドルワミール鉱山の奥に一般冒険者を向かわせる。ドワーム族が聖地として守ってきた場所であるが、魔獣の巣窟になってしまった。奥には貴重な資源が多く眠っており、その発掘もドワーム族は歓迎している。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.11.9",
+    "original": "ボルケミア地下火山",
+    "translation": "ボルケミア地下火山",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.12.8",
+    "original": "カストロイアに一般冒険者を向かわせる。非常に危険な遺跡であるが、最深部の攻略が成功したことによって劇的に危険度が低下した。今はその機能を調査するために多くの学者が向かっており、彼らの安全を守るために冒険者が求められている。",
+    "translation": "カストロイアに一般冒険者を向かわせる。非常に危険な遺跡であるが、最深部の攻略が成功したことによって劇的に危険度が低下した。今はその機能を調査するために多くの学者が向かっており、彼らの安全を守るために冒険者が求められている。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.12.9",
+    "original": "災厄制御機関カストロイア",
+    "translation": "災厄制御機関カストロイア",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.13.8",
+    "original": "ゴルドヴァーナへ一般冒険者を派遣する。かつては幻の都とされていたが、発見して攻略に成功したことで、その場所は公になった。その奥にはいまだ多くの文明の遺産が眠っており、引き続き調査する遺跡調査団の護衛が中心になるだろう。",
+    "translation": "ゴルドヴァーナへ一般冒険者を派遣する。かつては幻の都とされていたが、発見して攻略に成功したことで、その場所は公になった。その奥にはいまだ多くの文明の遺産が眠っており、引き続き調査する遺跡調査団の護衛が中心になるだろう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.13.9",
+    "original": "黄金の都ゴルドヴァーナ",
+    "translation": "黄金の都ゴルドヴァーナ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.14.8",
+    "original": "北方の氷原地帯にある迷宮に一般冒険者を向かわせる。他国との境界線上に存在しており、冒険者も滅多に向かうことは無かったが、このたび攻略路も開発できた。多くの資金を投資して、バックアップして資源を独占しよう。",
+    "translation": "北方の氷原地帯にある迷宮に一般冒険者を向かわせる。他国との境界線上に存在しており、冒険者も滅多に向かうことは無かったが、このたび攻略路も開発できた。多くの資金を投資して、バックアップして資源を独占しよう。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.14.9",
+    "original": "フリュジットの氷獄迷宮",
+    "translation": "フリュジットの氷獄迷宮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.15.8",
+    "original": "かつて繁栄した都市だったが、海に没して滅亡した古代の都。今は海に住む強力な魔獣の巣窟となっている。攻略に成功したことで、一般冒険者も向かわせることが出来た。資金を投入する必要があるが、中は資源の宝庫だ。",
+    "translation": "かつて繁栄した都市だったが、海に没して滅亡した古代の都。今は海に住む強力な魔獣の巣窟となっている。攻略に成功したことで、一般冒険者も向かわせることが出来た。資金を投入する必要があるが、中は資源の宝庫だ。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon.txt.15.9",
+    "original": "海底都市ディープゼカル",
+    "translation": "海底都市ディープゼカル",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.0.8",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.1.8",
+    "original": "簡単な素材収集",
+    "translation": "簡単な素材収集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.2.8",
+    "original": "古墳内のザコ散らし",
+    "translation": "古墳内のザコ散らし",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.3.8",
+    "original": "坑道内の復興指揮",
+    "translation": "坑道内の復興指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.4.8",
+    "original": "鉱山のならずもの討伐",
+    "translation": "鉱山のならずもの討伐",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.5.8",
+    "original": "館の見取り図作成",
+    "translation": "館の見取り図作成",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.6.8",
+    "original": "呪われた屋敷の浄化作戦",
+    "translation": "呪われた屋敷の浄化作戦",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.7.8",
+    "original": "魔術トラップの解除できる方",
+    "translation": "魔術トラップの解除できる方",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.8.8",
+    "original": "沈没した遺物の回収",
+    "translation": "沈没した遺物の回収",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.9.8",
+    "original": "探索班募集(カナヅチ不可)",
+    "translation": "探索班募集(カナヅチ不可)",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.10.8",
+    "original": "学院と仲良く出来る人募集",
+    "translation": "学院と仲良く出来る人募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.11.8",
+    "original": "万が一の待機職員募集",
+    "translation": "万が一の待機職員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.12.8",
+    "original": "一緒に遺跡の宝を探そう",
+    "translation": "一緒に遺跡の宝を探そう",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.13.8",
+    "original": "魔獣から護衛してくれる方",
+    "translation": "魔獣から護衛してくれる方",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.14.8",
+    "original": "現地での遺物鑑定できる方",
+    "translation": "現地での遺物鑑定できる方",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.15.8",
+    "original": "聖地巡礼したい人は居るか？",
+    "translation": "聖地巡礼したい人は居るか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.16.8",
+    "original": "一攫千金！　宝探し",
+    "translation": "一攫千金！　宝探し",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.17.8",
+    "original": "古代遺跡の調査員募集",
+    "translation": "古代遺跡の調査員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.18.8",
+    "original": "強力な魔物の対処",
+    "translation": "強力な魔物の対処",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.19.8",
+    "original": "よくわからないトラップ解除",
+    "translation": "よくわからないトラップ解除",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.20.8",
+    "original": "救護班を派遣したい",
+    "translation": "救護班を派遣したい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.21.8",
+    "original": "採取の護衛",
+    "translation": "採取の護衛",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.22.8",
+    "original": "不思議溢れる遺跡探索",
+    "translation": "不思議溢れる遺跡探索",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.23.8",
+    "original": "残る脅威の排除",
+    "translation": "残る脅威の排除",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.24.8",
+    "original": "極寒地帯の探索班募集",
+    "translation": "極寒地帯の探索班募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.25.8",
+    "original": "命知らずはついてこい",
+    "translation": "命知らずはついてこい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.26.8",
+    "original": "寒い心を温められる人",
+    "translation": "寒い心を温められる人",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.27.8",
+    "original": "低体温症対応ヒーラー募集",
+    "translation": "低体温症対応ヒーラー募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.28.8",
+    "original": "探索隊のリーダー募集",
+    "translation": "探索隊のリーダー募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.29.8",
+    "original": "超一流の護衛員を求む",
+    "translation": "超一流の護衛員を求む",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.30.8",
+    "original": "氷の中の素材回収指揮",
+    "translation": "氷の中の素材回収指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.41.8",
+    "original": "森に詳しい人求む",
+    "translation": "森に詳しい人求む",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.61.8",
+    "original": "聖なる素材探し",
+    "translation": "聖なる素材探し",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.81.8",
+    "original": "収集指揮をとれる方募集",
+    "translation": "収集指揮をとれる方募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.101.8",
+    "original": "護衛隊メンバー募集",
+    "translation": "護衛隊メンバー募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.121.8",
+    "original": "魔術素材を採集したいです",
+    "translation": "魔術素材を採集したいです",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.141.8",
+    "original": "探索の護衛募集",
+    "translation": "探索の護衛募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.142.8",
+    "original": "古墳内のマップ作り",
+    "translation": "古墳内のマップ作り",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.143.8",
+    "original": "一緒に戦うヒーラー募集",
+    "translation": "一緒に戦うヒーラー募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.144.8",
+    "original": "初心者冒険者の指導",
+    "translation": "初心者冒険者の指導",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.145.8",
+    "original": "タンクさんいませんか",
+    "translation": "タンクさんいませんか",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.146.8",
+    "original": "後方支援者募集",
+    "translation": "後方支援者募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.147.8",
+    "original": "先発隊の救護要請",
+    "translation": "先発隊の救護要請",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.148.8",
+    "original": "森林道のマッピング補助",
+    "translation": "森林道のマッピング補助",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.150.8",
+    "original": "森の浮浪者を追い出したい",
+    "translation": "森の浮浪者を追い出したい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.151.8",
+    "original": "森林道の植生調査補助員募集",
+    "translation": "森林道の植生調査補助員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.152.8",
+    "original": "後方支援の安全なお仕事です",
+    "translation": "後方支援の安全なお仕事です",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.153.8",
+    "original": "新林道の奥地の探索指揮",
+    "translation": "新林道の奥地の探索指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.154.8",
+    "original": "魔獣掃討作戦の指揮者",
+    "translation": "魔獣掃討作戦の指揮者",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.155.8",
+    "original": "魔術師さんを募集しています",
+    "translation": "魔術師さんを募集しています",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.156.8",
+    "original": "救護班の追加人員募集",
+    "translation": "救護班の追加人員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.157.8",
+    "original": "鉱石運搬の補助員募集",
+    "translation": "鉱石運搬の補助員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.158.8",
+    "original": "坑道のマッピング指揮",
+    "translation": "坑道のマッピング指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.159.8",
+    "original": "一緒に鉱石掘らないか？",
+    "translation": "一緒に鉱石掘らないか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.160.8",
+    "original": "鉱山内の見回り作業員募集",
+    "translation": "鉱山内の見回り作業員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.161.8",
+    "original": "大きな岩壁を破壊してくれ",
+    "translation": "大きな岩壁を破壊してくれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.162.8",
+    "original": "ドワーム族との交流促進",
+    "translation": "ドワーム族との交流促進",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.163.8",
+    "original": "灯台のマップの更新作戦",
+    "translation": "灯台のマップの更新作戦",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.165.8",
+    "original": "残党エネミーの退治作戦",
+    "translation": "残党エネミーの退治作戦",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.167.8",
+    "original": "古代の遺物を発掘しよう",
+    "translation": "古代の遺物を発掘しよう",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.168.8",
+    "original": "イルニエル漁師との交流",
+    "translation": "イルニエル漁師との交流",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.169.8",
+    "original": "調査の指揮官募集",
+    "translation": "調査の指揮官募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.170.8",
+    "original": "邪魔なゴーレムの排除",
+    "translation": "邪魔なゴーレムの排除",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.171.8",
+    "original": "壊れたゴーレムの修理技術者",
+    "translation": "壊れたゴーレムの修理技術者",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.172.8",
+    "original": "ゴーレムの回復してくれる人",
+    "translation": "ゴーレムの回復してくれる人",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.173.8",
+    "original": "医者はいませんか！",
+    "translation": "医者はいませんか！",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.174.8",
+    "original": "隊のリーダー募集中",
+    "translation": "隊のリーダー募集中",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.175.8",
+    "original": "一緒にならずものを鎮圧しよ",
+    "translation": "一緒にならずものを鎮圧しよ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.176.8",
+    "original": "魔術品の鑑定できる人",
+    "translation": "魔術品の鑑定できる人",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.177.8",
+    "original": "品物の解呪担当募集",
+    "translation": "品物の解呪担当募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.178.8",
+    "original": "本探し(語学堪能者は尚可)",
+    "translation": "本探し(語学堪能者は尚可)",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.180.8",
+    "original": "探索者の護衛募集",
+    "translation": "探索者の護衛募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.182.8",
+    "original": "図書館の見取り図作成",
+    "translation": "図書館の見取り図作成",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.184.8",
+    "original": "貴重な書物を借りてきて",
+    "translation": "貴重な書物を借りてきて",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.185.8",
+    "original": "広い図書館で本探し",
+    "translation": "広い図書館で本探し",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.186.8",
+    "original": "腕っぷしの強い人いませんか",
+    "translation": "腕っぷしの強い人いませんか",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.187.8",
+    "original": "魔女の秘密に興味はないか？",
+    "translation": "魔女の秘密に興味はないか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.188.8",
+    "original": "本の呪いを解除して",
+    "translation": "本の呪いを解除して",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.189.8",
+    "original": "船内での作業員を指導して",
+    "translation": "船内での作業員を指導して",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.190.8",
+    "original": "体力に自信のある方はぜひ！",
+    "translation": "体力に自信のある方はぜひ！",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.191.8",
+    "original": "学院の卒業者はいないか？",
+    "translation": "学院の卒業者はいないか？",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.192.8",
+    "original": "研究助手の募集",
+    "translation": "研究助手の募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.193.8",
+    "original": "危険な邪教の神殿探索",
+    "translation": "危険な邪教の神殿探索",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.195.8",
+    "original": "邪教の犬をどうにかしてくれ",
+    "translation": "邪教の犬をどうにかしてくれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.197.8",
+    "original": "黒神殿の謎を解き明かそう",
+    "translation": "黒神殿の謎を解き明かそう",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.199.8",
+    "original": "呪いを解除できる人募集",
+    "translation": "呪いを解除できる人募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.201.8",
+    "original": "神殿発掘メンバーを指揮して",
+    "translation": "神殿発掘メンバーを指揮して",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.202.8",
+    "original": "邪教徒の掃討作戦参加者募集",
+    "translation": "邪教徒の掃討作戦参加者募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.203.8",
+    "original": "謎の遺物を持ち帰って下さい",
+    "translation": "謎の遺物を持ち帰って下さい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.204.8",
+    "original": "アーティファクトの解呪業務",
+    "translation": "アーティファクトの解呪業務",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.205.8",
+    "original": "巡礼者たちの取りまとめ役",
+    "translation": "巡礼者たちの取りまとめ役",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.206.8",
+    "original": "聖なる遺跡の調査員募集",
+    "translation": "聖なる遺跡の調査員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.207.8",
+    "original": "天使の痕跡を持ち帰ってくれ",
+    "translation": "天使の痕跡を持ち帰ってくれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.208.8",
+    "original": "危険地帯の探索者募集",
+    "translation": "危険地帯の探索者募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.210.8",
+    "original": "ゴーレムにも負けない盾役",
+    "translation": "ゴーレムにも負けない盾役",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.212.8",
+    "original": "暑すぎる誰か冷やしてくれ",
+    "translation": "暑すぎる誰か冷やしてくれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.214.8",
+    "original": "救護所の運営員募集",
+    "translation": "救護所の運営員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.216.8",
+    "original": "火山地帯の探索者の指揮",
+    "translation": "火山地帯の探索者の指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.218.8",
+    "original": "護衛隊のタンク募集",
+    "translation": "護衛隊のタンク募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.219.8",
+    "original": "熱を緩和できる魔術使い求む",
+    "translation": "熱を緩和できる魔術使い求む",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.220.8",
+    "original": "腕利きヒーラーいませんか",
+    "translation": "腕利きヒーラーいませんか",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.221.8",
+    "original": "ブラックボックスの解析",
+    "translation": "ブラックボックスの解析",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.222.8",
+    "original": "魔術のスペシャリスト募集",
+    "translation": "魔術のスペシャリスト募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.223.8",
+    "original": "黄金を持ち帰れ！",
+    "translation": "黄金を持ち帰れ！",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.225.8",
+    "original": "砂漠のバトル要員募集",
+    "translation": "砂漠のバトル要員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.227.8",
+    "original": "発掘者を指導して欲しい",
+    "translation": "発掘者を指導して欲しい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.229.8",
+    "original": "呪われた遺物の回収指揮",
+    "translation": "呪われた遺物の回収指揮",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.231.8",
+    "original": "古代のトラップが痛すぎる",
+    "translation": "古代のトラップが痛すぎる",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.233.8",
+    "original": "黄金を根こそぎ取ってきて",
+    "translation": "黄金を根こそぎ取ってきて",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.235.8",
+    "original": "遺物の仕分け作業できる方",
+    "translation": "遺物の仕分け作業できる方",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.236.8",
+    "original": "呪いの遺物を浄化して",
+    "translation": "呪いの遺物を浄化して",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.237.8",
+    "original": "重傷者の対応ができる人募集",
+    "translation": "重傷者の対応ができる人募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.238.8",
+    "original": "ロマン溢れる地域の探索",
+    "translation": "ロマン溢れる地域の探索",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.240.8",
+    "original": "最強の盾役よ来たれ",
+    "translation": "最強の盾役よ来たれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.242.8",
+    "original": "沈んだ遺跡の調査員募集",
+    "translation": "沈んだ遺跡の調査員募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.244.8",
+    "original": "エリート聖職者の募集",
+    "translation": "エリート聖職者の募集",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.246.8",
+    "original": "無敵の護衛員を集めて",
+    "translation": "無敵の護衛員を集めて",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.248.8",
+    "original": "絶対にやられない盾になれ！",
+    "translation": "絶対にやられない盾になれ！",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.250.8",
+    "original": "究極の魔術師に来てほしい！",
+    "translation": "究極の魔術師に来てほしい！",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.252.8",
+    "original": "探索隊の生命線になってくれ",
+    "translation": "探索隊の生命線になってくれ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonHakenInfo_11.txt.428.8",
+    "original": "貴重な素材を狙いたい",
+    "translation": "貴重な素材を狙いたい",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.0.8",
+    "original": "0",
+    "translation": "0",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.1.9",
+    "original": "プロ～古墳2",
+    "translation": "プロ～古墳2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.2.8",
+    "original": "1",
+    "translation": "1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.3.8",
+    "original": "2",
+    "translation": "2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.3.9",
+    "original": "森林～鉱山",
+    "translation": "森林～鉱山",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.4.8",
+    "original": "3",
+    "translation": "3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.4.9",
+    "original": "灯台",
+    "translation": "灯台",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.5.8",
+    "original": "4",
+    "translation": "4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.5.9",
+    "original": "屋敷",
+    "translation": "屋敷",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.6.8",
+    "original": "5",
+    "translation": "5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.6.9",
+    "original": "図書",
+    "translation": "図書",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.7.8",
+    "original": "6",
+    "translation": "6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.7.9",
+    "original": "船団",
+    "translation": "船団",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.8.8",
+    "original": "7",
+    "translation": "7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.8.9",
+    "original": "天空～黒神",
+    "translation": "天空～黒神",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.9.8",
+    "original": "8",
+    "translation": "8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.9.9",
+    "original": "火山～平穏",
+    "translation": "火山～平穏",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.10.8",
+    "original": "9",
+    "translation": "9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.10.9",
+    "original": "領主～淫魔1",
+    "translation": "領主～淫魔1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.11.8",
+    "original": "10",
+    "translation": "10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.11.9",
+    "original": "淫魔2～淫魔3",
+    "translation": "淫魔2～淫魔3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.12.8",
+    "original": "11",
+    "translation": "11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.12.9",
+    "original": "魔魔～要塞",
+    "translation": "魔魔～要塞",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.13.8",
+    "original": "12",
+    "translation": "12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.13.9",
+    "original": "死星",
+    "translation": "死星",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.14.8",
+    "original": "13",
+    "translation": "13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.14.9",
+    "original": "エピ",
+    "translation": "エピ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.15.8",
+    "original": "14",
+    "translation": "14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.17.8",
+    "original": "16",
+    "translation": "16",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.18.8",
+    "original": "17",
+    "translation": "17",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.19.8",
+    "original": "18",
+    "translation": "18",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.20.8",
+    "original": "19",
+    "translation": "19",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.21.8",
+    "original": "20",
+    "translation": "20",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.22.8",
+    "original": "21",
+    "translation": "21",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.23.8",
+    "original": "22",
+    "translation": "22",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.24.8",
+    "original": "23",
+    "translation": "23",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.25.8",
+    "original": "24",
+    "translation": "24",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.26.8",
+    "original": "25",
+    "translation": "25",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.27.8",
+    "original": "26",
+    "translation": "26",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.28.8",
+    "original": "27",
+    "translation": "27",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.29.8",
+    "original": "28",
+    "translation": "28",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.30.8",
+    "original": "29",
+    "translation": "29",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.32.8",
+    "original": "31",
+    "translation": "31",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.33.8",
+    "original": "32",
+    "translation": "32",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.34.8",
+    "original": "33",
+    "translation": "33",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.35.8",
+    "original": "34",
+    "translation": "34",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.36.8",
+    "original": "35",
+    "translation": "35",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.37.8",
+    "original": "36",
+    "translation": "36",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.38.8",
+    "original": "37",
+    "translation": "37",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.39.8",
+    "original": "38",
+    "translation": "38",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.40.8",
+    "original": "39",
+    "translation": "39",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.41.8",
+    "original": "40",
+    "translation": "40",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.42.8",
+    "original": "41",
+    "translation": "41",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.43.8",
+    "original": "42",
+    "translation": "42",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.44.8",
+    "original": "43",
+    "translation": "43",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.45.8",
+    "original": "44",
+    "translation": "44",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.47.8",
+    "original": "46",
+    "translation": "46",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.48.8",
+    "original": "47",
+    "translation": "47",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.49.8",
+    "original": "48",
+    "translation": "48",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.50.8",
+    "original": "49",
+    "translation": "49",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.51.8",
+    "original": "50",
+    "translation": "50",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.52.8",
+    "original": "51",
+    "translation": "51",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.53.8",
+    "original": "52",
+    "translation": "52",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.54.8",
+    "original": "53",
+    "translation": "53",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.55.8",
+    "original": "54",
+    "translation": "54",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.56.8",
+    "original": "55",
+    "translation": "55",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.57.8",
+    "original": "56",
+    "translation": "56",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.58.8",
+    "original": "57",
+    "translation": "57",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.59.8",
+    "original": "58",
+    "translation": "58",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.60.8",
+    "original": "59",
+    "translation": "59",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.62.8",
+    "original": "61",
+    "translation": "61",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.63.8",
+    "original": "62",
+    "translation": "62",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.64.8",
+    "original": "63",
+    "translation": "63",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.65.8",
+    "original": "64",
+    "translation": "64",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.66.8",
+    "original": "65",
+    "translation": "65",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.67.8",
+    "original": "66",
+    "translation": "66",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.68.8",
+    "original": "67",
+    "translation": "67",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.69.8",
+    "original": "68",
+    "translation": "68",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.70.8",
+    "original": "69",
+    "translation": "69",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.71.8",
+    "original": "70",
+    "translation": "70",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.72.8",
+    "original": "71",
+    "translation": "71",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.73.8",
+    "original": "72",
+    "translation": "72",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.74.8",
+    "original": "73",
+    "translation": "73",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.75.8",
+    "original": "74",
+    "translation": "74",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.77.8",
+    "original": "76",
+    "translation": "76",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.78.8",
+    "original": "77",
+    "translation": "77",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.79.8",
+    "original": "78",
+    "translation": "78",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.80.8",
+    "original": "79",
+    "translation": "79",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.81.8",
+    "original": "80",
+    "translation": "80",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.82.8",
+    "original": "81",
+    "translation": "81",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.83.8",
+    "original": "82",
+    "translation": "82",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.84.8",
+    "original": "83",
+    "translation": "83",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.85.8",
+    "original": "84",
+    "translation": "84",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.86.8",
+    "original": "85",
+    "translation": "85",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.87.8",
+    "original": "86",
+    "translation": "86",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.88.8",
+    "original": "87",
+    "translation": "87",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.89.8",
+    "original": "88",
+    "translation": "88",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.90.8",
+    "original": "89",
+    "translation": "89",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.92.8",
+    "original": "91",
+    "translation": "91",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.93.8",
+    "original": "92",
+    "translation": "92",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.94.8",
+    "original": "93",
+    "translation": "93",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.95.8",
+    "original": "94",
+    "translation": "94",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.96.8",
+    "original": "95",
+    "translation": "95",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.97.8",
+    "original": "96",
+    "translation": "96",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.98.8",
+    "original": "97",
+    "translation": "97",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.99.8",
+    "original": "98",
+    "translation": "98",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.100.8",
+    "original": "99",
+    "translation": "99",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.101.8",
+    "original": "100",
+    "translation": "100",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.102.8",
+    "original": "101",
+    "translation": "101",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.103.8",
+    "original": "102",
+    "translation": "102",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.104.8",
+    "original": "103",
+    "translation": "103",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.105.8",
+    "original": "104",
+    "translation": "104",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.107.8",
+    "original": "106",
+    "translation": "106",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.108.8",
+    "original": "107",
+    "translation": "107",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.109.8",
+    "original": "108",
+    "translation": "108",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.110.8",
+    "original": "109",
+    "translation": "109",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.111.8",
+    "original": "110",
+    "translation": "110",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.112.8",
+    "original": "111",
+    "translation": "111",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.113.8",
+    "original": "112",
+    "translation": "112",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.114.8",
+    "original": "113",
+    "translation": "113",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.115.8",
+    "original": "114",
+    "translation": "114",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.116.8",
+    "original": "115",
+    "translation": "115",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.117.8",
+    "original": "116",
+    "translation": "116",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.118.8",
+    "original": "117",
+    "translation": "117",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.119.8",
+    "original": "118",
+    "translation": "118",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.120.8",
+    "original": "119",
+    "translation": "119",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.122.8",
+    "original": "121",
+    "translation": "121",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.123.8",
+    "original": "122",
+    "translation": "122",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.124.8",
+    "original": "123",
+    "translation": "123",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.125.8",
+    "original": "124",
+    "translation": "124",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.126.8",
+    "original": "125",
+    "translation": "125",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.127.8",
+    "original": "126",
+    "translation": "126",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.128.8",
+    "original": "127",
+    "translation": "127",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.129.8",
+    "original": "128",
+    "translation": "128",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.130.8",
+    "original": "129",
+    "translation": "129",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.131.8",
+    "original": "130",
+    "translation": "130",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.132.8",
+    "original": "131",
+    "translation": "131",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.133.8",
+    "original": "132",
+    "translation": "132",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.134.8",
+    "original": "133",
+    "translation": "133",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.135.8",
+    "original": "134",
+    "translation": "134",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.137.8",
+    "original": "136",
+    "translation": "136",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.138.8",
+    "original": "137",
+    "translation": "137",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.139.8",
+    "original": "138",
+    "translation": "138",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.140.8",
+    "original": "139",
+    "translation": "139",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.141.8",
+    "original": "140",
+    "translation": "140",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.142.8",
+    "original": "141",
+    "translation": "141",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.143.8",
+    "original": "142",
+    "translation": "142",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.144.8",
+    "original": "143",
+    "translation": "143",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.145.8",
+    "original": "144",
+    "translation": "144",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.146.8",
+    "original": "145",
+    "translation": "145",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.147.8",
+    "original": "146",
+    "translation": "146",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.148.8",
+    "original": "147",
+    "translation": "147",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.149.8",
+    "original": "148",
+    "translation": "148",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.150.8",
+    "original": "149",
+    "translation": "149",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.152.8",
+    "original": "151",
+    "translation": "151",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.153.8",
+    "original": "152",
+    "translation": "152",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.154.8",
+    "original": "153",
+    "translation": "153",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.155.8",
+    "original": "154",
+    "translation": "154",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.156.8",
+    "original": "155",
+    "translation": "155",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.157.8",
+    "original": "156",
+    "translation": "156",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.158.8",
+    "original": "157",
+    "translation": "157",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.159.8",
+    "original": "158",
+    "translation": "158",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.160.8",
+    "original": "159",
+    "translation": "159",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.161.8",
+    "original": "160",
+    "translation": "160",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.162.8",
+    "original": "161",
+    "translation": "161",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.163.8",
+    "original": "162",
+    "translation": "162",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.164.8",
+    "original": "163",
+    "translation": "163",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.165.8",
+    "original": "164",
+    "translation": "164",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.167.8",
+    "original": "166",
+    "translation": "166",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.168.8",
+    "original": "167",
+    "translation": "167",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.169.8",
+    "original": "168",
+    "translation": "168",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.170.8",
+    "original": "169",
+    "translation": "169",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.171.8",
+    "original": "170",
+    "translation": "170",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.172.8",
+    "original": "171",
+    "translation": "171",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.173.8",
+    "original": "172",
+    "translation": "172",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.174.8",
+    "original": "173",
+    "translation": "173",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.175.8",
+    "original": "174",
+    "translation": "174",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.176.8",
+    "original": "175",
+    "translation": "175",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.177.8",
+    "original": "176",
+    "translation": "176",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.178.8",
+    "original": "177",
+    "translation": "177",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.179.8",
+    "original": "178",
+    "translation": "178",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.180.8",
+    "original": "179",
+    "translation": "179",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.182.8",
+    "original": "181",
+    "translation": "181",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.183.8",
+    "original": "182",
+    "translation": "182",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.184.8",
+    "original": "183",
+    "translation": "183",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.185.8",
+    "original": "184",
+    "translation": "184",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.186.8",
+    "original": "185",
+    "translation": "185",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.187.8",
+    "original": "186",
+    "translation": "186",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.188.8",
+    "original": "187",
+    "translation": "187",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.189.8",
+    "original": "188",
+    "translation": "188",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.190.8",
+    "original": "189",
+    "translation": "189",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.191.8",
+    "original": "190",
+    "translation": "190",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.192.8",
+    "original": "191",
+    "translation": "191",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.193.8",
+    "original": "192",
+    "translation": "192",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.194.8",
+    "original": "193",
+    "translation": "193",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.195.8",
+    "original": "194",
+    "translation": "194",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.197.8",
+    "original": "196",
+    "translation": "196",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.198.8",
+    "original": "197",
+    "translation": "197",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.199.8",
+    "original": "198",
+    "translation": "198",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.200.8",
+    "original": "199",
+    "translation": "199",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.201.8",
+    "original": "200",
+    "translation": "200",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.202.8",
+    "original": "201",
+    "translation": "201",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.203.8",
+    "original": "202",
+    "translation": "202",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.204.8",
+    "original": "203",
+    "translation": "203",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.205.8",
+    "original": "204",
+    "translation": "204",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.206.8",
+    "original": "205",
+    "translation": "205",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.207.8",
+    "original": "206",
+    "translation": "206",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.208.8",
+    "original": "207",
+    "translation": "207",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.209.8",
+    "original": "208",
+    "translation": "208",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.210.8",
+    "original": "209",
+    "translation": "209",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.212.8",
+    "original": "211",
+    "translation": "211",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.213.8",
+    "original": "212",
+    "translation": "212",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.214.8",
+    "original": "213",
+    "translation": "213",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.215.8",
+    "original": "214",
+    "translation": "214",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.216.8",
+    "original": "215",
+    "translation": "215",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.217.8",
+    "original": "216",
+    "translation": "216",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.218.8",
+    "original": "217",
+    "translation": "217",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.219.8",
+    "original": "218",
+    "translation": "218",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.220.8",
+    "original": "219",
+    "translation": "219",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.221.8",
+    "original": "220",
+    "translation": "220",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.222.8",
+    "original": "221",
+    "translation": "221",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.223.8",
+    "original": "222",
+    "translation": "222",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.224.8",
+    "original": "223",
+    "translation": "223",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.225.8",
+    "original": "224",
+    "translation": "224",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon_11.txt.1.8",
+    "original": "マテリナ素材収集場行きのクエストを発行し、冒険者を向かわせる。素材量は豊富であり、魔獣もそれほど強くない。最初のダンジョンとしてはうってつけだ。資金を投入することで資源採集場所として成長する。",
+    "translation": "マテリナ素材収集場行きのクエストを発行し、冒険者を向かわせる。素材量は豊富であり、魔獣もそれほど強くない。最初のダンジョンとしてはうってつけだ。資金を投入することで資源採集場所として成長する。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon_11.txt.1.9",
+    "original": "マテリナ素材収集場",
+    "translation": "マテリナ素材収集場",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon_11.txt.2.8",
+    "original": "一般冒険者向けに、メテトス百穴古墳行きのクエストを発行する。危険な魔獣は少ないとされるが、メテトスは悪しき者によって荒らされており、多数のワナが配置されている。資金を投入して開発力を高めたい。",
+    "translation": "一般冒険者向けに、メテトス百穴古墳行きのクエストを発行する。危険な魔獣は少ないとされるが、メテトスは悪しき者によって荒らされており、多数のワナが配置されている。資金を投入して開発力を高めたい。",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeon_11.txt.2.9",
+    "original": "メテトス百穴古墳",
+    "translation": "メテトス百穴古墳",
+    "context": null
+  }
+]

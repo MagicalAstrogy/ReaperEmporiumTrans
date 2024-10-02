@@ -1,0 +1,152 @@
+[
+  {
+    "key": "db_MessagePartnerMission_11.txt.0.9",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.1.9",
+    "original": "<unit>とH部屋で",
+    "translation": "<unit>とH部屋で",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.2.9",
+    "original": "<unit>をメイン編成して",
+    "translation": "<unit>をメイン編成して",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.4.9",
+    "original": "<dungeon>で",
+    "translation": "<dungeon>で",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.7.9",
+    "original": "ショップで",
+    "translation": "ショップで",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.101.9",
+    "original": "【<num>ゴールド】を稼ぐ",
+    "translation": "【<num>ゴールド】を稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.102.9",
+    "original": "【<num>ゴールド】を錬金で稼ぐ",
+    "translation": "【<num>ゴールド】を錬金で稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.103.9",
+    "original": "【<num>ゴールド】を料理で稼ぐ",
+    "translation": "【<num>ゴールド】を料理で稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.104.9",
+    "original": "【<num>ゴールド】を鍛冶で稼ぐ",
+    "translation": "【<num>ゴールド】を鍛冶で稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.105.9",
+    "original": "【<num>ゴールド】を娯楽で稼ぐ",
+    "translation": "【<num>ゴールド】を娯楽で稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.106.9",
+    "original": "新メニューを【<num>回】開発する",
+    "translation": "新メニューを【<num>回】開発する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.107.9",
+    "original": "施設を【<num>回】改良する",
+    "translation": "施設を【<num>回】改良する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.108.9",
+    "original": "スタッフを【<num>回】ランクアップする",
+    "translation": "スタッフを【<num>回】ランクアップする",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.109.9",
+    "original": "【<num>ゴールド】を搾精で稼ぐ",
+    "translation": "【<num>ゴールド】を搾精で稼ぐ",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.110.9",
+    "original": "【<num>回】搾精エッチする",
+    "translation": "【<num>回】搾精エッチする",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.111.9",
+    "original": "一緒に倉庫の整理をする",
+    "translation": "一緒に倉庫の整理をする",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.121.9",
+    "original": "トレジャーを【<num>回】獲得する",
+    "translation": "トレジャーを【<num>回】獲得する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.122.9",
+    "original": "戦闘DPを【<num>点】獲得する",
+    "translation": "戦闘DPを【<num>点】獲得する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.123.9",
+    "original": "調査DPを【<num>点】獲得する",
+    "translation": "調査DPを【<num>点】獲得する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.124.9",
+    "original": "稀少DPを【<num>点】獲得する",
+    "translation": "稀少DPを【<num>点】獲得する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.125.9",
+    "original": "資源DPを【<num>点】獲得する",
+    "translation": "資源DPを【<num>点】獲得する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.126.9",
+    "original": "エネミーを【<num>回】撃破する",
+    "translation": "エネミーを【<num>回】撃破する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.127.9",
+    "original": "行方不明の冒険者を救出する",
+    "translation": "行方不明の冒険者を救出する",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.161.9",
+    "original": "派遣を【<num>回】成功させる",
+    "translation": "派遣を【<num>回】成功させる",
+    "context": null
+  },
+  {
+    "key": "db_MessagePartnerMission_11.txt.162.9",
+    "original": "派遣を【<num>回】実行する",
+    "translation": "派遣を【<num>回】実行する",
+    "context": null
+  }
+]

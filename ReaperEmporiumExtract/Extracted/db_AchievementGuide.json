@@ -1,0 +1,782 @@
+[
+  {
+    "key": "db_AchievementGuide_11.txt.0.7",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.1.7",
+    "original": "『商品』を実行する",
+    "translation": "『商品』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.2.7",
+    "original": "いずれかの『商品』を開発してみる",
+    "translation": "いずれかの『商品』を開発してみる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.3.7",
+    "original": "『店員』を実行する",
+    "translation": "『店員』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.4.7",
+    "original": "『施設』を実行する",
+    "translation": "『施設』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.5.7",
+    "original": "『宿屋の事務所』を建築する",
+    "translation": "『宿屋の事務所』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.6.7",
+    "original": "『休憩ルーム』を建築する",
+    "translation": "『休憩ルーム』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.7.7",
+    "original": "『調理工房』を建築する",
+    "translation": "『調理工房』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.8.7",
+    "original": "『レストラン』を建築する",
+    "translation": "『レストラン』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.9.7",
+    "original": "『探索』を実行する",
+    "translation": "『探索』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.10.7",
+    "original": "『死神メニュー』をオープンする",
+    "translation": "『死神メニュー』をオープンする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.11.7",
+    "original": "『施設改良』を実行する",
+    "translation": "『施設改良』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.12.7",
+    "original": "『投資』を実行する",
+    "translation": "『投資』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.13.7",
+    "original": "『H部屋』を実行する",
+    "translation": "『H部屋』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.14.7",
+    "original": "ダンジョン内はWASDキーで移動する",
+    "translation": "ダンジョン内はWASDキーで移動する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.15.7",
+    "original": "ダンジョン内で右クリック＋移動でダッシュ",
+    "translation": "ダンジョン内で右クリック＋移動でダッシュ",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.16.7",
+    "original": "『死神メニュー』から『死神研修』を開く",
+    "translation": "『死神メニュー』から『死神研修』を開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.17.7",
+    "original": "『死神メニュー』から『能力開発』を開く",
+    "translation": "『死神メニュー』から『能力開発』を開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.18.7",
+    "original": "次のフロアに移動する",
+    "translation": "次のフロアに移動する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.19.7",
+    "original": "新人採用をクリックしてメンバーを補充する",
+    "translation": "新人採用をクリックしてメンバーを補充する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.20.7",
+    "original": "『死神メニュー』から『運命改変』を開く",
+    "translation": "『死神メニュー』から『運命改変』を開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.21.7",
+    "original": "『投資』の『事業投資』を開く",
+    "translation": "『投資』の『事業投資』を開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.22.7",
+    "original": "『マテリナ素材収集場』の2Fに到達する",
+    "translation": "『マテリナ素材収集場』の2Fに到達する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.23.7",
+    "original": "『投資メニュー』から『資源投資』を開く",
+    "translation": "『投資メニュー』から『資源投資』を開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.24.7",
+    "original": "『派遣』を実行する",
+    "translation": "『派遣』を実行する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.25.7",
+    "original": "『搾精ルーム』を建築する",
+    "translation": "『搾精ルーム』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.26.7",
+    "original": "体験版はここまでです",
+    "translation": "体験版はここまでです",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.27.7",
+    "original": "WASDキーでマップの視点を移動できます",
+    "translation": "WASDキーでマップの視点を移動できます",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.28.7",
+    "original": "スクロールボタンでマップの拡大率を変更できます",
+    "translation": "スクロールボタンでマップの拡大率を変更できます",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.29.7",
+    "original": "『鍛冶工房』を建築する",
+    "translation": "『鍛冶工房』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.30.7",
+    "original": "『錬金工房』を建築する",
+    "translation": "『錬金工房』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.31.7",
+    "original": "『魔女っ娘ルーム』を建築する",
+    "translation": "『魔女っ娘ルーム』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.32.7",
+    "original": "『豪華な財宝部屋』を建築する",
+    "translation": "『豪華な財宝部屋』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.33.7",
+    "original": "『礼拝堂』を建築する",
+    "translation": "『礼拝堂』を建築する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.34.7",
+    "original": "『魔女達のお茶会』の投資Lvを1以上にする",
+    "translation": "『魔女達のお茶会』の投資Lvを1以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.35.7",
+    "original": "『サージ貿易管理局』の投資Lvを4以上にする",
+    "translation": "『サージ貿易管理局』の投資Lvを4以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.36.7",
+    "original": "『ソルシア学院』の投資Lvを8以上にする",
+    "translation": "『ソルシア学院』の投資Lvを8以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.37.7",
+    "original": "『王立騎士団』の投資Lvを10以上にする",
+    "translation": "『王立騎士団』の投資Lvを10以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.38.7",
+    "original": "『ヒエペリオ教会』の投資Lvを8以上にする",
+    "translation": "『ヒエペリオ教会』の投資Lvを8以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.39.7",
+    "original": "『ヒエペリオ教会』の投資Lvを9以上にする",
+    "translation": "『ヒエペリオ教会』の投資Lvを9以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.40.7",
+    "original": "ゼカリウス自警団に事業投資して援護する",
+    "translation": "ゼカリウス自警団に事業投資して援護する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.41.7",
+    "original": "『ゼカリウス自警団』の投資Lvを6以上にする",
+    "translation": "『ゼカリウス自警団』の投資Lvを6以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.42.7",
+    "original": "『ゼカリウス自警団』の投資Lvを8以上にする",
+    "translation": "『ゼカリウス自警団』の投資Lvを8以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.43.7",
+    "original": "『ロオン遺跡調査団』の投資Lvを2以上にする",
+    "translation": "『ロオン遺跡調査団』の投資Lvを2以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.44.7",
+    "original": "『ロオン遺跡調査団』の投資Lvを4以上にする",
+    "translation": "『ロオン遺跡調査団』の投資Lvを4以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.45.7",
+    "original": "『盗賊ギルド』の投資Lvを6以上にする",
+    "translation": "『盗賊ギルド』の投資Lvを6以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.46.7",
+    "original": "『アルダルク農業組合』の投資Lvを1以上にする",
+    "translation": "『アルダルク農業組合』の投資Lvを1以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.47.7",
+    "original": "『緑の月』に渡り、世界を救う",
+    "translation": "『緑の月』に渡り、世界を救う",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.48.7",
+    "original": "『魔界要塞キングホエール』を攻略する",
+    "translation": "『魔界要塞キングホエール』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.49.7",
+    "original": "『メテトス百穴古墳』を攻略する",
+    "translation": "『メテトス百穴古墳』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.50.7",
+    "original": "『フレスミス森林道』を攻略する",
+    "translation": "『フレスミス森林道』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.51.7",
+    "original": "『ドルワミール鉱山』を攻略する",
+    "translation": "『ドルワミール鉱山』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.52.7",
+    "original": "『イルニエル大灯台』を攻略する",
+    "translation": "『イルニエル大灯台』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.53.7",
+    "original": "『地方領主ゼルカの屋敷』を攻略する",
+    "translation": "『地方領主ゼルカの屋敷』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.54.7",
+    "original": "『ゼカリウス地下図書館』を攻略する",
+    "translation": "『ゼカリウス地下図書館』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.55.7",
+    "original": "『ソルシア魔導船団』を攻略する",
+    "translation": "『ソルシア魔導船団』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.56.7",
+    "original": "『コノスパ天空遺跡』を攻略する",
+    "translation": "『コノスパ天空遺跡』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.57.7",
+    "original": "『ダムブナック黒神殿』を攻略する",
+    "translation": "『ダムブナック黒神殿』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.58.7",
+    "original": "『ボルケミア地下火山』を攻略する",
+    "translation": "『ボルケミア地下火山』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.59.7",
+    "original": "『災厄制御機関カストロイア』を攻略する",
+    "translation": "『災厄制御機関カストロイア』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.60.7",
+    "original": "『詐欺グループの違法船』を攻略する",
+    "translation": "『詐欺グループの違法船』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.61.7",
+    "original": "『黄金の都ゴルドヴァーナ』を攻略する",
+    "translation": "『黄金の都ゴルドヴァーナ』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.62.7",
+    "original": "『フリュジットの氷獄迷宮』を攻略する",
+    "translation": "『フリュジットの氷獄迷宮』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.63.7",
+    "original": "『旧アルダルク大地主の廃村』を攻略する",
+    "translation": "『旧アルダルク大地主の廃村』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.64.7",
+    "original": "『シェルフィの淫魔領域』を攻略する",
+    "translation": "『シェルフィの淫魔領域』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.65.7",
+    "original": "『ノーザリア軍艦』を攻略する",
+    "translation": "『ノーザリア軍艦』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.66.7",
+    "original": "『魔の島』を攻略する",
+    "translation": "『魔の島』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.67.7",
+    "original": "『海底都市ディープゼカル』を攻略する",
+    "translation": "『海底都市ディープゼカル』を攻略する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.68.7",
+    "original": "『海竜の腹中』から脱出する",
+    "translation": "『海竜の腹中』から脱出する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.69.7",
+    "original": "『運命改変』でオーレリアをなんとかする",
+    "translation": "『運命改変』でオーレリアをなんとかする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.70.7",
+    "original": "『運命改変』でポンタを蘇生してみる",
+    "translation": "『運命改変』でポンタを蘇生してみる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.71.7",
+    "original": "皆との『縁』を取り戻す",
+    "translation": "皆との『縁』を取り戻す",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.72.7",
+    "original": "アンジュをH部屋に配置してエッチする",
+    "translation": "アンジュをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.73.7",
+    "original": "シイネをH部屋に配置してエッチする",
+    "translation": "シイネをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.74.7",
+    "original": "ウルフィナをH部屋に配置してエッチする",
+    "translation": "ウルフィナをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.75.7",
+    "original": "カリストをH部屋に配置してエッチする",
+    "translation": "カリストをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.76.7",
+    "original": "マリーゼルをH部屋に配置してエッチする",
+    "translation": "マリーゼルをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.77.7",
+    "original": "ファシィをH部屋に配置してエッチする",
+    "translation": "ファシィをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.78.7",
+    "original": "誰かをH部屋に配置してエッチしないと……",
+    "translation": "誰かをH部屋に配置してエッチしないと……",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.79.7",
+    "original": "ハーヴェスタをH部屋に配置してエッチする",
+    "translation": "ハーヴェスタをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.80.7",
+    "original": "シェルフィとエッチすると……？",
+    "translation": "シェルフィとエッチすると……？",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.81.7",
+    "original": "キャトリナをH部屋に配置してエッチする",
+    "translation": "キャトリナをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.82.7",
+    "original": "ミルテをH部屋に配置してエッチする",
+    "translation": "ミルテをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.83.7",
+    "original": "オーレリアとエッチするタイミングを待つ",
+    "translation": "オーレリアとエッチするタイミングを待つ",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.84.7",
+    "original": "ルーシェをH部屋に配置してエッチする",
+    "translation": "ルーシェをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.85.7",
+    "original": "アーマニーをH部屋に配置してエッチする",
+    "translation": "アーマニーをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.86.7",
+    "original": "レミルとエッチをする……？",
+    "translation": "レミルとエッチをする……？",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.87.7",
+    "original": "すべての禁呪を発見する",
+    "translation": "すべての禁呪を発見する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.88.7",
+    "original": "運命改変を2回以上行なう",
+    "translation": "運命改変を2回以上行なう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.89.7",
+    "original": "ユーステルとの縁を深める",
+    "translation": "ユーステルとの縁を深める",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.90.7",
+    "original": "ユーステルと一緒に仕事をして好感度を高める",
+    "translation": "ユーステルと一緒に仕事をして好感度を高める",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.91.7",
+    "original": "『魔女達のお茶会』の投資Lvを3以上にする",
+    "translation": "『魔女達のお茶会』の投資Lvを3以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.92.7",
+    "original": "『盗賊ギルド』の投資Lvを1以上にする",
+    "translation": "『盗賊ギルド』の投資Lvを1以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.93.7",
+    "original": "『北方防衛要塞フリズ』への投資Lvを5に上げないと…？",
+    "translation": "『北方防衛要塞フリズ』への投資Lvを5に上げないと…？",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.94.7",
+    "original": "『北方防衛要塞フリズ』への投資Lvを7に上げないと…？",
+    "translation": "『北方防衛要塞フリズ』への投資Lvを7に上げないと…？",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.95.7",
+    "original": "『北方防衛要塞フリズ』への投資Lvを9に上げないと…？",
+    "translation": "『北方防衛要塞フリズ』への投資Lvを9に上げないと…？",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.96.7",
+    "original": "『ロオン遺跡調査団』の投資Lvを6以上にする",
+    "translation": "『ロオン遺跡調査団』の投資Lvを6以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.97.7",
+    "original": "『ゼカリウス地下図書館』で禁書を探す",
+    "translation": "『ゼカリウス地下図書館』で禁書を探す",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.98.7",
+    "original": "ミルテをバトルに出して、魔術を使わせ続ける",
+    "translation": "ミルテをバトルに出して、魔術を使わせ続ける",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.99.7",
+    "original": "すべてのサブヒロインを『運命改変』で救う",
+    "translation": "すべてのサブヒロインを『運命改変』で救う",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.100.7",
+    "original": "すべてのサブヒロインをスタッフにする",
+    "translation": "すべてのサブヒロインをスタッフにする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.101.7",
+    "original": "『王立騎士団』に圧力を掛けて黙らせる",
+    "translation": "『王立騎士団』に圧力を掛けて黙らせる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.102.7",
+    "original": "『ルーラ・ブロッサ娼会』の投資Lvを4以上にする",
+    "translation": "『ルーラ・ブロッサ娼会』の投資Lvを4以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.103.7",
+    "original": "『ルーラ・ブロッサ娼会』の投資Lvを7以上にする",
+    "translation": "『ルーラ・ブロッサ娼会』の投資Lvを7以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.104.7",
+    "original": "『ルーラ・ブロッサ娼会』の投資Lvを10以上にする",
+    "translation": "『ルーラ・ブロッサ娼会』の投資Lvを10以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.105.7",
+    "original": "二人の退魔メイドとえっちしよう",
+    "translation": "二人の退魔メイドとえっちしよう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.106.7",
+    "original": "ツバキのモヤモヤを解消してあげよう",
+    "translation": "ツバキのモヤモヤを解消してあげよう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.107.7",
+    "original": "カリストとオーレリアとの『縁』を取り戻そう",
+    "translation": "カリストとオーレリアとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.108.7",
+    "original": "ネルディーネをH部屋に配置してエッチする",
+    "translation": "ネルディーネをH部屋に配置してエッチする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.109.7",
+    "original": "『すべての組織』の投資Lvを12以上にする",
+    "translation": "『すべての組織』の投資Lvを12以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.110.7",
+    "original": "『組織投資』しながら、自由に店を経営する",
+    "translation": "『組織投資』しながら、自由に店を経営する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.111.7",
+    "original": "『ハーヴェスタ商会』の投資Lvを5以上にする",
+    "translation": "『ハーヴェスタ商会』の投資Lvを5以上にする",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.112.7",
+    "original": "ミルテに火の『禁呪』を習得させる",
+    "translation": "ミルテに火の『禁呪』を習得させる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.113.7",
+    "original": "ミルテに風の『禁呪』を習得させる",
+    "translation": "ミルテに風の『禁呪』を習得させる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.114.7",
+    "original": "ミルテに雷の『禁呪』を習得させる",
+    "translation": "ミルテに雷の『禁呪』を習得させる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.115.7",
+    "original": "ミルテに氷の『禁呪』を習得させる",
+    "translation": "ミルテに氷の『禁呪』を習得させる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.116.7",
+    "original": "ミルテに闇の『禁呪』を習得させる",
+    "translation": "ミルテに闇の『禁呪』を習得させる",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.117.7",
+    "original": "ツバキをH部屋に配置して仲を深める",
+    "translation": "ツバキをH部屋に配置して仲を深める",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.118.7",
+    "original": "すべてのメイドサービスに投資する",
+    "translation": "すべてのメイドサービスに投資する",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.119.7",
+    "original": "キャラアイコンをクリックしてスキルウィンドウを開く",
+    "translation": "キャラアイコンをクリックしてスキルウィンドウを開く",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.120.7",
+    "original": "アンジュとの『縁』を取り戻そう",
+    "translation": "アンジュとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.121.7",
+    "original": "エリオルダとの『縁』を取り戻そう",
+    "translation": "エリオルダとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.122.7",
+    "original": "ファシィとの『縁』を取り戻そう",
+    "translation": "ファシィとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.123.7",
+    "original": "ウルフィナとの『縁』を取り戻そう",
+    "translation": "ウルフィナとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.124.7",
+    "original": "ハーヴェスタとの『縁』を取り戻そう",
+    "translation": "ハーヴェスタとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.125.7",
+    "original": "マリーゼルとの『縁』を取り戻そう",
+    "translation": "マリーゼルとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.126.7",
+    "original": "キャトリナとの『縁』を取り戻そう",
+    "translation": "キャトリナとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.127.7",
+    "original": "ルーシェとの『縁』を取り戻そう",
+    "translation": "ルーシェとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.128.7",
+    "original": "ミルテとの『縁』を取り戻そう",
+    "translation": "ミルテとの『縁』を取り戻そう",
+    "context": null
+  },
+  {
+    "key": "db_AchievementGuide_11.txt.129.7",
+    "original": "『ハーヴェスタ商会』の投資LvをMAXにすると…？",
+    "translation": "『ハーヴェスタ商会』の投資LvをMAXにすると…？",
+    "context": null
+  }
+]

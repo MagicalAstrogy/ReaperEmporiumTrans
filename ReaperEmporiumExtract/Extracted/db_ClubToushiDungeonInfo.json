@@ -1,0 +1,1436 @@
+[
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.0.9",
+    "original": "-",
+    "translation": "-",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.1.9",
+    "original": "プロ～古墳2",
+    "translation": "プロ～古墳2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.1.10",
+    "original": "マテリナ素材収集場Lv1",
+    "translation": "マテリナ素材収集場Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.2.10",
+    "original": "マテリナ素材収集場Lv2",
+    "translation": "マテリナ素材収集場Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.3.9",
+    "original": "森林～鉱山",
+    "translation": "森林～鉱山",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.3.10",
+    "original": "マテリナ素材収集場Lv3",
+    "translation": "マテリナ素材収集場Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.4.9",
+    "original": "灯台",
+    "translation": "灯台",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.4.10",
+    "original": "マテリナ素材収集場Lv4",
+    "translation": "マテリナ素材収集場Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.5.9",
+    "original": "屋敷",
+    "translation": "屋敷",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.5.10",
+    "original": "マテリナ素材収集場Lv5",
+    "translation": "マテリナ素材収集場Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.6.9",
+    "original": "図書",
+    "translation": "図書",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.6.10",
+    "original": "マテリナ素材収集場Lv6",
+    "translation": "マテリナ素材収集場Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.7.9",
+    "original": "船団",
+    "translation": "船団",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.7.10",
+    "original": "マテリナ素材収集場Lv7",
+    "translation": "マテリナ素材収集場Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.8.9",
+    "original": "天空～黒神",
+    "translation": "天空～黒神",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.8.10",
+    "original": "マテリナ素材収集場Lv8",
+    "translation": "マテリナ素材収集場Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.9.9",
+    "original": "火山～平穏",
+    "translation": "火山～平穏",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.9.10",
+    "original": "マテリナ素材収集場Lv9",
+    "translation": "マテリナ素材収集場Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.10.9",
+    "original": "領主～淫魔1",
+    "translation": "領主～淫魔1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.10.10",
+    "original": "マテリナ素材収集場Lv10",
+    "translation": "マテリナ素材収集場Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.11.9",
+    "original": "淫魔2～淫魔3",
+    "translation": "淫魔2～淫魔3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.11.10",
+    "original": "マテリナ素材収集場Lv11",
+    "translation": "マテリナ素材収集場Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.12.9",
+    "original": "魔魔～要塞",
+    "translation": "魔魔～要塞",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.12.10",
+    "original": "マテリナ素材収集場Lv12",
+    "translation": "マテリナ素材収集場Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.13.9",
+    "original": "死星",
+    "translation": "死星",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.13.10",
+    "original": "マテリナ素材収集場Lv13",
+    "translation": "マテリナ素材収集場Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.14.9",
+    "original": "エピ",
+    "translation": "エピ",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.14.10",
+    "original": "マテリナ素材収集場Lv14",
+    "translation": "マテリナ素材収集場Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.15.10",
+    "original": "マテリナ素材収集場Lv15",
+    "translation": "マテリナ素材収集場Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.16.10",
+    "original": "メテトス百穴古墳Lv1",
+    "translation": "メテトス百穴古墳Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.17.10",
+    "original": "メテトス百穴古墳Lv2",
+    "translation": "メテトス百穴古墳Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.18.10",
+    "original": "メテトス百穴古墳Lv3",
+    "translation": "メテトス百穴古墳Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.19.10",
+    "original": "メテトス百穴古墳Lv4",
+    "translation": "メテトス百穴古墳Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.20.10",
+    "original": "メテトス百穴古墳Lv5",
+    "translation": "メテトス百穴古墳Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.21.10",
+    "original": "メテトス百穴古墳Lv6",
+    "translation": "メテトス百穴古墳Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.22.10",
+    "original": "メテトス百穴古墳Lv7",
+    "translation": "メテトス百穴古墳Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.23.10",
+    "original": "メテトス百穴古墳Lv8",
+    "translation": "メテトス百穴古墳Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.24.10",
+    "original": "メテトス百穴古墳Lv9",
+    "translation": "メテトス百穴古墳Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.25.10",
+    "original": "メテトス百穴古墳Lv10",
+    "translation": "メテトス百穴古墳Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.26.10",
+    "original": "メテトス百穴古墳Lv11",
+    "translation": "メテトス百穴古墳Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.27.10",
+    "original": "メテトス百穴古墳Lv12",
+    "translation": "メテトス百穴古墳Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.28.10",
+    "original": "メテトス百穴古墳Lv13",
+    "translation": "メテトス百穴古墳Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.29.10",
+    "original": "メテトス百穴古墳Lv14",
+    "translation": "メテトス百穴古墳Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.30.10",
+    "original": "メテトス百穴古墳Lv15",
+    "translation": "メテトス百穴古墳Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.31.10",
+    "original": "フレスミス森林道Lv1",
+    "translation": "フレスミス森林道Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.32.10",
+    "original": "フレスミス森林道Lv2",
+    "translation": "フレスミス森林道Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.33.10",
+    "original": "フレスミス森林道Lv3",
+    "translation": "フレスミス森林道Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.34.10",
+    "original": "フレスミス森林道Lv4",
+    "translation": "フレスミス森林道Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.35.10",
+    "original": "フレスミス森林道Lv5",
+    "translation": "フレスミス森林道Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.36.10",
+    "original": "フレスミス森林道Lv6",
+    "translation": "フレスミス森林道Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.37.10",
+    "original": "フレスミス森林道Lv7",
+    "translation": "フレスミス森林道Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.38.10",
+    "original": "フレスミス森林道Lv8",
+    "translation": "フレスミス森林道Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.39.10",
+    "original": "フレスミス森林道Lv9",
+    "translation": "フレスミス森林道Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.40.10",
+    "original": "フレスミス森林道Lv10",
+    "translation": "フレスミス森林道Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.41.10",
+    "original": "フレスミス森林道Lv11",
+    "translation": "フレスミス森林道Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.42.10",
+    "original": "フレスミス森林道Lv12",
+    "translation": "フレスミス森林道Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.43.10",
+    "original": "フレスミス森林道Lv13",
+    "translation": "フレスミス森林道Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.44.10",
+    "original": "フレスミス森林道Lv14",
+    "translation": "フレスミス森林道Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.45.10",
+    "original": "フレスミス森林道Lv15",
+    "translation": "フレスミス森林道Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.46.10",
+    "original": "ドルワミール鉱山Lv1",
+    "translation": "ドルワミール鉱山Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.47.10",
+    "original": "ドルワミール鉱山Lv2",
+    "translation": "ドルワミール鉱山Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.48.10",
+    "original": "ドルワミール鉱山Lv3",
+    "translation": "ドルワミール鉱山Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.49.10",
+    "original": "ドルワミール鉱山Lv4",
+    "translation": "ドルワミール鉱山Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.50.10",
+    "original": "ドルワミール鉱山Lv5",
+    "translation": "ドルワミール鉱山Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.51.10",
+    "original": "ドルワミール鉱山Lv6",
+    "translation": "ドルワミール鉱山Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.52.10",
+    "original": "ドルワミール鉱山Lv7",
+    "translation": "ドルワミール鉱山Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.53.10",
+    "original": "ドルワミール鉱山Lv8",
+    "translation": "ドルワミール鉱山Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.54.10",
+    "original": "ドルワミール鉱山Lv9",
+    "translation": "ドルワミール鉱山Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.55.10",
+    "original": "ドルワミール鉱山Lv10",
+    "translation": "ドルワミール鉱山Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.56.10",
+    "original": "ドルワミール鉱山Lv11",
+    "translation": "ドルワミール鉱山Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.57.10",
+    "original": "ドルワミール鉱山Lv12",
+    "translation": "ドルワミール鉱山Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.58.10",
+    "original": "ドルワミール鉱山Lv13",
+    "translation": "ドルワミール鉱山Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.59.10",
+    "original": "ドルワミール鉱山Lv14",
+    "translation": "ドルワミール鉱山Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.60.10",
+    "original": "ドルワミール鉱山Lv15",
+    "translation": "ドルワミール鉱山Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.61.10",
+    "original": "イルニエル大灯台Lv1",
+    "translation": "イルニエル大灯台Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.62.10",
+    "original": "イルニエル大灯台Lv2",
+    "translation": "イルニエル大灯台Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.63.10",
+    "original": "イルニエル大灯台Lv3",
+    "translation": "イルニエル大灯台Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.64.10",
+    "original": "イルニエル大灯台Lv4",
+    "translation": "イルニエル大灯台Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.65.10",
+    "original": "イルニエル大灯台Lv5",
+    "translation": "イルニエル大灯台Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.66.10",
+    "original": "イルニエル大灯台Lv6",
+    "translation": "イルニエル大灯台Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.67.10",
+    "original": "イルニエル大灯台Lv7",
+    "translation": "イルニエル大灯台Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.68.10",
+    "original": "イルニエル大灯台Lv8",
+    "translation": "イルニエル大灯台Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.69.10",
+    "original": "イルニエル大灯台Lv9",
+    "translation": "イルニエル大灯台Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.70.10",
+    "original": "イルニエル大灯台Lv10",
+    "translation": "イルニエル大灯台Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.71.10",
+    "original": "イルニエル大灯台Lv11",
+    "translation": "イルニエル大灯台Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.72.10",
+    "original": "イルニエル大灯台Lv12",
+    "translation": "イルニエル大灯台Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.73.10",
+    "original": "イルニエル大灯台Lv13",
+    "translation": "イルニエル大灯台Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.74.10",
+    "original": "イルニエル大灯台Lv14",
+    "translation": "イルニエル大灯台Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.75.10",
+    "original": "イルニエル大灯台Lv15",
+    "translation": "イルニエル大灯台Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.76.10",
+    "original": "地方領主ゼルカの屋敷Lv1",
+    "translation": "地方領主ゼルカの屋敷Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.77.10",
+    "original": "地方領主ゼルカの屋敷Lv2",
+    "translation": "地方領主ゼルカの屋敷Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.78.10",
+    "original": "地方領主ゼルカの屋敷Lv3",
+    "translation": "地方領主ゼルカの屋敷Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.79.10",
+    "original": "地方領主ゼルカの屋敷Lv4",
+    "translation": "地方領主ゼルカの屋敷Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.80.10",
+    "original": "地方領主ゼルカの屋敷Lv5",
+    "translation": "地方領主ゼルカの屋敷Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.81.10",
+    "original": "地方領主ゼルカの屋敷Lv6",
+    "translation": "地方領主ゼルカの屋敷Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.82.10",
+    "original": "地方領主ゼルカの屋敷Lv7",
+    "translation": "地方領主ゼルカの屋敷Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.83.10",
+    "original": "地方領主ゼルカの屋敷Lv8",
+    "translation": "地方領主ゼルカの屋敷Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.84.10",
+    "original": "地方領主ゼルカの屋敷Lv9",
+    "translation": "地方領主ゼルカの屋敷Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.85.10",
+    "original": "地方領主ゼルカの屋敷Lv10",
+    "translation": "地方領主ゼルカの屋敷Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.86.10",
+    "original": "地方領主ゼルカの屋敷Lv11",
+    "translation": "地方領主ゼルカの屋敷Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.87.10",
+    "original": "地方領主ゼルカの屋敷Lv12",
+    "translation": "地方領主ゼルカの屋敷Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.88.10",
+    "original": "地方領主ゼルカの屋敷Lv13",
+    "translation": "地方領主ゼルカの屋敷Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.89.10",
+    "original": "地方領主ゼルカの屋敷Lv14",
+    "translation": "地方領主ゼルカの屋敷Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.90.10",
+    "original": "地方領主ゼルカの屋敷Lv15",
+    "translation": "地方領主ゼルカの屋敷Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.91.10",
+    "original": "ゼカリウス地下図書館Lv1",
+    "translation": "ゼカリウス地下図書館Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.92.10",
+    "original": "ゼカリウス地下図書館Lv2",
+    "translation": "ゼカリウス地下図書館Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.93.10",
+    "original": "ゼカリウス地下図書館Lv3",
+    "translation": "ゼカリウス地下図書館Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.94.10",
+    "original": "ゼカリウス地下図書館Lv4",
+    "translation": "ゼカリウス地下図書館Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.95.10",
+    "original": "ゼカリウス地下図書館Lv5",
+    "translation": "ゼカリウス地下図書館Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.96.10",
+    "original": "ゼカリウス地下図書館Lv6",
+    "translation": "ゼカリウス地下図書館Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.97.10",
+    "original": "ゼカリウス地下図書館Lv7",
+    "translation": "ゼカリウス地下図書館Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.98.10",
+    "original": "ゼカリウス地下図書館Lv8",
+    "translation": "ゼカリウス地下図書館Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.99.10",
+    "original": "ゼカリウス地下図書館Lv9",
+    "translation": "ゼカリウス地下図書館Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.100.10",
+    "original": "ゼカリウス地下図書館Lv10",
+    "translation": "ゼカリウス地下図書館Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.101.10",
+    "original": "ゼカリウス地下図書館Lv11",
+    "translation": "ゼカリウス地下図書館Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.102.10",
+    "original": "ゼカリウス地下図書館Lv12",
+    "translation": "ゼカリウス地下図書館Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.103.10",
+    "original": "ゼカリウス地下図書館Lv13",
+    "translation": "ゼカリウス地下図書館Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.104.10",
+    "original": "ゼカリウス地下図書館Lv14",
+    "translation": "ゼカリウス地下図書館Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.105.10",
+    "original": "ゼカリウス地下図書館Lv15",
+    "translation": "ゼカリウス地下図書館Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.106.10",
+    "original": "ソルシア魔導船団Lv1",
+    "translation": "ソルシア魔導船団Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.107.10",
+    "original": "ソルシア魔導船団Lv2",
+    "translation": "ソルシア魔導船団Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.108.10",
+    "original": "ソルシア魔導船団Lv3",
+    "translation": "ソルシア魔導船団Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.109.10",
+    "original": "ソルシア魔導船団Lv4",
+    "translation": "ソルシア魔導船団Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.110.10",
+    "original": "ソルシア魔導船団Lv5",
+    "translation": "ソルシア魔導船団Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.111.10",
+    "original": "ソルシア魔導船団Lv6",
+    "translation": "ソルシア魔導船団Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.112.10",
+    "original": "ソルシア魔導船団Lv7",
+    "translation": "ソルシア魔導船団Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.113.10",
+    "original": "ソルシア魔導船団Lv8",
+    "translation": "ソルシア魔導船団Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.114.10",
+    "original": "ソルシア魔導船団Lv9",
+    "translation": "ソルシア魔導船団Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.115.10",
+    "original": "ソルシア魔導船団Lv10",
+    "translation": "ソルシア魔導船団Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.116.10",
+    "original": "ソルシア魔導船団Lv11",
+    "translation": "ソルシア魔導船団Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.117.10",
+    "original": "ソルシア魔導船団Lv12",
+    "translation": "ソルシア魔導船団Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.118.10",
+    "original": "ソルシア魔導船団Lv13",
+    "translation": "ソルシア魔導船団Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.119.10",
+    "original": "ソルシア魔導船団Lv14",
+    "translation": "ソルシア魔導船団Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.120.10",
+    "original": "ソルシア魔導船団Lv15",
+    "translation": "ソルシア魔導船団Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.121.10",
+    "original": "ダムブナック黒神殿Lv1",
+    "translation": "ダムブナック黒神殿Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.122.10",
+    "original": "ダムブナック黒神殿Lv2",
+    "translation": "ダムブナック黒神殿Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.123.10",
+    "original": "ダムブナック黒神殿Lv3",
+    "translation": "ダムブナック黒神殿Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.124.10",
+    "original": "ダムブナック黒神殿Lv4",
+    "translation": "ダムブナック黒神殿Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.125.10",
+    "original": "ダムブナック黒神殿Lv5",
+    "translation": "ダムブナック黒神殿Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.126.10",
+    "original": "ダムブナック黒神殿Lv6",
+    "translation": "ダムブナック黒神殿Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.127.10",
+    "original": "ダムブナック黒神殿Lv7",
+    "translation": "ダムブナック黒神殿Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.128.10",
+    "original": "ダムブナック黒神殿Lv8",
+    "translation": "ダムブナック黒神殿Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.129.10",
+    "original": "ダムブナック黒神殿Lv9",
+    "translation": "ダムブナック黒神殿Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.130.10",
+    "original": "ダムブナック黒神殿Lv10",
+    "translation": "ダムブナック黒神殿Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.131.10",
+    "original": "ダムブナック黒神殿Lv11",
+    "translation": "ダムブナック黒神殿Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.132.10",
+    "original": "ダムブナック黒神殿Lv12",
+    "translation": "ダムブナック黒神殿Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.133.10",
+    "original": "ダムブナック黒神殿Lv13",
+    "translation": "ダムブナック黒神殿Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.134.10",
+    "original": "ダムブナック黒神殿Lv14",
+    "translation": "ダムブナック黒神殿Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.135.10",
+    "original": "ダムブナック黒神殿Lv15",
+    "translation": "ダムブナック黒神殿Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.136.10",
+    "original": "コノスパ天空遺跡Lv1",
+    "translation": "コノスパ天空遺跡Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.137.10",
+    "original": "コノスパ天空遺跡Lv2",
+    "translation": "コノスパ天空遺跡Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.138.10",
+    "original": "コノスパ天空遺跡Lv3",
+    "translation": "コノスパ天空遺跡Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.139.10",
+    "original": "コノスパ天空遺跡Lv4",
+    "translation": "コノスパ天空遺跡Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.140.10",
+    "original": "コノスパ天空遺跡Lv5",
+    "translation": "コノスパ天空遺跡Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.141.10",
+    "original": "コノスパ天空遺跡Lv6",
+    "translation": "コノスパ天空遺跡Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.142.10",
+    "original": "コノスパ天空遺跡Lv7",
+    "translation": "コノスパ天空遺跡Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.143.10",
+    "original": "コノスパ天空遺跡Lv8",
+    "translation": "コノスパ天空遺跡Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.144.10",
+    "original": "コノスパ天空遺跡Lv9",
+    "translation": "コノスパ天空遺跡Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.145.10",
+    "original": "コノスパ天空遺跡Lv10",
+    "translation": "コノスパ天空遺跡Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.146.10",
+    "original": "コノスパ天空遺跡Lv11",
+    "translation": "コノスパ天空遺跡Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.147.10",
+    "original": "コノスパ天空遺跡Lv12",
+    "translation": "コノスパ天空遺跡Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.148.10",
+    "original": "コノスパ天空遺跡Lv13",
+    "translation": "コノスパ天空遺跡Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.149.10",
+    "original": "コノスパ天空遺跡Lv14",
+    "translation": "コノスパ天空遺跡Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.150.10",
+    "original": "コノスパ天空遺跡Lv15",
+    "translation": "コノスパ天空遺跡Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.151.10",
+    "original": "ボルケミア地下火山Lv1",
+    "translation": "ボルケミア地下火山Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.152.10",
+    "original": "ボルケミア地下火山Lv2",
+    "translation": "ボルケミア地下火山Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.153.10",
+    "original": "ボルケミア地下火山Lv3",
+    "translation": "ボルケミア地下火山Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.154.10",
+    "original": "ボルケミア地下火山Lv4",
+    "translation": "ボルケミア地下火山Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.155.10",
+    "original": "ボルケミア地下火山Lv5",
+    "translation": "ボルケミア地下火山Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.156.10",
+    "original": "ボルケミア地下火山Lv6",
+    "translation": "ボルケミア地下火山Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.157.10",
+    "original": "ボルケミア地下火山Lv7",
+    "translation": "ボルケミア地下火山Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.158.10",
+    "original": "ボルケミア地下火山Lv8",
+    "translation": "ボルケミア地下火山Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.159.10",
+    "original": "ボルケミア地下火山Lv9",
+    "translation": "ボルケミア地下火山Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.160.10",
+    "original": "ボルケミア地下火山Lv10",
+    "translation": "ボルケミア地下火山Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.161.10",
+    "original": "ボルケミア地下火山Lv11",
+    "translation": "ボルケミア地下火山Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.162.10",
+    "original": "ボルケミア地下火山Lv12",
+    "translation": "ボルケミア地下火山Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.163.10",
+    "original": "ボルケミア地下火山Lv13",
+    "translation": "ボルケミア地下火山Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.164.10",
+    "original": "ボルケミア地下火山Lv14",
+    "translation": "ボルケミア地下火山Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.165.10",
+    "original": "ボルケミア地下火山Lv15",
+    "translation": "ボルケミア地下火山Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.166.10",
+    "original": "災厄制御機関カストロイアLv1",
+    "translation": "災厄制御機関カストロイアLv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.167.10",
+    "original": "災厄制御機関カストロイアLv2",
+    "translation": "災厄制御機関カストロイアLv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.168.10",
+    "original": "災厄制御機関カストロイアLv3",
+    "translation": "災厄制御機関カストロイアLv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.169.10",
+    "original": "災厄制御機関カストロイアLv4",
+    "translation": "災厄制御機関カストロイアLv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.170.10",
+    "original": "災厄制御機関カストロイアLv5",
+    "translation": "災厄制御機関カストロイアLv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.171.10",
+    "original": "災厄制御機関カストロイアLv6",
+    "translation": "災厄制御機関カストロイアLv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.172.10",
+    "original": "災厄制御機関カストロイアLv7",
+    "translation": "災厄制御機関カストロイアLv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.173.10",
+    "original": "災厄制御機関カストロイアLv8",
+    "translation": "災厄制御機関カストロイアLv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.174.10",
+    "original": "災厄制御機関カストロイアLv9",
+    "translation": "災厄制御機関カストロイアLv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.175.10",
+    "original": "災厄制御機関カストロイアLv10",
+    "translation": "災厄制御機関カストロイアLv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.176.10",
+    "original": "災厄制御機関カストロイアLv11",
+    "translation": "災厄制御機関カストロイアLv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.177.10",
+    "original": "災厄制御機関カストロイアLv12",
+    "translation": "災厄制御機関カストロイアLv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.178.10",
+    "original": "災厄制御機関カストロイアLv13",
+    "translation": "災厄制御機関カストロイアLv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.179.10",
+    "original": "災厄制御機関カストロイアLv14",
+    "translation": "災厄制御機関カストロイアLv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.180.10",
+    "original": "災厄制御機関カストロイアLv15",
+    "translation": "災厄制御機関カストロイアLv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.181.10",
+    "original": "黄金の都ゴルドヴァーナLv1",
+    "translation": "黄金の都ゴルドヴァーナLv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.182.10",
+    "original": "黄金の都ゴルドヴァーナLv2",
+    "translation": "黄金の都ゴルドヴァーナLv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.183.10",
+    "original": "黄金の都ゴルドヴァーナLv3",
+    "translation": "黄金の都ゴルドヴァーナLv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.184.10",
+    "original": "黄金の都ゴルドヴァーナLv4",
+    "translation": "黄金の都ゴルドヴァーナLv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.185.10",
+    "original": "黄金の都ゴルドヴァーナLv5",
+    "translation": "黄金の都ゴルドヴァーナLv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.186.10",
+    "original": "黄金の都ゴルドヴァーナLv6",
+    "translation": "黄金の都ゴルドヴァーナLv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.187.10",
+    "original": "黄金の都ゴルドヴァーナLv7",
+    "translation": "黄金の都ゴルドヴァーナLv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.188.10",
+    "original": "黄金の都ゴルドヴァーナLv8",
+    "translation": "黄金の都ゴルドヴァーナLv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.189.10",
+    "original": "黄金の都ゴルドヴァーナLv9",
+    "translation": "黄金の都ゴルドヴァーナLv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.190.10",
+    "original": "黄金の都ゴルドヴァーナLv10",
+    "translation": "黄金の都ゴルドヴァーナLv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.191.10",
+    "original": "黄金の都ゴルドヴァーナLv11",
+    "translation": "黄金の都ゴルドヴァーナLv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.192.10",
+    "original": "黄金の都ゴルドヴァーナLv12",
+    "translation": "黄金の都ゴルドヴァーナLv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.193.10",
+    "original": "黄金の都ゴルドヴァーナLv13",
+    "translation": "黄金の都ゴルドヴァーナLv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.194.10",
+    "original": "黄金の都ゴルドヴァーナLv14",
+    "translation": "黄金の都ゴルドヴァーナLv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.195.10",
+    "original": "黄金の都ゴルドヴァーナLv15",
+    "translation": "黄金の都ゴルドヴァーナLv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.196.10",
+    "original": "フリュジットの氷獄迷宮Lv1",
+    "translation": "フリュジットの氷獄迷宮Lv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.197.10",
+    "original": "フリュジットの氷獄迷宮Lv2",
+    "translation": "フリュジットの氷獄迷宮Lv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.198.10",
+    "original": "フリュジットの氷獄迷宮Lv3",
+    "translation": "フリュジットの氷獄迷宮Lv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.199.10",
+    "original": "フリュジットの氷獄迷宮Lv4",
+    "translation": "フリュジットの氷獄迷宮Lv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.200.10",
+    "original": "フリュジットの氷獄迷宮Lv5",
+    "translation": "フリュジットの氷獄迷宮Lv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.201.10",
+    "original": "フリュジットの氷獄迷宮Lv6",
+    "translation": "フリュジットの氷獄迷宮Lv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.202.10",
+    "original": "フリュジットの氷獄迷宮Lv7",
+    "translation": "フリュジットの氷獄迷宮Lv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.203.10",
+    "original": "フリュジットの氷獄迷宮Lv8",
+    "translation": "フリュジットの氷獄迷宮Lv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.204.10",
+    "original": "フリュジットの氷獄迷宮Lv9",
+    "translation": "フリュジットの氷獄迷宮Lv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.205.10",
+    "original": "フリュジットの氷獄迷宮Lv10",
+    "translation": "フリュジットの氷獄迷宮Lv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.206.10",
+    "original": "フリュジットの氷獄迷宮Lv11",
+    "translation": "フリュジットの氷獄迷宮Lv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.207.10",
+    "original": "フリュジットの氷獄迷宮Lv12",
+    "translation": "フリュジットの氷獄迷宮Lv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.208.10",
+    "original": "フリュジットの氷獄迷宮Lv13",
+    "translation": "フリュジットの氷獄迷宮Lv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.209.10",
+    "original": "フリュジットの氷獄迷宮Lv14",
+    "translation": "フリュジットの氷獄迷宮Lv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.210.10",
+    "original": "フリュジットの氷獄迷宮Lv15",
+    "translation": "フリュジットの氷獄迷宮Lv15",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.211.10",
+    "original": "海底都市ディープゼカルLv1",
+    "translation": "海底都市ディープゼカルLv1",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.212.10",
+    "original": "海底都市ディープゼカルLv2",
+    "translation": "海底都市ディープゼカルLv2",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.213.10",
+    "original": "海底都市ディープゼカルLv3",
+    "translation": "海底都市ディープゼカルLv3",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.214.10",
+    "original": "海底都市ディープゼカルLv4",
+    "translation": "海底都市ディープゼカルLv4",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.215.10",
+    "original": "海底都市ディープゼカルLv5",
+    "translation": "海底都市ディープゼカルLv5",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.216.10",
+    "original": "海底都市ディープゼカルLv6",
+    "translation": "海底都市ディープゼカルLv6",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.217.10",
+    "original": "海底都市ディープゼカルLv7",
+    "translation": "海底都市ディープゼカルLv7",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.218.10",
+    "original": "海底都市ディープゼカルLv8",
+    "translation": "海底都市ディープゼカルLv8",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.219.10",
+    "original": "海底都市ディープゼカルLv9",
+    "translation": "海底都市ディープゼカルLv9",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.220.10",
+    "original": "海底都市ディープゼカルLv10",
+    "translation": "海底都市ディープゼカルLv10",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.221.10",
+    "original": "海底都市ディープゼカルLv11",
+    "translation": "海底都市ディープゼカルLv11",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.222.10",
+    "original": "海底都市ディープゼカルLv12",
+    "translation": "海底都市ディープゼカルLv12",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.223.10",
+    "original": "海底都市ディープゼカルLv13",
+    "translation": "海底都市ディープゼカルLv13",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.224.10",
+    "original": "海底都市ディープゼカルLv14",
+    "translation": "海底都市ディープゼカルLv14",
+    "context": null
+  },
+  {
+    "key": "db_ClubToushiDungeonInfo_11.txt.225.10",
+    "original": "海底都市ディープゼカルLv15",
+    "translation": "海底都市ディープゼカルLv15",
+    "context": null
+  }
+]
